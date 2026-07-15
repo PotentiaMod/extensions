@@ -4,6 +4,27 @@
     "description": "Wonderful utility blocks!",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaBlocks.js",
     "thumb": "https://github.com/GaiaMod-Main/GaiaMod-ExtensionsGallery/blob/main/static/images/GaiaWindWave90/GaiaUtilities.png?raw=true",
-    "recommended": true
+    "featured": true
+  },
+    {
+    "name": "GaiaGPT",
+    "description": "A GaiaMod modification of Pang AI with more prompts.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaGPT.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/GaiaGPT.png",
+    "featured": true
+  },
+      {
+    "name": "Prompts",
+    "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GTPPrompts.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/prompts.png",
+    "featured": true
+  },
+      {
+    "name": "Spinach Facts",
+    "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/SpinachFacts.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/spinach.png",
+    "featured": true
   }
 ]

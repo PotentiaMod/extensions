@@ -1,3 +1,224 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html><head><title></title></head>
-<body>Hi LOL</body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap 5 Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://ruby-devs.vercel.app/gallery/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+  body {
+  font-family: Leelawadee;
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+}
+
+    /* Add this CSS for the search container */
+    .search-container {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    #extensionSearch {
+      padding: 10px;
+      width: 70%;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    .search-container button {
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .search-container button:hover {
+      background: #45a049;
+    }
+	
+	
+.bg-potentia {
+  background-color: #4800CC;
+  border: 2px solid #0D007D;
+}
+	
+ .download-ext {
+  background-color: #9C67FF;
+  border: 2px solid #4D1EA6;
+  border-radius: 25px; 
+}
+
+ .copy-ext {
+  background-color: #FF67B8;
+  border: 2px solid #A61E68;
+  border-radius: 25px; 
+}
+
+.extension.special-extension {
+  box-shadow: 0px 0px 25px #FF4CA6, inset 0px 0px 35px #FF57B0;
+}
+
+.extension.featured-extension {
+  box-shadow: 0px 0px 5px #AA00FF, inset 0px 0px 5px #C34CFF;
+}
+  </style>
+</head>
+<body>
+
+  <div class="navbar bg-potentia text-white">
+    <div class="container-fluid justify-content-center text-white">
+   <h1>PotentiaMod Extension Bonanza
+</h1>
+    </div>
+  </div>
+ <center>
+    <p>Welcome to the PotentiaMod
+Extension Bonanza!<br><br>Here, you can find extensions
+that are either sandboxed or unsandboxed. All extensions here are
+reviewed for safety.<br><br>All the extensions here are
+from TurboWarp, PenguinMod, MistWarp, and GaiaMod.
+</p>
+  </center>
+ <!-- Add this search container above the extension container -->
+  <div class="search-container">
+    <input type="text" id="extensionSearch" placeholder="Search...">
+    <button onclick="searchExtensions()">Search</button>
+  </div>
+  <div class="container" id="extensionContainer">
+    <!-- Extensions will be dynamically added here -->
+  </div>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Uhhh ignore this
+      if (location.search == '?popcorn=true') { document.body.style.fontFamily = "Comic Sans MS, sans-serif, Arial"; };
+      
+      // Fetch JSON data from the website
+      fetch('https://potentiamod.github.io/extensions/data/extensions.json')
+        .then(response => response.json())
+        .then(data => {
+          // Create extensions based on JSON data
+          createExtensions(data);
+        })
+        .catch(error => console.error('Error fetching data:', error));
+    });
+
+    function createExtensions(data) {
+  const container = document.getElementById('extensionContainer');
+
+  // Sort data based on recommended status (true first)
+  data.sort((a, b) => (b.recommended === true) - (a.recommended === true));
+
+  // Loop through the sorted JSON data and create extensions
+  data.forEach((extensionData, index) => {
+    const extension = document.createElement('div');
+    extension.className = 'extension';
+
+    // Set inline style for animation delay based on index
+    extension.style.animation = `fadeIn 0.5s forwards ${index * 0.2}s`;
+
+    const img = document.createElement('img');
+    img.src = extensionData.thumb;
+    img.alt = extensionData.name;
+
+    const content = document.createElement('div');
+    content.className = 'content';
+
+    const strong = document.createElement('strong');
+    strong.textContent = extensionData.name;
+
+    const p = document.createElement('p');
+    p.textContent = extensionData.description;
+
+    const downloadBtn = document.createElement('button');
+    downloadBtn.className = 'download-ext';
+    downloadBtn.textContent = 'Download';
+    downloadBtn.setAttribute('download-url', extensionData.url);
+    downloadBtn.addEventListener('click', function () {
+      downloadJS(extensionData.url, extensionData.name);
+    });
+	
+	const copyBtn = document.createElement('button');
+    copyBtn.className = 'download-ext';
+    copyBtn.textContent = 'Copy';
+    copyBtn.setAttribute('copy-url', extensionData.url);
+    copyBtn.addEventListener('click', function () {
+	navigator.clipboard.writeText(extensionData.url);
+    alert("Extension link copied to clipboard!");
+    });
+
+    // Append elements to the extension
+    content.appendChild(copyBtn);
+    content.appendChild(downloadBtn);
+    if (extensionData.legendary && extensionData.legendary === true) {
+      extension.classList.add('legendary-extension');
+    } else if (extensionData.recommended && extensionData.recommended === true) {
+      extension.classList.add('recommended-extension');
+    } else if (extensionData.featured && extensionData.featured === true) {
+      extension.classList.add('featured-extension');
+    } else if (extensionData.special && extensionData.special === true) {
+      extension.classList.add('special-extension');
+    }
+    
+    content.appendChild(strong);
+    content.appendChild(p);
+
+    if (extensionData.docs && extensionData.docs === true) {
+      const a = document.createElement('a');
+      a.textContent = "Extension Documentation";
+      a.href = "/docs?ext=" + encodeURIComponent(extensionData.name);
+      a.target = "_blank";
+      content.appendChild(a);
+    }
+
+    extension.appendChild(img);
+    extension.appendChild(content);
+
+    // Append the extension to the container
+    container.appendChild(extension);
+  });
+}
+
+    function downloadJS(url, filename) {
+      fetch(url)
+        .then(response => response.text())
+        .then(jsCode => {
+          const blob = new Blob([jsCode], { type: 'application/javascript' });
+          const link = document.createElement('a');
+          link.href = URL.createObjectURL(blob);
+          link.download = `${filename}.js`;
+          link.click();
+        })
+        .catch(error => console.error('Error fetching JS code:', error));
+    }
+
+    // Update the search as the user types
+    document.getElementById('extensionSearch').addEventListener('input', searchExtensions);
+
+    // Add this function for searching extensions
+    function searchExtensions() {
+      const input = document.getElementById('extensionSearch').value.toLowerCase();
+      const extensions = document.getElementsByClassName('extension');
+
+      for (const extension of extensions) {
+        const extensionName = extension.querySelector('strong').textContent.toLowerCase();
+        const extensionDescription = extension.querySelector('p').textContent.toLowerCase();
+
+        if (extensionName.includes(input) || extensionDescription.includes(input)) {
+          extension.style.display = 'block';
+        } else {
+          extension.style.display = 'none';
+        }
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
