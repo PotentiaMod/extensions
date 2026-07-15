@@ -4,6 +4,7 @@
     "description": "Wonderful utility blocks!",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaBlocks.js",
     "thumb": "https://github.com/GaiaMod-Main/GaiaMod-ExtensionsGallery/blob/main/static/images/GaiaWindWave90/GaiaUtilities.png?raw=true",
+    "credits": "GaiaWindWave90 and other users",
     "featured": true
   },
     {
@@ -11,6 +12,7 @@
     "description": "A GaiaMod modification of Pang AI with more prompts.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaGPT.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/GaiaGPT.png",
+    "credits": "logise1123",
     "featured": true
   },
       {
@@ -18,6 +20,7 @@
     "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GTPPrompts.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/prompts.png",
+    "credits": "GaiaWindWave90",
     "featured": true
   },
       {
@@ -25,6 +28,7 @@
     "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/SpinachFacts.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/spinach.png",
+    "credits": "GaiaWindWave90",
     "featured": true
   },
        {
@@ -32,6 +36,7 @@
     "description": "Edited version of the Fire in the Hole extension.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/PenguinAttack.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/PenguinAttack.png",
+    "credits": "GaiaWindWave90",
     "featured": true
   },
        {
@@ -39,6 +44,7 @@
     "description": "Records videos straight out of webcam.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/Webcamrecorder.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/WebCamThumb.png",
+    "credits": "-SIPC-",
     "featured": true
   },
        {
@@ -46,6 +52,7 @@
     "description": "Fetches API from Cocrea World or Gandi IDE.",
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/cocreaFetch.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/cocreaFetch.png",
+    "credits": "Fath11",
     "featured": true
   }
 ]
