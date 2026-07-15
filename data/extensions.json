@@ -26,5 +26,26 @@
     "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/SpinachFacts.js",
     "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/spinach.png",
     "featured": true
+  },
+       {
+    "name": "Penguin Attack!",
+    "description": "Edited version of the Fire in the Hole extension.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/PenguinAttack.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/PenguinAttack.png",
+    "featured": true
+  },
+       {
+    "name": "Webcam Recorder",
+    "description": "Records videos straight out of webcam.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/Webcamrecorder.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/WebCamThumb.png",
+    "featured": true
+  },
+       {
+    "name": "Cocrea Fetch",
+    "description": "Fetches API from Cocrea World or Gandi IDE.",
+    "url": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/cocreaFetch.js",
+    "thumb": "https://gaiamod-main.github.io/images/GaiaWindWave90/cocreaFetch.png",
+    "featured": true
   }
 ]
