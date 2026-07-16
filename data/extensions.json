@@ -137,9 +137,9 @@
   },
   {
     "name": "Object",
-    "description": "https://extensions.penguinmod.com/images/skyhigh173/object.svg",
+    "description": "Handle large JSON files at an extreme speed.",
     "url": "https://extensions.penguinmod.com/extensions/skyhigh173/object.js",
-    "thumb": "Handle large JSON files at an extreme speed.",
+    "thumb": "https://extensions.penguinmod.com/images/skyhigh173/object.svg",
     "credits": "skyhigh173",
     "featured": true
   },
