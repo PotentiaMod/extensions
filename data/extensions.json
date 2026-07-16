@@ -517,8 +517,7 @@
     "url": "https://extensions.penguinmod.com/extensions/Gen1x/CATS.js",
     "thumb": "https://extensions.penguinmod.com/images/Gen1x/cats.avif",
     "credits": "G1nX",
-    "featured": true,
-    "joke": true
+    "featured": true
   },
     {
     "name": "Free Servers",
@@ -598,8 +597,7 @@
     "url": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/firealarm.js",
     "thumb": "https://extensions.penguinmod.com/images/electricfuzzball_pm/firealarm.svg",
     "credits": "ElectricFuzzball_PM",
-    "featured": true,
-    "joke": true
+    "featured": true
   },
       {
     "name": "Stage Brah",
@@ -607,8 +605,7 @@
     "url": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/StageBrah.js",
     "thumb": "https://extensions.penguinmod.com/images/electricfuzzball_pm/StageBrah.svg",
     "credits": "ElectricFuzzball_PM",
-    "featured": true,
-    "joke": true
+    "featured": true
   },
         {
     "name": "MIDI Controller",
