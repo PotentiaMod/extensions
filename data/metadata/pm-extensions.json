@@ -12,6 +12,19 @@
           "link": null
         }
       ]
+    },
+    {
+      "slug": "Ikelene/serverStorageExtension",
+      "id": "serverStorageExtension",
+      "name": "Server Storage",
+      "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
+      "image": "Ikelene/serverStorageIMG.avif",
+      "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
     }
   ]
 }
