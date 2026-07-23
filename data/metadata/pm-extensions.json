@@ -25,6 +25,19 @@
           "link": null
         }
       ]
+    },
+    {
+      "slug": "Gen1x/storage_plus",
+      "id": "storage_plus",
+      "name": "Storage Plus",
+      "description": "A storage extension with many more features. Featuring server storage (with a fast server), local storage and more!",
+      "image": "Gen1x/storage_plus.avif",
+      "by": [
+        {
+          "name": "Gen1x",
+          "link": null
+        }
+      ]
     }
   ]
 }
