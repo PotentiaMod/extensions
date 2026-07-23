@@ -103,6 +103,58 @@
           "link": null
         }
       ]
+    },
+    {
+        "slug": "Gen1x/beat_sync",
+        "id": "beat_sync",
+        "name": "Beat Sync",
+        "description": "An extension designed to let you sync anything in your project to a musical beat, with incredible precision.",
+        "image": "Gen1x/beat_sync.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "skyhigh173/object",
+        "id": "object",
+        "name": "Object",
+        "description": "Handle large JSON files at an extreme speed.",
+        "image": "skyhigh173/object.svg",
+		"by": [
+        {
+          "name": "skyhigh173",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "0znzw/ScopeVars",
+        "id": "ScopeVars",
+        "name": "Scope Variable",
+        "description": "Manage your variables in a block-like structure.",
+        "image": "0znzw/ScopeVars.avif",
+		"by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "steve0greatness/timers",
+        "id": "timers",
+        "name": "Extra Timers",
+        "description": "Allows for the creation and management of additional timer blocks.",
+        "image": "steve0greatness/timers.svg",
+		"by": [
+        {
+          "name": "Steve0Greatness",
+          "link": null
+        }
+      ]
     }
   ]
 }
