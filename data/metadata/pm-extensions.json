@@ -493,6 +493,97 @@
           "link": null
         }
       ]
+    },
+{
+        "slug": "RubyDevs/turboweather",
+        "id": "turboweather",
+        "name": "TurboWeather",
+        "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
+        "image": "RubyDevs/turboweather.avif",
+		"by": [
+        {
+          "name": "RubyDevs",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "bruhbeast-pixel/CockatielLocation",
+        "id": "CockatielLocation",
+        "name": "Cockatiel Location",
+        "description": "Fetch Users' IP Addresses and Location.",
+        "image": "bruhbeast-pixel/CockatielLocation.svg",
+		"by": [
+        {
+          "name": "bruhbeast-pixel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "NamelessCat/corsproxy",
+        "id": "corsproxy",
+        "name": "CORS Proxy",
+        "description": "Accessible CORS Proxies for fetching information with PenguinMod.",
+        "image": "NamelessCat/corsproxy.avif",
+		"by": [
+        {
+          "name": "NamelessCat",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "TheShovel/extexp",
+        "id": "extexp",
+        "name": "Extension Exposer",
+        "description": "Access the raw functions from other extensions.",
+        "image": "TheShovel/placeholder-extexp.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Lily/AllMenus",
+        "id": "AllMenus",
+        "name": "All Menus",
+        "description": "Every dropdown menu for each block, in one extension.",
+        "image": "Lily/AllMenus.svg",
+		"by": [
+        {
+          "name": "LilyMakesThings",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Ashime/MoreFields",
+        "id": "MoreFields",
+        "name": "More Fields",
+        "description": "Custom Field Types",
+        "image": "0znzw/MoreFields.avif",
+        "by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "DogeisCut/BeepBoxPlayer",
+        "id": "DogeisCut/BeepBoxPlayer",
+        "name": "Beepbox Player",
+        "description": "Play, edit, and read songs from any BeepBox mod directly from the URL or JSON!",
+        "image": "DogeisCut/BeepBoxPlayer.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
     }
   ]
 }
