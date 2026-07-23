@@ -55,9 +55,7 @@
         {
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90/"
-        }
-      ],
-      "original": [
+        },
         {
           "name": "JeremyGamer13",
           "link": null
@@ -70,16 +68,16 @@
       "name": "GaiaGPT",
       "description": "A GaiaMod modification of Pang AI with more prompts.",
       "image": "GaiaWindWave90/GaiaGPT.png",
-      "by": [
+	  "by": [
         {
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90/"
         },
-       {
+        {
           "name": "logise1123",
           "link": "https://github.com/logise1123/"
         }
-      ],
+      ]
     },
     {
       "slug": "GaiaWindWave90/SpinachFacts",
