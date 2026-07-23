@@ -727,6 +727,226 @@
           "link": null
         }
       ]
+    },
+   {
+        "name": "Free Servers",
+        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
+        "slug": "WAYLIVES/FreeServers",
+        "id": "FreeServers",
+        "image": "WAYLIVES/FreeServersIMG.svg",
+		"by": [
+        {
+          "name": "WAYLIVES",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "More Types",
+        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
+        "slug": "VeryGoodScratcher42/More-Types",
+        "id": "More-Types",
+        "image": "VeryGoodScratcher42/More-Types.avif",
+		"by": [
+        {
+          "name": "VeryGoodScratcher42",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "oneko",
+        "description": "Cute cat that follows you on the block area.",
+        "slug": "TheShovel/oneko",
+        "id": "oneko",
+        "image": "TheShovel/thumbnail-oneko.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Counter++",
+        "description": "Count anything, at any time, in PenguinMod!",
+        "slug": "MrRedstonia/counterplusplus",
+        "id": "counterplusplus",
+        "image": "MrRedstonia/counterplusplus.avif",
+		"by": [
+        {
+          "name": "MrRedstonia",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "How many lines?",
+        "description": "Blocks to determine the amount of new lines in a piece of text.",
+        "slug": "Monochromasity/howmanylines",
+        "id": "howmanylines",
+        "image": "Monochromasity/placeholder-howmanylines.avif",
+        "by": [
+        {
+          "name": "Monochromasity",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Paint Utils",
+        "description": "A colour extension that lets you mix colours.",
+        "slug": "Fruits555000/PaintUtils",
+        "id": "PaintUtils",
+        "image": "Fruits555000/PaintUtils.svg",
+		"by": [
+        {
+          "name": "Fruits555000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Resolution",
+        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
+        "slug": "DogeisCut/Resolution",
+        "id": "Resolution",
+        "image": "DogeisCut/Resolution.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Device Motion",
+        "description": "Use Device Motion API to get rotation or movement of the device. Works best on mobile devices. Thumbnail by Dillon.",
+        "slug": "gaimerI17/DeviceMotion",
+        "image": "gaimerI17/DeviceMotion.avif",
+		"by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Cryptography",
+        "description": "Hash, encrypt and verify values using various algorithms. Actual security not guaranteed",
+        "slug": "gaimerI17/crypto",
+        "id": "crypto",
+        "image": "gaimerI17/crypto.avif",
+        "by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Online Captcha",
+        "description": "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
+        "slug": "NotHouse/OnlineCaptcha",
+        "id": "OnlineCaptcha",
+        "image": "NotHouse/OnlineCaptcha-banner.avif",
+        "by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Better Storage",
+        "description": "Like PenguinMod's Storage Extension, but with a couple more features, and faster servers.",
+        "slug": "Gen1x/better_storage",
+        "id": "better_storage",
+        "image": "Gen1x/betterstorage.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Mouth Washer",
+        "description": "Includes many utilities related to cleaning bad words, swearing and profanity. Thought of as an extra layer of security for filtering messages.\n\n(ft. violet and jwklong)",
+        "slug": "Gen1x/mouth_washer",
+        "id": "mouth_washer",
+        "image": "Gen1x/mw-placeholder.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+        {
+        "name": "Smoke Detector",
+        "description": "Plays a beep every 30 seconds.",
+        "slug": "electricfuzzball_pm/firealarm",
+        "id": "firealarm",
+        "image": "electricfuzzball_pm/firealarm.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "name": "Stage Brah",
+        "description": "Spawn Brah cats in your codespace!",
+        "slug": "electricfuzzball_pm/StageBrah",
+        "id": "StageBrah",
+        "image": "electricfuzzball_pm/StageBrah.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "name": "MIDI Controller",
+        "description": "Use a MIDI keyboard to interact with projects!",
+        "slug": "electricfuzzball_pm/MIDI",
+        "id": "MIDI",
+        "image": "electricfuzzball_pm/MIDI.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+      {
+        "name": "Array Buffers",
+        "description": "Read, parse, and write raw data efficiently using Array Buffers",
+        "slug": "AndrewGaming587/agBuffer",
+        "id": "agBuffer",
+        "image": "AndrewGaming587/agBuffer.svg",
+		"by": [
+        {
+          "name": "AndrewGaming587",
+          "link": null
+        }
+      ]
+    },
+        {
+        "name": "Black Mold",
+        "description": "mmmmm black mold",
+        "slug": "electricfuzzball_pm/blackMold",
+        "id": "blackMold",
+        "image": "electricfuzzball_pm/blackMold.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
     }
   ]
 }

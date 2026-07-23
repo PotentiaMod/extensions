@@ -11,7 +11,7 @@
       "descriptionTranslations": {
         "zh-cn": "把一堆东西塞到了一起！"
       },
-      "image": "images/cyberexplorertools.png",
+      "image": "cyberexplorertools.png",
       "by": [
         {
           "name": "Cyberexplorer",
@@ -30,7 +30,7 @@
       "descriptionTranslations": {
         "zh-cn": "使你更加方便的管理屏蔽词，适用于聊天功能"
       },
-      "image": "images/prohibitedWordsExtension.png",
+      "image": "prohibitedWordsExtension.png",
       "by": [
         {
           "name": "小金鱼",
@@ -49,7 +49,7 @@
       "descriptionTranslations": {
         "zh-cn": "打开文件和文件夹，并以指定格式返回内容。"
       },
-      "image": "images/cyberexplorerfilereader.png",
+      "image": "cyberexplorerfilereader.png",
       "by": [
         {
           "name": "Cyberexplorer",
@@ -68,7 +68,7 @@
       "descriptionTranslations": {
         "zh-cn": "比终端插件更好！"
       },
-      "image": "images/cyberexplorerterminal.png",
+      "image": "cyberexplorerterminal.png",
       "by": [
         {
           "name": "Cyberexplorer",
@@ -87,7 +87,7 @@
       "descriptionTranslations": {
         "zh-cn": "提供一些哈希函数，包括SHA-1、SHA-256、CRC32和HMAC-SHA256，用于数据完整性的验证"
       },
-      "image": "images/hashhelper.png",
+      "image": "hashhelper.png",
       "by": [
         {
           "name": "fhy-action",
@@ -106,7 +106,7 @@
       "descriptionTranslations": {
         "zh-cn": "弹窗！更好用的弹窗！"
       },
-      "image": "images/WinUI3.png",
+      "image": "WinUI3.png",
       "by": [
         {
           "name": "E.R.T.J",
@@ -125,7 +125,7 @@
       "descriptionTranslations": {
         "zh-cn": "提供丰富的文本处理积木，用于更复杂的文本处理场景：大小写转换、查找替换、正则匹配、分割合并、统计分析、文本清洗等。"
       },
-      "image": "images/textprocessing.png",
+      "image": "textprocessing.png",
       "by": [
         {
           "name": "fhy-action",
@@ -144,7 +144,7 @@
       "descriptionTranslations": {
         "zh-cn": "一个简单的图像处理工具"
       },
-      "image": "images/ImageProcessor.png",
+      "image": "ImageProcessor.png",
       "by": [
         {
           "name": "CramYing",
@@ -165,7 +165,7 @@
         "zh-cn": "这是个文字判断的扩展，提供了判断输入是否为有效字符/数字以及是否包含指定特殊字符的积木。",
         "zh-tw": "這是個文字判斷的擴充功能，提供了判斷輸入是否為有效字元/數字以及是否包含指定特殊字元的積木。"
       },
-      "image": "images/textcheck.png",
+      "image": "textcheck.png",
       "by": [
         {
           "name": "GALAXY__a",
@@ -184,7 +184,7 @@
       "descriptionTranslations": {
         "zh-cn": "让你的Scratch OS作品拥有仿Windows10&11的窗口弹出动画。"
       },
-      "image": "images/EsayWindows10Windows11Animations.png",
+      "image": "EsayWindows10Windows11Animations.png",
       "by": [
         {
           "name": "蓝莓是颗果",
@@ -203,7 +203,7 @@
       "descriptionTranslations": {
         "zh-cn": "一些奇奇怪怪的东西"
       },
-      "image": "images/SheepToolkit.png",
+      "image": "SheepToolkit.png",
       "by": [
         {
           "name": "小小羊",
@@ -224,7 +224,7 @@
         "zh-cn": "让你简化一些重复的积木拼搭",
         "zh-tw": "讓您簡化一些重複性建構塊"
       },
-      "image": "images/ningqiRepetitiveblock.png",
+      "image": "ningqiRepetitiveblock.png",
       "by": [
         {
           "name": "ningqi",
@@ -245,7 +245,7 @@
         "zh-cn": "允许您创建扩展内的新变量,列表",
         "zh-tw": "允許您在擴展中創建新變量,列表"
       },
-      "image": "images/ningqiVariableTool.png",
+      "image": "ningqiVariableTool.png",
       "by": [
         {
           "name": "ningqi",
@@ -266,7 +266,7 @@
         "zh-cn": "检测一些可能非作品内的东西",
         "zh-tw": "檢測一些可能非作品內的東西"
       },
-      "image": "images/ningqiSensings.png",
+      "image": "ningqiSensings.png",
       "by": [
         {
           "name": "ningqi",
@@ -286,7 +286,7 @@
         "zh-cn": "收集了一堆有用好玩的东西！",
         "zh-tw": "收集了一大堆好用又有趣的東西！"
       },
-      "image": "images/ningqiCollect.png",
+      "image": "ningqiCollect.png",
       "by": [
         {
           "name": "ningqi",
@@ -307,7 +307,7 @@
         "zh-cn": "从AstraEditor或ningqiCollect仓库获取扩展列表，并允许从URL加载扩展",
         "zh-tw": "從AstraEditor或ningqiCollect倉庫獲取擴展列表，並允許從URL加載擴展"
       },
-      "image": "images/ningqiMultiSourceExtensions.png",
+      "image": "ningqiMultiSourceExtensions.png",
       "by": [
         {
           "name": "ningqi",
@@ -327,7 +327,7 @@
         "ja": "アイコン、音声、表示時間を設定できるWindows Toast通知を送信",
         "zh-cn": "发送Windows Toast通知，支持图标、音效和显示时长设置"
       },
-      "image": "images/windowstoast.png",
+      "image": "windowstoast.png",
       "by": [
         {
           "name": "DVD",
@@ -348,7 +348,7 @@
         "ja": "プロジェクトを実行しているブラウザの種類を検出し、複数のブラウザ識別をサポートします",
         "zh-cn": "检测运行项目的浏览器类型，支持多种浏览器识别"
       },
-      "image": "images/browserDetector.png",
+      "image": "browserDetector.png",
       "by": [
         {
           "name": "DVD",
@@ -367,7 +367,7 @@
       "descriptionTranslations": {
         "zh-cn": "更好的Iframe框架，包含更多功能！"
       },
-      "image": "images/betterIframe.png",
+      "image": "betterIframe.png",
       "by": [
         {
           "name": "fhy-action",
@@ -386,7 +386,7 @@
       "descriptionTranslations": {
         "zh-cn": "仅需URL就可以快速分析出图片的颜色数据~而且比v1更好!"
       },
-      "image": "images/NTcolor.png",
+      "image": "NTcolor.png",
       "by": [
         {
           "name": "NTUN",
@@ -417,7 +417,7 @@
         "zh-cn": "提供多种逻辑门（与、或、非、异或、同或、与非、或非、蕴含）、按位运算（与、或、异或、非、移位）以及布尔值与数字互转、条件选择等积木。",
         "zh-tw": "提供多種邏輯閘（且、或、非、互斥或、反互斥或、反及、反或、蘊含）、位元運算（且、或、互斥或、非、移位）以及布林值與數字互轉、條件選擇等積木。"
       },
-      "image": "images/lmslogic.png",
+      "image": "lmslogic.png",
       "by": [
         {
           "name": "fhy-action",
@@ -430,7 +430,7 @@
       "id": "shangcloud",
       "name": "ShangCloud",
       "description": "ShangCloud SDK for Scratch",
-      "image": "images/shangcloud.png",
+      "image": "shangcloud.png",
       "by": [
         {
           "name": "Yearnstudio",
@@ -449,7 +449,7 @@
       "descriptionTranslations": {
         "zh-cn": "快速、便捷地调用网易云，并做一些分析"
       },
-      "image": "images/NTeaseMusic.png",
+      "image": "NTeaseMusic.png",
       "by": [
         {
           "name": "NTawa",

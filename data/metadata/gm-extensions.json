@@ -11,19 +11,13 @@
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90/"
         }
-      ],
-      "original": [
-        {
-          "name": "Blocks from others users",
-          "link": null
-        }
       ]
     },
     {
       "slug": "GaiaWindWave90/cocreaFetch",
       "id": "cocreaFetch",
       "name": "Cocrea Fetch",
-      "description": "Fetches API from Cocrea or Gandi IDE.",
+      "description": "Fetches API from Cocrea or Gandi IDE. Original by fath11.",
       "image": "GaiaWindWave90/cocreaFetch.png",
       "by": [
         {
@@ -49,16 +43,12 @@
       "slug": "GaiaWindWave90/PenguinAttack",
       "id": "penguinAttack",
       "name": "Penguin Attack!",
-      "description": "Edited version of the Fire in the Hole extension.",
+      "description": "Edited version of the Fire in the Hole extension. Original extension by JeremyGamer13.",
       "image": "GaiaWindWave90/PenguinAttack.png",
       "by": [
         {
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90/"
-        },
-        {
-          "name": "JeremyGamer13",
-          "link": null
         }
       ]
     },
@@ -66,16 +56,12 @@
       "slug": "GaiaWindWave90/GaiaGPT",
       "id": "gaiaGPT",
       "name": "GaiaGPT",
-      "description": "A GaiaMod modification of Pang AI with more prompts.",
+      "description": "A GaiaMod modification of logise1123's Pang AI with more prompts.",
       "image": "GaiaWindWave90/GaiaGPT.png",
 	  "by": [
         {
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90/"
-        },
-        {
-          "name": "logise1123",
-          "link": "https://github.com/logise1123/"
         }
       ]
     },
