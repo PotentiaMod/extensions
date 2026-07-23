@@ -51,6 +51,58 @@
           "link": null
         }
       ]
+    },
+{
+        "slug": "pooiod/Box2D",
+        "id": "Box2D",
+        "name": "Boxed Physics",
+        "description": "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        "image": "pooiod/B2Dimg.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Gen1x/lighting",
+        "id": "lighting",
+        "name": "Lighting",
+        "description": "A fast, powerful and easy-to-use lighting engine powered by WebGL!",
+        "image": "Gen1x/lighting.avif",
+		"by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "ObviousAlexC/3DMath",
+        "id": "3DMath",
+        "name": "3D Math",
+        "description": "A handful of utilities for making your own sprite-based 3D engine.",
+        "image": "ObviousAlexC/3DMath.svg",
+		"by": [
+        {
+          "name": "pinksheep2917",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
+        "slug": "derpygamer2142/gpusb3",
+        "id": "gpusb3",
+        "image": "derpygamer2142/gpusb3.png",
+		"by": [
+        {
+          "name": "insanetaco2000",
+          "link": null
+        }
+      ]
     }
   ]
 }
