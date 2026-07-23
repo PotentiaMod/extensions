@@ -14,19 +14,19 @@
       ]
     },
     {
-      "slug": "Ikelene/serverStorageExtension",
-      "id": "serverStorageExtension",
-      "name": "Server Storage",
-      "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
-      "image": "Ikelene/serverStorageIMG.avif",
-      "by": [
+     "slug": "Ikelene/serverStorageExtension",
+     "id": "serverStorageExtension",
+     "name": "Server Storage",
+     "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
+     "image": "Ikelene/serverStorageIMG.avif",
+	 "by": [
         {
           "name": "Ikelene",
           "link": null
         }
       ]
     },
-    {
+   {
       "slug": "Gen1x/storage_plus",
       "id": "storage_plus",
       "name": "Storage Plus",
@@ -34,13 +34,13 @@
       "image": "Gen1x/storage_plus.avif",
       "by": [
         {
-          "name": "Gen1x",
+          "name": "G1nX",
           "link": null
         }
       ]
     },
-    {
-      "slug": "TheShovel/qoan-renderer",
+	{
+        "slug": "TheShovel/qoan-renderer",
         "id": "qoan-renderer",
         "name": "MotionSprite",
         "description": "An advanced math-based animation system",
@@ -48,6 +48,447 @@
 		"by": [
         {
           "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "pooiod/Box2D",
+        "id": "Box2D",
+        "name": "Boxed Physics",
+        "description": "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        "image": "pooiod/B2Dimg.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Gen1x/lighting",
+        "id": "lighting",
+        "name": "Lighting",
+        "description": "A fast, powerful and easy-to-use lighting engine powered by WebGL!",
+        "image": "Gen1x/lighting.avif",
+		"by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "ObviousAlexC/3DMath",
+        "id": "3DMath",
+        "name": "3D Math",
+        "description": "A handful of utilities for making your own sprite-based 3D engine.",
+        "image": "ObviousAlexC/3DMath.svg",
+		"by": [
+        {
+          "name": "pinksheep2917",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
+        "slug": "derpygamer2142/gpusb3",
+        "id": "gpusb3",
+        "image": "derpygamer2142/gpusb3.png",
+		"by": [
+        {
+          "name": "insanetaco2000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Gen1x/beat_sync",
+        "id": "beat_sync",
+        "name": "Beat Sync",
+        "description": "An extension designed to let you sync anything in your project to a musical beat, with incredible precision.",
+        "image": "Gen1x/beat_sync.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "skyhigh173/object",
+        "id": "object",
+        "name": "Object",
+        "description": "Handle large JSON files at an extreme speed.",
+        "image": "skyhigh173/object.svg",
+		"by": [
+        {
+          "name": "skyhigh173",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "0znzw/ScopeVars",
+        "id": "ScopeVars",
+        "name": "Scope Variable",
+        "description": "Manage your variables in a block-like structure.",
+        "image": "0znzw/ScopeVars.avif",
+		"by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "steve0greatness/timers",
+        "id": "timers",
+        "name": "Extra Timers",
+        "description": "Allows for the creation and management of additional timer blocks.",
+        "image": "steve0greatness/timers.svg",
+		"by": [
+        {
+          "name": "Steve0Greatness",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "pooiod/Dictation",
+        "id": "Dictation",
+        "name": "Dictation",
+        "description": "Convert your voice into text. (not supported in all browsers)",
+        "image": "pooiod/Dictation.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "TheShovel/doodlerec",
+        "id": "doodlerec",
+        "name": "Doodle Recognition",
+        "description": "A implementation of Google's Quick Draw image vision model",
+        "image": "TheShovel/thumbnail-doodlerec.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "sourdoggy/stylus extension",
+        "id": "stylus extension",
+        "name": "Stylus",
+        "description": "Get the pressure and tilt of a stylus or graphic tablet",
+        "image": "sourdoggy/stylus_ext.avif",
+		"by": [
+        {
+          "name": "sourdoggy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "PuzzlingGGG/ttsrV2",
+        "id": "ttsrV2",
+        "name": "Text To Speech: Redone",
+        "description": "A better alternitive to the base text to speech extension. Powered by the TTStool API",
+        "image": "PuzzlingGGG/tts.avif",
+		"by": [
+        {
+          "name": "PuzzlingGGG",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MikeDev101/cloudlink",
+        "id": "cloudlink",
+        "name": "CloudLink",
+        "description": "A powerful WebSocket extension for Scratch. Allows for online connectivity to servers for things like multiplayer.",
+        "image": "MikeDev101/cloudlink.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MikeDev101/e2ee",
+        "id": "e2ee",
+        "name": "E2EE",
+        "description": "A general-purpose E2EE (End-to-End Encryption) extension for Scratch.",
+        "image": "MikeDev101/e2ee.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MikeDev101/webrtc",
+        "id": "webrtc",
+        "name": "WebRTC",
+        "description": "A barebones WebRTC implementation.",
+        "image": "MikeDev101/webrtc.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MubiLop/spritesheeter",
+        "id": "spritesheeter",
+        "name": "Spritesheeter",
+        "description": "Load and manipulate spritesheets with customizable frames and XML support",
+        "image": "MubiLop/spritesheeter.avif",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "dumzdev/removebg",
+        "id": "removebg",
+        "name": "Background Remover",
+        "description": "Removes background from images.",
+        "image": "dumzdev/removebgbanner.svg",
+		"by": [
+        {
+          "name": "dumzdev",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MubiLop/penguinhook",
+        "id": "MubiLop/penguinhook",
+        "name": "PenguinHook",
+        "description": "Send Webhook requests, that can be Discord or any type of webhook.",
+        "image": "MubiLop/penguinhook.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+        "slug": "MubiLop/numutils",
+        "id": "MubiLop/numutils",
+        "name": "Number Utilities",
+        "description": "Adds blocks for number formatting and manipulation.",
+        "image": "MubiLop/numutils.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "jwklong/mathematics",
+        "id": "mathematics",
+        "name": "Mathematics",
+        "description": "Complicated maths extension for nerds.",
+        "image": "jwklong/mathematics.avif",
+		"by": [
+        {
+          "name": "jwklong",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "qxsck/big-decimal",
+        "id": "big-decimal",
+        "name": "Big Decimal",
+        "description": "High precision operations. (Support decimals)",
+        "image": "qxsck/big-decimal.svg",
+		"by": [
+        {
+          "name": "qxsck",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "ddededodediamante/dateFormatV2",
+        "id": "dateFormatV2",
+        "name": "Date Format",
+        "description": "Manage, format and compare dates.",
+        "image": "ddededodediamante/dateFormat.svg",
+		"by": [
+        {
+          "name": "ddededodediamante",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Embin/embintranslation",
+        "id": "Embin/embintranslation",
+        "name": "Translation Keys",
+        "description": "Use translation keys in your projects for multi-language support",
+        "image": "Embin/embintranslation.avif",
+		"by": [
+        {
+          "name": "embinmc",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "DogeisCut/YetAnotherStringExtension",
+        "id": "YetAnotherStringExtension",
+        "name": "Yet Another String Extension",
+        "description": "A small collection of utilty blocks intended to make managing strings much, much easier.",
+        "image": "DogeisCut/YetAnotherStringExtension.svg",
+		"by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "DogeisCut/dogeiscutRegularExpressions",
+        "id": "dogeiscutRegularExpressions",
+        "name": "Regular Expressions",
+        "description": "Create, modify, filter, and more with the new regular expression type.",
+        "image": "DogeisCut/dogeiscutRegularExpressions.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "DogeisCut/dogeiscutSet",
+        "id": "dogeiscutSet",
+        "name": "Sets",
+        "description": "Store non-repeating, unordered data super efficiently in sets.",
+        "image": "DogeisCut/dogeiscutSet.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "Div/divIterators",
+        "id": "divIterators",
+        "name": "Iterators",
+        "description": "Transform and iterate over different types of collections and more.",
+        "image": "Div/divIterators.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Div/divAlgEffects",
+        "id": "divAlgEffects",
+        "name": "Algebraic Effects",
+        "description": "Intercept custom actions in your scripts to pause, resume, or redirect their flow using modular handlers.",
+        "image": "Div/divAlgEffects.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Faunks/Blobs",
+        "id": "Blobs",
+        "name": "Blobs",
+        "description": "An extension made for handling blobs which can be used to store files. Allows to easily make blobs for the Js extension",
+        "image": "Faunks/Blobs.avif",
+		"by": [
+        {
+          "name": "Faunks",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Gen1x/random_utils",
+        "id": "random_utils",
+        "name": "Random Utilities",
+        "description": "Many blocks related to generating random values, including seed-based number generation, true number generation, UUID's, random strings, etc.",
+        "image": "Gen1x/randomutils.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MubiLop/toastnotifs",
+        "id": "toastnotifs",
+        "name": "Toast Notifications",
+        "description": "Did you want alerts? Notifications that are easily customizable? This is the only and best notification extension!",
+        "image": "MubiLop/toastnotifs.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "LordCat0/ProjectInterfaces",
+        "id": "ProjectInterfaces",
+        "name": "Project Interfaces",
+        "description": "Effortlessly create intuitive graphical user interfaces in your projects.",
+        "image": "LordCat0/ProjectInterfaces.avif",
+		"by": [
+        {
+          "name": "LordCat0",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "justablock/gitpenguin",
+        "id": "gitpenguin",
+        "name": "Git Penguin",
+        "description": "Make requests and control the files for your GitHub repository.",
+        "image": "justablock/gitpenguin.avif",
+		"by": [
+        {
+          "name": "justablock",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "SammerLOL/pangapi",
+        "id": "pangapi",
+        "name": "Pang API",
+        "description": "Fetch information from the PenguinMod API.",
+        "image": "SammerLOL/pangapi.avif",
+        "by": [
+        {
+          "name": "oc9x97",
           "link": null
         }
       ]
