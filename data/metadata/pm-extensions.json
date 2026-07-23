@@ -52,7 +52,7 @@
         }
       ]
     },
-{
+   {
         "slug": "pooiod/Box2D",
         "id": "Box2D",
         "name": "Boxed Physics",
@@ -286,6 +286,7 @@
         }
       ]
     },
+    {
         "slug": "MubiLop/numutils",
         "id": "MubiLop/numutils",
         "name": "Number Utilities",
