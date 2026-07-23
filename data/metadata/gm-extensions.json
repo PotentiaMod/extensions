@@ -5,7 +5,7 @@
       "id": "gaiaBlocks",
       "name": "Gaia Utilities",
       "description": "Wonderful utility blocks!",
-      "image": "GaiaWindWave90/GaiaBlocks.png",
+      "image": "GaiaWindWave90/GaiaUtilities.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -37,7 +37,7 @@
       "id": "GPTPrompts",
       "name": "Prompts",
       "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
-      "image": "GaiaWindWave90/GTPPrompts.png",
+      "image": "GaiaWindWave90/prompts.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -88,7 +88,7 @@
       "id": "ahoySpinach",
       "name": "Spinach Facts",
       "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
-      "image": "GaiaWindWave90/SpinachFacts.png",
+      "image": "GaiaWindWave90/spinach.png",
       "by": [
         {
           "name": "GaiaWindWave90",
