@@ -571,6 +571,110 @@
           "link": null
         }
       ]
+    },
+{
+        "slug": "Anonymous_cat1/updateFile",
+        "id": "updateFile",
+        "name": "Update File (Direct Access)",
+        "description": "A simple extension that uses the File System Access API to update files dynamically.",
+        "image": "Anonymous_cat1/updateFile.svg",
+		"by": [
+        {
+          "name": "Anonymous-cat1",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MubiLop/yeetyourfiles",
+        "id": "yeetyourfiles",
+        "name": "YeetYourFiles",
+        "description": "Upload files to the cloud by throwing it to outer space!",
+        "image": "MubiLop/yeetyourfiles.png",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "image": "Codefoxy/cfupload.svg",
+        "id": "cfupload.svg",
+        "name": "File Upload",
+        "description": "Upload files to the Network, can also used with Files extension.",
+        "slug": "Codefoxy/cfupload",
+		"by": [
+        {
+          "name": "Codefoxy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "image": "pooiod/VideoSharing.svg",
+        "id": "VideoSharing.svg",
+        "name": "Video Sharing",
+        "description": "Share your screen or camera to your projects!",
+        "slug": "pooiod/VideoSharing",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "pooiod/WindowHasher",
+        "id": "WindowHasher",
+        "name": "WindowHasher",
+        "description": "Interact with URL hash: the part of the URL after a hashtag",
+        "image": "pooiod/WindowHasher.avif",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "pooiod/Scratchblocks",
+        "id": "Scratchblocks",
+        "name": "Scratchblocks",
+        "description": "Generate blocks in the Scratch3, or Scratch2 format.",
+        "image": "pooiod/Scratchblocks.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "MubiLop/authpenguin",
+        "id": "authpenguin",
+        "name": "AuthPenguin",
+        "description": "Authenticate with anything and everything!",
+        "image": "MubiLop/authpenguin.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "Ikelene/googleAuthExtension",
+        "id": "googleAuthExtension",
+        "name": "Google Auth",
+        "description": "Login with Google to your projects. Allows getting a name, profile picture and email from the google account.",
+        "image": "Ikelene/ExtensionBanner.avif",
+        "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
     }
   ]
 }
