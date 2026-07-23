@@ -52,7 +52,7 @@
         }
       ]
     },
-{
+   {
         "slug": "pooiod/Box2D",
         "id": "Box2D",
         "name": "Boxed Physics",
