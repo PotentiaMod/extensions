@@ -675,6 +675,58 @@
           "link": null
         }
       ]
+    },
+    {
+        "name": "Discord Auth",
+        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
+        "slug": "NotHouse/DiscordAuth",
+        "id": "DiscordAuth",
+        "image": "NotHouse/DiscordAuth-banner.avif",
+		"by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Twitch",
+        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
+        "slug": "bop_tw/Twitch",
+        "id": "Twitch",
+        "image": "bop_tw/Twitch.avif",
+		"by": [
+        {
+          "name": "bop_tw",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Chess",
+        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
+        "slug": "Gen1x/chess-ext",
+        "id": "chess-ext",
+        "image": "Gen1x/chess-ext.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "CATS",
+        "description": "Blocks related to cats.",
+        "slug": "Gen1x/CATS",
+        "id": "CATS",
+        "image": "Gen1x/cats.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
     }
   ]
 }
