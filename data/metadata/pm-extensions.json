@@ -286,6 +286,7 @@
         }
       ]
     },
+    {
         "slug": "MubiLop/numutils",
         "id": "MubiLop/numutils",
         "name": "Number Utilities",
