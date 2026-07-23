@@ -32,7 +32,7 @@
         "uk": "Простий спосіб відображення анімованого тексту. Сумісний зі Scratch Lab's Animated Text.",
         "zh-cn": "显示与设置动画文字的简单方式。兼容 Scratch Lab 的动画文字实验项目。"
       },
-      "image": "images/lab/text.svg",
+      "image": "lab/text.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -71,7 +71,7 @@
         "ru": "Распознавайте лица с помощью камеры.",
         "zh-cn": "使用摄像头侦测人脸。"
       },
-      "image": "images/lab/face-sensing.svg",
+      "image": "lab/face-sensing.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -131,7 +131,7 @@
         "uk": "Розтягуйте спрайти горизонтально та вертикально.",
         "zh-cn": "水平或竖直拉伸角色。"
       },
-      "image": "images/stretch.svg",
+      "image": "stretch.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -172,7 +172,7 @@
         "uk": "Прямий доступ до геймпаду замість підбирання кнопок до клавіш.",
         "zh-cn": "直接访问游戏手柄而不再将按钮映射为按键。"
       },
-      "image": "images/gamepad.svg",
+      "image": "gamepad.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -208,7 +208,7 @@
         "uk": "Двохвимірна фізика",
         "zh-cn": "2D 物理引擎。"
       },
-      "image": "images/box2d.svg",
+      "image": "box2d.svg",
       "original": [
         {
           "name": "griffpatch",
@@ -256,7 +256,7 @@
         "uk": "Читайте та завантажуйте файли.",
         "zh-cn": "读取或下载文件。"
       },
-      "image": "images/files.svg",
+      "image": "files.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -294,7 +294,7 @@
         "uk": "Додає можливість заблокувати вказівник. Блоки \"мишка x\" та \"мишка y\" відображатимуть рух миші, поки вказівник заблокований. Заміна експерименту pointerlock.",
         "zh-cn": "添加鼠标锁定的功能。鼠标的 x、y 块在指针锁定时将返回上一帧到现在的变化，并取代了指针锁定的实验性功能。"
       },
-      "image": "images/pointerlock.png",
+      "image": "pointerlock.png",
       "by": [
         {
           "name": "GarboMuffin",
@@ -336,7 +336,7 @@
         "uk": "Змініть вигляд вказівника або взагалі приховайте його. Також дозволяє замінити вказівник на образ спрайту.",
         "zh-cn": "使用自定义指针或者隐藏指针。又或者用造型图片替换指针。"
       },
-      "image": "images/cursor.png",
+      "image": "cursor.png",
       "by": [
         {
           "name": "Samq64",
@@ -394,7 +394,7 @@
         "uk": "Змінюйте налаштування проєкту на ходу, такі як турбо режим, частота кадрів, інтерполяція, обмеження на кількість клонів, розмір сцени та інше.",
         "zh-cn": "获取或修改关于加速模式，帧数，补帧，克隆体上限，舞台大小以及其他的设置。"
       },
-      "image": "images/runtime-options.svg",
+      "image": "runtime-options.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -429,7 +429,7 @@
         "uk": "Надсилайте запити у далекий інтернет.",
         "zh-cn": "向广阔的互联网进行请求。"
       },
-      "image": "images/fetch.svg",
+      "image": "fetch.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -473,7 +473,7 @@
         "uk": "Маніпулюйте символами та текстом.",
         "zh-cn": "处理字符与文本。"
       },
-      "image": "images/text.svg",
+      "image": "text.svg",
       "by": [
         {
           "name": "CST1229",
@@ -520,7 +520,7 @@
         "uk": "Зберігайте постійні дані, Як куки, тільки краще.",
         "zh-cn": "持久地存储数据。类似于 Cookies，但这项技术更好。"
       },
-      "image": "images/local-storage.svg",
+      "image": "local-storage.svg",
       "by": [
         {
           "name": "infernostars",
@@ -557,7 +557,7 @@
         "ru": "Конвертирует числа между базами.",
         "zh-cn": "将数字在不同进制间转换"
       },
-      "image": "images/true-fantom/base.svg",
+      "image": "true-fantom/base.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -594,7 +594,7 @@
         "uk": "Блоки для операцій з двійковим представленням чисел у комп'ютерах.",
         "zh-cn": "对二进制数字进行操作的积木。"
       },
-      "image": "images/bitwise.svg",
+      "image": "bitwise.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -629,7 +629,7 @@
         "uk": "Математичні блоки для роботи над безмежно великими цілими числами (не дробами).",
         "zh-cn": "适用于无限大整数（不含小数）的数学模块。"
       },
-      "image": "images/Skyhigh173/bigint.svg",
+      "image": "Skyhigh173/bigint.svg",
       "by": [
         {
           "name": "Skyhigh173",
@@ -665,7 +665,7 @@
         "uk": "Декілька цікавих блоків.",
         "zh-cn": "一些有趣的积木集合。"
       },
-      "image": "images/utilities.svg",
+      "image": "utilities.svg",
       "original": [
         {
           "name": "Sheep_maker",
@@ -699,7 +699,7 @@
         "uk": "Програє відео з посилань.",
         "zh-cn": "从 URL 播放视频"
       },
-      "image": "images/Lily/Video.svg",
+      "image": "Lily/Video.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -737,7 +737,7 @@
         "uk": "Відображає сторінки або HTML поверх усієї сцени.",
         "zh-cn": "在舞台上嵌入网页或 HTML 。"
       },
-      "image": "images/iframe.svg",
+      "image": "iframe.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -774,7 +774,7 @@
         "tr": "HTML'ye güvenli bir şekilde dahil etmek için güvenilmeyen metinlerden kurtulun.",
         "zh-cn": "转义不受信任的字符，使其能被安全的插入到 HTML 中。"
       },
-      "image": "images/Clay/htmlEncode.svg",
+      "image": "Clay/htmlEncode.svg",
       "by": [
         {
           "name": "clay-rip",
@@ -813,7 +813,7 @@
         "uk": "Обрізання елементів за межами вказаної зони та різні моделі змішування кольорів.",
         "zh-cn": "在指定的矩形区域进行裁剪以及不同模式的颜色混合。"
       },
-      "image": "images/Xeltalliv/clippingblending.svg",
+      "image": "Xeltalliv/clippingblending.svg",
       "by": [
         {
           "name": "Vadik1",
@@ -855,7 +855,7 @@
         "uk": "Записуйте та читайте дані з буферу обміну.",
         "zh-cn": "读取与写入系统剪切板。"
       },
-      "image": "images/clipboard.svg",
+      "image": "clipboard.svg",
       "by": [
         {
           "name": "tomyo-code",
@@ -896,7 +896,7 @@
         "ru": "Расширенные способности рендера.",
         "zh-cn": "更加高级的画笔渲染。"
       },
-      "image": "images/obviousAlexC/penPlus.svg",
+      "image": "obviousAlexC/penPlus.svg",
       "by": [
         {
           "name": "ObviousAlexC",
@@ -937,7 +937,7 @@
         "ru": "Заменён на Перо Плюс V7.",
         "zh-cn": "被画笔 + V7 所替代。"
       },
-      "image": "images/penplus.svg",
+      "image": "penplus.svg",
       "by": [
         {
           "name": "ObviousAlexC",
@@ -973,7 +973,7 @@
         "uk": "Легко створюйте 3D проєкти, прискорені відеокартою.",
         "zh-cn": "轻松制作适用于 GPU 加速的 3D 项目。"
       },
-      "image": "images/Xeltalliv/simple3D.png",
+      "image": "Xeltalliv/simple3D.png",
       "by": [
         {
           "name": "Vadik1",
@@ -1014,7 +1014,7 @@
         "uk": "Візуалізуйте спрайти як інші зображення або образи.",
         "zh-cn": "让你的角色展现为其他图像或造型。"
       },
-      "image": "images/Lily/Skins.svg",
+      "image": "Lily/Skins.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1052,7 +1052,7 @@
         "uk": "Розширення до категорії датчиків.",
         "zh-cn": "一个侦测积木的扩展。"
       },
-      "image": "images/obviousAlexC/SensingPlus.svg",
+      "image": "obviousAlexC/SensingPlus.svg",
       "by": [
         {
           "name": "ObviousAlexC",
@@ -1091,7 +1091,7 @@
         "uk": "Симулюйте натискання клавіш та кліки мишкою.",
         "zh-cn": "模拟鼠标与键盘的敲击。"
       },
-      "image": "images/CubesterYT/KeySimulation.svg",
+      "image": "CubesterYT/KeySimulation.svg",
       "by": [
         {
           "name": "CubesterYT",
@@ -1131,7 +1131,7 @@
         "uk": "Більше блоків для роботи з клонами.",
         "zh-cn": "Scratch 的克隆功能的推广与延申。"
       },
-      "image": "images/Lily/ClonesPlus.svg",
+      "image": "Lily/ClonesPlus.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1169,7 +1169,7 @@
         "uk": "Розширює категорію \"вигляд\", дозволяючи показати/приховати будь який спрайт, отримати дані образу та редагувати образи спрайтів на ходу.",
         "zh-cn": "拓展外观积木，实现隐藏/显示角色，获取造型信息，用 SVG 修改造型等操作。"
       },
-      "image": "images/Lily/LooksPlus.svg",
+      "image": "Lily/LooksPlus.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1208,7 +1208,7 @@
         "uk": "Запускайте скрипти новими способами.",
         "zh-cn": "启动作品的更多方式。"
       },
-      "image": "images/Lily/MoreEvents.svg",
+      "image": "Lily/MoreEvents.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1229,7 +1229,7 @@
         "it": "Nuovi blocchi messaggio che funzionano anche con i messaggi di base.",
         "zh-cn": "强大的新消息积木，兼容原版广播。"
       },
-      "image": "images/SharkPool/Messages-Plus.svg",
+      "image": "SharkPool/Messages-Plus.svg",
       "by": [
         {
           "name": "SharkPool",
@@ -1269,7 +1269,7 @@
         "uk": "Більший асортимент з новими можливостями для взаємодії зі списками.",
         "zh-cn": "崭新的与列表交互的方式。"
       },
-      "image": "images/Lily/ListTools.svg",
+      "image": "Lily/ListTools.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1306,7 +1306,7 @@
         "uk": "Відображайте клавіатуру на телефонах та отримуйте ввід користувача без необхідності показувати вікно вводу.",
         "zh-cn": "在移动设备上显示键盘，并在不显示任何输入框的情况下获取用户输入。"
       },
-      "image": "images/veggiecan/mobilekeyboard.svg",
+      "image": "veggiecan/mobilekeyboard.svg",
       "by": [
         {
           "name": "veggiecan0419",
@@ -1345,7 +1345,7 @@
         "uk": "Більше блоків для руху спрайтів.",
         "zh-cn": "更多跟运动相关的积木。"
       },
-      "image": "images/NexusKitten/moremotion.svg",
+      "image": "NexusKitten/moremotion.svg",
       "by": [
         {
           "name": "NamelessCat",
@@ -1384,7 +1384,7 @@
         "uk": "Ви зможете переміщати вікно, змінювати його розмір, перейменовувати, вмикати повноекранний режим, дізнаватися розмір вікна, та інше.",
         "zh-cn": "移动、调整大小、重命名窗口、进入全屏、获取屏幕大小等等。"
       },
-      "image": "images/CubesterYT/WindowControls.svg",
+      "image": "CubesterYT/WindowControls.svg",
       "by": [
         {
           "name": "CubesterYT",
@@ -1428,7 +1428,7 @@
         "uk": "Дозволяє входити та виходити з повноекранного режиму.",
         "zh-cn": "进入或退出全屏模式。"
       },
-      "image": "images/veggiecan/browserfullscreen.svg",
+      "image": "veggiecan/browserfullscreen.svg",
       "by": [
         {
           "name": "Veggiecan0419",
@@ -1465,7 +1465,7 @@
         "uk": "Дізнайтеся розширення головного екрану.",
         "zh-cn": "获取主屏幕的分辨率。"
       },
-      "image": "images/shreder95ua/resolution.svg",
+      "image": "shreder95ua/resolution.svg",
       "by": [
         {
           "name": "shreder95ua",
@@ -1502,7 +1502,7 @@
         "uk": "Показ діалогового вікна перед закриттям вкладки.",
         "zh-cn": "当试图关闭页面时显示提示。"
       },
-      "image": "images/XmerOriginals/closecontrol.svg",
+      "image": "XmerOriginals/closecontrol.svg",
       "by": [
         {
           "name": "XmerOriginals",
@@ -1537,7 +1537,7 @@
         "uk": "Інформація про браузер та систему користувача.",
         "zh-cn": "有关用户浏览器和操作系统的详细信息。"
       },
-      "image": "images/navigator.svg",
+      "image": "navigator.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -1576,7 +1576,7 @@
         "uk": "Доступ до інформації про акумулятор на телефонах та ноутбуках. Може працювати не на всіх пристроях або браузерах.",
         "zh-cn": "访问有关电池的信息，可能无法在所有设备和浏览器上运行。"
       },
-      "image": "images/battery.svg",
+      "image": "battery.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -1610,7 +1610,7 @@
         "uk": "Контролюйте вібрацію телефону. Працює тільки у Chrome на Android.",
         "zh-cn": "控制设备的振动。仅适用于 Android 上的 Chrome 浏览器。"
       },
-      "image": "images/PwLDev/vibration.svg",
+      "image": "PwLDev/vibration.svg",
       "by": [
         {
           "name": "PwLDev",
@@ -1649,7 +1649,7 @@
         "uk": "Змініть вигляд змінних та вікон у своєму проєкті.",
         "zh-cn": "自定义作品中变量监视器和询问的样式。"
       },
-      "image": "images/TheShovel/CustomStyles.svg",
+      "image": "TheShovel/CustomStyles.svg",
       "by": [
         {
           "name": "TheShovel",
@@ -1686,7 +1686,7 @@
         "tr": "Sisteminizin renk seçicisine erişin.",
         "zh-cn": "访问你的系统的颜色选取器。"
       },
-      "image": "images/TheShovel/ColorPicker.svg",
+      "image": "TheShovel/ColorPicker.svg",
       "by": [
         {
           "name": "TheShovel",
@@ -1728,7 +1728,7 @@
         "uk": "Показує або приховує кнопки контролю проєкту.",
         "zh-cn": "显示与隐藏页面控件按钮。"
       },
-      "image": "images/NexusKitten/controlcontrols.svg",
+      "image": "NexusKitten/controlcontrols.svg",
       "by": [
         {
           "name": "NamelessCat",
@@ -1765,7 +1765,7 @@
         "uk": "Відображайте сповіщення.",
         "zh-cn": "显示通知。"
       },
-      "image": "images/mdwalters/notifications.svg",
+      "image": "mdwalters/notifications.svg",
       "by": [
         {
           "name": "mdwalters",
@@ -1801,7 +1801,7 @@
         "uk": "Дізнавайтеся точний дельта час.",
         "zh-cn": "精确计算时间间隔。"
       },
-      "image": "images/XeroName/Deltatime.svg",
+      "image": "XeroName/Deltatime.svg",
       "by": [
         {
           "name": "XeroName",
@@ -1839,7 +1839,7 @@
         "uk": "Показує зображення з камери та відстежує рух, дозволяючи 3D проєктам правильно накладати віртуальні об'єкти на реальний світ.",
         "zh-cn": "显示来自相机的图像并执行运动跟踪，使 3D 作品能够在现实世界中正确地覆盖虚拟对象。"
       },
-      "image": "images/ar.svg",
+      "image": "ar.svg",
       "by": [
         {
           "name": "Vadik1",
@@ -1880,7 +1880,7 @@
         "uk": "Закодовує та декодує символи рядків у їхні числа юні-коду, base64 та URL.",
         "zh-cn": "把字符串解码或编码为 Unicode，Base64，或者 URL。"
       },
-      "image": "images/encoding.svg",
+      "image": "encoding.svg",
       "by": [
         {
           "name": "-SIPC-",
@@ -1905,7 +1905,7 @@
         "ja": "複雑なサウンドコントロールを提供する、高度なオーディオエンジン。",
         "zh-cn": "一款先进的音频引擎，提供复杂的声音控制。"
       },
-      "image": "images/SharkPool/Tune-Shark-V3.svg",
+      "image": "SharkPool/Tune-Shark-V3.svg",
       "by": [
         {
           "name": "SharkPool",
@@ -1945,7 +1945,7 @@
         "uk": "Більше блоків для роботи зі звуком.",
         "zh-cn": "添加更多关于声音的积木。"
       },
-      "image": "images/Lily/SoundExpanded.svg",
+      "image": "Lily/SoundExpanded.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -1984,7 +1984,7 @@
         "uk": "Створюйте тимчасові або потокові змінні.",
         "zh-cn": "来创建可丢弃的线程变量和运行时变量吧。"
       },
-      "image": "images/Lily/TempVariables2.svg",
+      "image": "Lily/TempVariables2.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2031,7 +2031,7 @@
         "uk": "Контролюйте кілька таймерів одночасно.",
         "zh-cn": "同时控制多个计时器。"
       },
-      "image": "images/Lily/MoreTimers.svg",
+      "image": "Lily/MoreTimers.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2065,7 +2065,7 @@
         "ru": "Определите, вероятно, включен ли сервер облачных переменных.",
         "zh-cn": "检测云变量服务器是否在线。"
       },
-      "image": "images/clouddata-ping.svg",
+      "image": "clouddata-ping.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -2100,7 +2100,7 @@
         "ru": "Мощное WebSocket расширение для Scratch.",
         "zh-cn": "一个强大的 Scratch WebSocket 扩展。"
       },
-      "image": "images/cloudlink.svg",
+      "image": "cloudlink.svg",
       "by": [
         {
           "name": "MikeDEV",
@@ -2135,7 +2135,7 @@
         "ru": "Различные блоки для взаимодействия с интернетом.",
         "zh-cn": "一些用于网络交互的积木。"
       },
-      "image": "images/true-fantom/network.svg",
+      "image": "true-fantom/network.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -2172,7 +2172,7 @@
         "uk": "Безліч блоків-операторів, від піднесення до степеня до тригонометричних функцій.",
         "zh-cn": "添加了从求幂到三角函数计算的大量积木。"
       },
-      "image": "images/true-fantom/math.svg",
+      "image": "true-fantom/math.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -2201,7 +2201,7 @@
         "ru": "Полный интерфейс для работы с Regular Expressions.",
         "zh-cn": "为使用正则表达式准备的全套接口。"
       },
-      "image": "images/true-fantom/regexp.svg",
+      "image": "true-fantom/regexp.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -2236,7 +2236,7 @@
         "ru": "Несколько переходных блоков.",
         "zh-cn": "几个转接器积木。"
       },
-      "image": "images/true-fantom/couplers.svg",
+      "image": "true-fantom/couplers.svg",
       "by": [
         {
           "name": "TrueFantom",
@@ -2261,7 +2261,7 @@
         "ja": "ユーザーの現在位置を取得する（ブラウザからの許可が必要）。デスクトップアプリやElectronでパッケージされたプロジェクトではサポートされていない。",
         "zh-cn": "获取用户的当前位置（需要浏览器许可）。不支持桌面应用或 Electron 打包项目。"
       },
-      "image": "images/SamuelLouf/Geolocation.svg",
+      "image": "SamuelLouf/Geolocation.svg",
       "by": [
         {
           "name": "SamuelLouf",
@@ -2291,7 +2291,7 @@
         "ru": "Преобразуйте большие числа в стандартный формат AD, фиксированную десятичную систему, формат с разделителями-запятыми или экспоненциальный формат.",
         "zh-cn": "将大数字格式化为广告标准、固定小数、逗号分隔或科学计数法。"
       },
-      "image": "images/DogeisCut/FormatNumbers.png",
+      "image": "DogeisCut/FormatNumbers.png",
       "by": [
         {
           "name": "DogeisCut",
@@ -2330,7 +2330,7 @@
         "uk": "Особлива категорія з усіма меню з усіх категорій Scratch та розширень.",
         "zh-cn": "添加一个特殊分类，包含每个 Scratch 和扩展分类的每个“菜单”。"
       },
-      "image": "images/Lily/AllMenus.svg",
+      "image": "Lily/AllMenus.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2370,7 +2370,7 @@
         "uk": "Різні \"зламані\" блоки, що працюють у Scratch, але невидимі на панелі блоків.",
         "zh-cn": "一些在 Scratch 上能正常使用，但不能从代码栏拖出的，破解了才能看的积木。"
       },
-      "image": "images/Lily/HackedBlocks.svg",
+      "image": "Lily/HackedBlocks.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2413,7 +2413,7 @@
         "uk": "Конвертуйте значення між типами.",
         "zh-cn": "转换 Scratch 的数据类型。"
       },
-      "image": "images/Lily/Cast.svg",
+      "image": "Lily/Cast.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2454,7 +2454,7 @@
         "uk": "Дізнайтеся дату, час та часовий пояс.",
         "zh-cn": "关于时间、日期和时区的积木。"
       },
-      "image": "images/-SIPC-/time.svg",
+      "image": "-SIPC-/time.svg",
       "by": [
         {
           "name": "-SIPC-",
@@ -2496,7 +2496,7 @@
         "uk": "Блоки, що взаємодіють з консоллю JavaScript, вбудованою в інструменти розробника вашого браузера.",
         "zh-cn": "与内置于浏览器开发工具中的 JavaScript 控制台交互的积木。"
       },
-      "image": "images/-SIPC-/consoles.svg",
+      "image": "-SIPC-/consoles.svg",
       "by": [
         {
           "name": "-SIPC-",
@@ -2535,7 +2535,7 @@
         "uk": "Взаємодійте з параметрами URL адреси: частини URL адреси після знаку питання.",
         "zh-cn": "与 URL 的搜索参数交互：就是 URL 中问号后面的部分。"
       },
-      "image": "images/ZXMushroom63/searchApi.svg",
+      "image": "ZXMushroom63/searchApi.svg",
       "by": [
         {
           "name": "ZXMushroom63",
@@ -2568,7 +2568,7 @@
         "tr": "Bir sürü çeşitli blok.",
         "zh-cn": "一些杂七杂八的积木。"
       },
-      "image": "images/TheShovel/ShovelUtils.png",
+      "image": "TheShovel/ShovelUtils.png",
       "by": [
         {
           "name": "TheShovel",
@@ -2612,7 +2612,7 @@
         "uk": "Додавайте, видаляйте та отримуйте дані з різних типів ресурсів проєкту.",
         "zh-cn": "添加、删除和获取各种资源数据。"
       },
-      "image": "images/Lily/Assets.svg",
+      "image": "Lily/Assets.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -2653,7 +2653,7 @@
         "uk": "Додавайте, видаляйте та керуйте шрифтами.",
         "zh-cn": "添加、删除与管理字体。"
       },
-      "image": "images/SharkPool/Font-Manager.svg",
+      "image": "SharkPool/Font-Manager.svg",
       "by": [
         {
           "name": "SharkPool",
@@ -2695,7 +2695,7 @@
         "uk": "Не дозволяє комп'ютеру перейти в сплячий режим.",
         "zh-cn": "防止电脑进入睡眠状态。"
       },
-      "image": "images/DNin/wake-lock.svg",
+      "image": "DNin/wake-lock.svg",
       "by": [
         {
           "name": "D-ScratchNinja",
@@ -2722,7 +2722,7 @@
         "uk": "Опрацьовуйте рядки та списки JSON.",
         "zh-cn": "处理 JSON 字符串和数组。"
       },
-      "image": "images/Skyhigh173/json.svg",
+      "image": "Skyhigh173/json.svg",
       "by": [
         {
           "name": "Skyhigh173",
@@ -2751,7 +2751,7 @@
         "uk": "Створює та витягує дані з файлів XML.",
         "zh-cn": "创建与获取 XML 的值。"
       },
-      "image": "images/mbw/xml.svg",
+      "image": "mbw/xml.svg",
       "by": [
         {
           "name": "mybearworld",
@@ -2788,7 +2788,7 @@
         "uk": "Закодовує текст у числа для хмарних змінних. Не є сумісним з версією 1.0, оскільки використовує ефективніший формат.",
         "zh-cn": "将字符串编码为云变量的数字。由于使用了更高效的格式，与 V1 不兼容。"
       },
-      "image": "images/numerical-encoding-2.svg",
+      "image": "numerical-encoding-2.svg",
       "by": [
         {
           "name": "GarboMuffin",
@@ -2860,7 +2860,7 @@
         "uk": "Переміщайте видиму частину сцени.",
         "zh-cn": "移动舞台的可见部分。"
       },
-      "image": "images/SharkPool/Camera.svg",
+      "image": "SharkPool/Camera.svg",
       "by": [
         {
           "name": "SharkPool",
@@ -2896,7 +2896,7 @@
         "uk": "Переміщайте видиму частину сцени.",
         "zh-cn": "移动舞台的可见部分。"
       },
-      "image": "images/DT/cameracontrols.svg",
+      "image": "DT/cameracontrols.svg",
       "by": [
         {
           "name": "DT",
@@ -2935,7 +2935,7 @@
         "uk": "Додавайте візуальні ефекти до усієї сцени.",
         "zh-cn": "适用于整个舞台的视觉效果。"
       },
-      "image": "images/TheShovel/CanvasEffects.svg",
+      "image": "TheShovel/CanvasEffects.svg",
       "by": [
         {
           "name": "TheShovel",
@@ -2978,7 +2978,7 @@
         "uk": "Показуйте або штампуйте лише конкретні RGB канали.",
         "zh-cn": "仅展示或者标记某些 RGB 通道。"
       },
-      "image": "images/Longboost/color_channels.svg",
+      "image": "Longboost/color_channels.svg",
       "by": [
         {
           "name": "Longboost",
@@ -3013,7 +3013,7 @@
         "uk": "Створюйте та редагуйте .zip файли, а також файли формату .sb3",
         "zh-cn": "创建和编辑 .zip 格式的文件，包括 .sb3 文件。"
       },
-      "image": "images/CST1229/zip.svg",
+      "image": "CST1229/zip.svg",
       "by": [
         {
           "name": "CST1229",
@@ -3053,7 +3053,7 @@
         "uk": "Кілька блоків для роботи з зображеннями.",
         "zh-cn": "一些用于处理图片的积木。"
       },
-      "image": "images/CST1229/images.svg",
+      "image": "CST1229/images.svg",
       "original": [
         {
           "name": "CST1229",
@@ -3090,7 +3090,7 @@
         "tr": "lz-string kullanarak metni sıkıştırın ve açın.",
         "zh-cn": "使用 LZ-string 压缩与解压文本。"
       },
-      "image": "images/TheShovel/LZ-String.svg",
+      "image": "TheShovel/LZ-String.svg",
       "by": [
         {
           "name": "TheShovel",
@@ -3116,7 +3116,7 @@
         "uk": "Блоки для взаємодії з віртуальною файловою системою.",
         "zh-cn": "与虚拟内存文件系统交互的积木。"
       },
-      "image": "images/0832/rxFS2.svg",
+      "image": "0832/rxFS2.svg",
       "by": [
         {
           "name": "0832",
@@ -3148,7 +3148,7 @@
         "uk": "Отримайте інформацію про проєкти або користувачів на Scratch",
         "zh-cn": "获取 Scratch 作品和 Scratch 用户的信息。"
       },
-      "image": "images/NexusKitten/sgrab.svg",
+      "image": "NexusKitten/sgrab.svg",
       "by": [
         {
           "name": "NamelessCat",
@@ -3188,7 +3188,7 @@
         "uk": "Блоки для вираховування довжини, кутів та площ у двох площинах.",
         "zh-cn": "计算二维长度、角度、面积的积木。"
       },
-      "image": "images/NOname-awa/graphics2d.svg",
+      "image": "NOname-awa/graphics2d.svg",
       "by": [
         {
           "name": "NOname-awa",
@@ -3227,7 +3227,7 @@
         "uk": "Більше блоків для порівнювання.",
         "zh-cn": "更多关于比较的积木。"
       },
-      "image": "images/NOname-awa/more-comparisons.svg",
+      "image": "NOname-awa/more-comparisons.svg",
       "by": [
         {
           "name": "NOname-awa",
@@ -3263,7 +3263,7 @@
         "uk": "Простіші методи створення плавних анімацій.",
         "zh-cn": "简化制作平滑动画的方法。"
       },
-      "image": "images/JeremyGamer13/tween.svg",
+      "image": "JeremyGamer13/tween.svg",
       "by": [
         {
           "name": "JeremyGamer13",
@@ -3294,7 +3294,7 @@
         "ru": "Различные блоки утилиты.",
         "zh-cn": "各种实用的积木。"
       },
-      "image": "images/rixxyx.svg",
+      "image": "rixxyx.svg",
       "by": [
         {
           "name": "RixTheTyrunt",
@@ -3333,7 +3333,7 @@
         "uk": "Раніше відомі як LMS Утиліти.",
         "zh-cn": "以前被称为 LMS Utilities。"
       },
-      "image": "images/Lily/lmsutils.svg",
+      "image": "Lily/lmsutils.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -3368,7 +3368,7 @@
         "ru": "Блоки для вычисления средних значений, медиан, максимумов, минимумов, дисперсий и режимов.",
         "zh-cn": "关于数据分析的积木，如平均数，最大值，最小值，中位数，众数，方差等。"
       },
-      "image": "images/qxsck/data-analysis.svg",
+      "image": "qxsck/data-analysis.svg",
       "by": [
         {
           "name": "qxsck",
@@ -3406,7 +3406,7 @@
         "uk": "Більше блоків для роботи зі змінними та списками.",
         "zh-cn": "关于变量与列表的拓展积木。"
       },
-      "image": "images/qxsck/var-and-list.svg",
+      "image": "qxsck/var-and-list.svg",
       "by": [
         {
           "name": "qxsck",
@@ -3440,7 +3440,7 @@
         "ru": "Использует мощь словарей в вашем проекте.",
         "zh-cn": "在你的作品使用键值对。"
       },
-      "image": "images/vercte/dictionaries.svg",
+      "image": "vercte/dictionaries.svg",
       "by": [
         {
           "name": "Vercte",
@@ -3465,7 +3465,7 @@
         "uk": "Комплексне розширення для взаємодії із зовнішніми вебсайтами.",
         "zh-cn": "一些与外部网站进行交互的积木。"
       },
-      "image": "images/godslayerakp/http.svg",
+      "image": "godslayerakp/http.svg",
       "by": [
         {
           "name": "RedMan13",
@@ -3490,7 +3490,7 @@
         "uk": "Вручну підключіться до серверів WebSocket.",
         "zh-cn": "手动连接到 WebSocket 服务器。"
       },
-      "image": "images/godslayerakp/ws.png",
+      "image": "godslayerakp/ws.png",
       "by": [
         {
           "name": "RedMan13",
@@ -3517,7 +3517,7 @@
         "ja": "最新かつ非常に高性能なWebhook拡張機能。",
         "zh-cn": "一个现代化且功能强大的 Webhook 扩展插件。"
       },
-      "image": "images/CubesterYT/Webhooks.svg",
+      "image": "CubesterYT/Webhooks.svg",
       "by": [
         {
           "name": "CubesterYT",
@@ -3559,7 +3559,7 @@
         "uk": "Занотуйте свої скрипти.",
         "zh-cn": "给你的代码添加块型注释。"
       },
-      "image": "images/Lily/CommentBlocks.svg",
+      "image": "Lily/CommentBlocks.svg",
       "by": [
         {
           "name": "LilyMakesThings",
@@ -3592,7 +3592,7 @@
         "ru": "Используйте определения слов из словаря Лонгмана в своих проектах.",
         "zh-cn": "在你的作品中从朗文辞典获取单词的定义。"
       },
-      "image": "images/veggiecan/LongmanDictionary.svg",
+      "image": "veggiecan/LongmanDictionary.svg",
       "by": [
         {
           "name": "veggiecan0419",
@@ -3624,7 +3624,7 @@
         "uk": "Дозволяє зчитувати дані з пристроїв NFC (NDEF). Працює тільки в браузері Chrome на Android.",
         "zh-cn": "允许从 NFC (NDEF) 硬件读取数据。仅支持 Android 设备上的 Chrome 浏览器。"
       },
-      "image": "images/Alestore/nfcwarp.svg",
+      "image": "Alestore/nfcwarp.svg",
       "by": [
         {
           "name": "Alestore Games",
@@ -3649,7 +3649,7 @@
         "ja": "DECtalkを使用したテキスト読み上げ機能。インターネット接続を使わないため、オフラインでも動作する。英語のみ対応。",
         "zh-cn": "由 DECtalk 提供的文本转语音。不需要网络连接，因此可以离线使用。仅支持英文。"
       },
-      "image": "images/NishiOwO/dectalk.png",
+      "image": "NishiOwO/dectalk.png",
       "by": [
         {
           "name": "NishiOwO",
@@ -3698,7 +3698,7 @@
         "uk": "Блоки для взаємодії із сайтом itch.io. Неофіційно.",
         "zh-cn": "一些与 itch.io 网站互动的积木，非官方制作。"
       },
-      "image": "images/itchio.svg",
+      "image": "itchio.svg",
       "by": [
         {
           "name": "softed",
@@ -3723,7 +3723,7 @@
         "uk": "Блоки для взаємодії з GameJolt API. Неофіційно.",
         "zh-cn": "允许游戏与 GameJolt API 进行交互的积木，非官方制作。"
       },
-      "image": "images/gamejolt.png",
+      "image": "gamejolt.png",
       "by": [
         {
           "name": "softed",
@@ -3749,7 +3749,7 @@
         "uk": "Блоки, які дозволяють іграм взаємодіяти з Newgrounds API. Неофіційно.",
         "zh-cn": "一些与 Newgrounds API 交互的积木。"
       },
-      "image": "images/obviousAlexC/newgroundsIO.svg",
+      "image": "obviousAlexC/newgroundsIO.svg",
       "by": [
         {
           "name": "ObviousAlexC",
@@ -3782,7 +3782,7 @@
         "uk": "Корисні утиліти для будь якого співробітника фастфуду.",
         "zh-cn": "面向任何速食店员工的实用工具套装。"
       },
-      "image": "images/Lily/McUtils.png",
+      "image": "Lily/McUtils.png",
       "by": [
         {
           "name": "LilyMakesThings",
