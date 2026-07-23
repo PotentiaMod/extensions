@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    {
+      "slug": "BaseExtension",
+      "id": "BaseExtension",
+      "name": "Base Extension",
+      "description": "Example extension",
+      "image": "plaeholder.png",
+      "by": "Unknown"
+    }
+  ]
+}

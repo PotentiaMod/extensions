@@ -1,0 +1,254 @@
+{
+  "extensions": [
+{
+        "name": "Playgama Bridge SDK",
+        "id": "playgama",
+        "description": "Blocks that initialize and interact with the Playgama Bridge SDK. Official.",
+        "slug": "PlaygamaBridge",
+        "by": [
+        {
+          "name": "Playgama",
+          "link": null
+        },
+		{
+          "name": "sergei-playgama",
+          "link": null
+        },
+		{
+          "name": "DBDev-IT",
+          "link": null
+        }
+    },
+    {
+        "name": "YaGames SDK",
+        "id": "yagames",
+        "description": "Blocks that initialize and interact with the Yandex Games SDK. Unofficial.",
+        "slug": "timaaos/YaGames.js",
+        "image": "timaaos/YaGames.svg",
+        "by": [
+        {
+          "name": "timaaos",
+          "link": null
+        },
+		{
+          "name": "scratch_craft_2",
+          "link": null
+        },
+		{
+          "name": "Den4ik-12",
+          "link": null
+        },
+		{
+          "name": "DBDev-IT",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Telegram Bot API",
+        "id": "TelegramBotAPI",
+        "description": "Blocks that interact with the Telegram API for bots. Unofficial.",
+        "slug": "damir2809/TelegramBotAPI.js",
+        "image": "damir2809/TelegramBotAPI.svg",
+        "by": [
+        {
+          "name": "DBDev-IT",
+          "link": null
+        },
+		{
+          "name": "scratch_craft_2",
+          "link": null
+        },
+		{
+          "name": "ttt999",
+          "link": null
+        },
+		{
+          "name": "By-ROlil-CO",
+          "link": null
+        },
+		{
+          "name": "AnonimKing24",
+          "link": null
+        },
+		{
+          "name": "Den4ik-12",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Discord Webhook API",
+        "id": "DBDevDiscordWebhookAPI",
+        "description": "Blocks that interact with the Discord Webhook API. Unofficial.",
+        "slug": "damir2809/DiscordWebhookAPI.js",
+        "by": [
+        {
+          "name": "DBDev-IT",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Pathfinding",
+        "id": "Den4ik12Pathfinding",
+        "description": "Find paths from one position to another, avoiding obstacles.",
+        "slug": "Den4ik-12/Pathfinding.js",
+        "image": "Den4ik-12/Pathfinding.svg",
+        "by": [
+        {
+          "name": "Den4ik-12",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Wheel Scroll",
+        "id": "Den4ik12WheelScroll",
+        "description": "Blocks for detecting mouse wheel scrolling.",
+        "slug": "Den4ik-12/WheelScroll.js",
+        "image": "Den4ik-12/WheelScroll.svg",
+        "by": [
+        {
+          "name": "Den4ik-12",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Maps",
+        "id": "Den4ik12Maps",
+        "description": "Blocks for working with Map, which is more powerful than Object.",
+        "slug": "Den4ik-12/Maps.js",
+        "image": "Den4ik-12/Maps.svg",
+        "by": [
+        {
+          "name": "Den4ik-12",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Targets",
+        "id": "Den4ik12Targets",
+        "description": "Easily manage your sprites, clones, and their properties.",
+        "slug": "Den4ik-12/Targets.js",
+        "image": "Den4ik-12/Targets.svg",
+        "by": [
+        {
+          "name": "Den4ik-12",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Modals",
+        "id": "htmlalert",
+        "description": "Control classic modal windows in browsers!",
+        "slug": "scratch_craft_2/Modals.js",
+        "image": "scratch_craft_2/Modals.png",
+        "by": [
+        {
+          "name": "scratch_craft_2",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "MediaRecorder",
+        "id": "MediaRecord",
+        "description": "Record your projects directly in Dash!",
+        "slug": "scratch_craft_2/MediaRecorder.js",
+        "by": [
+        {
+          "name": "scratch_craft_2",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Arduino ULTIMATE",
+        "id": "arduinoUltimate",
+        "description": "Allows you to control Arduino directly from the browser. Supports digital/analog I/O, PWM, Servo, I2C, basic sensors and devices.",
+        "slug": "scratch_craft_2/ArduinoULTIMATE.js",
+        "by": [
+        {
+          "name": "scratch_craft_2",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Notification",
+        "id": "notification",
+        "description": "Send notifications with icons.",
+        "slug": "shilenin/Notification.js",
+        "image": "shilenin/Notification.svg",
+        "by": [
+		{
+          "name": "shilenin",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Code Cleaner",
+        "id": "ultimateBlockCleaner",
+        "description": "Clean and optimize your code!",
+        "slug": "shilenin/CodeCleaner.js",
+        "image": "shilenin/logo.svg",
+        "by": [
+		{
+          "name": "shilenin",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "JavaScript Runner",
+        "id": "shaman2016JavaScriptRunner",
+        "description": "Run the JavaScript code!",
+        "slug": "shaman2016/JavaScriptRunner.js",
+        "image": "shaman2016/JavaScriptRunner.svg",
+        "by": [
+        {
+          "name": "polzovatel_8787",
+          "link": null
+        },
+		{
+          "name": "DBDev-IT",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Dash API",
+        "id": "DashAPI",
+        "description": "Blocks that interact with the Dash API. Official.",
+        "slug": "shaman2016/DashAPI.js",
+        "by": [
+        {
+          "name": "polzovatel_8787",
+          "link": null
+        },
+		{
+          "name": "DBDev-IT",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Auto Save",
+        "id": "qbacksAutosSave",
+        "description": "Several features for games",
+        "slug": "QBacks/AutoSave.js",
+        "image": "QBacks/AutoSave.svg",
+        "by": [
+		{
+          "name": "QBacks",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
