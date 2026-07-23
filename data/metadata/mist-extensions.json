@@ -213,7 +213,7 @@
     {
       "slug": "python",
       "id": "Python",
-      "name": "Python",
+      "name": "Python (1)",
       "description": "Run python in turbowarp with piodide",
       "image": "Python.png",
       "by": [
