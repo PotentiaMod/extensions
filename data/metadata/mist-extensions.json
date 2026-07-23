@@ -1,7 +1,7 @@
 {
   "extensions": [
     {
-      "slug": "async skins",
+      "slug": "Async Skins",
       "id": "Async Skins",
       "name": "Async Skins",
       "description": "Have your sprites render as other images or costumes.",
@@ -16,7 +16,7 @@
       "filename": "Async Skins.js"
     },
     {
-      "slug": "canvas",
+      "slug": "Canvas",
       "id": "Canvas",
       "name": "Canvas",
       "description": "Create and manipulate canvases with this extension",
@@ -31,7 +31,7 @@
       "filename": "Canvas.js"
     },
     {
-      "slug": "discordbot",
+      "slug": "DiscordBot",
       "id": "DiscordBot",
       "name": "DiscordBot",
       "description": "Make discord bots in turbowarp",
@@ -46,7 +46,7 @@
       "filename": "DiscordBot.js"
     },
     {
-      "slug": "evalplus",
+      "slug": "EvalPlus",
       "id": "EvalPlus",
       "name": "EvalPlus",
       "description": "Evaluate JS better (plus some dom stuff)",
@@ -61,7 +61,7 @@
       "filename": "EvalPlus.js"
     },
     {
-      "slug": "github",
+      "slug": "Github",
       "id": "Github",
       "name": "Github",
       "description": "Access github from scratch",
@@ -76,7 +76,7 @@
       "filename": "Github.js"
     },
     {
-      "slug": "htmlinputs",
+      "slug": "HTMLInputs",
       "id": "HTMLInputs",
       "name": "HTMLInputs",
       "description": "Manage html inut elements on the stage",
@@ -91,7 +91,7 @@
       "filename": "HTMLInputs.js"
     },
     {
-      "slug": "iframe",
+      "slug": "Iframe+",
       "id": "Iframe+",
       "name": "Iframe+",
       "description": "Have many iframes at once",
@@ -106,7 +106,7 @@
       "filename": "Iframe+.js"
     },
     {
-      "slug": "indexeddb",
+      "slug": "IndexedDB",
       "id": "IndexedDB",
       "name": "IndexedDB",
       "description": "Access and write to IndexedDB.",
@@ -121,7 +121,7 @@
       "filename": "IndexedDB.js"
     },
     {
-      "slug": "keyhistory",
+      "slug": "KeyHistory",
       "id": "KeyHistory",
       "name": "KeyHistory",
       "description": "Manage previous keys simply",
@@ -136,7 +136,7 @@
       "filename": "KeyHistory.js"
     },
     {
-      "slug": "mediautils",
+      "slug": "MediaUtils",
       "id": "MediaUtils",
       "name": "MediaUtils",
       "description": "Just some uilities for media devices",
@@ -151,7 +151,7 @@
       "filename": "MediaUtils.js"
     },
     {
-      "slug": "mist s utils",
+      "slug": "Mist's Utils",
       "id": "Mist's Utils",
       "name": "Mist's Utils",
       "description": "A bunch of compiled stuff",
@@ -166,7 +166,7 @@
       "filename": "Mist's Utils.js"
     },
     {
-      "slug": "mistfetch",
+      "slug": "MistFetch",
       "id": "MistFetch",
       "name": "MistFetch",
       "description": "my fetch extension for http and stuff cos i needed a better one for originOS",
@@ -181,7 +181,7 @@
       "filename": "MistFetch.js"
     },
     {
-      "slug": "oasm",
+      "slug": "OASM",
       "id": "OASM",
       "name": "OASM",
       "description": "Run the full oasm interpreter except very fast.",
@@ -196,7 +196,7 @@
       "filename": "OASM.js"
     },
     {
-      "slug": "persistent file system",
+      "slug": "Persistent File System",
       "id": "Persistent File System",
       "name": "Persistent File System",
       "description": "Persistent file system using IndexedDB",
@@ -211,7 +211,7 @@
       "filename": "Persistent File System.js"
     },
     {
-      "slug": "python",
+      "slug": "Python",
       "id": "Python",
       "name": "Python (1)",
       "description": "Run python in turbowarp with piodide",
@@ -226,7 +226,7 @@
       "filename": "Python.js"
     },
     {
-      "slug": "rdf",
+      "slug": "RDF",
       "id": "RDF",
       "name": "RDF",
       "description": "Type restricted data formatting",
@@ -241,7 +241,7 @@
       "filename": "RDF.js"
     },
     {
-      "slug": "rotur",
+      "slug": "Rotur",
       "id": "Rotur",
       "name": "Rotur",
       "description": "Utilise rotur in your projects",
@@ -256,7 +256,7 @@
       "filename": "Rotur.js"
     },
     {
-      "slug": "roturvoice",
+      "slug": "roturVoice",
       "id": "roturVoice",
       "name": "roturVoice",
       "description": "Voice and video calling for turbowarp",
@@ -271,7 +271,7 @@
       "filename": "roturVoice.js"
     },
     {
-      "slug": "shaders",
+      "slug": "Shaders",
       "id": "Shaders",
       "name": "Shaders",
       "description": "Run GLSL shaders on your sprites",
@@ -286,7 +286,7 @@
       "filename": "Shaders.js"
     },
     {
-      "slug": "tables",
+      "slug": "Tables",
       "id": "Tables",
       "name": "Tables",
       "description": "basically just compiled 2d arrays",
@@ -301,7 +301,7 @@
       "filename": "Tables.js"
     },
     {
-      "slug": "virtual file system",
+      "slug": "Virtual File System",
       "id": "Virtual File System",
       "name": "Virtual File System",
       "description": "in memory file system as an ext goes pretty crazy :sunglasses:",
@@ -316,7 +316,7 @@
       "filename": "Virtual File System.js"
     },
     {
-      "slug": "websocketplus",
+      "slug": "WebsocketPlus",
       "id": "WebsocketPlus",
       "name": "WebsocketPlus",
       "description": "Connect and manage multiple websocket connections",
@@ -331,7 +331,7 @@
       "filename": "WebsocketPlus.js"
     },
     {
-      "slug": "camera",
+      "slug": "Camera",
       "id": "Camera",
       "name": "Camera",
       "description": "Use the camera :P",
@@ -345,7 +345,7 @@
       "filename": "Camera.js"
     },
     {
-      "slug": "cloudlink4 improved",
+      "slug": "Cloudlink4_Improved",
       "id": "Cloudlink4_Improved",
       "name": "Cloudlink4_Improved",
       "description": "A powerful WebSocket extension for Scratch.",
@@ -359,7 +359,7 @@
       "filename": "Cloudlink4_Improved.js"
     },
     {
-      "slug": "compiled comments",
+      "slug": "Compiled Comments",
       "id": "Compiled Comments",
       "name": "Compiled Comments",
       "description": "Add compiler-compatible comments to projects.",
@@ -373,7 +373,7 @@
       "filename": "Compiled Comments.js"
     },
     {
-      "slug": "exportspritedatauri",
+      "slug": "ExportSpriteDataURI",
       "id": "ExportSpriteDataURI",
       "name": "ExportSpriteDataURI",
       "description": "Export sprites as data URI strings.",
@@ -387,7 +387,7 @@
       "filename": "ExportSpriteDataURI.js"
     },
     {
-      "slug": "fast list set",
+      "slug": "Fast_List_Set",
       "id": "Fast_List_Set",
       "name": "Fast_List_Set",
       "description": "Set Scratch list contents from JSON arrays.",
@@ -401,7 +401,7 @@
       "filename": "Fast_List_Set.js"
     },
     {
-      "slug": "faster blur uri",
+      "slug": "Faster Blur Uri",
       "id": "Faster Blur Uri",
       "name": "Faster Blur Uri",
       "description": "High-performance WebGL-based stack blur with adaptive downscaling for optimal performance",
@@ -415,7 +415,7 @@
       "filename": "Faster Blur Uri.js"
     },
     {
-      "slug": "faster blur uri legacy",
+      "slug": "Faster Blur Uri Legacy",
       "id": "Faster Blur Uri Legacy",
       "name": "Faster Blur Uri Legacy",
       "description": "Legacy canvas-based image blur from URLs and data URIs.",
@@ -429,7 +429,7 @@
       "filename": "Faster Blur Uri Legacy.js"
     },
     {
-      "slug": "faster blur uri legacy 2",
+      "slug": "Faster Blur Uri Legacy 2",
       "id": "Faster Blur Uri Legacy 2",
       "name": "Faster Blur Uri Legacy 2",
       "description": "A simple extension that just blurs images from urls and data uris as fast as i could make it blur them!!!!",
@@ -443,7 +443,7 @@
       "filename": "Faster Blur Uri Legacy 2.js"
     },
     {
-      "slug": "fastobject",
+      "slug": "FastObject",
       "id": "FastObject",
       "name": "FastObject",
       "description": "Store and retrieve object key/value data quickly.",
@@ -457,7 +457,7 @@
       "filename": "FastObject.js"
     },
     {
-      "slug": "inputmanager",
+      "slug": "InputManager",
       "id": "InputManager",
       "name": "InputManager",
       "description": "Store a list of previously pressed keys. Made primarily for use in originOS (https://github.com/Mistium/Origin-OS).",
@@ -471,7 +471,7 @@
       "filename": "InputManager.js"
     },
     {
-      "slug": "keyhistory legacy",
+      "slug": "KeyHistory Legacy",
       "id": "KeyHistory Legacy",
       "name": "KeyHistory Legacy",
       "description": "Manage previous keys simply",
@@ -485,7 +485,7 @@
       "filename": "KeyHistory Legacy.js"
     },
     {
-      "slug": "lowlevelskins",
+      "slug": "LowLevelSkins",
       "id": "LowLevelSkins",
       "name": "LowLevelSkins",
       "description": "Low-level skin cloning and blur utilities.",
@@ -499,7 +499,7 @@
       "filename": "LowLevelSkins.js"
     },
     {
-      "slug": "microphone stream",
+      "slug": "Microphone Stream",
       "id": "Microphone Stream",
       "name": "Microphone Stream",
       "description": "Stream microphone analysis and keep a configurable rolling recording buffer.",
@@ -513,7 +513,7 @@
       "filename": "Microphone Stream.js"
     },
     {
-      "slug": "originosl",
+      "slug": "originOSL",
       "id": "originOSL",
       "name": "originOSL",
       "description": "Run OSL code in the originOSL environment through the live embed system",
@@ -527,7 +527,7 @@
       "filename": "originOSL.js"
     },
     {
-      "slug": "random",
+      "slug": "Random",
       "id": "Random",
       "name": "Random",
       "description": "Extra random value generator blocks.",
@@ -541,7 +541,7 @@
       "filename": "Random.js"
     },
     {
-      "slug": "roturvoice advanced",
+      "slug": "roturVoice Advanced",
       "id": "roturVoice Advanced",
       "name": "roturVoice Advanced",
       "description": "Advanced voice and video calling for TurboWarp.",
@@ -555,7 +555,7 @@
       "filename": "roturVoice Advanced.js"
     },
     {
-      "slug": "soundutils",
+      "slug": "SoundUtils",
       "id": "SoundUtils",
       "name": "SoundUtils",
       "description": "Create channels and generate simple tones.",
@@ -569,7 +569,7 @@
       "filename": "SoundUtils.js"
     },
     {
-      "slug": "tabutils",
+      "slug": "TabUtils",
       "id": "TabUtils",
       "name": "TabUtils",
       "description": "Detect when the tab key is pressed and allow it to be disabled and enabled.",
@@ -583,7 +583,7 @@
       "filename": "TabUtils.js"
     },
     {
-      "slug": "uri utilities",
+      "slug": "URI Utilities",
       "id": "URI Utilities",
       "name": "URI Utilities",
       "description": "Convert strings and downloaded files to data URIs.",
@@ -597,7 +597,7 @@
       "filename": "URI Utilities.js"
     },
     {
-      "slug": "usb",
+      "slug": "USB",
       "id": "USB",
       "name": "USB",
       "description": "Just some blocks for the web usb api",
