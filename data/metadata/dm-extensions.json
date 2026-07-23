@@ -1,0 +1,106 @@
+{
+  "extensions": [
+    {
+        "name": "Site Runtime",
+        "slug": "webextension",
+        "id": "webextension",
+        "image": "site-runtime.png",
+        "description": "A Combined version of multiple extensions: Packager Applications & AdaBrowser",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+    {
+        "name": "Keys+",
+        "slug": "keys-plus-extension",
+        "id": "keys-plus-extension",
+        "image": "keysPlus.png",
+        "description": "Detect more keys when they are pressed or hit and make certain keys typable.",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+    {
+        "name": "GitHub API",
+        "slug": "github-api",
+        "id": "github-api",
+        "image": "githubapi.png",
+        "description": "Fetch IDs, Description, etc. from Repositories, Users and Organizations.",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+    {
+        "name": "Python",
+        "slug": "python",
+        "id": "python",
+        "image": "python.png",
+        "description": "Run your own custom code written in Python using Pyodide!",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+    {
+        "name": "Lua",
+        "slug": "lua",
+        "id": "lua",
+        "image": "lua.png",
+        "description": "Run your own custom code written in Lua using Fengari!"
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+	{
+        "name": "Typable Tab Key",
+        "slug": "typable-tab-character",
+        "id": "typable-tab-character",
+        "description": "This Extension was replaced by the Keys+ Extension. Gives the ability of typing the tab character.",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    },
+    {
+        "name": "Useless blocks",
+        "slug": "Useless_Blocks",
+        "id": "Useless_Blocks",
+        "image": "Useless_Blocks.png",
+        "description": "No description available.",
+		"by": [
+        {
+          "name": "Jambs / jlgri",
+          "link": "https://www.youtube.com/channel/UCJzRC3HsauioZoc9vKC6W4g"
+        }
+      ]
+    },
+    {
+        "name": "Dogs",
+        "slug": "dogs",
+        "id": "dogs",
+        "description": "Blocks related to dogs.",
+        "by": [
+        {
+          "name": "MrIncredibleMaker",
+          "link": "https://github.com/GabsTheCuriousKid"
+        }
+      ]
+    }
+  ]
+}
