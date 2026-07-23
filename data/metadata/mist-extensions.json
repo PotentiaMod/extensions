@@ -335,7 +335,6 @@
       "id": "Camera",
       "name": "Camera",
       "description": "Use the camera :P",
-      "image": "Camera.png",
       "by": [
         {
           "name": "Mistium",
@@ -350,7 +349,6 @@
       "id": "Cloudlink4_Improved",
       "name": "Cloudlink4_Improved",
       "description": "A powerful WebSocket extension for Scratch.",
-      "image": "Cloudlink4_Improved.png",
       "by": [
         {
           "name": "Mistium",
@@ -365,7 +363,6 @@
       "id": "Compiled Comments",
       "name": "Compiled Comments",
       "description": "Add compiler-compatible comments to projects.",
-      "image": "Compiled Comments.png",
       "by": [
         {
           "name": "Mistium",
@@ -380,7 +377,6 @@
       "id": "ExportSpriteDataURI",
       "name": "ExportSpriteDataURI",
       "description": "Export sprites as data URI strings.",
-      "image": "ExportSpriteDataURI.png",
       "by": [
         {
           "name": "Mistium",
@@ -395,7 +391,6 @@
       "id": "Fast_List_Set",
       "name": "Fast_List_Set",
       "description": "Set Scratch list contents from JSON arrays.",
-      "image": "Fast_List_Set.png",
       "by": [
         {
           "name": "Mistium",
@@ -410,7 +405,6 @@
       "id": "Faster Blur Uri",
       "name": "Faster Blur Uri",
       "description": "High-performance WebGL-based stack blur with adaptive downscaling for optimal performance",
-      "image": "Faster Blur Uri.png",
       "by": [
         {
           "name": "Mistium",
@@ -425,7 +419,6 @@
       "id": "Faster Blur Uri Legacy",
       "name": "Faster Blur Uri Legacy",
       "description": "Legacy canvas-based image blur from URLs and data URIs.",
-      "image": "Faster Blur Uri Legacy.png",
       "by": [
         {
           "name": "Mistium",
@@ -440,7 +433,6 @@
       "id": "Faster Blur Uri Legacy 2",
       "name": "Faster Blur Uri Legacy 2",
       "description": "A simple extension that just blurs images from urls and data uris as fast as i could make it blur them!!!!",
-      "image": "Faster Blur Uri Legacy 2.png",
       "by": [
         {
           "name": "Mistium",
@@ -455,7 +447,6 @@
       "id": "FastObject",
       "name": "FastObject",
       "description": "Store and retrieve object key/value data quickly.",
-      "image": "FastObject.png",
       "by": [
         {
           "name": "Mistium",
@@ -470,7 +461,6 @@
       "id": "InputManager",
       "name": "InputManager",
       "description": "Store a list of previously pressed keys. Made primarily for use in originOS (https://github.com/Mistium/Origin-OS).",
-      "image": "InputManager.png",
       "by": [
         {
           "name": "Mistium",
@@ -485,7 +475,6 @@
       "id": "KeyHistory Legacy",
       "name": "KeyHistory Legacy",
       "description": "Manage previous keys simply",
-      "image": "KeyHistory Legacy.png",
       "by": [
         {
           "name": "Mistium",
@@ -500,7 +489,6 @@
       "id": "LowLevelSkins",
       "name": "LowLevelSkins",
       "description": "Low-level skin cloning and blur utilities.",
-      "image": "LowLevelSkins.png",
       "by": [
         {
           "name": "Mistium",
@@ -515,7 +503,6 @@
       "id": "Microphone Stream",
       "name": "Microphone Stream",
       "description": "Stream microphone analysis and keep a configurable rolling recording buffer.",
-      "image": "Microphone Stream.png",
       "by": [
         {
           "name": "Mistium",
@@ -530,7 +517,6 @@
       "id": "originOSL",
       "name": "originOSL",
       "description": "Run OSL code in the originOSL environment through the live embed system",
-      "image": "originOSL.png",
       "by": [
         {
           "name": "Mistium",
@@ -545,7 +531,6 @@
       "id": "Random",
       "name": "Random",
       "description": "Extra random value generator blocks.",
-      "image": "Random.png",
       "by": [
         {
           "name": "Mistium",
@@ -560,7 +545,6 @@
       "id": "roturVoice Advanced",
       "name": "roturVoice Advanced",
       "description": "Advanced voice and video calling for TurboWarp.",
-      "image": "roturVoice Advanced.png",
       "by": [
         {
           "name": "Mistium",
@@ -575,7 +559,6 @@
       "id": "SoundUtils",
       "name": "SoundUtils",
       "description": "Create channels and generate simple tones.",
-      "image": "SoundUtils.png",
       "by": [
         {
           "name": "Mistium",
@@ -590,7 +573,6 @@
       "id": "TabUtils",
       "name": "TabUtils",
       "description": "Detect when the tab key is pressed and allow it to be disabled and enabled.",
-      "image": "TabUtils.png",
       "by": [
         {
           "name": "Mistium",
@@ -605,7 +587,6 @@
       "id": "URI Utilities",
       "name": "URI Utilities",
       "description": "Convert strings and downloaded files to data URIs.",
-      "image": "URI Utilities.png",
       "by": [
         {
           "name": "Mistium",
@@ -620,7 +601,6 @@
       "id": "USB",
       "name": "USB",
       "description": "Just some blocks for the web usb api",
-      "image": "USB.png",
       "by": [
         {
           "name": "Mistium",
@@ -635,7 +615,6 @@
       "id": "xml",
       "name": "xml",
       "description": "Parse, query, and serialize XML strings.",
-      "image": "xml.png",
       "by": [
         {
           "name": "Mistium",
