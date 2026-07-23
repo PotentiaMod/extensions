@@ -38,6 +38,19 @@
           "link": null
         }
       ]
+    },
+    {
+      "slug": "TheShovel/qoan-renderer",
+        "id": "qoan-renderer",
+        "name": "MotionSprite",
+        "description": "An advanced math-based animation system",
+        "image": "TheShovel/thumbnail-motionsprite.avif",
+		"by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
     }
   ]
 }
