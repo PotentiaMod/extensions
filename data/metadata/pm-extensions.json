@@ -612,11 +612,11 @@
       ]
     },
     {
-        "image": "pooiod/VideoSharing.svg",
-        "id": "VideoSharing.svg",
         "name": "Video Sharing",
         "description": "Share your screen or camera to your projects!",
         "slug": "pooiod/VideoSharing",
+        "id": "VideoSharing",
+        "image": "pooiod/VideoSharing.svg",
 		"by": [
         {
           "name": "pooiod7",
