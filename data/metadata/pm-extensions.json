@@ -547,19 +547,6 @@
       ]
     },
     {
-        "slug": "Lily/AllMenus",
-        "id": "AllMenus",
-        "name": "All Menus",
-        "description": "Every dropdown menu for each block, in one extension.",
-        "image": "Lily/AllMenus.svg",
-		"by": [
-        {
-          "name": "LilyMakesThings",
-          "link": null
-        }
-      ]
-    },
-    {
         "slug": "Ashime/MoreFields",
         "id": "MoreFields",
         "name": "More Fields",
