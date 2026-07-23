@@ -57,7 +57,7 @@
         "slug": "lua",
         "id": "lua",
         "image": "lua.png",
-        "description": "Run your own custom code written in Lua using Fengari!"
+        "description": "Run your own custom code written in Lua using Fengari!",
         "by": [
         {
           "name": "MrIncredibleMaker",
@@ -78,7 +78,7 @@
       ]
     },
     {
-        "name": "Useless blocks",
+        "name": "Useless Blocks",
         "slug": "Useless_Blocks",
         "id": "Useless_Blocks",
         "image": "Useless_Blocks.png",
@@ -92,8 +92,8 @@
     },
     {
         "name": "Dogs",
-        "slug": "dogs",
-        "id": "dogs",
+        "slug": "DOGS",
+        "id": "DOGS",
         "description": "Blocks related to dogs.",
         "by": [
         {
