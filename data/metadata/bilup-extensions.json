@@ -5,7 +5,7 @@
       "id": "shangcloud",
       "name": "ShangCloud",
       "description": "ShangCloud SDK for Scratch",
-      "image": "images/shangcloud.png",
+      "image": "shangcloud.png",
       "by": [
         {
           "name": "Yearnstudio",
@@ -24,7 +24,7 @@
       "descriptionTranslations": {
         "zh-cn": "超多关于颜色的工具喵，有混合颜色，反色，互补色，转换格式等超好用的工具喵"
       },
-      "image": "images/colortools.svg",
+      "image": "colortools.svg",
       "by": [
         {
           "name": "MR醉诗",
@@ -43,7 +43,7 @@
       "descriptionTranslations": {
         "zh-cn": "让创作更简单，更方便"
       },
-      "image": "images/easyblock.svg",
+      "image": "easyblock.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -62,7 +62,7 @@
       "descriptionTranslations": {
         "zh-cn": "更加便利地处理字符串"
       },
-      "image": "images/stringtools.svg",
+      "image": "stringtools.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -81,7 +81,7 @@
       "descriptionTranslations": {
         "zh-cn": "非线性接近函数"
       },
-      "image": "images/approaches.svg",
+      "image": "approaches.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -106,7 +106,7 @@
       "descriptionTranslations": {
         "zh-cn": "创建AI实例并使用流式响应与它们交互"
       },
-      "image": "images/aiblocks.svg",
+      "image": "aiblocks.svg",
       "by": [
         {
           "name": "RyaninCn11",
@@ -119,7 +119,7 @@
       "id": "ai",
       "name": "AI",
       "description": "Chat with AI in Scratch. Supports OpenAI and Anthropic APIs with streaming responses.",
-      "image": "images/ai.svg",
+      "image": "ai.svg",
       "by": [
         {
           "name": "Kimos Frontender",
