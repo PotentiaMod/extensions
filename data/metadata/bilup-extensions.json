@@ -1,0 +1,131 @@
+{
+  "extensions": [
+    {
+      "slug": "shangcloud",
+      "id": "shangcloud",
+      "name": "ShangCloud",
+      "description": "ShangCloud SDK for Scratch",
+      "image": "images/shangcloud.png",
+      "by": [
+        {
+          "name": "Yearnstudio",
+          "link": "https://yearn.studio"
+        }
+      ]
+    },
+    {
+      "slug": "colortools",
+      "id": "colortools",
+      "name": "Color Toolset",
+      "description": "Tons of color-related tools, meow. you can mix colors, invert them, find complementary colors, convert formats, and more — super useful tools, meow",
+      "nameTranslations": {
+        "zh-cn": "颜色工具集"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "超多关于颜色的工具喵，有混合颜色，反色，互补色，转换格式等超好用的工具喵"
+      },
+      "image": "images/colortools.svg",
+      "by": [
+        {
+          "name": "MR醉诗",
+          "link": "https://space.bilibili.com/3546960701163977"
+        }
+      ]
+    },
+    {
+      "slug": "easyblock",
+      "id": "easyblock",
+      "name": "Easy Block+",
+      "description": "Make creation simpler and more convenient.",
+      "nameTranslations": {
+        "zh-cn": "便利积木+"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "让创作更简单，更方便"
+      },
+      "image": "images/easyblock.svg",
+      "by": [
+        {
+          "name": "DL_Grass",
+          "link": "https://github.com/DLGrass"
+        }
+      ]
+    },
+    {
+      "slug": "stringtools",
+      "id": "stringtools",
+      "name": "String Tools",
+      "description": "Make handling strings more convenient",
+      "nameTranslations": {
+        "zh-cn": "字符串处理"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "更加便利地处理字符串"
+      },
+      "image": "images/stringtools.svg",
+      "by": [
+        {
+          "name": "DL_Grass",
+          "link": "https://github.com/DLGrass"
+        }
+      ]
+    },
+    {
+      "slug": "approaches",
+      "id": "approaches",
+      "name": "Approaches!",
+      "description": "Nonlinear approach functions.",
+      "nameTranslations": {
+        "zh-cn": "接近!"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "非线性接近函数"
+      },
+      "image": "images/approaches.svg",
+      "by": [
+        {
+          "name": "DL_Grass",
+          "link": "https://github.com/DLGrass"
+        }
+      ],
+      "original": [
+        {
+          "name": "蓝立方Blue3",
+          "link": "https://space.bilibili.com/25786611"
+        }
+      ]
+    },
+    {
+      "slug": "aiblocks",
+      "id": "aiblocks",
+      "name": "AI in Blocks",
+      "description": "Create AI instances and interact with them using streaming responses",
+      "nameTranslations": {
+        "zh-cn": "AI 积木"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "创建AI实例并使用流式响应与它们交互"
+      },
+      "image": "images/aiblocks.svg",
+      "by": [
+        {
+          "name": "RyaninCn11",
+          "link": "https://github.com/RyaninCn11"
+        }
+      ]
+    },
+    {
+      "slug": "ai",
+      "id": "ai",
+      "name": "AI",
+      "description": "Chat with AI in Scratch. Supports OpenAI and Anthropic APIs with streaming responses.",
+      "image": "images/ai.svg",
+      "by": [
+        {
+          "name": "Kimos Frontender",
+          "link": "https://scratch.mit.edu/users/Kimos-Frontender/"
+        }
+      ]
+    }
+  ]
+}
