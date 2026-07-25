@@ -776,6 +776,101 @@
           "link": null
         }
       ]
+    },
+	{
+      "name": "Perlin-Noise",
+      "description": "Generate randomized Perlin Noise.",
+      "slug": "Perlin-Noise",
+      "id": "Perlin-Noise",
+      "image": "Perlin-Noise.svg",
+	  "by": [
+        {
+          "name": "Ammunimium",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Extra-Controls",
+      "description": "New Advanced Control Blocks",
+      "slug": "Extra-Controls",
+      "id": "Extra-Controls",
+      "image": "Extra-Controls.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "More-Operators",
+      "description": "New Powerful Operator Blocks",
+      "slug": "More-Operators",
+      "id": "More-Operators",
+      "image": "More-Operators.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Captchas (1)",
+      "description": "Simple Client-Based Captchas, this does not promise 100% security",
+      "slug": "Captchas",
+      "id": "Captchas",
+      "image": "Captchas.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Better-Comments",
+      "description": "Better Comments with Color and Text Customization",
+      "slug": "Better-Comments",
+      "id": "Better-Comments",
+      "image": "Better-Comments.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Sprite-Panel",
+      "description": "Addon for viewing and managing Sprites and Clones",
+      "slug": "Sprite-Panel",
+      "id": "Sprite-Panel",
+      "image": "Sprite-Panel.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "FurryR",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "DOM-Selector",
+      "description": "Read Elements and Create Events from the website HTML",
+      "slug": "DOM-Selector",
+      "id": "DOM-Selector",
+      "image": "DOM-Selector.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
