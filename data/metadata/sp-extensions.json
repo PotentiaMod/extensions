@@ -499,6 +499,110 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Script-Control",
+      "id": "Script-Control",
+      "name": "Script-Control",
+      "description": "Monitor and Control specific Scripts in your Project, inspired by 0znzw.",
+      "image": "Script-Control.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Messages-Plus",
+      "id": "Messages-Plus",
+      "name": "Messages-Plus",
+      "description": "Powerful New Message Blocks that work with Vanilla Messages.",
+      "image": "Messages-Plus.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Advanced-Messages",
+      "id": "Advanced-Messages",
+      "name": "Advanced-Messages",
+      "description": "New Message Blocks for Advanced, Non-Vanilla Purposes.",
+      "image": "Advanced-Messages.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Events-Plus",
+      "id": "Events-Plus",
+      "name": "Events-Plus",
+      "description": "New Event Blocks.",
+      "image": "Events-Plus.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Runtime-Events",
+      "id": "Runtime-Events",
+      "name": "Runtime-Events",
+      "description": "Detect Events from Runtime.",
+      "image": "Runtime-Events.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Fetch-Plus",
+      "id": "Fetch-Plus",
+      "name": "Fetch-Plus",
+      "description": "Fetch and Encode Content from URLs while viewing the Progress and Status of the Fetch.",
+      "image": "Fetch-Plus.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Geolocation",
+      "id": "Geolocation",
+      "name": "Geolocation (1)",
+      "description": "Get users' Location and calculate Real-World Distances",
+      "image": "Geolocation.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Spotify",
+      "id": "Spotify",
+      "name": "Spotify",
+      "description": "Fetch Statistics, Information, and Play Songs from Spotify",
+      "image": "Spotify.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
