@@ -720,6 +720,62 @@
           "link": null
         }
       ]
+    },
+	{
+      "name": "Time-Calculation",
+      "description": "Blocks for calculating Time differences.",
+      "slug": "Time-Calculation",
+      "id": "Time-Calculation",
+      "image": "Time-Calculation.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Timezones",
+      "description": "Convert and get the Time in different Timezones.",
+      "slug": "Timezones",
+      "id": "Timezones",
+      "image": "Timezones.svg",
+	  "by": [
+        {
+          "name": "Ammunimium",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Since-2000",
+      "description": "Expansion of the 'since 2000' Blocks.",
+      "slug": "Since-2000",
+      "id": "Since-2000",
+      "image": "Since-2000.svg",
+	  "by": [
+        {
+          "name": "Ammunimium",
+          "link": null
+        },
+		{
+          "name": "0znzw",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Seeds",
+      "description": "Generate random seeded numbers, generated terrain, and more.",
+      "slug": "Seeds",
+      "id": "Seeds",
+      "image": "Seeds.svg",
+	  "by": [
+        {
+          "name": "Ammunimium",
+          "link": null
+        }
+      ]
     }
   ]
 }
