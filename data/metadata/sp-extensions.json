@@ -387,6 +387,19 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Variables-Expanded",
+      "id": "Variables-Expanded",
+      "name": "Variables-Expanded",
+      "description": "New Variable Blocks and New Variable Monitors.",
+      "image": "Variables-Expanded.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
