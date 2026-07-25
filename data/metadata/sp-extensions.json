@@ -124,6 +124,58 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Hyper-Sense",
+      "id": "Hyper-Sense",
+      "name": "Hyper-Sense",
+      "description": "New Sensing Blocks",
+      "image": "Hyper-Sense.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Keys-Plus-V2",
+      "id": "Keys-Plus-V2",
+      "name": "Keys-Plus-V2",
+      "description": "Powerful and flexible Key detection Blocks with some additional features (No longer maintained)",
+      "image": "Keys-Plus-V2.svg",
+      "by": [
+        {
+          "name": "StackOverflow",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Popup-Phoenix",
+      "id": "Popup-Phoenix",
+      "name": "Popup-Phoenix",
+      "description": "Create and design custom Popups! A remaster of 'Better Input'",
+      "image": "Popup-Phoenix.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Better-Input",
+      "id": "Better-Input",
+      "name": "Better-Input",
+      "description": "Expansion of the 'Ask and Wait' Block. Deprecated, please use Popup-Phoenix'",
+      "image": "Better-Input.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
