@@ -474,7 +474,7 @@
       "slug": "Font-Manager",
       "id": "Font-Manager",
       "name": "Font-Manager",
-      "description": "Better Text to Speech using the TikTok API.",
+      "description": "Manage, Create, and Delete Fonts from your Project.",
       "image": "Font-Manager.svg",
       "by": [
         {
