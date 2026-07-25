@@ -176,6 +176,32 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Camera-Sensing-Plus",
+      "id": "Camera-Sensing-Plus",
+      "name": "Camera-Sensing-Plus",
+      "description": "Expansion of the 'Video Sensing' extension. Display the Camera on Sprites and take Photos",
+      "image": "Camera-Sensing-Plus.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Particle-Engine",
+      "id": "Particle-Engine",
+      "name": "Particle-Engine",
+      "description": "Create customizable and powerful Particle Engines with NO Clones.",
+      "image": "Particle-Engine.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
