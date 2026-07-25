@@ -603,6 +603,71 @@
           "link": null
         }
       ]
+    },
+		{
+      "slug": "SoundCloud-API",
+      "id": "SoundCloud-API",
+      "name": "SoundCloud-API",
+      "description": "Fetch Tracks, Artists, and Statistics from Soundcloud.",
+      "image": "SoundCloud-API.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Google-Spreadsheets",
+      "id": "Google-Spreadsheets",
+      "name": "Google-Spreadsheets",
+      "description": "Read and Write Google Spreadsheets.",
+      "image": "Google-Spreadsheets.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Money-Utilities",
+      "id": "Money-Utilities",
+      "name": "Money-Utilities",
+      "description": "Convert Currencies and get Currency Information.",
+      "image": "Money-Utilities.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Display-Text",
+      "id": "Display-Text",
+      "name": "Display-Text",
+      "description": "Display Text in your Projects, with Markdown Support.",
+      "image": "Display-Text.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Color-Master",
+      "id": "Color-Master",
+      "name": "Color-Master",
+      "description": "Color Utility and Conversion Blocks.",
+      "image": "Color-Master.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
