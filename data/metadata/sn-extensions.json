@@ -1,0 +1,134 @@
+{
+  "extensions": [
+    {
+      "slug": "Prompts",
+      "id": "Prompts",
+      "name": "Prompts",
+      "description": "Good prompts for PenguinGPT",
+      "image": "Prompts.png",
+      "by": [
+        {
+          "name": "LoganCreatez",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "api",
+      "id": "api",
+      "name": "SnailShare API",
+      "description": "Fetch details of projects and users from Snailshare.",
+      "image": "snailideapiext.png",
+      "by": [
+        {
+          "name": "BA4X",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "CharCoalAfterLife/rounding",
+      "id": "rounding",
+      "name": "Rounding+",
+      "description": "Expansion to the rounding blocks",
+      "image": "CharCoalAfterLife/rounding.png",
+      "by": [
+        {
+          "name": "CharCoalAfterLife",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "random_utils",
+      "id": "random_utils",
+      "name": "Random Utils",
+      "description": "Random utilites that you may or may not use.",
+      "image": "random.png",
+      "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "save",
+      "id": "save",
+      "name": "Save Data",
+      "description": "Extremely easy way to save data.",
+      "image": "cool.svg",
+      "by": [
+        {
+          "name": "Mr_rudy",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "grayscale",
+      "id": "grayscale",
+      "name": "Grayscale",
+      "description": "Toggle a dramatic grayscale effect on your project.",
+      "image": "grayscale.svg",
+      "by": [
+        {
+          "name": "Mr_rudy",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "iss",
+      "id": "iss",
+      "name": "ISS",
+      "description": "Get the latitude and longitude of the International Space Station",
+      "image": "iss.jpg",
+      "by": [
+        {
+          "name": "redspacecat",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "browserandosinfo",
+      "id": "browserandosinfo",
+      "name": "Browser & OS Information",
+      "description": "Get information about the user's browser and operating system",
+      "image": "browserandosinfo.png",
+      "by": [
+        {
+          "name": "redspacecat",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "urlinfo",
+      "id": "urlinfo",
+      "name": "URL Information",
+      "description": "Get information about the URL",
+      "image": "urlinfo.png",
+      "by": [
+        {
+          "name": "redspacecat",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Time_Utilities",
+      "id": "Time_Utilities",
+      "name": "Time Utils",
+      "description": "Simple blocks to handle time.",
+      "image": "time.svg",
+      "by": [
+        {
+          "name": "GingerNinjaStickdudeWorld",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
