@@ -26,12 +26,51 @@
         }
       ]
     },
-{
+   {
       "slug": "Scratch-Utilities",
       "id": "Scratch-Utilities",
       "name": "Scratch-Utilities",
       "description": "Blocks for fetching Scratch statistics and assets, inspired by NexusKitten's S-Grab.",
       "image": "Scratch-Utilities.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Tune-Shark-V3",
+      "id": "Tune-Shark-V3",
+      "name": "Tune-Shark-V3",
+      "description": "Advanced Audio Engine with complex Sound Control, Audio Effects and more.",
+      "image": "Tune-Shark-V3.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Tune-Shark",
+      "id": "Tune-Shark",
+      "name": "Tune-Shark",
+      "description": "Outdated Sound Engine for playing sounds. Please use Tune Shark V3.",
+      "image": "Tune-Shark.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Camera (1)",
+      "id": "Camera",
+      "name": "Camera",
+      "description": "Use Cameras to move the visible part of the Stage.",
+      "image": "Camera.svg",
       "by": [
         {
           "name": "SharkPool",
