@@ -52,12 +52,72 @@
         }
       ]
     },
-{
+   {
       "slug": "Tune-Shark",
       "id": "Tune-Shark",
       "name": "Tune-Shark",
       "description": "Outdated Sound Engine for playing sounds. Please use Tune Shark V3.",
       "image": "Tune-Shark",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Camera",
+      "id": "Camera",
+      "name": "Camera",
+      "description": "Use Cameras to move the visible part of the Stage",
+      "image": "Camera.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Added-Motion",
+      "id": "Added-Motion",
+      "name": "Added-Motion",
+      "description": "New Motion Blocks",
+      "image": "Added-Motion.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Geometry-Dash-API",
+      "id": "Geometry-Dash-API",
+      "name": "Geometry-Dash-API",
+      "description": "Fetch statistics and information from Geometry Dash. Deprecated, expect incorrect values.",
+      "image": "Geometry-Dash-API.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "RobTopGames",
+          "link": null
+        },
+		{
+          "name": "GD Colon",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Sound-Waves",
+      "id": "Sound-Waves",
+      "name": "Sound-Waves",
+      "description": "Play various Oscillators in your Project.",
+      "image": "Sound-Waves.svg",
       "by": [
         {
           "name": "SharkPool",
