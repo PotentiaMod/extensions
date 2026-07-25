@@ -250,8 +250,47 @@
       "slug": "Image-Effects",
       "id": "Image-Effects",
       "name": "Image-Effects",
-      "description": "Apply Effects and Filters to Images",
+      "description": "Apply Effects and Filters to Images.",
       "image": "Image-Effects.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Image-Editor",
+      "id": "Image-Editor",
+      "name": "Image-Editor",
+      "description": "Create and modify images and their pixel data.",
+      "image": "Image-Editor.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Pixel-Utilities",
+      "id": "Pixel-Utilities",
+      "name": "Pixel-Utilities",
+      "description": "Some Utility Blocks that Roltycore 2's Developer made for some reason.",
+      "image": "Pixel-Utilities.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Recording-V2",
+      "id": "Recording-V2",
+      "name": "Recording",
+      "description": "Blocks for Recording your Microphone while your Project runs.",
+      "image": "Recording.svg",
       "by": [
         {
           "name": "SharkPool",
