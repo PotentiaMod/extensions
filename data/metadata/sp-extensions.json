@@ -400,6 +400,49 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Sty-Lists",
+      "id": "Sty-Lists",
+      "name": "Sty-Lists",
+      "description": "Customize and Organize List Monitors",
+      "image": "Sty-Lists.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Gamepad-Expanded",
+      "id": "Gamepad-Expanded",
+      "name": "Gamepad-Expanded",
+      "description": "Expansion of Garbomuffin's Gamepad Extension.",
+      "image": "Gamepad-Expanded.svg",
+      "by": [
+        {
+          "name": "DNin01",
+          "link": null
+        },
+        {
+          "name": "Meehdrescher",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Tile-Grids",
+      "id": "Tile-Grids",
+      "name": "Tile-Grids",
+      "description": "Position Sprites on Tile Grids.",
+      "image": "Tile-Grids.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
