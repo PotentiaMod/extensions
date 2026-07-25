@@ -146,7 +146,7 @@
       "image": "Keys-Plus-V2.svg",
       "by": [
         {
-          "name": "SharkPool",
+          "name": "StackOverflow",
           "link": null
         }
       ]
@@ -196,6 +196,62 @@
       "name": "Particle-Engine",
       "description": "Create customizable and powerful Particle Engines with NO Clones.",
       "image": "Particle-Engine.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Particle-Tools",
+      "id": "Particle-Tools",
+      "name": "Particle-Tools",
+      "description": "Tools that make creating Particle Systems easy.",
+      "image": "Particle-Tools.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Looks-Expanded",
+      "id": "Looks-Expanded",
+      "name": "Looks-Expanded",
+      "description": "Expansion of the Looks Category.",
+      "image": "Looks-Expanded.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "CST1229",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Sprite-Effects",
+      "id": "Sprite-Effects",
+      "name": "Sprite-Effects",
+      "description": "Apply SVG Filters to Images, Sprites, and the Canvas! Faster than Image Effects.",
+      "image": "Sprite-Effects.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Image-Effects",
+      "id": "Image-Effects",
+      "name": "Image-Effects",
+      "description": "Apply Effects and Filters to Images",
+      "image": "Image-Effects.svg",
       "by": [
         {
           "name": "SharkPool",
