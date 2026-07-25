@@ -1,0 +1,95 @@
+{
+  "extensions": [
+    {
+        "name": "Debugger Console",
+        "description": "Based on Turbowarp CN's Debugger by NOname",
+        "slug": "Aness6040/debuggerconsole",
+        "id": "debuggerconsole",
+        "image": "Aness6040/debuggerconsole.svg",
+        "by": [
+        {
+          "name": "Aness6040",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Lazy Multi-lines",
+        "description": "A handy extension for JavaScript Extension or to create your own text file!",
+        "slug": "Aness6040/lazymultilines",
+        "id": "lazymultilines",
+        "image": "Aness6040/lazymultilines.svg",
+        "by": [
+        {
+          "name": "Aness6040",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Jul Mik Utilities",
+        "description": "An Extension of Blocks Utilities by Jul Mik (V1 and V2 when named Jul Mik Blocks with Turbobuilder) and helped by Aness6040 (Actual v3)",
+        "slug": "julmik6478/julmik_utilities",
+        "id": "julmik_utilities",
+        "image": "julmik6478/julmik_utilities.svg",
+		"by": [
+        {
+          "name": "julmik6478",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "GLSL Custom Shader",
+        "description": "GLSL Shaders on Scratch by PROMISE",
+        "slug": "Aness6040/custom-shader",
+        "id": "custom-shader",
+        "image": "PROMISE/custom_shader.png",
+		"by": [
+        {
+          "name": "Aness6040",
+          "link": null
+        }
+      ]
+    }, 
+    {
+        "name": "ElectraAPI",
+        "description": "Based on Pang API for ElectraMod.",
+        "slug": "Aness6040/electraapi",
+        "id": "electraapi",
+        "image": "Aness6040/electraapi.svg",
+        "by": [
+        {
+          "name": "Aness6040",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "ElectraGPT",
+        "description": "ElectraMod modification of PenguinGPT! Adds more prompts like Mishael or Slixbot!\nElectraGPT banner by Aness6040",
+        "slug": "MubiLop/electragpt",
+        "id": "electragpt",
+        "image": "MubiLop/electragpt.png",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Markdown to HTML",
+        "description": "Converts Markdown to HTML code.",
+        "slug": "Aness6040/md2html",
+        "id": "md2html",
+        "image": "Aness6040/md2html.png",
+        "by": [
+        {
+          "name": "Aness6040",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
