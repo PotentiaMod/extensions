@@ -668,6 +668,58 @@
           "link": null
         }
       ]
+    },
+		{
+      "slug": "QR-Codes",
+      "id": "QR-Codes",
+      "name": "QR-Codes",
+      "description": "Create and Read QR Codes on the Client.",
+      "image": "QR-Codes.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "Speech-Bubbles",
+      "id": "Speech-Bubbles",
+      "name": "Speech-Bubbles",
+      "description": "Customizable Speech Bubbles.",
+      "image": "Speech-Bubbles.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Layer-Control",
+      "id": "Layer-Control",
+      "name": "Layer-Control",
+      "description": "Relayer Pen, Video Camera, Backdrops, Sprites and more.",
+      "image": "Layer-Control.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Renderer-Control",
+      "id": "Renderer-Control",
+      "name": "Renderer-Control",
+      "description": "Control the visuals of Pen, Video Camera, Backdrops, Sprites and more.",
+      "image": "Renderer-Control.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
