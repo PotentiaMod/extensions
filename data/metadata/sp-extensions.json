@@ -435,8 +435,64 @@
       "slug": "Tile-Grids",
       "id": "Tile-Grids",
       "name": "Tile-Grids",
-      "description": "Position Sprites on Tile Grids.",
+      "description": "Manage, Create, and Delete Fonts from your Project.",
       "image": "Tile-Grids.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Animations",
+      "id": "Animations",
+      "name": "Animations",
+      "description": "Create Animations and Keyframes in your Project.",
+      "image": "Animations.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Text-to-Speech",
+      "id": "Text-to-Speech",
+      "name": "Text-to-Speech",
+      "description": "Better Text to Speech using the TikTok API.",
+      "image": "Text-to-Speech.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Font-Manager",
+      "id": "Font-Manager",
+      "name": "Font-Manager",
+      "description": "Better Text to Speech using the TikTok API.",
+      "image": "Font-Manager.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "0znzw",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Pause-Utilities",
+      "id": "Pause-Utilities",
+      "name": "Pause-Utilities",
+      "description": "Pause your Project, Scripts, and Sprites.",
+      "image": "Pause-Utilities.svg",
       "by": [
         {
           "name": "SharkPool",
