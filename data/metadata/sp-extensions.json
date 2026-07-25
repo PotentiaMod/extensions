@@ -87,7 +87,7 @@
       "by": [
         {
           "name": "SharkPool",
-          "link": null
+           "link": null
         }
       ]
     },
@@ -170,6 +170,19 @@
       "name": "Better-Input",
       "description": "Expansion of the 'Ask and Wait' Block. Deprecated, please use Popup-Phoenix'",
       "image": "Better-Input.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Camera-Sensing-Plus",
+      "id": "Camera-Sensing-Plus",
+      "name": "Camera-Sensing-Plus",
+      "description": "Expansion of the 'Video Sensing' extension. Display the Camera on Sprites and take Photos",
+      "image": "Camera-Sensing-Plus.svg",
       "by": [
         {
           "name": "SharkPool",
