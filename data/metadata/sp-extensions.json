@@ -297,6 +297,96 @@
           "link": null
         }
       ]
+    },
+   {
+      "slug": "Newgrounds-Audio",
+      "id": "Newgrounds-Audio",
+      "name": "Newgrounds-Audio",
+      "description": "Fetch Audio and Audio Information from Newgrounds. Works best with Tune Shark V3.",
+      "image": "Newgrounds-Audio.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Sprite-Parenting",
+      "id": "Sprite-Parenting",
+      "name": "Sprite-Parenting",
+      "description": "Link Sprites together and make them follow their parent's movement.",
+      "image": "Sprite-Parenting.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Rigidbodies",
+      "id": "Rigidbodies",
+      "name": "Rigidbodies",
+      "description": "Fast, math-based Collision detections using Rigidbodies.",
+      "image": "Rigidbodies.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Lazy-Collisions",
+      "id": "Lazy-Collisions",
+      "name": "Lazy-Collisions",
+      "description": "Utility Blocks that make detecting box Collisions easy and fast.",
+      "image": "Lazy-Collisions.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "Food",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Files-Expanded",
+      "id": "Files-Expanded",
+      "name": "Files-Expanded",
+      "description": "Expansion of GarboMuffin's File Extension.",
+      "image": "Files-Expanded.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+        {
+          "name": "Drago Cuven",
+          "link": null
+        },
+        {
+          "name": "0znzw",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Temporary-Variables",
+      "id": "Temporary-Variables",
+      "name": "Temporary-Variables",
+      "description": "Create Temporary Variables for Sprites, Threads, and the Project.",
+      "image": "Temporary-Variables.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
