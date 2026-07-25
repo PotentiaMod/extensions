@@ -953,6 +953,60 @@
           "link": null
         }
       ]
+    },
+	
+    
+    {
+      "name": "Turbo-Skins",
+      "description": "Improved Skins extension, inspired by LilyMakesThings",
+      "slug": "Turbo-Skins",
+      "id": "Turbo-Skins",
+      "image": "Turbo-Skins.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "Scenes",
+      "description": "Create Scenes (savestates), like Unity, in your Project",
+      "slug": "Scenes",
+      "id": "Scenes",
+      "image": "Scenes.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "Pen-Papers",
+      "description": "Create Multiple Pen Layers! Inspired by ObviousAlex",
+      "slug": "Pen-Papers",
+      "id": "Pen-Papers",
+      "image": "Pen-Papers.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "MIDI-Tools",
+      "description": "Utilities For Making Midi Notes Into Functions",
+      "slug": "MIDI-Tools",
+      "id": "MIDI-Tools",
+      "image": "MIDI-Tools.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
