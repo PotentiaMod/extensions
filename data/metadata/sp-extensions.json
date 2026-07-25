@@ -871,6 +871,88 @@
           "link": null
         }
       ]
+    },
+	{
+      "name": "SVG-Spritesheets",
+      "description": "Create and Export SVG Spritesheets",
+      "slug": "SVG-Spritesheets",
+      "id": "SVG-Spritesheets",
+      "image": "SVG-Spritesheets.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "Community-Spotlight",
+      "description": "Display and Promote Projects for free",
+      "slug": "Community-Spotlight",
+      "id": "Community-Spotlight",
+      "image": "Community-Spotlight.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        },
+		{
+          "name": "Community Spotlight Team",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "GIF-Manager",
+      "description": "Create and Split GIF Frames",
+      "slug": "GIF-Manager",
+      "id": "GIF-Manager",
+      "image": "GIF-Manager.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "Swift-JSON",
+      "description": "Super Fast JSON and Array extension",
+      "slug": "JSON-Array",
+      "id": "JSON-Array",
+      "image": "JSON-Array.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "My-Blocks-Plus",
+      "description": "Better Custom Blocks",
+      "slug": "My-Blocks-Plus",
+      "id": "My-Blocks-Plus",
+      "image": "My-Blocks-Plus.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+    {
+      "name": "Dropdown-Maker",
+      "description": "Create Custom Dropdowns! Best paired with My Blocks+",
+      "slug": "Dropdown-Maker",
+      "id": "Dropdown-Maker",
+      "image": "Dropdown-Maker.svg",
+	  "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
     }
   ]
 }
