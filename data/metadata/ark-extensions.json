@@ -67,13 +67,52 @@
     },
 	{
       "slug": "Ark/comments",
-      "id": "comments",
+      "id": "comments1",
       "name": "Comments (2)",
       "description": "Adds comment blocks to your project.",
       "image": "Ark/comments.png",
       "by": [
         {
           "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Askyy/Advanced_keyboard",
+      "id": "Advanced_keyboard",
+      "name": "Advanced Keyboard",
+      "description": "Upgraded keyboard input: key combos (2–5 keys), long press detection, WASD direction, key counters, HAT events with edge trigger, and last key tracking..",
+      "image": "Askyy/keyboard.jpg",
+      "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Askyy/Devs_utilities_ex",
+      "id": "Devs_utilities_e",
+      "name": "Game Dev Utils",
+      "description": "Essential game dev blocks: FPS counter, delta time, frame count, rectangle collision, LERP, distance & angle calculations, camera follow, snap-to-grid, named timers, and screen wrap.",
+      "image": "Askyy/game_dev_utils.jpg",
+      "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Askyy/Devs_utilities_ex",
+      "id": "Devs_utilities_ex",
+      "name": "Game Dev Utils",
+      "description": "Essential game dev blocks: FPS counter, delta time, frame count, rectangle collision, LERP, distance & angle calculations, camera follow, snap-to-grid, named timers, and screen wrap.",
+      "image": "Askyy/game_dev_utils.jpg",
+      "by": [
+        {
+          "name": "Askyy",
           "link": null
         }
       ]
