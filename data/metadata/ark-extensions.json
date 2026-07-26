@@ -38,6 +38,45 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "Ark/timerutils",
+      "id": "timerutils",
+      "name": "Timer Utils",
+      "description": "An extension that helps you count down to certain dates without having to do a bunch of math and coding.",
+      "image": "Ark/timerutils.svg",
+      "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Ark/store-my-stuff",
+      "id": "store-my-stuff",
+      "name": "Store My Stuff",
+      "description": "Another varible storage extension but the server is running on the centeral ArkIDE server instead.",
+      "image": "Ark/storemystuff.png",
+      "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Ark/comments",
+      "id": "comments",
+      "name": "Comments (1)",
+      "description": "Adds comment blocks to your project.",
+      "image": "Ark/comments.png",
+      "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
     }
   ]
 }
