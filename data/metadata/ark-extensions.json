@@ -1,0 +1,147 @@
+{
+  "extensions": [
+{
+        "name": "ArkIDE additions",
+        "description": "A simple extension that adds some cool new blocks for ArkIDE.",
+        "slug": "Ark/arkide-additons",
+        "id": "arkide-additons",
+        "image": "Ark/banner.png",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Json Number Array Operations",
+        "description": "A nice extension that adds useful operation blocks for Json Number Arrays.",
+        "slug": "Ark/jsonnumberarray",
+        "id": "jsonnumberarray",
+        "image": "Ark/jsonant.png",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "ArkIDE Console",
+        "description": "Add a console to your project to log messages, errors, and warnings.",
+        "slug": "Ark/arkide-console",
+        "id": "arkide-console",
+        "image": "Ark/console.png",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Timer Utils",
+        "description": "An extension that helps you count down to certain dates without having to do a bunch of math and coding.",
+        "slug": "Ark/timerutils",
+        "id": "timerutils",
+        "image": "Ark/timerutils.svg",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Store My Stuff",
+        "description": "Another varible storage extension but the server is running on the centeral ArkIDE server instead.",
+        "slug": "Ark/store-my-stuff",
+        "id": "store-my-stuff",
+        "image": "Ark/storemystuff.png",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Comments",
+        "description": "Adds comment blocks to your project.",
+        "slug": "Ark/comments",
+        "id": "comments",
+        "image": "Ark/comments.png",
+        "by": [
+        {
+          "name": "Ark",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Advanced Keyboard",
+        "description": "Upgraded keyboard input: key combos (2–5 keys), long press detection, WASD direction, key counters, HAT events with edge trigger, and last key tracking..",
+        "slug": "Askyy/Advanced_keyboard",
+        "id": "Advanced_keyboard",
+        "image": "Askyy/keyboard.jpg",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Game Dev Utils",
+        "description": "Essential game dev blocks: FPS counter, delta time, frame count, rectangle collision, LERP, distance & angle calculations, camera follow, snap-to-grid, named timers, and screen wrap.",
+        "slug": "Askyy/Devs_utilities_ex",
+        "id": "Devs_utilities_ex",
+        "image": "Askyy/game_dev_utils.jpg",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Geography",
+        "description": "Country data for 195+ nations: capital, population, region, subregion, currency, timezone, flag URL, languages. Plus live geolocation and IP address lookup.",
+        "slug": "Askyy/Geography_ex",
+        "id": "Geography_ex",
+        "image": "Askyy/geography.jpg",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Internet & Device",
+        "description": "Read device info directly from the browser: connection status, browser name/version, screen size, CPU cores, memory, orientation, language, battery level and charging state.",
+        "slug": "Askyy/Internet_Device_ex",
+        "id": "Internet_Device_ex",
+        "image": "Askyy/internet_and_device.jpg",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Weather",
+        "description": "Real-time weather for 300+ world cities via Open-Meteo: temperature, feels like, humidity, wind speed & direction, weather description, rain/snow detection, and tomorrow's forecast.",
+        "slug": "Askyy/Weather_ex",
+        "id": "Weather_ex",
+        "image": "Askyy/weather.png",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
