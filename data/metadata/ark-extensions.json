@@ -117,5 +117,31 @@
         }
       ]
     }
+	    {
+        "name": "Internet & Device",
+        "description": "Read device info directly from the browser: connection status, browser name/version, screen size, CPU cores, memory, orientation, language, battery level and charging state.",
+        "slug": "Askyy/Internet_Device_ex",
+        "id": "Internet_Device_ex",
+        "image": "Askyy/internet_and_device.jpg",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "name": "Weather",
+        "description": "Real-time weather for 300+ world cities via Open-Meteo: temperature, feels like, humidity, wind speed & direction, weather description, rain/snow detection, and tomorrow's forecast.",
+        "slug": "Askyy/Weather_ex",
+        "id": "Weather_ex",
+        "image": "Askyy/weather.png",
+        "by": [
+        {
+          "name": "Askyy",
+          "link": null
+        }
+      ]
+    }
   ]
 }
