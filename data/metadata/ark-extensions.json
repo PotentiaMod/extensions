@@ -105,11 +105,11 @@
       ]
     },
 	{
-      "slug": "Askyy/Devs_utilities_ex",
-      "id": "Devs_utilities_ex",
-      "name": "Game Dev Utils",
-      "description": "Essential game dev blocks: FPS counter, delta time, frame count, rectangle collision, LERP, distance & angle calculations, camera follow, snap-to-grid, named timers, and screen wrap.",
-      "image": "Askyy/game_dev_utils.jpg",
+      "slug": "Askyy/Geography_ex",
+      "id": "Geography",
+      "name": "Geography (1)",
+      "description": "Country data for 195+ nations: capital, population, region, subregion, currency, timezone, flag URL, languages. Plus live geolocation and IP address lookup.",
+      "image": "Askyy/geography.jpg",
       "by": [
         {
           "name": "Askyy",
