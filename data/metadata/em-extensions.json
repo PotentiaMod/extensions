@@ -40,19 +40,6 @@
       ]
     },
     {
-        "name": "GLSL Custom Shader",
-        "description": "GLSL Shaders on Scratch by PROMISE",
-        "slug": "Aness6040/custom-shader",
-        "id": "custom-shader",
-        "image": "PROMISE/custom_shader.png",
-		"by": [
-        {
-          "name": "Aness6040",
-          "link": null
-        }
-      ]
-    }, 
-    {
         "name": "ElectraAPI",
         "description": "Based on Pang API for ElectraMod.",
         "slug": "Aness6040/electraapi",
