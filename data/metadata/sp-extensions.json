@@ -566,8 +566,8 @@
       ]
     },
 	{
-      "slug": "Fetch-Plus",
-      "id": "Fetch-Plus",
+      "slug": "Fetch-Progress",
+      "id": "Fetch-Progress",
       "name": "Fetch-Plus",
       "description": "Fetch and Encode Content from URLs while viewing the Progress and Status of the Fetch.",
       "image": "Fetch-Plus.svg",
