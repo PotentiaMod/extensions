@@ -139,8 +139,8 @@
       ]
     },
 	{
-      "slug": "Keys-Plus-V2",
-      "id": "Keys-Plus-V2",
+      "slug": "KeysPlusV2",
+      "id": "KeysPlusV2",
       "name": "Keys-Plus-V2",
       "description": "Powerful and flexible Key detection Blocks with some additional features (No longer maintained)",
       "image": "Keys-Plus-V2.svg",
