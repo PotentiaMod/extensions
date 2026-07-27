@@ -66,9 +66,9 @@
       ]
     },
 	{
-      "slug": "Camera (1)",
+      "slug": "Camera",
       "id": "Camera",
-      "name": "Camera",
+      "name": "Camera (1)",
       "description": "Use Cameras to move the visible part of the Stage.",
       "image": "Camera.svg",
       "by": [
