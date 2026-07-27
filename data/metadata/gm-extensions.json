@@ -14,8 +14,8 @@
       ]
     },
     {
-      "slug": "GaiaWindWave90/cocreaFetch",
-      "id": "cocreaFetch",
+      "slug": "GaiaWindWave90/CocreaFetch",
+      "id": "CocreaFetch",
       "name": "Cocrea Fetch",
       "description": "Fetches API from Cocrea or Gandi IDE. Original by fath11.",
       "image": "GaiaWindWave90/cocreaFetch.png",
