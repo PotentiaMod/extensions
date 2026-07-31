@@ -6,7 +6,12 @@
       "name": "Base Extension",
       "description": "Example extension",
       "image": "placeholder.png",
-      "by": "Unknown"
+      "by": [
+        {
+          "name": "Unknown",
+          "link": "https://github.com/"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,132 @@
+{
+  "extensions": [
+    {
+      "slug": "acidmod/acidTest",
+      "id": "acidTest",
+      "name": "AcidMod Test",
+      "description": "Blocks used for testing stuff in AcidMod.",
+      "image": "acidmod/test.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/"
+        }
+      ],
+      "original": [
+        {
+          "name": "AcidMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "acidmod/AcidAI",
+      "id": "gemini",
+      "name": "AcidAI",
+      "description": "AcidAI extension, powered by Google Gemini",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ],
+      "original": [
+        {
+          "name": "RubyTeam",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "acidmod/cooleans",
+      "id": "acidCoolean",
+      "name": "Cooleans",
+      "description": "Cooleans, the definitive way of if condition reporters",
+      "image": "acidmod/cooleans.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    },
+    {
+      "slug": "acidmod/superVars",
+      "id": "acidSuperVars",
+      "name": "Super Variables",
+      "description": "Super Variables, advanced variable creation and clearing on a separate temporary spectrum",
+      "image": "acidmod/superVars.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    },
+    {
+      "slug": "acidmod/acidConsole",
+      "id": "acidmodConsole",
+      "name": "Console",
+      "description": "Interact with your developer console.",
+      "image": "acidmod/acidConsole.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    },
+	{
+      "slug": "bananamod/italianbrainrot",
+      "id": "italianbrainrot",
+      "name": "Italian Brainrot Extension",
+      "description": "Let the brainrot enter!",
+      "image": "bananamod/itbr.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "bananamod/pydatabase",
+      "id": "pydatabase",
+      "name": "PyDataBase",
+      "description": "Free file uploads",
+      "image": "bananamod/PYDatabase.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "bananamod/memeextension",
+      "id": "memeextension",
+      "name": "Meme Extension",
+      "description": "Get fresh baked memes.",
+      "image": "bananamod/memeextension.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "bananamod/blockBeat",
+      "id": "blockBeat",
+      "name": "BlockBeat (May not work)",
+      "description": "Generate cool beats using Bytebeat",
+      "image": "bananamod/blockBeat.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    }
+  ]
+}
