@@ -77,6 +77,31 @@
           "link": "https://github.com/gaiawindwave90/"
         }
       ]
+    },
+	{
+      "slug": "GaiaWindWave90/DingDongDitch",
+      "id": "dingDongDitch",
+      "name": "Ding Dong Ditch",
+      "description": "Something I did for fun.",
+      "image": "GaiaWindWave90/DingDongDitch.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+	{
+      "slug": "GaiaWindWave90/PonySpawner",
+      "id": "ponyspawn",
+      "name": "Pony Spawner",
+      "description": "Spawn characters from MLP:FIM for fun!",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
     }
   ]
 }
