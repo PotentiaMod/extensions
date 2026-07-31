@@ -65,6 +65,19 @@
         }
       ]
     },
+	{
+      "slug": "GaiaWindWave90/Webcamrecorder",
+      "id": "Webcamrecorder",
+      "name": "Webcam Recorder",
+      "description": "Records videos straight out of webcam.",
+      "image": "GaiaWindWave90/WebCamThumb.png",
+      "by": [
+        {
+          "name": "-SIPC-, with modifications by GaiaWindWave90",
+          "link": null
+        }
+      ]
+    },
     {
       "slug": "GaiaWindWave90/SpinachFacts",
       "id": "ahoySpinach",
