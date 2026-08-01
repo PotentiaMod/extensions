@@ -216,7 +216,12 @@ body {
 </div>
 <script>
 // Uhhh ignore this
-      if (location.search == '?popcorn=true') { document.body.style.fontFamily = "Comic Sans MS, sans-serif, Arial"; };
+  if (location.search == '?popcorn=true') { 
+      document.body.style.fontFamily = "Comic Sans MS"; 
+      document.body.style.background = "white";
+      document.body.style.color = "black";
+      document.body.style.fontSize = "25px";
+      };
 
 // Define the endpoint for extension metadata
 const METADATA_URL = 'https://potentiamod.github.io/extensions/data/metadata/tw-extensions.json';
