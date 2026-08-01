@@ -1,6 +1,6 @@
 // Name: AI in Blocks
 // ID: aiblocks
-// Description: Create AI instances and interact with them using streaming responses
+// Description: Create AI instances and interact with them using streaming responses.
 // By: RyaninCn11 <https://github.com/RyaninCn11>
 // License: MIT
 
@@ -367,3 +367,4 @@
 
     Scratch.extensions.register(new DeepSeekDynamicInstanceStream());
 })(Scratch);
+// 哦不不不你拓展描述没写标点被检查出来了......

@@ -1,8 +1,8 @@
 // Name: Approaches!
 // ID: approaches
 // Description: Nonlinear approach functions.
+// By: 蓝立方Blue3 <https://space.bilibili.com/25786611>
 // By: DL_Grass <https://github.com/DLGrass>
-// Original: 蓝立方Blue3 <https://space.bilibili.com/25786611>
 // License: MIT
 
 (function (Scratch) {

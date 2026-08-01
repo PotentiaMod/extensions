@@ -84,14 +84,12 @@
       "image": "approaches.svg",
       "by": [
         {
-          "name": "DL_Grass",
-          "link": "https://github.com/DLGrass"
-        }
-      ],
-      "original": [
-        {
           "name": "蓝立方Blue3",
           "link": "https://space.bilibili.com/25786611"
+        },
+        {
+          "name": "DL_Grass",
+          "link": "https://github.com/DLGrass"
         }
       ]
     },
@@ -124,6 +122,25 @@
         {
           "name": "Kimos Frontender",
           "link": "https://scratch.mit.edu/users/Kimos-Frontender/"
+        }
+      ]
+    },
+    {
+      "slug": "lingdongpopup",
+      "id": "lingdongpopup",
+      "name": "LingDong Popup",
+      "description": "A better, more concise and efficient popup extension.",
+      "nameTranslations": {
+        "zh-cn": "灵动弹窗"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "一个更好的、更简洁高效的弹窗扩展"
+      },
+      "image": "lingdongpopup.svg",
+      "by": [
+        {
+          "name": "勇敢的菠萝🍍",
+          "link": "https://space.bilibili.com/521949499"
         }
       ]
     }

@@ -1,6 +1,6 @@
 // Name: String Tools
 // ID: stringtools
-// Description: Make handling strings more convenient
+// Description: Make handling strings more convenient.
 // By: DL_Grass <https://github.com/DLGrass>
 // License: MIT
 

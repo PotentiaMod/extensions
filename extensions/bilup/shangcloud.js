@@ -1,6 +1,6 @@
 // Name: ShangCloud
 // ID: shangcloud
-// Description: ShangCloud SDK for Scratch
+// Description: ShangCloud SDK for Scratch.
 // By: Yearnstudio <https://yearn.studio>
 // SkipProcessing: true
 // License: MIT
