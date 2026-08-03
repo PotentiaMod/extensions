@@ -4,7 +4,7 @@
       "slug": "shangcloud",
       "id": "shangcloud",
       "name": "ShangCloud",
-      "description": "ShangCloud SDK for Scratch",
+      "description": "ShangCloud SDK for Scratch.",
       "image": "shangcloud.png",
       "by": [
         {
@@ -55,7 +55,7 @@
       "slug": "stringtools",
       "id": "stringtools",
       "name": "String Tools",
-      "description": "Make handling strings more convenient",
+      "description": "Make handling strings more convenient.",
       "nameTranslations": {
         "zh-cn": "字符串处理"
       },
@@ -97,7 +97,7 @@
       "slug": "aiblocks",
       "id": "aiblocks",
       "name": "AI in Blocks",
-      "description": "Create AI instances and interact with them using streaming responses",
+      "description": "Create AI instances and interact with them using streaming responses.",
       "nameTranslations": {
         "zh-cn": "AI 积木"
       },
@@ -139,7 +139,26 @@
       "image": "lingdongpopup.svg",
       "by": [
         {
-          "name": "勇敢的菠萝🍍",
+          "name": "勇敢的菠萝",
+          "link": "https://space.bilibili.com/521949499"
+        }
+      ]
+    },
+    {
+      "slug": "xiaoboluotoolbox",
+      "id": "xiaoboluotoolbox",
+      "name": "Xiaoboluo's ToolBox",
+      "description": "A comprehensive toolbox with list, text, math, and utility blocks for Scratch projects.",
+      "nameTranslations": {
+        "zh-cn": "小菠萝的工具箱"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "将列表、文本、数学、等实用工具整合在了一起"
+      },
+      "image": "xiaoboluotoolbox.svg",
+      "by": [
+        {
+          "name": "勇敢的菠萝",
           "link": "https://space.bilibili.com/521949499"
         }
       ]
