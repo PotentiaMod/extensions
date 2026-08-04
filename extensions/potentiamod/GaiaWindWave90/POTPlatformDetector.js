@@ -1,0 +1,67 @@
+(function (Scratch) {
+    "use strict";
+class platformDetector {
+    getInfo() {
+      return {
+        id: 'platformDetector',
+        name: 'Platform Detector',
+        color1: '#96619A',
+        blocks: [
+          {
+            opcode: 'isPotentiaMod',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is PotentiaMod?'
+          },
+		  {
+            opcode: 'isGaiaMod',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is GaiaMod?'
+          },
+		  {
+            opcode: 'isDash',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is Dash?'
+          },
+		  {
+            opcode: 'isElectraMod',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is ElectraMod?'
+          },
+		  {
+            opcode: 'isPenguinMod',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is a PenguinMod fork?'
+          }
+        ]
+      };
+    }
+  
+    isPotentiaMod() {
+      this.ispot = Scratch.extensions.isPotentiaMod
+    ? "true"  : "false";
+  return this.ispot
+    }
+    isGaiaMod() {
+      this.isgm = Scratch.extensions.isGaiaMod
+    ? "true"  : "false";
+  return this.isgm
+    }
+    isDash() {
+      this.isdash = Scratch.extensions.isDash
+    ? "true"  : "false";
+  return this.isdash
+    }
+    isElectraMod() {
+      this.isem = Scratch.extensions.isElectraMod
+    ? "true"  : "false";
+  return this.isem
+    }
+    isPenguinMod() {
+      this.ispm = Scratch.extensions.isPenguinMod
+    ? "true"  : "false";
+  return this.ispm
+    }
+  }
+  
+  Scratch.extensions.register(new platformDetector());
+})(Scratch);
