@@ -713,7 +713,8 @@
           "name": "Fath11",
           "link": "https://scratch.mit.edu/users/fath11/"
         }
-      ]
+      ],
+      "docs": true
     },
     {
       "slug": "iframe",
@@ -2871,17 +2872,8 @@
     {
       "slug": "DT/cameracontrols",
       "id": "DTcameracontrols",
-      "name": "Camera V1",
+      "name": "Camera V1 (Buggy)",
       "description": "Move the visible part of the stage.",
-      "nameTranslations": {
-        "de": "Kamera V1",
-        "fi": "Kamera V1",
-        "hu": "Kamera V1",
-        "ja": "カメラ V1",
-        "ko": "카메라 V1",
-        "ru": "Камера V1",
-        "zh-cn": "摄像机 V1"
-      },
       "descriptionTranslations": {
         "de": "Bewege den angezeigten Teil der Bühne.",
         "fi": "Liikuta esiintymislavan näkyvää osaa.",
