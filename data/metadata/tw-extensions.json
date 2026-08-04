@@ -2546,29 +2546,9 @@
     },
     {
       "slug": "TheShovel/ShovelUtils",
-      "id": "ShovelUtils",
+      "id": "ShovelUtils1",
       "name": "ShovelUtils",
       "description": "A bunch of miscellaneous blocks.",
-      "nameTranslations": {
-        "de": "SchaufelUtils",
-        "fi": "Lapiotyökalut",
-        "it": "Utilità Varie",
-        "ja": "ショベルユーティリティ",
-        "ko": "Shovel유틸",
-        "ru": "УтилитыЛопатки"
-      },
-      "descriptionTranslations": {
-        "de": "Ein paar verschiedene Blöcke.",
-        "fi": "Joukko sekalaisia lohkoja.",
-        "it": "Blocchi vari.",
-        "ja": "いろいろなブロック。",
-        "ko": "잡다한 블록들입니다.",
-        "nb": "En haug med forskjellige blokker.",
-        "nl": "Gebruik een hoop verschillende blokken.",
-        "ru": "Куча разных блоков.",
-        "tr": "Bir sürü çeşitli blok.",
-        "zh-cn": "一些杂七杂八的积木。"
-      },
       "image": "TheShovel/ShovelUtils.png",
       "by": [
         {
@@ -2579,8 +2559,7 @@
           "name": "Mio",
           "link": "https://scratch.mit.edu/users/0znzw/"
         }
-      ],
-      "docs": true
+      ]
     },
     {
       "slug": "Lily/Assets",
