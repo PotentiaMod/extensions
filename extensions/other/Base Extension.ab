@@ -1,0 +1,38 @@
+{
+  "comments": {
+    "name": "Base Extension",
+    "id": "baseext",
+    "description": "a extension",
+    "color": [
+      "#FF4AD5",
+      "#9e107f",
+      "#530943"
+    ],
+    "author": "",
+    "license": "MPL-2.0",
+    "docsURI": "",
+    "menuIconURI": "",
+    "blockIconURI": ""
+  },
+  "blocks": {
+    "sayHello": {
+      "type": "round",
+      "parts": [
+        "Say hello!"
+      ],
+      "code": "return 'Hello!';",
+      "blockConfig": {
+        "hasNextConnection": true,
+        "branches": 0,
+        "isLoop": false,
+        "isAsync": false,
+        "blockAllThreads": false,
+        "filter": [],
+        "blockIconURI": null
+      }
+    }
+  },
+  "publicJS": "const BlockType = Scratch.BlockType;\nconst ArgumentType = Scratch.ArgumentType;\nconst Cast = Scratch.Cast;",
+  "translate": [],
+  "dynamicMenus": {}
+}
