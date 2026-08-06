@@ -1,3 +1,7 @@
+// Name: PotentiaMod Blocks
+// ID: POTPotentiaModBlocks
+// Description: Weird new blocks, but it's a Javascript modified port of TurboWarp Blocks.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
 (function (Scratch) {
 	"use strict";
 	

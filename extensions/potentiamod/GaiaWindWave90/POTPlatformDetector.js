@@ -1,3 +1,7 @@
+// Name: Platform Detector
+// ID: POTPlatformDetector
+// Description: Detects whenever the platform was a Scratch mod or not.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
 (function (Scratch) {
     "use strict";
 class platformDetector {

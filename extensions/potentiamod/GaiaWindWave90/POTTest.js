@@ -1,3 +1,7 @@
+// Name: PotentiaMod Test
+// ID: POTTest
+// Description: Something that I will try to test on. Inspired by the AcidMod Test extension.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
 (function (Scratch) {
 	"use strict";
 	

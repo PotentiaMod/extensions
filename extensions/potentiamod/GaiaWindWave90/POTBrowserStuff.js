@@ -1,3 +1,7 @@
+// Name: Browser Stuff
+// ID: POTBrowserStuff
+// Description: Some stuff for the web browser.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
 (function (Scratch) {
 	"use strict";
     

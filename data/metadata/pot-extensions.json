@@ -1,28 +1,15 @@
 {
   "extensions": [
     {
-      "slug": "GaiaWindWave90/POTPotentiaModBlocks",
-      "id": "POTPotentiaModBlocks",
-      "name": "PotentiaMod Blocks",
-      "description": "Weird new blocks, but it's a Javascript modified port of TurboWarp Blocks.",
-      "image": "GaiaWindWave90/POTPotentiaModBlocks.svg",
+      "slug": "GaiaWindWave90/POTBrowserStuff",
+      "id": "POTBrowserStuff",
+      "name": "Browser Stuff",
+      "description": "Some stuff for the web browser.",
+      "image": "GaiaWindWave90/POTBrowserStuff.png",
       "by": [
         {
           "name": "GaiaWindWave90",
-          "link": "https://github.com/gaiawindwave90/"
-        }
-      ]
-    },
-    {
-      "slug": "GaiaWindWave90/POTTest",
-      "id": "POTTest",
-      "name": "PotentiaMod Test",
-      "description": "Something that I will try to test on. Inspired by the AcidMod Test extension.",
-      "image": "GaiaWindWave90/POTTest.svg",
-      "by": [
-        {
-          "name": "GaiaWindWave90",
-          "link": "https://github.com/gaiawindwave90/"
+          "link": "https://github.com/gaiawindwave90"
         }
       ]
     },
@@ -31,37 +18,50 @@
       "id": "POTConsoles",
       "name": "Potentia Consoles",
       "description": "Apparently the first-ever original PotentiaMod extension that logs things on consoles.",
-      "image": "GaiaWindWave90/POTConsoles.svg",
+      "image": "GaiaWindWave90/POTConsoles.png",
       "by": [
         {
           "name": "GaiaWindWave90",
-          "link": "https://github.com/gaiawindwave90/"
+          "link": "https://github.com/gaiawindwave90"
         }
       ]
     },
-	{
+    {
       "slug": "GaiaWindWave90/POTPlatformDetector",
       "id": "POTPlatformDetector",
       "name": "Platform Detector",
       "description": "Detects whenever the platform was a Scratch mod or not.",
-      "image": "GaiaWindWave90/POTPlatformDetector.svg",
+      "image": "GaiaWindWave90/POTPlatformDetector.png",
       "by": [
         {
           "name": "GaiaWindWave90",
-          "link": "https://github.com/gaiawindwave90/"
+          "link": "https://github.com/gaiawindwave90"
         }
       ]
     },
-	{
-      "slug": "GaiaWindWave90/POTBrowserStuff",
-      "id": "POTBrowserStuff",
-      "name": "Browser Stuff",
-      "description": "Some stuff for the web browser.",
-      "image": "GaiaWindWave90/POTBrowserStuff.svg",
+    {
+      "slug": "GaiaWindWave90/POTPotentiaModBlocks",
+      "id": "POTPotentiaModBlocks",
+      "name": "PotentiaMod Blocks",
+      "description": "Weird new blocks, but it's a Javascript modified port of TurboWarp Blocks.",
+      "image": "GaiaWindWave90/POTPotentiaModBlocks.png",
       "by": [
         {
           "name": "GaiaWindWave90",
-          "link": "https://github.com/gaiawindwave90/"
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+    {
+      "slug": "GaiaWindWave90/POTTest",
+      "id": "POTTest",
+      "name": "PotentiaMod Test",
+      "description": "Something that I will try to test on. Inspired by the AcidMod Test extension.",
+      "image": "GaiaWindWave90/POTTest.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
         }
       ]
     }
