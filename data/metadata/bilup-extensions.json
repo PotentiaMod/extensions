@@ -5,7 +5,7 @@
       "id": "shangcloud",
       "name": "ShangCloud",
       "description": "ShangCloud SDK for Scratch.",
-      "image": "images/shangcloud.png",
+      "image": "shangcloud.png",
       "by": [
         {
           "name": "Yearnstudio",
@@ -26,7 +26,7 @@
         "zh-cn": "超多关于颜色的工具喵，有混合颜色，反色，互补色，转换格式等超好用的工具喵",
         "zh-tw": "超多關於顏色的工具喵，有混合顏色、反色、互補色、轉換格式等超好用的工具喵"
       },
-      "image": "images/colortools.svg",
+      "image": "colortools.svg",
       "by": [
         {
           "name": "MR醉诗",
@@ -47,7 +47,7 @@
         "zh-cn": "让创作更简单，更方便",
         "zh-tw": "讓創作更簡單，更方便"
       },
-      "image": "images/easyblock.svg",
+      "image": "easyblock.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -68,7 +68,7 @@
         "zh-cn": "更加便利地处理字符串",
         "zh-tw": "更加便利地處理字串"
       },
-      "image": "images/stringtools.svg",
+      "image": "stringtools.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -89,7 +89,7 @@
         "zh-cn": "非线性接近函数",
         "zh-tw": "非線性接近函數"
       },
-      "image": "images/approaches.svg",
+      "image": "approaches.svg",
       "by": [
         {
           "name": "蓝立方Blue3",
@@ -114,7 +114,7 @@
         "zh-cn": "创建AI实例并使用流式响应与它们交互",
         "zh-tw": "建立AI實例並使用串流回應與它們互動"
       },
-      "image": "images/aiblocks.svg",
+      "image": "aiblocks.svg",
       "by": [
         {
           "name": "RyaninCn11",
@@ -127,7 +127,7 @@
       "id": "ai",
       "name": "AI",
       "description": "Chat with AI in Scratch. Supports OpenAI and Anthropic APIs with streaming responses.",
-      "image": "images/ai.svg",
+      "image": "ai.svg",
       "by": [
         {
           "name": "Kimos Frontender",
@@ -148,7 +148,7 @@
         "zh-cn": "一个更好的、更简洁高效的弹窗扩展",
         "zh-tw": "一個更好的、更簡潔高效的彈窗擴充功能"
       },
-      "image": "images/lingdongpopup.svg",
+      "image": "lingdongpopup.svg",
       "by": [
         {
           "name": "勇敢的菠萝",
@@ -169,7 +169,7 @@
         "zh-cn": "将列表、文本、数学、等实用工具整合在了一起",
         "zh-tw": "將列表、文字、數學等實用工具整合在一起"
       },
-      "image": "images/xiaoboluotoolbox.svg",
+      "image": "xiaoboluotoolbox.svg",
       "by": [
         {
           "name": "勇敢的菠萝",
@@ -190,7 +190,7 @@
         "zh-cn": "全屏后期特效：模糊、故障、泛光、预设风格与自定义着色器",
         "zh-tw": "全螢幕後期特效：模糊、故障、泛光、預設風格與自訂著色器"
       },
-      "image": "images/leishen.svg",
+      "image": "leishen.svg",
       "by": [
         {
           "name": "勇敢的菠萝",
