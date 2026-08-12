@@ -5,7 +5,7 @@
       "id": "shangcloud",
       "name": "ShangCloud",
       "description": "ShangCloud SDK for Scratch.",
-      "image": "shangcloud.png",
+      "image": "images/shangcloud.png",
       "by": [
         {
           "name": "Yearnstudio",
@@ -19,12 +19,14 @@
       "name": "Color Toolset",
       "description": "Tons of color-related tools, meow. you can mix colors, invert them, find complementary colors, convert formats, and more — super useful tools, meow",
       "nameTranslations": {
-        "zh-cn": "颜色工具集"
+        "zh-cn": "颜色工具集",
+        "zh-tw": "顏色工具集"
       },
       "descriptionTranslations": {
-        "zh-cn": "超多关于颜色的工具喵，有混合颜色，反色，互补色，转换格式等超好用的工具喵"
+        "zh-cn": "超多关于颜色的工具喵，有混合颜色，反色，互补色，转换格式等超好用的工具喵",
+        "zh-tw": "超多關於顏色的工具喵，有混合顏色、反色、互補色、轉換格式等超好用的工具喵"
       },
-      "image": "colortools.svg",
+      "image": "images/colortools.svg",
       "by": [
         {
           "name": "MR醉诗",
@@ -38,12 +40,14 @@
       "name": "Easy Block+",
       "description": "Make creation simpler and more convenient.",
       "nameTranslations": {
-        "zh-cn": "便利积木+"
+        "zh-cn": "便利积木+",
+        "zh-tw": "便利積木+"
       },
       "descriptionTranslations": {
-        "zh-cn": "让创作更简单，更方便"
+        "zh-cn": "让创作更简单，更方便",
+        "zh-tw": "讓創作更簡單，更方便"
       },
-      "image": "easyblock.svg",
+      "image": "images/easyblock.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -57,12 +61,14 @@
       "name": "String Tools",
       "description": "Make handling strings more convenient.",
       "nameTranslations": {
-        "zh-cn": "字符串处理"
+        "zh-cn": "字符串处理",
+        "zh-tw": "字串處理"
       },
       "descriptionTranslations": {
-        "zh-cn": "更加便利地处理字符串"
+        "zh-cn": "更加便利地处理字符串",
+        "zh-tw": "更加便利地處理字串"
       },
-      "image": "stringtools.svg",
+      "image": "images/stringtools.svg",
       "by": [
         {
           "name": "DL_Grass",
@@ -76,12 +82,14 @@
       "name": "Approaches!",
       "description": "Nonlinear approach functions.",
       "nameTranslations": {
-        "zh-cn": "接近!"
+        "zh-cn": "接近!",
+        "zh-tw": "接近!"
       },
       "descriptionTranslations": {
-        "zh-cn": "非线性接近函数"
+        "zh-cn": "非线性接近函数",
+        "zh-tw": "非線性接近函數"
       },
-      "image": "approaches.svg",
+      "image": "images/approaches.svg",
       "by": [
         {
           "name": "蓝立方Blue3",
@@ -99,12 +107,14 @@
       "name": "AI in Blocks",
       "description": "Create AI instances and interact with them using streaming responses.",
       "nameTranslations": {
-        "zh-cn": "AI 积木"
+        "zh-cn": "AI 积木",
+        "zh-tw": "AI 積木"
       },
       "descriptionTranslations": {
-        "zh-cn": "创建AI实例并使用流式响应与它们交互"
+        "zh-cn": "创建AI实例并使用流式响应与它们交互",
+        "zh-tw": "建立AI實例並使用串流回應與它們互動"
       },
-      "image": "aiblocks.svg",
+      "image": "images/aiblocks.svg",
       "by": [
         {
           "name": "RyaninCn11",
@@ -117,7 +127,7 @@
       "id": "ai",
       "name": "AI",
       "description": "Chat with AI in Scratch. Supports OpenAI and Anthropic APIs with streaming responses.",
-      "image": "ai.svg",
+      "image": "images/ai.svg",
       "by": [
         {
           "name": "Kimos Frontender",
@@ -131,12 +141,14 @@
       "name": "LingDong Popup",
       "description": "A better, more concise and efficient popup extension.",
       "nameTranslations": {
-        "zh-cn": "灵动弹窗"
+        "zh-cn": "灵动弹窗",
+        "zh-tw": "靈動彈窗"
       },
       "descriptionTranslations": {
-        "zh-cn": "一个更好的、更简洁高效的弹窗扩展"
+        "zh-cn": "一个更好的、更简洁高效的弹窗扩展",
+        "zh-tw": "一個更好的、更簡潔高效的彈窗擴充功能"
       },
-      "image": "lingdongpopup.svg",
+      "image": "images/lingdongpopup.svg",
       "by": [
         {
           "name": "勇敢的菠萝",
@@ -150,12 +162,35 @@
       "name": "Xiaoboluo's ToolBox",
       "description": "A comprehensive toolbox with list, text, math, and utility blocks for Scratch projects.",
       "nameTranslations": {
-        "zh-cn": "小菠萝的工具箱"
+        "zh-cn": "小菠萝的工具箱",
+        "zh-tw": "小菠蘿的工具箱"
       },
       "descriptionTranslations": {
-        "zh-cn": "将列表、文本、数学、等实用工具整合在了一起"
+        "zh-cn": "将列表、文本、数学、等实用工具整合在了一起",
+        "zh-tw": "將列表、文字、數學等實用工具整合在一起"
       },
-      "image": "xiaoboluotoolbox.svg",
+      "image": "images/xiaoboluotoolbox.svg",
+      "by": [
+        {
+          "name": "勇敢的菠萝",
+          "link": "https://space.bilibili.com/521949499"
+        }
+      ]
+    },
+    {
+      "slug": "leishen",
+      "id": "leishen",
+      "name": "Leishen Pro",
+      "description": "Fullscreen post-processing effects: blur, glitch, bloom, presets and custom shaders.",
+      "nameTranslations": {
+        "zh-cn": "雷神",
+        "zh-tw": "雷神"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "全屏后期特效：模糊、故障、泛光、预设风格与自定义着色器",
+        "zh-tw": "全螢幕後期特效：模糊、故障、泛光、預設風格與自訂著色器"
+      },
+      "image": "images/leishen.svg",
       "by": [
         {
           "name": "勇敢的菠萝",
