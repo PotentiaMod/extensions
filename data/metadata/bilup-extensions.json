@@ -183,8 +183,8 @@
       "name": "Leishen Pro",
       "description": "Fullscreen post-processing effects: blur, glitch, bloom, presets and custom shaders.",
       "nameTranslations": {
-        "zh-cn": "雷神",
-        "zh-tw": "雷神"
+        "zh-cn": "雷神 Pro",
+        "zh-tw": "雷神 Pro"
       },
       "descriptionTranslations": {
         "zh-cn": "全屏后期特效：模糊、故障、泛光、预设风格与自定义着色器",
@@ -195,6 +195,27 @@
         {
           "name": "勇敢的菠萝",
           "link": "https://space.bilibili.com/521949499"
+        }
+      ]
+    },
+    {
+      "slug": "kmsinputer",
+      "id": "kmsinputer",
+      "name": "Inputer",
+      "description": "Input box extension produced by 0.2 Studio.",
+      "nameTranslations": {
+        "zh-cn": "输入框",
+        "zh-tw": "輸入框"
+      },
+      "descriptionTranslations": {
+        "zh-cn": "0.2工作室出品的输入框扩展",
+        "zh-tw": "0.2工作室出品的輸入框擴充功能"
+      },
+      "image": "kmsinputer.png",
+      "by": [
+        {
+          "name": "Kimos Frontender",
+          "link": "https://scratch.mit.edu/users/Kimos-Frontender/"
         }
       ]
     }

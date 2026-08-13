@@ -17,6 +17,7 @@
   // ===== 运行时能力探测 =====
   const HAS_LOOP = typeof Scratch.BlockType.LOOP !== 'undefined';
   const HAS_BOOLEAN = typeof Scratch.BlockType.BOOLEAN !== 'undefined';
+  const HAS_HAT = typeof Scratch.BlockType.HAT !== 'undefined';
 
   // ===== 菠萝图标：手绘 SVG（path + ellipse + polygon），base64 内嵌 =====
   // 在任何 SVG 渲染器里都能正确显示叶子和果身，不依赖 emoji 字体。
@@ -99,6 +100,43 @@
       if (sa > sb) return desc ? -1 : 1;
       return 0;
     };
+  }
+
+  // ===== 运行控制辅助：访问 scratch-vm / TurboWarp Runtime =====
+  // 这些 API 在 unsandboxed 模式下才可用，因此本扩展必须勾选「取消沙箱」。
+  let _pausedCache = false;
+  let _turboCache = false;
+  function getRT(util) {
+    return util && util.runtime ? util.runtime : null;
+  }
+  function setPause(util, paused) {
+    const rt = getRT(util);
+    if (!rt) return;
+    if (typeof rt.setPaused === 'function') rt.setPaused(paused);
+    else if (rt.runOptions) rt.runOptions.paused = paused; // 兜底：直接写字段
+    _pausedCache = paused;
+  }
+  function readPaused(rt) {
+    if (!rt) return _pausedCache;
+    if (typeof rt.isPaused === 'function') {
+      try { return rt.isPaused(); } catch (e) { /* fallthrough */ }
+    }
+    if (rt.runOptions && typeof rt.runOptions.paused === 'boolean') return rt.runOptions.paused;
+    return _pausedCache;
+  }
+  function setTurbo(util, on) {
+    const rt = getRT(util);
+    if (!rt) return;
+    if (typeof rt.setTurboMode === 'function') rt.setTurboMode(on);
+    _turboCache = on;
+  }
+  function readTurbo(rt) {
+    if (!rt) return _turboCache;
+    if (typeof rt.isTurboMode === 'function') {
+      try { return rt.isTurboMode(); } catch (e) { /* fallthrough */ }
+    }
+    if (typeof rt.turboMode === 'boolean') return rt.turboMode;
+    return _turboCache;
   }
 
   // ===== 积木定义（按显示顺序） =====
@@ -436,6 +474,33 @@
       { opcode: 'nowDateTime', blockType: BT.REPORTER, text: Scratch.translate({ id: 'nowDateTime', default: 'current date and time (YYYY-MM-DD HH:MM:SS)' }) },
       { opcode: 'nowDate', blockType: BT.REPORTER, text: Scratch.translate({ id: 'nowDate', default: 'current date (YYYY-MM-DD)' }) }
     );
+
+    // ---------- 🎮 运行控制 ----------
+    B.push({ blockType: 'label', text: Scratch.translate({ id: 'label.control', default: '🎮 Run Control' }) });
+    B.push(
+      { opcode: 'greenFlagRun', blockType: BT.COMMAND, text: Scratch.translate({ id: 'greenFlagRun', default: 'run project (green flag)' }) },
+      { opcode: 'stopProject', blockType: BT.COMMAND, text: Scratch.translate({ id: 'stopProject', default: 'stop project' }) },
+      { opcode: 'restartProject', blockType: BT.COMMAND, text: Scratch.translate({ id: 'restartProject', default: 'restart project' }) },
+      { opcode: 'pauseProject', blockType: BT.COMMAND, text: Scratch.translate({ id: 'pauseProject', default: 'pause project' }) },
+      { opcode: 'resumeProject', blockType: BT.COMMAND, text: Scratch.translate({ id: 'resumeProject', default: 'resume project' }) },
+      { opcode: 'togglePause', blockType: BT.COMMAND, text: Scratch.translate({ id: 'togglePause', default: 'toggle pause / resume' }) },
+      { opcode: 'turboOn', blockType: BT.COMMAND, text: Scratch.translate({ id: 'turboOn', default: 'enable turbo mode' }) },
+      { opcode: 'turboOff', blockType: BT.COMMAND, text: Scratch.translate({ id: 'turboOff', default: 'disable turbo mode' }) },
+      { opcode: 'toggleTurbo', blockType: BT.COMMAND, text: Scratch.translate({ id: 'toggleTurbo', default: 'toggle turbo mode' }) }
+    );
+    if (HAS_HAT) {
+      B.push(
+        { opcode: 'whenProjectStopped', blockType: BT.HAT, text: Scratch.translate({ id: 'whenProjectStopped', default: 'when project stops' }) },
+        { opcode: 'whenProjectStarted', blockType: BT.HAT, text: Scratch.translate({ id: 'whenProjectStarted', default: 'when project starts running (green flag clicked)' }) }
+      );
+    }
+    if (HAS_BOOLEAN) {
+      B.push(
+        { opcode: 'isPaused', blockType: BT.BOOLEAN, text: Scratch.translate({ id: 'isPaused', default: 'is project paused?' }) },
+        { opcode: 'isTurbo', blockType: BT.BOOLEAN, text: Scratch.translate({ id: 'isTurbo', default: 'is turbo mode on?' }) },
+        { opcode: 'isProjectRunning', blockType: BT.BOOLEAN, text: Scratch.translate({ id: 'isProjectRunning', default: 'is project running?' }) }
+      );
+    }
 
     return B;
   }
@@ -850,6 +915,83 @@
     }
     nowDateTime() { return this._formatDate(new Date(), true); }
     nowDate() { return this._formatDate(new Date(), false); }
+
+    // ---------- 运行控制 ----------
+    constructor() {
+      this._hooksReady = false;   // 是否已绑定运行时事件监听
+      this._whenStopped = false; // 作品停止事件触发标志
+      this._whenStarted = false; // 作品开始运行事件触发标志
+      this._runningCache = false; // 作品是否在运行（由事件维护）
+    }
+    // 惰性绑定运行时事件（PROJECT_RUN_STOP / PROJECT_RUN_START）
+    _ensureHooks(util) {
+      if (this._hooksReady) return;
+      const rt = getRT(util);
+      if (!rt || typeof rt.on !== 'function') return;
+      rt.on('PROJECT_RUN_STOP', () => {
+        this._whenStopped = true;
+        this._runningCache = false;
+      });
+      rt.on('PROJECT_RUN_START', () => {
+        this._whenStarted = true;
+        this._runningCache = true;
+      });
+      this._hooksReady = true;
+    }
+    greenFlagRun(args, util) {
+      const rt = getRT(util);
+      if (rt && rt.greenFlag) rt.greenFlag();
+    }
+    stopProject(args, util) {
+      const rt = getRT(util);
+      if (rt && rt.stopAll) rt.stopAll();
+    }
+    restartProject(args, util) {
+      const rt = getRT(util);
+      if (!rt) return;
+      if (rt.stopAll) rt.stopAll();
+      if (rt.greenFlag) rt.greenFlag();
+    }
+    pauseProject(args, util) { setPause(util, true); }
+    resumeProject(args, util) { setPause(util, false); }
+    togglePause(args, util) {
+      const rt = getRT(util);
+      if (!rt) return;
+      if (typeof rt.togglePaused === 'function') { rt.togglePaused(); return; }
+      setPause(util, !readPaused(rt));
+    }
+    turboOn(args, util) { setTurbo(util, true); }
+    turboOff(args, util) { setTurbo(util, false); }
+    toggleTurbo(args, util) {
+      const rt = getRT(util);
+      if (!rt) return;
+      if (typeof rt.toggleTurboMode === 'function') { rt.toggleTurboMode(); return; }
+      setTurbo(util, !readTurbo(rt));
+    }
+    whenProjectStopped(args, util) {
+      this._ensureHooks(util);
+      const fire = this._whenStopped;
+      this._whenStopped = false;
+      return fire;
+    }
+    whenProjectStarted(args, util) {
+      this._ensureHooks(util);
+      const fire = this._whenStarted;
+      this._whenStarted = false;
+      return fire;
+    }
+    isPaused(args, util) {
+      this._ensureHooks(util);
+      return readPaused(getRT(util));
+    }
+    isTurbo(args, util) {
+      this._ensureHooks(util);
+      return readTurbo(getRT(util));
+    }
+    isProjectRunning(args, util) {
+      this._ensureHooks(util);
+      return this._runningCache;
+    }
   }
 
   Scratch.extensions.register(new XiaoBoLuoToolbox());
