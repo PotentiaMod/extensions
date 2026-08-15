@@ -50,7 +50,7 @@
     'to the power of'
   ];
     
-	class POTtest {
+	class POTStuff {
 		constructor() {
 			//Taken from 'Lily's More Events'
       runtime.shouldExecuteStopClicked = true;
@@ -104,6 +104,21 @@
             isEdgeActivated: false,
 			extensions: ["colours_event"],
             },
+			
+			{
+          opcode: 'showAllsprites',
+          text: 'show all sprites',
+          blockType: Scratch.BlockType.COMMAND,
+		  extensions: ["colours_looks"],
+          arguments: {}
+        },
+        {
+          opcode: 'hideAllsprites',
+          text: 'hide all sprites',
+          blockType: Scratch.BlockType.COMMAND,
+		  extensions: ["colours_looks"],
+          arguments: {}
+        },
 			
 			{
                     opcode: 'projectURL',
@@ -214,6 +229,23 @@ const msPerDay = 24 * 60 * 60 * 1000;
 	projectURL() {
         return window.location.href;
     }
+	
+	showAllsprites (args, util) {
+    const targets = Scratch.vm.runtime.targets;
+    for (const target of targets) {
+      if (!target.isStage) {
+        target.setVisible(true)
+      }
+    }
+  }
+  hideAllsprites (args, util) {
+    const targets = Scratch.vm.runtime.targets;
+    for (const target of targets) {
+      if (!target.isStage) {
+        target.setVisible(false)
+      }
+    }
+  }
 
 	}
 	Scratch.extensions.register(new POTStuff());
