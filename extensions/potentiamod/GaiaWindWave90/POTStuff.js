@@ -154,6 +154,14 @@
 					extensions: ['colours_sensing']
                 },
 				
+				 {
+                    opcode: 'middle',
+                    text: 'Go to the middle',
+					extensions: ['colours_motion'],
+                    blockType: BlockType.COMMAND,
+                    disableMonitor: false
+                },
+				
 			{
                   opcode: 'waitMinutes',
                   text: 'Wait [MINS] minutes (may not work)',
@@ -206,6 +214,7 @@ const msPerDay = 24 * 60 * 60 * 1000;
         return mSecsSinceStart / msPerDay;
       }
 	  
+	  
 	    waitMinutes (args, util) {
         if (util.stackTimerNeedsInit()) {
             const duration = Math.max(0, 60000 * Cast.toNumber(args.MIN));
@@ -246,6 +255,10 @@ const msPerDay = 24 * 60 * 60 * 1000;
       }
     }
   }
+  
+  middle(args, util) {
+        util.target.setXY(0, 0);
+    }
 
 	}
 	Scratch.extensions.register(new POTStuff());
