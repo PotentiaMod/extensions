@@ -1,6 +1,6 @@
-// Name: PotentiaMod Test
-// ID: POTTest
-// Description: Something that I will try to test on. Inspired by the AcidMod Test extension.
+// Name: PotentiaMod Stuff
+// ID: POTStuff
+// Description: Something that I will try to do stuff on. Inspired by the AcidMod Test extension.
 // By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
 (function (Scratch) {
 	"use strict";
@@ -58,7 +58,7 @@
         runTimer++;
         runtime.shouldExecuteStopClicked = false;
 
-        runtime.startHats("POTtest_always");
+        runtime.startHats("POTStuff_always");
       });
 	  runtime.on("PROJECT_START", () => {
         runTimer = 0;
@@ -67,7 +67,7 @@
         runTimer = 0;
         if (runtime.shouldExecuteStopClicked)
           queueMicrotask(() =>
-            runtime.startHats("POTtest_whenstopclicked")
+            runtime.startHats("POTStuff_whenstopclicked")
           );
       });
       runtime.on("AFTER_EXECUTE", () => {
