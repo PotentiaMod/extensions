@@ -167,12 +167,25 @@
                     disableMonitor: false,
                 },
 				
-			{
+			    {
                   opcode: 'waitMinutes',
-                  text: 'Wait [MINS] minutes (may not work)',
+                  text: 'Wait [MINS] minutes',
                   blockType: Scratch.BlockType.COMMAND,
                   arguments: {
                     MINS: {
+                      type: Scratch.ArgumentType.NUMBER,
+                      defaultValue: '1'
+                    }
+                  },
+				  extensions: ["colours_control"],
+                },
+				
+				{
+                  opcode: 'waitHours',
+                  text: 'Wait [HR] hours',
+                  blockType: Scratch.BlockType.COMMAND,
+                  arguments: {
+                    HR: {
                       type: Scratch.ArgumentType.NUMBER,
                       defaultValue: '1'
                     }
@@ -225,15 +238,21 @@ const msPerDay = 24 * 60 * 60 * 1000;
 	  
 	  
 	    waitMinutes (args, util) {
-        if (util.stackTimerNeedsInit()) {
-            const duration = Math.max(0, 60000 * Cast.toNumber(args.MIN));
-
-            util.startStackTimer(duration);
-            this.runtime.requestRedraw();
-            util.yield();
-        } else if (!util.stackTimerFinished()) {
-            util.yield();
-        }
+            return new Promise((resolve, reject) => {
+      const timeInMilliseconds = args.MINS * 60000;
+      setTimeout(() => {
+        resolve();
+      }, timeInMilliseconds);
+    });
+    }
+	
+	waitHours (args, util) {
+        return new Promise((resolve, reject) => {
+      const timeInMilliseconds = args.HR * 3600000;
+      setTimeout(() => {
+        resolve();
+      }, timeInMilliseconds);
+    });
     }
 	
 	openUrl (args) {
