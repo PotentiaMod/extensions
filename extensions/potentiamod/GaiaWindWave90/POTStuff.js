@@ -7,6 +7,8 @@
 	
 	 const vm = Scratch.vm;
   const runtime = vm.runtime
+  
+  const degrees = Math.PI/180;
  
   
   const stopIcon =
@@ -78,6 +80,9 @@
         runtime.shouldExecuteStopClicked = false;
         originalGreenFlag.call(this);
       };
+    }
+	 static get ROTATION_STYLE_LOOK_AT () {
+        return 'look at';
     }
 		
 	  getInfo() {
@@ -159,7 +164,7 @@
                     text: 'Go to the middle',
 					extensions: ['colours_motion'],
                     blockType: BlockType.COMMAND,
-                    disableMonitor: false
+                    disableMonitor: false,
                 },
 				
 			{
@@ -200,7 +205,11 @@
                   acceptReporters: false,
                   items: MATHMENU
                 },
-              }
+		      DirectMenu: {
+                  acceptReporters: false,
+                  items: ['left','right']
+                },
+           }
 		};
 	  }
   
