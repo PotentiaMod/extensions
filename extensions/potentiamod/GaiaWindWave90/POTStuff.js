@@ -109,7 +109,7 @@
             isEdgeActivated: false,
 			extensions: ["colours_event"],
             },
-			
+   //Copied from DinosaurMod			
 			{
           opcode: 'showAllsprites',
           text: 'show all sprites',
@@ -270,6 +270,6 @@ const msPerDay = 24 * 60 * 60 * 1000;
     }
 
 	}
-	Scratch.extensions.register(new POTStuff());
+	Scratch.extensions.register(new POTStuff(Scratch.vm.runtime));
   })(Scratch);
   
