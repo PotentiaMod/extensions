@@ -63,14 +63,17 @@ Scratch.translate.setup({});
                     // Modern adblockers fake a "200 OK" redirect, but Google never redirects this JS path.
                     // If it was redirected or manipulated, an adblocker is present.
                     if (response.redirected) {
+                        alert("Adblocker detected!");
                         console.log('Adblocker detected!');
                         return true;
                     }
 
+                    alert("No adblocker detected.");
                     console.log('No adblocker detected.');
                     return false;
                 } catch (error) {
                     // If the browser blocks the connection entirely, catch triggers.
+                    alert("Adblocker detected!");
                     console.log('Adblocker detected!');
                     return true;
                 }
