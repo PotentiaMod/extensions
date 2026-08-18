@@ -52,6 +52,19 @@
         }
       ]
     },
+	{
+      "slug": "GaiaWindWave90/POTAdBlockDetect",
+      "id": "POTAdBlockDetect",
+      "name": "Adblock Detection",
+      "description": "Detects whenever the adblock is on or not.",
+      "image": "GaiaWindWave90/POTAdBlockDetect.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
     {
       "slug": "GaiaWindWave90/POTStuff",
       "id": "POTStuff",
