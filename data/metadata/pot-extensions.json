@@ -63,6 +63,9 @@
           "name": "GaiaWindWave90",
           "link": "https://github.com/gaiawindwave90"
         }
+      ],
+	  "samples": [
+        "POTAdBlockDetect"
       ]
     },
     {
