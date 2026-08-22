@@ -234,6 +234,7 @@
     "image": "Lemon/Waveforms.png",
     "description": "Use real time waveform calculations in your project.",
     "slug": "Lemon/Waveforms",
+    "id": "Waveforms",
     "by": [
       {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"},
       {"name": "Mistium", "link": "https://scratch.mit.edu/users/M1stium/"},
@@ -245,6 +246,7 @@
     "image": "Axolay/html.png",
     "description": "Barebones HTML extension that allows easy integration and creation of HTML elements!",
     "slug": "Axolay/html",
+    "id": "html",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
@@ -254,6 +256,7 @@
     "image": "Axolay/tiles.png",
     "description": "Easy way of rendering tiles inside of your project, e.g. for a gallery or level browser!",
     "slug": "Axolay/tiles",
+    "id": "tiles",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
@@ -263,6 +266,7 @@
     "image": "Axolay/controls.png",
     "description": "Control your projects with multitouch without a hassle!",
     "slug": "Axolay/controls",
+    "id": "controls",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
@@ -272,6 +276,7 @@
     "image": "Axolay/console.png",
     "description": "Very simple extension to render text for consoles inside of your project. Comes with an improved ask block!",
     "slug": "Axolay/console",
+    "id": "console",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
@@ -281,6 +286,7 @@
     "image": "Axolay/ollama.png",
     "description": "Connect to your local Ollama server or an API through Scratch!",
     "slug": "Axolay/ollama",
+    "id": "ollama",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
@@ -290,6 +296,7 @@
     "image": "Axolay/hashing.png",
     "description": "A single block that lets you hash passwords on your client!",
     "slug": "Axolay/hashing",
+    "id": "hashing",
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
