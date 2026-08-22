@@ -301,103 +301,70 @@
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
   },
-  {
-    "name": "Poop Extension",
-    "description": "The most useful, amazing, and well done extension, made by the most cool person ever! (ddededodediamante)",
-    "slug": "Ruby/poop",
-    "id": "poop",
-    "image": "Ruby/poop.png",
+{
+    "name": "Extendable Blocks",
+    "image": "CST1229/extendableBlocks.svg",
+    "description": "Blocks with inputs that can be added and removed.",
+    "slug": "CST1229/extendableblocks",
+    "id": "extendableblocks",
     "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
+    ]
+  },
+    {
+    "name": "Chomp",
+	"image": "CST1229/chomp.png",
+    "description": "A block that enables dragged C blocks wrapping around blocks.",
+    "slug": "CST1229/chomp",
+    "id": "chomp"
+    "by": [
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   },
   {
-    "name": "Mewing Utils",
-    "description": "Wanted to mew easily? Mewing Utils is here!",
-    "slug": "Ruby/mewingUtils",
-    "image": "Ruby/mewingUtils.png",
+    "name": "Multiline Text Input",
+    "image": "CST1229/multilineText.png",
+    "description": "A block that lets you enter multiline text.",
+    "slug": "CST1229/multilinetext",
+    "id": "multilinetext",
     "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   },
   {
-    "name": "Joe",
-    "description": "Joe",
-    "slug": "Ruby/Joe",
-    "id": "Joe",
-    "image": "Ruby/Joe.png",
+    "name": "CST 3D",
+    "description": "Bring your sprites into the third dimension.",
+    "slug": "CST1229/3d",
+    "id": "3d",
     "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   },
   {
-    "name": "PenguinPedia",
-    "description": "Get a lot of data from Wikipedia, like definitions and images!",
-    "slug": "Ruby/penguinpedia",
-    "id": "penguinpedia",
-    "image": "Ruby/penguinpedia.webp",
+    "name": "Snapshot Stage Now",
+    "description": "The snapshot stage block from Looks Plus, but it captures the current state of the stage instead of the one from last frame.",
+    "slug": "CST1229/snapshotStageNow",
+    "id": "snapshotStageNow",
     "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   },
   {
-    "name": "Speech2Text",
-    "description": "Recognizes words or sentences said into the microphone. Experimental, can be innacurate sometimes.",
-    "slug": "Ruby/speechtotext",
-    "id": "speechtotext",
-    "image": "Ruby/speechtotext.png",
+    "name": "High Resolution Video Recorder",
+    "description": "The video recorder addon but it's a button in the block palette and it allows for setting the resolution.",
+    "slug": "CST1229/mediarecorderhighres",
+    "id": "mediarecorderhighres",
     "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   },
   {
-    "name": "1mbShortener",
-    "description": "Using 1mb Api you can now share links without it being long!",
-    "slug": "Ruby/1mb",
-    "id": "1mb",
-    "image": "Ruby/1mb.svg",
+    "name": "Camera Sensing Toggle",
+    "description": "Toggle the touching blocks being able to sense the camera feed (normally disabled for privacy reasons).",
+    "slug": "CST1229/CameraSensingToggle",
+    "id": "CameraSensingToggle",
     "by": [
-      {"name": "RubyDevs", "link": null}
-    ]
-  },
-  {
-    "name": "GoFile",
-    "description": "Upload any files with no limits using the gofile.io service. Updates may come with better features.",
-    "slug": "Ruby/gofile",
-    "id": "gofile",
-    "image": "Ruby/gofile.png",
-    "by": [
-      {"name": "RubyDevs", "link": null}
-    ]
-  },
-  {
-    "name": "TurboGemini",
-    "description": "Use Google's brand-new Gemini AI technology (similar to ChatGPT) inside your projects.",
-    "slug": "Ruby/geminiai",
-    "id": "geminiai",
-    "image": "Ruby/turbogemini.webp",
-    "by": [
-      {"name": "RubyDevs", "link": null}
-    ]
-  },
-  {
-    "name": "Ruby Maps",
-    "description": "An extension that lets you integrate the power of maps into your projects!",
-    "slug": "Ruby/rubymaps",
-    "id": "rubymaps",
-    "image": "Ruby/rubymaps.svg",
-    "by": [
-      {"name": "RubyDevs", "link": null}
-    ]
-  },
-  {
-    "name": "Analytics",
-    "description": "See Analytics about your project, using our sophisticated web tools.",
-    "slug": "Ruby/analytics",
-    "id": "analytics",
-    "image": "Ruby/analytics.webp",
-    "by": [
-      {"name": "RubyDevs", "link": null}
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
     ]
   }
   ]
