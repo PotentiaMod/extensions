@@ -128,18 +128,6 @@
         }
       ]
     },
-	  {
-    "name": "Hello World",
-    "description": "An extension example",
-    "slug": "Lemon/hello-world",
-    "id": "hello-world",
-	"by": [
-        {
-          "name": "GarboMuffin",
-          "link": "https://scratch.mit.edu/users/GarboMuffin/"
-        }
-      ]
-  },
   {
     "name": "SQLSnap! Fileshare",
     "image": "Bitter_130/SQLSnapFileshare.png",
