@@ -307,6 +307,37 @@
     "by": [
       {"name": "soiz1", "link": null}
     ]
-  }
+  },
+  {
+    "name": "Web kit",
+	"image": "webKit.png",
+    "description": "Make your own webkit in PotentiaMod!",
+    "slug": "Scratch3WebKit",
+    "id": "Scratch3WebKit",
+    "by": [
+      {"name": "toonco1", "link": null}
+    ]
+  },
+  {
+      "slug": "coniblocks/cryptography",
+      "id": "cryptography",
+      "name": "Cryptography",
+      "description": "UUID's and encryption.",
+      "image": "coniblocks/cryptography.png"
+    },
+    {
+      "slug": "coniblocks/randomizers",
+      "id": "randomizers",
+      "name": "Randomizers",
+      "description": "Use seeds and weights.",
+      "image": "coniblocks/randomizers.png"
+    },
+    {
+      "slug": "coniblocks/mathematics",
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "More advanced math.",
+      "image": "coniblocks/mathematics.png"
+    }
   ]
 }
