@@ -323,21 +323,30 @@
       "id": "cryptography",
       "name": "Cryptography",
       "description": "UUID's and encryption.",
-      "image": "coniblocks/cryptography.png"
+      "image": "coniblocks/cryptography.png",
+    "by": [
+      {"name": "coniblocks", "link": null}
+    ]
     },
     {
       "slug": "coniblocks/randomizers",
       "id": "randomizers",
       "name": "Randomizers",
       "description": "Use seeds and weights.",
-      "image": "coniblocks/randomizers.png"
+      "image": "coniblocks/randomizers.png",
+    "by": [
+      {"name": "coniblocks", "link": null}
+    ]
     },
     {
       "slug": "coniblocks/mathematics",
       "id": "mathematics",
-      "name": "Mathematics",
+      "name": "Mathematics (1)",
       "description": "More advanced math.",
-      "image": "coniblocks/mathematics.png"
+      "image": "coniblocks/mathematics.png",
+    "by": [
+      {"name": "coniblocks", "link": null}
+    ]
     }
   ]
 }
