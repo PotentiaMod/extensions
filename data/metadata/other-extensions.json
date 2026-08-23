@@ -328,22 +328,22 @@
       {"name": "ConiBlocks", "link": null}
     ]
     },
+	{
+      "slug": "coniblocks/mathematics",
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "More advanced math.",
+      "image": "coniblocks/mathematics.png",
+    "by": [
+      {"name": "ConiBlocks", "link": null}
+    ]
+    },
     {
       "slug": "coniblocks/randomizers",
       "id": "randomizers",
       "name": "Randomizers",
       "description": "Use seeds and weights.",
       "image": "coniblocks/randomizers.png",
-    "by": [
-      {"name": "ConiBlocks", "link": null}
-    ]
-    },
-    {
-      "slug": "coniblocks/mathematics",
-      "id": "mathematics",
-      "name": "Mathematics",
-      "description": "More advanced math.",
-      "image": "coniblocks/mathematics.png",
     "by": [
       {"name": "ConiBlocks", "link": null}
     ]
