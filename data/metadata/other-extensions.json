@@ -288,6 +288,16 @@
     "by": [
       {"name": "Axolay", "link": "https://github.com/greedyallay/"}
     ]
+  },
+  {
+    "name": "NFT Collection Utilities",
+    "image": "nft.png",
+    "description": "Create NFTs.",
+    "slug": "Scratch3NftBlocks",
+    "id": "Scratch3NftBlocks",
+    "by": [
+      {"name": "Digital Education Safety", "link": "https://github.com/digitaledsafety/"}
+    ]
   }
   ]
 }
