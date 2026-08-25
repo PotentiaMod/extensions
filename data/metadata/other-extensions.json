@@ -347,6 +347,16 @@
     "by": [
       {"name": "ConiBlocks", "link": null}
     ]
-    }
+    },
+	{
+    "name": "Extendable Blocks",
+    "image": "CST1229/extendableBlocks.svg",
+    "description": "Blocks with inputs that can be added and removed.",
+    "slug": "CST1229/extendableblocks",
+    "id": "extendableblocks",
+    "by": [
+      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
+    ]
+  }
   ]
 }
