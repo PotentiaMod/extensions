@@ -330,7 +330,7 @@
     },
 	{
       "slug": "coniblocks/mathematics",
-      "id": "mathematics",
+      "id": "mathematics1",
       "name": "Mathematics (1)",
       "description": "More advanced math.",
       "image": "coniblocks/mathematics.png",
@@ -360,7 +360,7 @@
     },
 	{
       "slug": "cattymod/python",
-      "id": "python",
+      "id": "python1",
       "name": "CattyMod Python",
       "description": "Run Python code and integrate Python scripts directly into your projects.",
       "image": "cattymod/python.svg",
