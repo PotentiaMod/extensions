@@ -349,14 +349,34 @@
     ]
     },
 	{
-    "name": "Extendable Blocks",
-    "image": "CST1229/extendableBlocks.svg",
-    "description": "Blocks with inputs that can be added and removed.",
-    "slug": "CST1229/extendableblocks",
-    "id": "extendableblocks",
+      "slug": "cattymod/modals",
+      "id": "modals",
+      "name": "CattyMod Modals",
+      "description": "Create Scratch 3 style popup windows, embeds, and interactive prompts.",
+      "image": "cattymod/modals.svg",
     "by": [
-      {"name": "CST1229", "link": "https://scratch.mit.edu/users/CST1229/"}
+      {"name": "Noahscratch493", "link": null}
     ]
-  }
+    },
+	{
+      "slug": "cattymod/python",
+      "id": "python",
+      "name": "CattyMod Python",
+      "description": "Run Python code and integrate Python scripts directly into your projects.",
+      "image": "cattymod/python.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    },
+	{
+      "slug": "cattymod/javascript",
+      "id": "javascript",
+      "name": "CattyMod Javascript",
+      "description": "Run JavaScript commands and more inside of your project.",
+      "image": "cattymod/javascript.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    }
   ]
 }
