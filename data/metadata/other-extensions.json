@@ -377,6 +377,123 @@
     "by": [
       {"name": "Noahscratch493", "link": null}
     ]
+    },
+	{
+      "slug": "ddededodediamante/spriteController",
+      "id": "spriteController",
+      "name": "Sprite Controller",
+      "description": "Control or send events to sprites.",
+      "image": "ddededodediamante//spriteController.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/sweetAlert2",
+      "id": "sweetAlert2",
+      "name": "Sweet Alerts",
+      "description": "Display customizable alerts and popups.",
+      "image": "ddededodediamante//sweetAlert2.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/stringMutilation",
+      "id": "stringMutilation",
+      "name": "String Mutilation",
+      "description": "Modify a string in various ways.",
+      "image": "ddededodediamante//stringMutilation.png",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/measurementFormat",
+      "id": "measurementFormat",
+      "name": "Measurement Format",
+      "description": "Convert and format units.",
+      "image": "ddededodediamante//measurementFormat.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/speechSynthesis",
+      "id": "speechSynthesis",
+      "name": "Speech Synthesis",
+      "description": "Play and customize TTS audio.",
+      "image": "ddededodediamante//speechSynthesis.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/nasaMediaSearch",
+      "id": "nasaMediaSearch",
+      "name": "Nasa Media Search",
+      "description": "Search for images on Nasa's public database.",
+      "image": "ddededodediamante//nasaMediaSearch.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/potatoExtension",
+      "id": "potatoExtension",
+      "name": "Potato Extension",
+      "description": "yummy potatoes 🥔",
+      "image": "ddededodediamante//potatoExtension.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/poopExtension",
+      "id": "poopExtension",
+      "name": "Poop Extension",
+      "description": "The best poop ever!",
+      "image": "ddededodediamante//poopExtension.svg",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "ddededodediamante/subwaySurfers",
+      "id": "subwaySurfers",
+      "name": "Subway Surfers",
+      "description": "Watch Subway Surfers while you're coding. Multitask!",
+      "image": "ddededodediamante//subwaySurfers.png",
+	  "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
     }
   ]
 }
