@@ -27,6 +27,11 @@ class platformDetector {
             text: 'Is Dash?'
           },
 		  {
+            opcode: 'isMistWarp',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is MistWarp?'
+          },
+		  {
             opcode: 'isElectraMod',
             blockType: Scratch.BlockType.BOOLEAN,
             text: 'Is ElectraMod?'
@@ -54,6 +59,11 @@ class platformDetector {
       this.isdash = Scratch.extensions.isDash
     ? "true"  : "false";
   return this.isdash
+    }
+	    isMistWarp() {
+      this.ismw = Scratch.extensions.isMistWarp
+    ? "true"  : "false";
+  return this.ismw
     }
     isElectraMod() {
       this.isem = Scratch.extensions.isElectraMod
