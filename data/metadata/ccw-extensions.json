@@ -78,6 +78,19 @@
       ]
     },
 	{
+      "slug": "szdewangyecaozuo",
+      "id": "szdewangyecaozuo",
+      "name": "鼠子的游戏弹窗",
+      "description": "更好的制作游戏",
+      "image": "szdewangyecaozuo.png",
+      "by": [
+        {
+          "name": "末·开心的小默鼠[森林镇]（鼠鼠团",
+          "link": "https://assets.ccw.site/myShowcase/63e4e4856bc82a13fb85b95f"
+        }
+      ]
+    },
+	{
       "slug": "Nostalgist",
       "id": "Nostalgist",
       "name": "Nostalgist - 游戏机模拟器",
@@ -100,6 +113,19 @@
         {
           "name": "Joy_Ful",
           "link": null
+        }
+      ]
+    },
+	{
+      "slug": "vocalsynthe",
+      "id": "vocalsynthe",
+      "name": "Gandi_Studio2white_G2w渲染组件",
+      "description": "音频处理",
+      "image": "vocalsynthe.png",
+      "by": [
+        {
+          "name": "深雲",
+          "link": "https://assets.ccw.site/myShowcase/623e9be2a9840c42aefeda9e"
         }
       ]
     }
