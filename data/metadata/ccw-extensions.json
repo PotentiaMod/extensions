@@ -131,6 +131,18 @@
       ]
     },
 	{
+      "slug": "unicodeCrypto",
+      "id": "unicodeCrypto",
+      "name": "W的Unicode编译器",
+      "description": "AI生成",
+      "image": "unicodeCrypto.png",
+      "by": [
+        {
+          "name": "꧁༺世纪末W༻꧂㍿༺ۣۖ仙ۣۖ༒ۣ入ۣۖ",
+          "link": "https://assets.ccw.site/myShowcase/67c1d7083778fc282d62dfcf"
+        }
+      ]
+	{
       "slug": "SkyDogBetterPopUps",
       "id": "SkyDogBetterPopUps",
       "name": "更好的弹窗",
@@ -243,6 +255,19 @@
         {
           "name": "Joy_Ful",
           "link": null
+        }
+      ]
+    },
+	{
+      "slug": "axolotlAntiCheat",
+      "id": "axolotlAntiCheat",
+      "name": "Axolotl Anti-Cheat",
+      "description": "反作弊 CSense Axolotl Anti-Cheat",
+      "image": "axolotlAntiCheat.png",
+      "by": [
+        {
+          "name": "AxolMax",
+          "link": "https://assets.ccw.site/myShowcase/631ed5925c80220de644301d"
         }
       ]
     },
