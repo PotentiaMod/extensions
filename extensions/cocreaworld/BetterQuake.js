@@ -4,7 +4,6 @@
 // By: Fath11
 // Original: Fath11
 // License: MPL-2.0
-
 (() => {
   // src/l10n/index.ts
   var l10n_default = {

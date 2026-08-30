@@ -1,3 +1,9 @@
+// Name: Vapor 3D
+// ID: vapor3D
+// Description: Vapor 3D - WebGL2 3D Engine
+// By: Joy_Ful
+// Original: Joy_Ful
+// License: MPL-2.0
 (function() {
 	//#region \0rolldown/runtime.js
 	var __defProp = Object.defineProperty;

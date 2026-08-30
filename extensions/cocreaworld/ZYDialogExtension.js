@@ -1,3 +1,9 @@
+// Name: Dialog Extension
+// ID: ZYDialogExtension
+// Description: Better pop ups.
+// By: ZY
+// Original: ZY
+// License: MPL-2.0
 class ZYDialogExtension {
     constructor() {
         this.lastResults = {

@@ -25,9 +25,9 @@ function processExtensions(dir, isFeatured = false) {
     return extensions;
   }
 
-  const extensions = fs.readdirSync(dir);
+  const files = fs.readdirSync(dir);
   
-  for (const file of extensions) {
+  for (const file of files) {
     if (!file.endsWith('.js')) continue;
     
     const filePath = path.join(dir, file);
@@ -46,7 +46,7 @@ function processExtensions(dir, isFeatured = false) {
         id: name,
         name,
         description,
-        image: `${image}.png`,
+        image: `img/${name}.png`,
         by: [
           {
             name: "${by}",
@@ -104,7 +104,6 @@ function generateMetadata() {
   
   console.log(`\n✓ Metadata generated successfully!`);
   console.log(`  Total extensions: ${allExtensions.length}`);
-  console.log(`  Featured: ${featuredExtensions.length}`);
   console.log(`  Other: ${fileExtensions.length}`);
   console.log(`  Output: ${OUTPUT_FILE}`);
   console.log(`  Site data: ${SITE_DATA_FILE}`);

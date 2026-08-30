@@ -14,19 +14,6 @@
       ]
     },
     {
-      "slug": "GaiaWindWave90/CocreaFetch",
-      "id": "CocreaFetch",
-      "name": "Cocrea Fetch",
-      "description": "Fetches API from Cocrea or Gandi IDE. Original by fath11.",
-      "image": "GaiaWindWave90/cocreaFetch.png",
-      "by": [
-        {
-          "name": "fath11",
-          "link": "https://github.com/fath11/"
-        }
-      ]
-    },
-    {
       "slug": "GaiaWindWave90/GTPPrompts",
       "id": "GPTPrompts",
       "name": "Prompts",

@@ -1,3 +1,9 @@
+// Name: 有很多帮助
+// ID: speechRecognition
+// Description: 进行实时语音转文字
+// By: 智溯CS
+// Original: 智溯CS
+// License: MPL-2.0
 (function (_Scratch) {
     const { ArgumentType, BlockType, TargetType, Cast, translate, extensions, runtime } = _Scratch;
 

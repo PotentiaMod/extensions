@@ -1,9 +1,9 @@
-/**
- * Name: WebAudioEngine
- * ID: WebAudioEngine
- * Description: 在Scratch中构建音频图
- * By: 大尾巴奇@CCW.SITE
- */
+// Name: Web Audio Engine
+// ID: WebAudioEngine
+// Description: 在Scratch中构建音频图
+// By: 大尾巴奇@CCW.SITE
+// Original: 大尾巴奇@CCW.SITE
+// License: MPL-2.0
 (function (Scratch) {
   'use strict';
   

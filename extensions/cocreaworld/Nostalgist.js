@@ -1,3 +1,9 @@
+// Name: Nostalgist - 游戏机模拟器
+// ID: nostalgist
+// Description: 支持 FC、GBA 等平台上的游戏
+// By: 酷可mc
+// Original: 酷可mc
+// License: MPL-2.0
 (async function (_Scratch) {
     class NostalgistScratchExtension {
         constructor(runtime) {

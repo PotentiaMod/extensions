@@ -1,3 +1,9 @@
+// Name: AI Pro
+// ID: AIPro
+// Description: Use the power of AI.
+// By: 邪恶T氏（专骗小初音）
+// Original: 邪恶T氏（专骗小初音）
+// License: MPL-2.0
 (function (Scratch) {
     'use strict';
 

@@ -1,3 +1,9 @@
+// Name: AI Master
+// ID: AIMaster
+// Description: Uses Pollinations API.
+// By: 北海智造
+// Original: 北海智造
+// License: MPL-2.0
 (function(Scratch) {
   'use strict';
 
