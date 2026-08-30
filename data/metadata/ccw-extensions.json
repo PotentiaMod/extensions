@@ -1,6 +1,6 @@
 {
-    "extensions": [
-          {
+  "extensions": [
+    {
       "slug": "betterquake",
       "id": "BetterQuake",
       "name": "BetterQuake",
@@ -104,5 +104,5 @@
         }
       ]
     },
-   ],
+  ]
 }
