@@ -1,7 +1,7 @@
 {
   "extensions": [
-    {
-      "slug": "betterquake",
+     {
+      "slug": "BetterQuake",
       "id": "BetterQuake",
       "name": "BetterQuake",
       "description": "Better shader loader.",
@@ -12,97 +12,6 @@
           "link": "https://scratch.mit.edu/users/fath11/"
         }
       ]
-    },
-	{
-      "slug": "CocreaFetch",
-      "id": "CocreaFetch",
-      "name": "Cocrea Fetch",
-      "description": "Fetches API from Cocrea or Gandi IDE. Original by Fath11.",
-      "image": "cocreaFetch.png",
-      "by": [
-        {
-          "name": "Fath11",
-          "link": "https://scratch.mit.edu/users/fath11/"
-        }
-      ]
-    },
-    {
-      "slug": "deepseek",
-      "id": "DeepSeek",
-      "name": "DeepSeek",
-      "description": "DeepSeek 探索未至之境",
-      "image": "DeepSeek.png",
-      "by": [
-        {
-          "name": "Lumi",
-          "link": null
-        }
-      ]
-    },
-    {
-      "slug": "webaudioengine",
-      "id": "webAudioEngine",
-      "name": "webAudioEngine",
-      "description": "在Scratch中构建音频图",
-      "image": "webAudioEngine.png",
-      "by": [
-        {
-          "name": "大尾巴奇@CCW.SITE",
-          "link": null
-        }
-      ]
-    },
-    {
-      "slug": "skydogbetterpopups",
-      "id": "SkyDogBetterPopUps",
-      "name": "SkyDogBetterPopUps",
-      "description": "更好的弹窗！美观 | 实用 | 丰富",
-      "image": "SkyDogBetterPopUps.png",
-      "by": [
-        {
-          "name": "多bug的啸天犬",
-          "link": null
-        }
-      ]
-    },
-	{
-      "slug": "vapor3d",
-      "id": "vapor3D",
-      "name": "vapor3D",
-      "description": "Vapor 3D - WebGL2 3D Engine",
-      "image": "vapor3D.png",
-      "by": [
-        {
-          "name": "Joy_Ful",
-          "link": null
-        }
-      ]
-    },
-	{
-      "slug": "speechrecog",
-      "id": "SpeechRecog",
-      "name": "SpeechRecog",
-      "description": "进行实时语音转文字",
-      "image": "SpeechRecog.png",
-      "by": [
-        {
-          "name": "智溯CS",
-          "link": null
-        }
-      ]
-    },
-    {
-      "slug": "nostalgist",
-      "id": "Nostalgist",
-      "name": "Nostalgist",
-      "description": "支持 FC、GBA 等平台上的游戏",
-      "image": "Nostalgist.png",
-      "by": [
-        {
-          "name": "酷可mc",
-          "link": null
-        }
-      ]
-    },
+    }
   ]
 }
