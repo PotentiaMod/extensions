@@ -156,6 +156,19 @@
       ]
     },
 	{
+      "slug": "usefulDeepseeksNormalAPI",
+      "id": "usefulDeepseeksNormalAPI",
+      "name": "DeepSeek Scratch 通用扩展",
+      "description": "基于 DeepSeek API 的 Scratch 自定义扩展，提供 LLM 推理能力集成。",
+      "image": "usefulDeepseeksNormalAPI.png",
+      "by": [
+        {
+          "name": "winter1437",
+          "link": "https://assets.ccw.site/myShowcase/637b13277d679c0fb3affe74"
+        }
+      ]
+    },
+	{
       "slug": "Nostalgist",
       "id": "Nostalgist",
       "name": "Nostalgist - 游戏机模拟器",
