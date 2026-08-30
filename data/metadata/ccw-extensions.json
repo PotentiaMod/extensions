@@ -12,6 +12,19 @@
           "link": "https://scratch.mit.edu/users/fath11/"
         }
       ]
+    },
+	{
+      "slug": "CocreaFetch",
+      "id": "CocreaFetch",
+      "name": "Cocrea Fetch",
+      "description": "Fetches API from Cocrea or Gandi IDE. Original by Fath11.",
+      "image": "cocreaFetch.png",
+      "by": [
+        {
+          "name": "Fath11",
+          "link": "https://scratch.mit.edu/users/fath11/"
+        }
+      ]
     }
   ]
 }
