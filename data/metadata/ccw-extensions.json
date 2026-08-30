@@ -40,11 +40,24 @@
       ]
     },
 	{
-      "slug": "ExtensionsManager",
-      "id": "ExtensionsManager",
+      "slug": "kukechat",
+      "id": "kukechat",
+      "name": "KukeChat - 随时随地，你我都在。",
+      "description": "在你的作品 & Gandi 中直接内嵌实时聊天系统，全面打破沟通障碍。",
+      "image": "kukechat.png",
+      "by": [
+        {
+          "name": "酷可mc",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "ExtensionManager",
+      "id": "ExtensionManager",
       "name": "扩展管理器",
       "description": "更好的管理已加载的扩展.",
-      "image": "ExtensionsManager.png",
+      "image": "ExtensionManager.png",
       "by": [
         {
           "name": "Translated in English by GaiaWindWave90.",
