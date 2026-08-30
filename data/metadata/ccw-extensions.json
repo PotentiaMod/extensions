@@ -169,6 +169,19 @@
       ]
     },
 	{
+      "slug": "komiiyunshi",
+      "id": "komiiyunshi",
+      "name": "Komii的今日运势查询",
+      "description": "查询任意ID今日运势",
+      "image": "komiiyunshi.png",
+      "by": [
+        {
+          "name": "Komii",
+          "link": "https://assets.ccw.site/myShowcase/66bee08e19f4df62e807a694"
+        }
+      ]
+    },
+	{
       "slug": "vapor3D",
       "id": "vapor3D",
       "name": "Vapor 3D",
