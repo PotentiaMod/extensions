@@ -53,6 +53,32 @@
       ]
     },
 	{
+      "slug": "webWalker",
+      "id": "webWalker",
+      "name": "西瓜の网页漫步者2.0",
+      "description": "（已清除恶意代码）打破常规，无限可能——让角色走出舞台！",
+      "image": "webWalker.png",
+      "by": [
+        {
+          "name": "枫糖西瓜君",
+          "link": "https://assets.ccw.site/myShowcase/63c0e4dba7123a347a4351d8"
+        }
+      ]
+    },
+	{
+      "slug": "cappuLambda",
+      "id": "cappuLambda",
+      "name": "Lambda 发布版",
+      "description": "Lambda yes, Procedure no!",
+      "image": "cappuLambda.png",
+      "by": [
+        {
+          "name": "Cappu",
+          "link": "https://assets.ccw.site/myShowcase/62b963fe01fb2c3c96d5d8ad"
+        }
+      ]
+    },
+	{
       "slug": "ExtensionManager",
       "id": "ExtensionManager",
       "name": "扩展管理器",
