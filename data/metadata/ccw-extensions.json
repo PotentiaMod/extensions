@@ -118,6 +118,19 @@
       ]
     },
 	{
+      "slug": "skeleton2d",
+      "id": "skeleton2d",
+      "name": "skeleton2d",
+      "description": "**充值神的Skeleton2D**：Scratch 2D骨骼动画插件",
+      "image": "skeleton2d.png",
+      "by": [
+        {
+          "name": "充值神",
+          "link": "https://assets.ccw.site/myShowcase/63a44ee65576bb581c9f447a"
+        }
+      ]
+    },
+	{
       "slug": "SkyDogBetterPopUps",
       "id": "SkyDogBetterPopUps",
       "name": "更好的弹窗",
@@ -187,6 +200,19 @@
       "name": "Komii的今日运势查询",
       "description": "查询任意ID今日运势",
       "image": "komiiyunshi.png",
+      "by": [
+        {
+          "name": "Komii",
+          "link": "https://assets.ccw.site/myShowcase/66bee08e19f4df62e807a694"
+        }
+      ]
+    },
+	{
+      "slug": "komiihtml",
+      "id": "komiihtml",
+      "name": "Komii的HTML",
+      "description": "在舞台上嵌入HTML内容，为作品增添新的可能性！",
+      "image": "komiihtml.png",
       "by": [
         {
           "name": "Komii",
