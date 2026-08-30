@@ -53,6 +53,19 @@
       ]
     },
 	{
+      "slug": "ClonePro",
+      "id": "ClonePro",
+      "name": "更好的克隆",
+      "description": "更好的克隆，兼容gandi，tw，02Engine，penguinMod等编辑器，融合多种功能",
+      "image": "ClonePro.png",
+      "by": [
+        {
+          "name": "twenty",
+          "link": "https://assets.ccw.site/myShowcase/65f8238ca65f1229b0d8c776"
+        }
+      ]
+    },
+	{
       "slug": "webWalker",
       "id": "webWalker",
       "name": "西瓜の网页漫步者2.0",
