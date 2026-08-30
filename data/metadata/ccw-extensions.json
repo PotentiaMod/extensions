@@ -157,6 +157,19 @@
       ]
     },
 	{
+      "slug": "ces9195ui2",
+      "id": "ces9195ui2",
+      "name": "CES9195的弹窗工具 V2",
+      "description": "无与伦比的弹窗工具！超多功能，超多动效，快来探索吧！",
+      "image": "ces9195ui2.png",
+      "by": [
+        {
+          "name": "CES9195",
+          "link": "https://assets.ccw.site/myShowcase/664b3b447f75c17722e17028"
+        }
+      ]
+    },
+	{
       "slug": "SpeechRecog",
       "id": "SpeechRecog",
       "name": "语音转文字",
@@ -191,6 +204,19 @@
         {
           "name": "winter1437",
           "link": "https://assets.ccw.site/myShowcase/637b13277d679c0fb3affe74"
+        }
+      ]
+    },
+	{
+      "slug": "gameboyshader",
+      "id": "gameboyshader",
+      "name": "陆鱼的Game Boy着色器",
+      "description": "让你做Game Boy风格轻松多",
+      "image": "gameboyshader.png",
+      "by": [
+        {
+          "name": "land_fish1225",
+          "link": "https://assets.ccw.site/myShowcase/6752ce7d3778fc282d619b86"
         }
       ]
     },
