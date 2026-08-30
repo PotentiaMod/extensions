@@ -70,7 +70,6 @@
       "id": "SpeechRecog",
       "name": "语音转文字",
       "description": "进行实时语音转文字",
-      "image": "SpeechRecog.png",
       "by": [
         {
           "name": "智溯CS",
