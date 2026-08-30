@@ -38,6 +38,19 @@
           "link": null
         }
       ]
+    },
+	{
+      "slug": "webAudioEngine",
+      "id": "webAudioEngine",
+      "name": "webAudioEngine",
+      "description": "在Scratch中构建音频图.",
+      "image": "webAudioEngine.png",
+      "by": [
+        {
+          "name": "大尾巴奇@CCW.SITE",
+          "link": null
+        }
+      ]
     }
   ]
 }
