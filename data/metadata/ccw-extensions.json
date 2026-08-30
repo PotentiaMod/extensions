@@ -26,5 +26,18 @@
         }
       ]
     }
+	{
+      "slug": "DeepSeek",
+      "id": "DeepSeek",
+      "name": "DeepSeek",
+      "description": "DeepSeek 探索未至之境.",
+      "image": "DeepSeek.png",
+      "by": [
+        {
+          "name": "Lumi",
+          "link": null
+        }
+      ]
+    }
   ]
 }
