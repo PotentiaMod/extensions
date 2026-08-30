@@ -66,7 +66,7 @@
     {
       "slug": "acidmod/acidConsole",
       "id": "acidmodConsole",
-      "name": "Console",
+      "name": "Console (AM)",
       "description": "Interact with your developer console.",
       "image": "acidmod/acidConsole.svg",
       "by": [
