@@ -27,6 +27,25 @@
       ]
     },
 	{
+      "slug": "fandom",
+      "id": "fandom",
+      "name": "Fandom",
+      "description": "Allow to call Fandom in Scratch!",
+      "image": "fandom.png",
+      "by": [
+	  {
+          "name": "GaiaWindWave90 (translator and modifier)",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ],
+	  "original": [
+        {
+          "name": "星.凌宇小泠汐专业食用大师😋",
+          "link": "https://assets.ccw.site/myShowcase/64bdefb955a37119e3eba779"
+        }
+      ]
+    },
+	{
       "slug": "advancedDialog",
       "id": "advancedDialog",
       "name": "灵动弹窗工具HTML自定义关闭",
