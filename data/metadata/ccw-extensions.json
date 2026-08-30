@@ -3,7 +3,7 @@
      {
       "slug": "BetterQuake",
       "id": "BetterQuake",
-      "name": "BetterQuake",
+      "name": "Better Quake",
       "description": "Better shader loader.",
       "image": "BetterQuake.png",
       "by": [
@@ -29,7 +29,7 @@
 	{
       "slug": "DeepSeek",
       "id": "DeepSeek",
-      "name": "DeepSeek",
+      "name": "DeepSeek AI",
       "description": "DeepSeek 探索未至之境.",
       "image": "DeepSeek.png",
       "by": [
@@ -42,12 +42,64 @@
 	{
       "slug": "webAudioEngine",
       "id": "webAudioEngine",
-      "name": "webAudioEngine",
+      "name": "WebAudio引擎",
       "description": "在Scratch中构建音频图.",
       "image": "webAudioEngine.png",
       "by": [
         {
           "name": "大尾巴奇@CCW.SITE",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "SkyDogBetterPopUps",
+      "id": "SkyDogBetterPopUps",
+      "name": "更好的弹窗",
+      "description": "更好的弹窗！美观 | 实用 | 丰富.",
+      "image": "SkyDogBetterPopUps.png",
+      "by": [
+        {
+          "name": "多bug的啸天犬",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "SpeechRecog",
+      "id": "SpeechRecog",
+      "name": "语音转文字",
+      "description": "进行实时语音转文字",
+      "image": "SpeechRecog.png",
+      "by": [
+        {
+          "name": "智溯CS",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "Nostalgist",
+      "id": "Nostalgist",
+      "name": "Nostalgist - 游戏机模拟器",
+      "description": "支持 FC、GBA 等平台上的游戏",
+      "image": "Nostalgist.png",
+      "by": [
+        {
+          "name": "酷可mc",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "vapor3D",
+      "id": "vapor3D",
+      "name": "Vapor 3D",
+      "description": "Vapor 3D - WebGL2 3D Engine",
+      "image": "vapor3D.png",
+      "by": [
+        {
+          "name": "Joy_Ful",
           "link": null
         }
       ]
