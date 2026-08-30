@@ -27,6 +27,32 @@
       ]
     },
 	{
+      "slug": "advancedDialog",
+      "id": "advancedDialog",
+      "name": "灵动弹窗工具HTML自定义关闭",
+      "description": "功能极多，动画美丽",
+      "image": "advancedDialog.png",
+      "by": [
+        {
+          "name": "橙膏_Orangy",
+          "link": "https://assets.ccw.site/myShowcase/6691ff4c3feba730098287de"
+        }
+      ]
+    },
+	{
+      "slug": "ExtensionsManager",
+      "id": "ExtensionsManager",
+      "name": "扩展管理器",
+      "description": "更好的管理已加载的扩展.",
+      "image": "ExtensionsManager.png",
+      "by": [
+        {
+          "name": "Translated in English by GaiaWindWave90.",
+          "link": null
+        }
+      ]
+    },
+	{
       "slug": "DeepSeek",
       "id": "DeepSeek",
       "name": "DeepSeek AI",
