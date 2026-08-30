@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const FILES_DIR = path.join(__dirname, 'extensions');
+const FILES_DIR = path.join(__dirname, 'extensions/other/pooiod7');
 const OUTPUT_FILE = path.join(__dirname, 'generated-metadata', 'extensions-v0.json');
 const SITE_DATA_FILE = path.join(__dirname, 'site-data.js');
 const VERSIONS_FILE = path.join(__dirname, 'versions.json');
@@ -42,15 +42,15 @@ function processExtensions(dir, isFeatured = false) {
       const slug = createSlug(name);
       
       extensions.push({
-        slug,
+        slug: name,
         id: name,
         name,
         description,
-        image: `img/${name}.png`,
+        image: `${name}.png`,
         by: [
           {
-            name: "${by}",
-            link: null
+            name: "pooiod7",
+            link: "https://scratch.mit.edu/users/pooiod7/"
           }
         ],
       });

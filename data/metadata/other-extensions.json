@@ -128,6 +128,279 @@
         }
       ]
     },
+	{
+      "slug": "pooiod7/Ace",
+      "id": "Ace",
+      "name": "Ace",
+      "description": "Create and manipulate an instance of the Ace code editor.",
+      "image": "pooiod7/Ace.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/BasicTTS",
+      "id": "BasicTTS",
+      "name": "BasicTTS",
+      "description": "Make your project reat dext out loud",
+      "image": "pooiod7/BasicTTS.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/CloneData",
+      "id": "CloneData",
+      "name": "CloneData",
+      "description": "Track and control clones.",
+      "image": "pooiod7/CloneData.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/Console",
+      "id": "Console",
+      "name": "Console",
+      "description": "An easy to use console system.",
+      "image": "pooiod7/Console.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/Dictation",
+      "id": "Dictation",
+      "name": "Dictation",
+      "description": "Convert your voice into text.",
+      "image": "pooiod7/Dictation.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/ElementalImages",
+      "id": "ElementalImages",
+      "name": "ElementalImages",
+      "description": "Manage images as elements in scratch",
+      "image": "pooiod7/ElementalImages.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/FilePile",
+      "id": "FilePile",
+      "name": "FilePile",
+      "description": "Easy file sharing and distribution extension using MQTT.",
+      "image": "pooiod7/FilePile.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/HTMLcanvas",
+      "id": "HTMLcanvas",
+      "name": "HTMLcanvas",
+      "description": "Use HTML and CSS to make projects with complex visual interfaces.",
+      "image": "pooiod7/HTMLcanvas.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/JSParser",
+      "id": "JSParser",
+      "name": "JSParser",
+      "description": "An extension for managing a sandboxed JavaScript instance.",
+      "image": "pooiod7/JSParser.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/KoboldAI",
+      "id": "KoboldAI",
+      "name": "KoboldAI",
+      "description": "Generate text and images for free with the power of The Horde",
+      "image": "pooiod7/KoboldAI.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/LoaderX",
+      "id": "LoaderX",
+      "name": "LoaderX",
+      "description": "Slightly more advanced ScratchX extension support",
+      "image": "pooiod7/LoaderX.png",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/ProjectParser",
+      "id": "ProjectParser",
+      "name": "ProjectParser",
+      "description": "Load and parse Scratch3 projects",
+      "image": "pooiod7/ProjectParser.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/Puter",
+      "id": "Puter",
+      "name": "Puter",
+      "description": "Cloud services from puter.com",
+      "image": "pooiod7/Puter.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/QuickSkins",
+      "id": "QuickSkins",
+      "name": "QuickSkins",
+      "description": "A simple extension to render images from data uris super quickly",
+      "image": "pooiod7/QuickSkins.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/RaccFacts",
+      "id": "RaccFacts",
+      "name": "RaccFacts",
+      "description": "Random racoon extension because why not",
+      "image": "pooiod7/RaccFacts.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/Sam",
+      "id": "Sam",
+      "name": "Sam",
+      "description": "Generate speech from text using better sam (imrane03.github.io/better-sam)",
+      "image": "pooiod7/Sam.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/ScratchBlocks",
+      "id": "ScratchBlocks",
+      "name": "ScratchBlocks",
+      "description": "Make Scratch blocks in scratch",
+      "image": "pooiod7/ScratchBlocks.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/ScrollUtilities",
+      "id": "ScrollUtilities",
+      "name": "ScrollUtilities",
+      "description": "Detect user scrolling on the page",
+      "image": "pooiod7/ScrollUtilities.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/SimpleGPT3",
+      "id": "SimpleGPT3",
+      "name": "SimpleGPT3",
+      "description": "A simple extension to interact with GPT3",
+      "image": "pooiod7/SimpleGPT3.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/SuperStorage",
+      "id": "SuperStorage",
+      "name": "SuperStorage",
+      "description": "Store and retrieve data locally on device, or remotely on a server.",
+      "image": "pooiod7/SuperStorage.png",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
+    {
+      "slug": "pooiod7/Zdog",
+      "id": "Zdog",
+      "name": "Zdog",
+      "description": "A Round, flat pseudo-3D engine. Based on zzz.dog",
+      "image": "pooiod7/Zdog.svg",
+      "by": [
+        {
+          "name": "pooiod7",
+          "link": "https://scratch.mit.edu/users/pooiod7/"
+        }
+      ]
+    },
   {
     "name": "SQLSnap! Fileshare",
     "image": "Bitter_130/SQLSnapFileshare.png",

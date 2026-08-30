@@ -3,548 +3,275 @@ window.extensionSiteData = {
   "metadata": {
     "extensions": [
       {
-        "slug": "aimaster",
-        "id": "AIMaster",
-        "name": "AIMaster",
-        "description": "Uses Pollinations API.",
-        "image": "img/AIMaster.png",
+        "slug": "Ace",
+        "id": "Ace",
+        "name": "Ace",
+        "description": "Create and manipulate an instance of the Ace code editor.",
+        "image": "Ace.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "aipro",
-        "id": "AIPro",
-        "name": "AIPro",
-        "description": "Use the power of AI.",
-        "image": "img/AIPro.png",
+        "slug": "BasicTTS",
+        "id": "BasicTTS",
+        "name": "BasicTTS",
+        "description": "Make your project reat dext out loud",
+        "image": "BasicTTS.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "betterquake",
-        "id": "BetterQuake",
-        "name": "BetterQuake",
-        "description": "Better shader loader.",
-        "image": "img/BetterQuake.png",
+        "slug": "CloneData",
+        "id": "CloneData",
+        "name": "CloneData",
+        "description": "Track and control clones.",
+        "image": "CloneData.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "bilibilivideoext",
-        "id": "BilibiliVideoEXT",
-        "name": "BilibiliVideoEXT",
-        "description": "",
-        "image": "img/BilibiliVideoEXT.png",
+        "slug": "Console",
+        "id": "Console",
+        "name": "Console",
+        "description": "An easy to use console system.",
+        "image": "Console.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "biluptwccw",
-        "id": "biluptwccw",
-        "name": "biluptwccw",
-        "description": "",
-        "image": "img/biluptwccw.png",
+        "slug": "Dictation",
+        "id": "Dictation",
+        "name": "Dictation",
+        "description": "Convert your voice into text.",
+        "image": "Dictation.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "ccwtouch",
-        "id": "ccwTouch",
-        "name": "ccwTouch",
-        "description": "",
-        "image": "img/ccwTouch.png",
+        "slug": "ElementalImages",
+        "id": "ElementalImages",
+        "name": "ElementalImages",
+        "description": "Manage images as elements in scratch",
+        "image": "ElementalImages.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "cdmodal",
-        "id": "cdmodal",
-        "name": "cdmodal",
-        "description": "",
-        "image": "img/cdmodal.png",
+        "slug": "FilePile",
+        "id": "FilePile",
+        "name": "FilePile",
+        "description": "Easy file sharing and distribution extension using MQTT.",
+        "image": "FilePile.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "clonepro",
-        "id": "ClonePro",
-        "name": "ClonePro",
-        "description": "",
-        "image": "img/ClonePro.png",
+        "slug": "HTMLcanvas",
+        "id": "HTMLcanvas",
+        "name": "HTMLcanvas",
+        "description": "Use HTML and CSS to make projects with complex visual interfaces.",
+        "image": "HTMLcanvas.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "colorchange",
-        "id": "ColorChange",
-        "name": "ColorChange",
-        "description": "",
-        "image": "img/ColorChange.png",
+        "slug": "JSParser",
+        "id": "JSParser",
+        "name": "JSParser",
+        "description": "An extension for managing a sandboxed JavaScript instance.",
+        "image": "JSParser.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "deepseek",
-        "id": "DeepSeek",
-        "name": "DeepSeek",
-        "description": "DeepSeek 探索未至之境",
-        "image": "img/DeepSeek.png",
+        "slug": "KoboldAI",
+        "id": "KoboldAI",
+        "name": "KoboldAI",
+        "description": "Generate text and images for free with the power of The Horde",
+        "image": "KoboldAI.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "editor",
-        "id": "Editor",
-        "name": "Editor",
-        "description": "",
-        "image": "img/Editor.png",
+        "slug": "LoaderX",
+        "id": "LoaderX",
+        "name": "LoaderX",
+        "description": "Slightly more advanced ScratchX extension support",
+        "image": "LoaderX.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "extblockmanager",
-        "id": "extBlockManager",
-        "name": "extBlockManager",
-        "description": "",
-        "image": "img/extBlockManager.png",
+        "slug": "ProjectParser",
+        "id": "ProjectParser",
+        "name": "ProjectParser",
+        "description": "Load and parse Scratch3 projects",
+        "image": "ProjectParser.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "extensionmanager",
-        "id": "ExtensionManager",
-        "name": "ExtensionManager",
-        "description": "",
-        "image": "img/ExtensionManager.png",
+        "slug": "Puter",
+        "id": "Puter",
+        "name": "Puter",
+        "description": "Cloud services from <a href=\"https://developer.puter.com\">puter.com</a>",
+        "image": "Puter.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "extensionsmanageroriginal",
-        "id": "ExtensionsManagerOriginal",
-        "name": "ExtensionsManagerOriginal",
-        "description": "",
-        "image": "img/ExtensionsManagerOriginal.png",
+        "slug": "QuickSkins",
+        "id": "QuickSkins",
+        "name": "QuickSkins",
+        "description": "A simple extension to render images from data uris super quickly",
+        "image": "QuickSkins.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "funnyboobv",
-        "id": "FunnyBooBV",
-        "name": "FunnyBooBV",
-        "description": "",
-        "image": "img/FunnyBooBV.png",
+        "slug": "RaccFacts",
+        "id": "RaccFacts",
+        "name": "RaccFacts",
+        "description": "Random racoon extension because why not",
+        "image": "RaccFacts.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "gsxwfile",
-        "id": "gsxwfile",
-        "name": "gsxwfile",
-        "description": "",
-        "image": "img/gsxwfile.png",
+        "slug": "Sam",
+        "id": "Sam",
+        "name": "Sam",
+        "description": "Generate speech from text using better sam (imrane03.github.io/better-sam)",
+        "image": "Sam.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "highspeedperformance",
-        "id": "highspeedperformance",
-        "name": "highspeedperformance",
-        "description": "",
-        "image": "img/highspeedperformance.png",
+        "slug": "ScratchBlocks",
+        "id": "ScratchBlocks",
+        "name": "ScratchBlocks",
+        "description": "Make Scratch blocks in scratch",
+        "image": "ScratchBlocks.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "komiiap",
-        "id": "komiiAP",
-        "name": "komiiAP",
-        "description": "",
-        "image": "img/komiiAP.png",
+        "slug": "ScrollUtilities",
+        "id": "ScrollUtilities",
+        "name": "ScrollUtilities",
+        "description": "Detect user scrolling on the page",
+        "image": "ScrollUtilities.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "lambda",
-        "id": "Lambda",
-        "name": "Lambda",
-        "description": "",
-        "image": "img/Lambda.png",
+        "slug": "SimpleGPT3",
+        "id": "SimpleGPT3",
+        "name": "SimpleGPT3",
+        "description": "A simple extension to interact with GPT3",
+        "image": "SimpleGPT3.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "lavtoolsext",
-        "id": "LavToolsExt",
-        "name": "LavToolsExt",
-        "description": "",
-        "image": "img/LavToolsExt.png",
+        "slug": "SuperStorage",
+        "id": "SuperStorage",
+        "name": "SuperStorage",
+        "description": "Store and retrieve data locally on device, or remotely on a server.",
+        "image": "SuperStorage.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       },
       {
-        "slug": "mduipro",
-        "id": "mduiPro",
-        "name": "mduiPro",
-        "description": "",
-        "image": "img/mduiPro.png",
+        "slug": "Zdog",
+        "id": "Zdog",
+        "name": "Zdog",
+        "description": "A Round, flat pseudo-3D engine. Based on https://zzz.dog/",
+        "image": "Zdog.png",
         "by": [
           {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "midi",
-        "id": "midi",
-        "name": "midi",
-        "description": "",
-        "image": "img/midi.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "miku",
-        "id": "Miku",
-        "name": "Miku",
-        "description": "",
-        "image": "img/Miku.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "morebetabesa",
-        "id": "morebetabesa",
-        "name": "morebetabesa",
-        "description": "",
-        "image": "img/morebetabesa.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "normscratchblocks",
-        "id": "NormScratchBlocks",
-        "name": "NormScratchBlocks",
-        "description": "",
-        "image": "img/NormScratchBlocks.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "nostalgist",
-        "id": "Nostalgist",
-        "name": "Nostalgist",
-        "description": "支持 FC、GBA 等平台上的游戏",
-        "image": "img/Nostalgist.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "perfoptimizer",
-        "id": "perfOptimizer",
-        "name": "perfOptimizer",
-        "description": "",
-        "image": "img/perfOptimizer.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "performanceboost",
-        "id": "performanceboost",
-        "name": "performanceboost",
-        "description": "",
-        "image": "img/performanceboost.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "runanyblocknext",
-        "id": "runanyblockNext",
-        "name": "runanyblockNext",
-        "description": "",
-        "image": "img/runanyblockNext.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "shakeeffect",
-        "id": "ShakeEffect",
-        "name": "ShakeEffect",
-        "description": "",
-        "image": "img/ShakeEffect.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "sillyai",
-        "id": "SillyAI",
-        "name": "SillyAI",
-        "description": "",
-        "image": "img/SillyAI.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "skydogbetterpopups",
-        "id": "SkyDogBetterPopUps",
-        "name": "SkyDogBetterPopUps",
-        "description": "更好的弹窗！美观 | 实用 | 丰富",
-        "image": "img/SkyDogBetterPopUps.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "skydogwindowrig",
-        "id": "SkyDogWindowRig",
-        "name": "SkyDogWindowRig",
-        "description": "",
-        "image": "img/SkyDogWindowRig.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "smokeeffect",
-        "id": "smokeEffect",
-        "name": "smokeEffect",
-        "description": "",
-        "image": "img/smokeEffect.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "speechrecog",
-        "id": "SpeechRecog",
-        "name": "SpeechRecog",
-        "description": "进行实时语音转文字",
-        "image": "img/SpeechRecog.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "vapor3d",
-        "id": "vapor3D",
-        "name": "vapor3D",
-        "description": "Vapor 3D - WebGL2 3D Engine",
-        "image": "img/vapor3D.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "vocalsynthe",
-        "id": "vocalsynthe",
-        "name": "vocalsynthe",
-        "description": "",
-        "image": "img/vocalsynthe.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "webaudioengine",
-        "id": "webAudioEngine",
-        "name": "webAudioEngine",
-        "description": "在Scratch中构建音频图",
-        "image": "img/webAudioEngine.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "webping",
-        "id": "webping",
-        "name": "webping",
-        "description": "",
-        "image": "img/webping.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "witcat",
-        "id": "WitCat",
-        "name": "WitCat",
-        "description": "",
-        "image": "img/WitCat.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "wtoolbox",
-        "id": "WToolBox",
-        "name": "WToolBox",
-        "description": "",
-        "image": "img/WToolBox.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
-          }
-        ]
-      },
-      {
-        "slug": "zydialogextension",
-        "id": "ZYDialogExtension",
-        "name": "ZYDialogExtension",
-        "description": "Better pop ups.",
-        "image": "img/ZYDialogExtension.png",
-        "by": [
-          {
-            "name": "${by}",
-            "link": null
+            "name": "pooiod7",
+            "link": "https://scratch.mit.edu/users/pooiod7/"
           }
         ]
       }
