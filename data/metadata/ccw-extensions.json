@@ -182,6 +182,19 @@
       ]
     },
 	{
+      "slug": "FunnyBooGandiIconEditor",
+      "id": "FunnyBooGandiIconEditor",
+      "name": "Gandi 图标编辑器",
+      "description": "甘地这一块./",
+      "image": "FunnyBooGandiIconEditor.png",
+      "by": [
+        {
+          "name": "FunnyBoo",
+          "link": "https://assets.ccw.site/myShowcase/655739be4b9a4844976e9902"
+        }
+      ]
+    },
+	{
       "slug": "vapor3D",
       "id": "vapor3D",
       "name": "Vapor 3D",
