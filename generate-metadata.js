@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const FILES_DIR = path.join(__dirname, 'extensions/other/pooiod7');
+const FILES_DIR = path.join(__dirname, 'extensions/other');
 const OUTPUT_FILE = path.join(__dirname, 'generated-metadata', 'extensions-v0.json');
 const SITE_DATA_FILE = path.join(__dirname, 'site-data.js');
 const VERSIONS_FILE = path.join(__dirname, 'versions.json');
@@ -49,8 +49,8 @@ function processExtensions(dir, isFeatured = false) {
         image: `${name}.png`,
         by: [
           {
-            name: "pooiod7",
-            link: "https://scratch.mit.edu/users/pooiod7/"
+            name: "Unknown",
+            link: null
           }
         ],
       });

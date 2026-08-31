@@ -592,6 +592,19 @@
     ]
   },
   {
+      "slug": "DangerousButUseful",
+      "id": "DangerousButUseful",
+      "name": "Dangerous, But Useful",
+      "description": "Dangerous Utility Blocks!",
+      "image": "DBU.svg",
+      "by": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        }
+      ]
+    },
+  {
       "slug": "coniblocks/cryptography",
       "id": "cryptography",
       "name": "Cryptography (ConiBlocks)",

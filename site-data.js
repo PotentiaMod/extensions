@@ -3,275 +3,613 @@ window.extensionSiteData = {
   "metadata": {
     "extensions": [
       {
-        "slug": "Ace",
-        "id": "Ace",
-        "name": "Ace",
-        "description": "Create and manipulate an instance of the Ace code editor.",
-        "image": "Ace.png",
+        "slug": "alerrrt",
+        "id": "alerrrt",
+        "name": "alerrrt",
+        "description": "",
+        "image": "alerrrt.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "BasicTTS",
-        "id": "BasicTTS",
-        "name": "BasicTTS",
-        "description": "Make your project reat dext out loud",
-        "image": "BasicTTS.png",
+        "slug": "Base",
+        "id": "Base",
+        "name": "Base",
+        "description": "",
+        "image": "Base.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "CloneData",
-        "id": "CloneData",
-        "name": "CloneData",
-        "description": "Track and control clones.",
-        "image": "CloneData.png",
+        "slug": "BaseExtension",
+        "id": "BaseExtension",
+        "name": "BaseExtension",
+        "description": "",
+        "image": "BaseExtension.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "Console",
-        "id": "Console",
-        "name": "Console",
-        "description": "An easy to use console system.",
-        "image": "Console.png",
+        "slug": "Chronometer",
+        "id": "Chronometer",
+        "name": "Chronometer",
+        "description": "",
+        "image": "Chronometer.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "Dictation",
-        "id": "Dictation",
-        "name": "Dictation",
-        "description": "Convert your voice into text.",
-        "image": "Dictation.png",
+        "slug": "ClipBlocks",
+        "id": "ClipBlocks",
+        "name": "ClipBlocks",
+        "description": "",
+        "image": "ClipBlocks.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "ElementalImages",
-        "id": "ElementalImages",
-        "name": "ElementalImages",
-        "description": "Manage images as elements in scratch",
-        "image": "ElementalImages.png",
+        "slug": "Cookie",
+        "id": "Cookie",
+        "name": "Cookie",
+        "description": "",
+        "image": "Cookie.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "FilePile",
-        "id": "FilePile",
-        "name": "FilePile",
-        "description": "Easy file sharing and distribution extension using MQTT.",
-        "image": "FilePile.png",
+        "slug": "CustomRenderPipeline",
+        "id": "CustomRenderPipeline",
+        "name": "CustomRenderPipeline",
+        "description": "",
+        "image": "CustomRenderPipeline.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "HTMLcanvas",
-        "id": "HTMLcanvas",
-        "name": "HTMLcanvas",
-        "description": "Use HTML and CSS to make projects with complex visual interfaces.",
-        "image": "HTMLcanvas.png",
+        "slug": "DangerousButUseful",
+        "id": "DangerousButUseful",
+        "name": "DangerousButUseful",
+        "description": "",
+        "image": "DangerousButUseful.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "JSParser",
-        "id": "JSParser",
-        "name": "JSParser",
-        "description": "An extension for managing a sandboxed JavaScript instance.",
-        "image": "JSParser.png",
+        "slug": "Data_Reserves",
+        "id": "Data_Reserves",
+        "name": "Data_Reserves",
+        "description": "",
+        "image": "Data_Reserves.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "KoboldAI",
-        "id": "KoboldAI",
-        "name": "KoboldAI",
-        "description": "Generate text and images for free with the power of The Horde",
-        "image": "KoboldAI.png",
+        "slug": "DeepSeekExtension",
+        "id": "DeepSeekExtension",
+        "name": "DeepSeekExtension",
+        "description": "",
+        "image": "DeepSeekExtension.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "LoaderX",
-        "id": "LoaderX",
-        "name": "LoaderX",
-        "description": "Slightly more advanced ScratchX extension support",
-        "image": "LoaderX.png",
+        "slug": "Ease_Formulas",
+        "id": "Ease_Formulas",
+        "name": "Ease_Formulas",
+        "description": "",
+        "image": "Ease_Formulas.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "ProjectParser",
-        "id": "ProjectParser",
-        "name": "ProjectParser",
-        "description": "Load and parse Scratch3 projects",
-        "image": "ProjectParser.png",
+        "slug": "eriks_extension001",
+        "id": "eriks_extension001",
+        "name": "eriks_extension001",
+        "description": "",
+        "image": "eriks_extension001.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "Puter",
-        "id": "Puter",
-        "name": "Puter",
-        "description": "Cloud services from <a href=\"https://developer.puter.com\">puter.com</a>",
-        "image": "Puter.png",
+        "slug": "extensionManager",
+        "id": "extensionManager",
+        "name": "extensionManager",
+        "description": "",
+        "image": "extensionManager.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "QuickSkins",
-        "id": "QuickSkins",
-        "name": "QuickSkins",
-        "description": "A simple extension to render images from data uris super quickly",
-        "image": "QuickSkins.png",
+        "slug": "Extramath",
+        "id": "Extramath",
+        "name": "Extramath",
+        "description": "",
+        "image": "Extramath.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "RaccFacts",
-        "id": "RaccFacts",
-        "name": "RaccFacts",
-        "description": "Random racoon extension because why not",
-        "image": "RaccFacts.png",
+        "slug": "files",
+        "id": "files",
+        "name": "files",
+        "description": "",
+        "image": "files.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "Sam",
-        "id": "Sam",
-        "name": "Sam",
-        "description": "Generate speech from text using better sam (imrane03.github.io/better-sam)",
-        "image": "Sam.png",
+        "slug": "FNAF_Utilities",
+        "id": "FNAF_Utilities",
+        "name": "FNAF_Utilities",
+        "description": "",
+        "image": "FNAF_Utilities.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "ScratchBlocks",
-        "id": "ScratchBlocks",
-        "name": "ScratchBlocks",
-        "description": "Make Scratch blocks in scratch",
-        "image": "ScratchBlocks.png",
+        "slug": "FrictionMovement",
+        "id": "FrictionMovement",
+        "name": "FrictionMovement",
+        "description": "",
+        "image": "FrictionMovement.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "ScrollUtilities",
-        "id": "ScrollUtilities",
-        "name": "ScrollUtilities",
-        "description": "Detect user scrolling on the page",
-        "image": "ScrollUtilities.png",
+        "slug": "FutureBoard",
+        "id": "FutureBoard",
+        "name": "FutureBoard",
+        "description": "",
+        "image": "FutureBoard.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "SimpleGPT3",
-        "id": "SimpleGPT3",
-        "name": "SimpleGPT3",
-        "description": "A simple extension to interact with GPT3",
-        "image": "SimpleGPT3.png",
+        "slug": "Grug3D",
+        "id": "Grug3D",
+        "name": "Grug3D",
+        "description": "",
+        "image": "Grug3D.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "SuperStorage",
-        "id": "SuperStorage",
-        "name": "SuperStorage",
-        "description": "Store and retrieve data locally on device, or remotely on a server.",
-        "image": "SuperStorage.png",
+        "slug": "hello-world",
+        "id": "hello-world",
+        "name": "hello-world",
+        "description": "",
+        "image": "hello-world.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
           }
         ]
       },
       {
-        "slug": "Zdog",
-        "id": "Zdog",
-        "name": "Zdog",
-        "description": "A Round, flat pseudo-3D engine. Based on https://zzz.dog/",
-        "image": "Zdog.png",
+        "slug": "Joe",
+        "id": "Joe",
+        "name": "Joe",
+        "description": "",
+        "image": "Joe.png",
         "by": [
           {
-            "name": "pooiod7",
-            "link": "https://scratch.mit.edu/users/pooiod7/"
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "jungleinferno",
+        "id": "jungleinferno",
+        "name": "jungleinferno",
+        "description": "",
+        "image": "jungleinferno.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "MinecraftEdu",
+        "id": "MinecraftEdu",
+        "name": "MinecraftEdu",
+        "description": "",
+        "image": "MinecraftEdu.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "mrbeastutil",
+        "id": "mrbeastutil",
+        "name": "mrbeastutil",
+        "description": "",
+        "image": "mrbeastutil.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Mulberry32Random",
+        "id": "Mulberry32Random",
+        "name": "Mulberry32Random",
+        "description": "",
+        "image": "Mulberry32Random.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "MysteryExtension",
+        "id": "MysteryExtension",
+        "name": "MysteryExtension",
+        "description": "",
+        "image": "MysteryExtension.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Noise",
+        "id": "Noise",
+        "name": "Noise",
+        "description": "",
+        "image": "Noise.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "PromptGenerator",
+        "id": "PromptGenerator",
+        "name": "PromptGenerator",
+        "description": "",
+        "image": "PromptGenerator.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "RJMMC",
+        "id": "RJMMC",
+        "name": "RJMMC",
+        "description": "",
+        "image": "RJMMC.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "scratch22",
+        "id": "scratch22",
+        "name": "scratch22",
+        "description": "",
+        "image": "scratch22.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Scratch3MissMixALot",
+        "id": "Scratch3MissMixALot",
+        "name": "Scratch3MissMixALot",
+        "description": "",
+        "image": "Scratch3MissMixALot.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Scratch3NftBlocks",
+        "id": "Scratch3NftBlocks",
+        "name": "Scratch3NftBlocks",
+        "description": "",
+        "image": "Scratch3NftBlocks.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Scratch3PuzzleBlocks",
+        "id": "Scratch3PuzzleBlocks",
+        "name": "Scratch3PuzzleBlocks",
+        "description": "",
+        "image": "Scratch3PuzzleBlocks.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Scratch3WebKit",
+        "id": "Scratch3WebKit",
+        "name": "Scratch3WebKit",
+        "description": "",
+        "image": "Scratch3WebKit.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "ScratchHub",
+        "id": "ScratchHub",
+        "name": "ScratchHub",
+        "description": "",
+        "image": "ScratchHub.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Speech2Text",
+        "id": "Speech2Text",
+        "name": "Speech2Text",
+        "description": "",
+        "image": "Speech2Text.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "StageGeneratorAI",
+        "id": "StageGeneratorAI",
+        "name": "StageGeneratorAI",
+        "description": "",
+        "image": "StageGeneratorAI.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "subwaysurfers",
+        "id": "subwaysurfers",
+        "name": "subwaysurfers",
+        "description": "",
+        "image": "subwaysurfers.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "TheShovelProfanityAPI",
+        "id": "TheShovelProfanityAPI",
+        "name": "TheShovelProfanityAPI",
+        "description": "",
+        "image": "TheShovelProfanityAPI.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Three",
+        "id": "Three",
+        "name": "Three",
+        "description": "",
+        "image": "Three.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "trumputil",
+        "id": "trumputil",
+        "name": "trumputil",
+        "description": "",
+        "image": "trumputil.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "tweakplane",
+        "id": "tweakplane",
+        "name": "tweakplane",
+        "description": "",
+        "image": "tweakplane.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "TypeScratch",
+        "id": "TypeScratch",
+        "name": "TypeScratch",
+        "description": "",
+        "image": "TypeScratch.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "unsadbox",
+        "id": "unsadbox",
+        "name": "unsadbox",
+        "description": "",
+        "image": "unsadbox.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "UpgradedDangerousBusUseful",
+        "id": "UpgradedDangerousBusUseful",
+        "name": "UpgradedDangerousBusUseful",
+        "description": "",
+        "image": "UpgradedDangerousBusUseful.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "vibe",
+        "id": "vibe",
+        "name": "vibe",
+        "description": "",
+        "image": "vibe.png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Wendy_s_Utils (2)",
+        "id": "Wendy_s_Utils (2)",
+        "name": "Wendy_s_Utils (2)",
+        "description": "",
+        "image": "Wendy_s_Utils (2).png",
+        "by": [
+          {
+            "name": "Unknown",
+            "link": null
           }
         ]
       }
