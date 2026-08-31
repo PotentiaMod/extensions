@@ -70,7 +70,7 @@
         }
       ],
 	  "samples": [
-        "POTAdBlockDetect"
+        "samples/potentiamod/POTAdBlockDetect"
       ]
     },
     {
