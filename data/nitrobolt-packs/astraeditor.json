@@ -322,7 +322,7 @@
     },
     {
       "slug": "extensions/astraeditor/windowstoast",
-      "id": "",
+      "id": "windowstoast",
       "name": "Windows toast",
       "description": "Send Windows Toast notifications with icon, sound and duration settings",
       "nameTranslations": {
@@ -342,7 +342,7 @@
     },
     {
       "slug": "extensions/astraeditor/browserDetector",
-      "id": "",
+      "id": "browserDetector",
       "name": "Browser Check",
       "description": "Detects the browser type running the project, supports multiple browser identification",
       "nameTranslations": {
