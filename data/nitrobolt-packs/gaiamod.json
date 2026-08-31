@@ -1,0 +1,112 @@
+{
+  "information": {
+    "name": "GaiaMod",
+    "tag": "gm",
+    "source": "https://gaiamod-main.github.io/"
+  },
+  "extensions": [
+    {
+      "slug": "extensions/GaiaWindWave90/GaiaBlocks",
+      "id": "gaiaBlocks",
+      "name": "Gaia Utilities",
+      "description": "Wonderful utility blocks!",
+      "image": "images/GaiaWindWave90/GaiaUtilities.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/GaiaWindWave90/GTPPrompts",
+      "id": "GPTPrompts",
+      "name": "Prompts",
+      "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
+      "image": "images/GaiaWindWave90/prompts.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/GaiaWindWave90/PenguinAttack",
+      "id": "penguinAttack",
+      "name": "Penguin Attack!",
+      "description": "Edited version of the Fire in the Hole extension. Original extension by JeremyGamer13.",
+      "image": "images/GaiaWindWave90/PenguinAttack.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/GaiaWindWave90/GaiaGPT",
+      "id": "gaiaGPT",
+      "name": "GaiaGPT",
+      "description": "A GaiaMod modification of logise1123's Pang AI with more prompts.",
+      "image": "images/GaiaWindWave90/GaiaGPT.png",
+	  "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+	{
+      "slug": "extensions/GaiaWindWave90/Webcamrecorder",
+      "id": "Webcamrecorder",
+      "name": "Webcam Recorder",
+      "description": "Records videos straight out of webcam.",
+      "image": "images/GaiaWindWave90/WebCamThumb.png",
+      "by": [
+        {
+          "name": "-SIPC-, with modifications by GaiaWindWave90",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "extensions/GaiaWindWave90/SpinachFacts",
+      "id": "ahoySpinach",
+      "name": "Spinach Facts",
+      "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
+      "image": "images/GaiaWindWave90/spinach.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+	{
+      "slug": "extensions/GaiaWindWave90/DingDongDitch",
+      "id": "dingDongDitch",
+      "name": "Ding Dong Ditch",
+      "description": "Something I did for fun.",
+      "image": "images/GaiaWindWave90/DingDongDitch.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    },
+	{
+      "slug": "extensions/GaiaWindWave90/PonySpawner",
+      "id": "ponyspawn",
+      "name": "Pony Spawner",
+      "description": "Spawn characters from MLP:FIM for fun!",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90/"
+        }
+      ]
+    }
+  ]
+}
