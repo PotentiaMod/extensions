@@ -1,0 +1,90 @@
+{
+  "information": {
+    "name": "PotentiaMod",
+    "tag": "pot",
+    "source": "https://potentiamod.github.io/extensions/"
+  },
+  "extensions": [
+    {
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTBrowserStuff",
+      "id": "POTBrowserStuff",
+      "name": "Browser Stuff",
+      "description": "Some stuff for the web browser.",
+      "image": "img/potentiamod/GaiaWindWave90/POTBrowserStuff.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTConsoles",
+      "id": "POTConsoles",
+      "name": "Potentia Consoles",
+      "description": "Apparently the first-ever original PotentiaMod extension that logs things on consoles.",
+      "image": "img/potentiamod/GaiaWindWave90/POTConsoles.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTPlatformDetector",
+      "id": "POTPlatformDetector",
+      "name": "Platform Detector",
+      "description": "Detects whenever the platform was a Scratch mod or not.",
+      "image": "img/potentiamod/GaiaWindWave90/POTPlatformDetector.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+    {
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTPotentiaModBlocks",
+      "id": "POTPotentiaModBlocks",
+      "name": "PotentiaMod Blocks",
+      "description": "Weird new blocks, but it's a Javascript modified port of TurboWarp Blocks.",
+      "image": "img/potentiamod/GaiaWindWave90/POTPotentiaModBlocks.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+	{
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTAdBlockDetect",
+      "id": "POTAdBlockDetect",
+      "name": "Adblock Detection",
+      "description": "Detects whenever the adblock is on or not.",
+      "image": "img/potentiamod/GaiaWindWave90/POTAdBlockDetect.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ],
+	  "samples": [
+        "POTAdBlockDetect"
+      ]
+    },
+    {
+      "slug": "extensions/potentiamod/GaiaWindWave90/POTStuff",
+      "id": "POTStuff",
+      "name": "PotentiaMod Stuff",
+      "description": "Something that I will try to do stuff on. Inspired by the AcidMod Test extension.",
+      "image": "img/potentiamod/GaiaWindWave90/POTStuff.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    }
+  ]
+}
