@@ -1,7 +1,7 @@
 {
   "extensions": [
     {
-      "slug": "extensions/zerotwoengine/kylin",
+      "slug": "kylin",
       "id": "kylin",
       "name": "kylin",
       "description": "Kylin is the first-ever obfuscator for Scratch (Turbowarp) that enables you to encrypt your project, preventing it from being stolen or hacked.",
@@ -9,7 +9,7 @@
         "zh-cn": "Kylin 是业界第一个用于 Scratch (Turbowarp) 的混淆器，允许你 加密 你的项目，来避免它被盗或被破解。",
         "en": "Kylin is the first-ever obfuscator for Scratch (Turbowarp) that enables you to encrypt your project, preventing it from being stolen or hacked."
       },
-      "image": "img/zerotwoengine/kylin.png",
+      "image": "kylin.png",
       "by": [
         {
           "name": "FurryR",
@@ -19,11 +19,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/babylon3d",
+      "slug": "babylon3d",
       "id": "babylon3d",
       "name": "Babylon3D",
       "description": "Best scratch 3D engine.Based on babylonjs.",
-      "image": "img/zerotwoengine/babylon3d.png",
+      "image": "babylon3d.png",
       "by": [
         {
           "name": "PPN-design",
@@ -33,11 +33,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/tensorflow",
+      "slug": "tensorflow",
       "id": "tensorflow",
       "name": "TensorFlow",
       "description": "Scratch neural networks engine.Based on tensorflowjs.",
-      "image": "img/zerotwoengine/tensorflow.png",
+      "image": "tensorflow.png",
       "by": [
         {
           "name": "PPN-design",
@@ -47,11 +47,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/transformers",
+      "slug": "transformers",
       "id": "huggingfacetransformers",
       "name": "Hugging Face Transformers",
       "description": "Run Hugging Face Transformers.js models in TurboWarp with configurable tasks, devices, and dtypes.",
-      "image": "img/zerotwoengine/transformers.svg",
+      "image": "transformers.svg",
       "by": [
         {
           "name": "0.2Studio"
@@ -60,11 +60,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/spinepro",
+      "slug": "spinepro",
       "id": "spinePro",
       "name": "SpinePro",
       "description": "Use Spine skeletal animation in Scratch projects.",
-      "image": "img/zerotwoengine/spinepro.svg",
+      "image": "spinepro.svg",
       "by": [
         {
           "name": "PPN-design",
@@ -74,11 +74,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/ShangCloud",
+      "slug": "ShangCloud",
       "id": "ShangCloud",
       "name": "ShangCloud (02)",
       "description": "ShangCloud SDK for Scratch",
-      "image": "img/zerotwoengine/shangcloud.png",
+      "image": "shangcloud.png",
       "by": [
         {
           "name": "Yearnstudio",
@@ -88,7 +88,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/cybertoolbox",
+      "slug": "cybertoolbox",
       "id": "toolbox",
       "name": "Cybertoolbox",
       "description": "Put a bunch of things together!",
@@ -100,7 +100,7 @@
         "zh-cn": "把一堆东西塞到了一起！",
         "en": "Put a bunch of things together!"
       },
-      "image": "img/zerotwoengine/toolbox.png",
+      "image": "toolbox.png",
       "by": [
         {
           "name": "Cyberexplorer",
@@ -110,7 +110,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/QwQAI大模型",
+      "slug": "QwQAI大模型",
       "id": "QwQAI大模型",
       "name": "QwQAI大模型",
       "description": "与通义千问的QwQ大模型及部分其他AI大模型交互。非官方扩展。",
@@ -120,7 +120,7 @@
       "descriptionTranslations": {
 
       },
-      "image": "img/zerotwoengine/QwQAI大模型.jpg",
+      "image": "QwQAI大模型.jpg",
       "by": [
         {
           "name": "zekkei",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/小金鱼的屏蔽词",
+      "slug": "小金鱼的屏蔽词",
       "id": "小金鱼的屏蔽词",
       "name": "小金鱼的屏蔽词",
       "description": "小金鱼编写的屏蔽词扩展，可以应用于聊天软件中。",
@@ -143,7 +143,7 @@
       "descriptionTranslations": {
 
       },
-      "image": "img/zerotwoengine/小金鱼的屏蔽词.png",
+      "image": "小金鱼的屏蔽词.png",
       "by": [
         {
           "name": "小金鱼",
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/本地数据库",
+      "slug": "本地数据库",
       "id": "本地数据库",
       "name": "本地数据库",
       "description": "更好地将数据储存在本地，与[本地储存]扩展不冲突。（即可储存同名数据而不冲突）",
@@ -166,7 +166,7 @@
       "descriptionTranslations": {
 
       },
-      "image": "img/zerotwoengine/本地数据库.jpg",
+      "image": "本地数据库.jpg",
       "by": [
         {
           "name": "zekkei",
@@ -179,11 +179,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/kmsBlur",
+      "slug": "kmsBlur",
       "id": "kmsBlur",
       "name": "𝙆𝙢𝙨 𝘽𝙡𝙪𝙧",
       "description": "使角色迅速模糊.",
-      "image": "img/zerotwoengine/kmsBlur.png",
+      "image": "kmsBlur.png",
       "by": [
         {
           "name": "Kimos",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/seacloud",
+      "slug": "seacloud",
       "id": "seacloud",
       "name": "SeaCloud",
       "description": "Account management tools used for SCOS on 02Engine, simplifying",
@@ -208,7 +208,7 @@
         "zh-cn": "在02Engine上为SCOS使用的账户管理工具，化繁为简",
         "en": "Account management tools used for SCOS on 02Engine, simplifying"
       },
-      "image": "img/zerotwoengine/seacloud.png",
+      "image": "seacloud.png",
       "by": [
         {
           "name": "Deep-Sea",
@@ -218,11 +218,11 @@
       "docs": true
     },
     {
-      "slug": "extensions/zerotwoengine/补间 Plus",
+      "slug": "补间 Plus",
       "id": "kmsTween",
       "name": "补间 Plus",
       "description": "计算三次贝塞尔曲线的动画进度和时间，需要一定的Css基础。",
-      "image": "img/zerotwoengine/补间 Plus.png",
+      "image": "补间 Plus.png",
       "by": [
         {
           "name": "孔明",
@@ -235,11 +235,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/msj的工具箱",
+      "slug": "msj的工具箱",
       "id": "msj的工具箱",
       "name": "msj的工具箱",
       "description": "包含和网络、文件处理、文件下载和计算有关的实用工具，但还在测试阶段",
-      "image": "img/zerotwoengine/msj的工具箱.png",
+      "image": "msj的工具箱.png",
       "by": [
         {
           "name": "玩MC的Sc俊杰",
@@ -252,11 +252,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/神经网络",
+      "slug": "神经网络",
       "id": "神经网络",
       "name": "神经网络",
       "description": "一个简单易上手的神经网络扩展",
-      "image": "img/zerotwoengine/神经网络.jpg",
+      "image": "神经网络.jpg",
       "by": [
         {
           "name": "瓜子",
@@ -266,11 +266,11 @@
       "docs": true
     },
     {
-      "slug": "extensions/zerotwoengine/MoistsTechnology",
+      "slug": "MoistsTechnology",
       "id": "MoistsTechnology",
       "name": "MoistsTechnology",
       "description": "一个由汐.mec开发的千奇百怪工具箱",
-      "image": "img/zerotwoengine/MoistsTechnology.png",
+      "image": "MoistsTechnology.png",
       "by": [
         {
           "name": "汐.mec",
@@ -280,14 +280,14 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/texturefix",
+      "slug": "texturefix",
       "id": "texturefix",
       "name": "纹理画布",
       "nameTranslations": {
         "en-us": "Texture Canvas"
       },
       "description": "在独立于画笔的画布上更便携地进行图像绘制",
-      "image": "img/zerotwoengine/texturefix.png",
+      "image": "texturefix.png",
       "descriptionTranslations": {
         "en-us": "Better conveniently draw rect,images and textures on standalone canvas"
       },
@@ -300,14 +300,14 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/oaa",
+      "slug": "oaa",
       "id": "objectArray",
       "name": "数组和对象",
       "nameTranslations": {
         "en-us": "Object and Array"
       },
       "description": "更完整的JSON对象/数组功能",
-      "image": "img/zerotwoengine/test.png",
+      "image": "test.png",
       "descriptionTranslations": {
         "en-us": "Better JSON Features"
       },
@@ -320,11 +320,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/B小猫",
+      "slug": "B小猫",
       "id": "B小猫",
       "name": "B小猫",
       "description": "通过哔哩哔哩公开接口获取海量信息，喵(=・ω・=)~",
-      "image": "img/zerotwoengine/B小猫.png",
+      "image": "B小猫.png",
       "by": [
         {
           "name": "10000why",
@@ -334,11 +334,11 @@
       "docs": true
     },
     {
-      "slug": "extensions/zerotwoengine/更好的浏览器扩展",
+      "slug": "更好的浏览器扩展",
       "id": "更好的浏览器扩展",
       "name": "更好的浏览器扩展",
       "description": "让你的舞台可以显示更多的iframe",
-      "image": "img/zerotwoengine/更好的浏览器扩展.jpg",
+      "image": "更好的浏览器扩展.jpg",
       "by": [
         {
           "name": "是zx34呀",
@@ -348,11 +348,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/方向猫扩展",
+      "slug": "方向猫扩展",
       "id": "方向猫扩展",
       "name": "方向猫扩展",
       "description": "(●ˇ∀ˇ●)~ 显示上下左右移动端辅助按钮",
-      "image": "img/zerotwoengine/方向猫扩展.png",
+      "image": "方向猫扩展.png",
       "by": [
         {
           "name": "10000why",
@@ -362,11 +362,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/快速注册登录",
+      "slug": "快速注册登录",
       "id": "快速注册登录",
       "name": "快速注册登录",
       "description": "一个显示注册登录界面的扩展，可以帮你省下一些制作登陆界面或注册界面的时间（当然前提是你对界面美观不在乎）",
-      "image": "img/zerotwoengine/快速注册登录.jpg",
+      "image": "快速注册登录.jpg",
       "by": [
         {
           "name": "数字生命3179",
@@ -379,11 +379,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/安卓adb工具",
+      "slug": "安卓adb工具",
       "id": "安卓adb工具",
       "name": "安卓adb工具",
       "description": "本扩展可以在你的作品里添加一些安卓功能",
-      "image": "img/zerotwoengine/安卓adb工具.jpg",
+      "image": "安卓adb工具.jpg",
       "by": [
         {
           "name": "青柠工作室",
@@ -393,11 +393,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/一万的框选框",
+      "slug": "一万的框选框",
       "id": "一万的框选框",
       "name": "一万的框选框",
       "description": "实现在舞台上框选角色并经行侦测。",
-      "image": "img/zerotwoengine/一万的框选框.png",
+      "image": "一万的框选框.png",
       "by": [
         {
           "name": "10000why",
@@ -407,11 +407,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/贝塞尔曲线",
+      "slug": "贝塞尔曲线",
       "id": "bezierCurve",
       "name": "贝塞尔曲线",
       "description": "生成贝塞尔曲线，支持控制点设置，计算曲线上任意点的坐标和切线角度。",
-      "image": "img/zerotwoengine/bezier-curve.png",
+      "image": "bezier-curve.png",
       "by": [
         {
           "name": "空明2403",
@@ -425,11 +425,11 @@
       "version": "2.1.0"
     },
     {
-      "slug": "extensions/zerotwoengine/更好的询问框",
+      "slug": "更好的询问框",
       "id": "更好的询问框",
       "name": "更好的询问框",
       "description": "一个更加美观的询问框",
-      "image": "img/zerotwoengine/更好的询问框.png",
+      "image": "更好的询问框.png",
       "by": [
         {
           "name": "瓜子",
@@ -439,7 +439,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/wrapper.global",
+      "slug": "wrapper.global",
       "id": "extensionWrapper",
       "name": "Extension Wrapper",
       "description": "在Turbowarp中加载CCW扩展的前置扩展",
@@ -451,7 +451,7 @@
         "en": "A bootstrap extension for CCW extensions loader in Turbowarp",
         "zh-cn": "在Turbowarp中加载CCW扩展的前置扩展"
       },
-      "image": "img/zerotwoengine/ccw.svg",
+      "image": "ccw.svg",
       "by": [
         {
           "name": "Xbodwf",
@@ -468,7 +468,7 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/textToURL",
+      "slug": "textToURL",
       "id": "textToURL",
       "name": "文字转URL",
       "description": "将文字转换为可显示的URL",
@@ -480,7 +480,7 @@
         "en": "Generate a URL that displays custom text in the browser, and parse the text from the generated URL",
         "zh-cn": "生成可在浏览器显示自定义文字的URL，并从生成的URL中解析文字"
       },
-      "image": "img/zerotwoengine/textToURL.png",
+      "image": "textToURL.png",
       "by": [
         {
           "name": "Turboratch",
@@ -493,11 +493,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/作品锁",
+      "slug": "作品锁",
       "id": "projectLocking",
       "name": "作品锁",
       "description": "让你的项目更加安全。",
-      "image": "img/zerotwoengine/projectLocking.png",
+      "image": "projectLocking.png",
       "by": [
         {
           "name": "朱元翔",
@@ -520,11 +520,11 @@
       "license": "AGPL 3.0"
     },
     {
-      "slug": "extensions/zerotwoengine/3d-basicrt",
+      "slug": "3d-basicrt",
       "id": "3d-basicrt",
       "name": "3d-basicrt",
       "description": "喵，这是一个简单易上手的3D扩展，快来试试吧！",
-      "image": "img/zerotwoengine/3d-basicrt.png",
+      "image": "3d-basicrt.png",
       "by": [
         {
           "name": "果汁的梦",
@@ -534,11 +534,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/音频可视化扩展",
+      "slug": "音频可视化扩展",
       "id": "音频可视化",
       "name": "音频可视化",
       "description": "让音频有了形状",
-      "image": "img/zerotwoengine/音频可视化扩展.png",
+      "image": "音频可视化扩展.png",
       "by": [
         {
           "name": "YL_YOLO",
@@ -551,11 +551,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/GmyOS",
+      "slug": "GmyOS",
       "id": "GmyOS",
       "name": "GmyOS",
       "description": "GmyOS 是一个复古 DOS 风格的 Scratch 扩展，能打开可拖动终端窗口，支持命令行、虚拟文件系统和简易汇编指令。",
-      "image": "img/zerotwoengine/GmyOS.png",
+      "image": "GmyOS.png",
       "by": [
         {
           "name": "Gmy",
@@ -565,11 +565,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/简_艺术字",
+      "slug": "简_艺术字",
       "id": "简_艺术字",
       "name": "简_艺术字",
       "description": "简单的艺术字显示扩展",
-      "image": "img/zerotwoengine/简_艺术字.png",
+      "image": "简_艺术字.png",
       "by": [
         {
           "name": "YL_YOLO",
@@ -582,11 +582,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/移动端按键映射",
+      "slug": "移动端按键映射",
       "id": "移动端按键映射",
       "name": "移动端按键映射",
       "description": "Advanced touch blocks and joystick with key simulation (触屏块加摇杆并且可实现按键模拟)",
-      "image": "img/zerotwoengine/移动端按键映射.png",
+      "image": "移动端按键映射.png",
       "by": [
         {
           "name": "YL_YOLO",
@@ -599,11 +599,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/SF文件系统",
+      "slug": "SF文件系统",
       "id": "SF文件系统",
       "name": "SF文件系统",
       "description": "让数据有了形状",
-      "image": "img/zerotwoengine/SF文件系统.png",
+      "image": "SF文件系统.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -613,11 +613,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/简·HTML",
+      "slug": "简·HTML",
       "id": "简·HTML",
       "name": "简·HTML",
       "description": "一款强大的HTML构建拓展（建议与“内嵌框架”搭配使用）",
-      "image": "img/zerotwoengine/简·HTML.png",
+      "image": "简·HTML.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -627,11 +627,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/简易3D",
+      "slug": "简易3D",
       "id": "简易3D",
       "name": "简易3D",
       "description": "轻松制作适用于GPU加速的3D项目",
-      "image": "img/zerotwoengine/简易3D.png",
+      "image": "简易3D.png",
       "by": [
         {
           "name": "Starfall Twilight（汉化）",
@@ -648,11 +648,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/全局提示",
+      "slug": "全局提示",
       "id": "全局提示",
       "name": "全局提示",
       "description": "信息全掌握",
-      "image": "img/zerotwoengine/全局提示.png",
+      "image": "全局提示.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -662,11 +662,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/微CSV",
+      "slug": "微CSV",
       "id": "微CSV",
       "name": "微CSV",
       "description": "轻表格 轻数据 轻管理",
-      "image": "img/zerotwoengine/微CSV.png",
+      "image": "微CSV.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -676,11 +676,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/星级评分",
+      "slug": "星级评分",
       "id": "星级评分",
       "name": "星级评分",
       "description": "快捷获取用户评价",
-      "image": "img/zerotwoengine/星级评分.png",
+      "image": "星级评分.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -690,11 +690,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/字符串处理",
+      "slug": "字符串处理",
       "id": "字符串处理",
       "name": "字符串处理",
       "description": "一些快捷的字符串处理积木",
-      "image": "img/zerotwoengine/字符串处理.png",
+      "image": "字符串处理.png",
       "by": [
         {
           "name": "Starfall Twilight",
@@ -704,11 +704,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/网页嗅探器",
+      "slug": "网页嗅探器",
       "id": "网页嗅探器",
       "name": "网页嗅探器",
       "description": "让你轻松获取到网页上的内容，只要是能获取到的，都能下！",
-      "image": "img/zerotwoengine/网页嗅探器.png",
+      "image": "网页嗅探器.png",
       "by": [
         {
           "name": "F_code",
@@ -721,11 +721,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/hermiteCurve",
+      "slug": "hermiteCurve",
       "id": "hermiteCurve",
       "name": "hermite曲线",
       "description": "保证定点定速度的自定义曲线。",
-      "image": "img/zerotwoengine/hermiteCurve.png",
+      "image": "hermiteCurve.png",
       "by": [
         {
           "name": "空明2403",
@@ -738,7 +738,7 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/markdown",
+      "slug": "markdown",
       "id": "WitCatMarkDown",
       "name": "WitCat MarkDown",
       "description": "Render Markdown content with custom syntax, tables, code highlighting, and interactive triggers.",
@@ -748,7 +748,7 @@
       "descriptionTranslations": {
         "zh-cn": "渲染 Markdown 内容，支持自定义语法、表格、代码高亮和交互触发器。"
       },
-      "image": "img/zerotwoengine/markdown.svg",
+      "image": "markdown.svg",
       "by": [
         {
           "name": "白猫",
@@ -765,11 +765,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/拼音转文字",
+      "slug": "拼音转文字",
       "id": "拼音转文字",
       "name": "拼音转文字",
       "description": "将拼音转换为汉字。",
-      "image": "img/zerotwoengine/拼音转文字.png",
+      "image": "拼音转文字.png",
       "by": [
         {
           "name": "Uonsan",
@@ -782,11 +782,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/github面板",
+      "slug": "github面板",
       "id": "github面板",
       "name": "github面板",
       "description": "github面板。",
-      "image": "img/zerotwoengine/GitHub面板.jpg",
+      "image": "GitHub面板.jpg",
       "by": [
         {
           "name": "yuan",
@@ -799,11 +799,11 @@
       ]
     },
     {
-      "slug": "extensions/zerotwoengine/让变量列表换行",
+      "slug": "让变量列表换行",
       "id": "让变量列表换行",
       "name": "让变量列表换行",
       "description": "让变量列表换行的工具",
-      "image": "img/zerotwoengine/让变量列表换行.jpg",
+      "image": "让变量列表换行.jpg",
       "by": [
         {
           "name": "yuan",
@@ -813,7 +813,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/寻路",
+      "slug": "寻路",
       "id": "寻路",
       "name": "寻路",
       "description": "一个高性能的寻路扩展",
@@ -823,7 +823,7 @@
       "descriptionTranslations": {
         "zh-cn": "一个高性能的寻路扩展"
       },
-      "image": "img/zerotwoengine/寻路.svg",
+      "image": "寻路.svg",
       "by": [
         {
           "name": "Arkos(使兼容)",
@@ -837,7 +837,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/musicplus",
+      "slug": "musicplus",
       "id": "musicplus",
       "name": "音乐 +",
       "description": "升级版音乐扩展",
@@ -849,7 +849,7 @@
         "zh-cn": "升级版音乐扩展",
         "en": "Music extension, but advanced!"
       },
-      "image": "img/zerotwoengine/musicplus.png",
+      "image": "musicplus.png",
       "by": [
         {
           "name": "ChessBrainIsNotHuman",
@@ -859,7 +859,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/调试器",
+      "slug": "调试器",
       "id": "DebuggerExtensionTS",
       "name": "调试器",
       "description": "调试器",
@@ -869,7 +869,7 @@
       "descriptionTranslations": {
         "zh-cn": "调试器"
       },
-      "image": "img/zerotwoengine/调试器.png",
+      "image": "调试器.png",
       "by": [
         {
           "name": "TheShovle"
@@ -883,7 +883,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/panel",
+      "slug": "panel",
       "id": "settingspanel",
       "name": "panel",
       "description": "panel",
@@ -893,7 +893,7 @@
       "descriptionTranslations": {
         "zh-cn": "panel"
       },
-      "image": "img/zerotwoengine/panel.svg",
+      "image": "panel.svg",
       "by": [
         {
           "name": "yuan",
@@ -904,7 +904,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/mdui",
+      "slug": "mdui",
       "id": "mdui",
       "name": "mdui弹窗",
       "description": "A dialog and snackbar extension based on mdui for building interactive UI in projects.",
@@ -916,7 +916,7 @@
         "zh-cn": "基于 mdui 的弹窗与消息提示扩展，可用于在作品中构建交互式界面。",
         "en": "A dialog and snackbar extension based on mdui for building interactive UI in projects."
       },
-      "image": "img/zerotwoengine/mdui.jpeg",
+      "image": "mdui.jpeg",
       "by": [
         {
           "name": "不想上学"
@@ -926,7 +926,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/cbeg",
+      "slug": "cbeg",
       "id": "cbeg",
       "name": "CB Extension Gallery",
       "description": "A lightweight tool to build Scratch extensions and open the CB Extension Gallery.",
@@ -938,7 +938,7 @@
         "zh-cn": "一个轻量的 Scratch 扩展制作工具，并可直接打开 CB Extension Gallery。",
         "en": "A lightweight tool to build Scratch extensions and open the CB Extension Gallery."
       },
-      "image": "img/zerotwoengine/cbeg.png",
+      "image": "cbeg.png",
       "by": [
         {
           "name": "ChessBrainIsNotHuman",
@@ -948,7 +948,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/feishu",
+      "slug": "feishu",
       "id": "feishu",
       "name": "飞书",
       "description": "更好的WebHook",
@@ -960,7 +960,7 @@
         "zh-cn": "更好的WebHook",
         "en": "Better WebHook"
       },
-      "image": "img/zerotwoengine/FlyBook.png",
+      "image": "FlyBook.png",
       "by": [
         {
           "name": "Maxkore",
@@ -976,7 +976,7 @@
       "license": "MIT"
     },
     {
-      "slug": "extensions/zerotwoengine/backgroundremoverpanel",
+      "slug": "backgroundremoverpanel",
       "id": "backgroundremoverpanel",
       "name": "去背景",
       "description": "去背景",
@@ -986,7 +986,7 @@
       "descriptionTranslations": {
         "zh-cn": "去背景"
       },
-      "image": "img/zerotwoengine/backgroundremoverpanel.png",
+      "image": "backgroundremoverpanel.png",
       "by": [
         {
           "name": "yuan",
@@ -996,7 +996,7 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/更好的画板",
+      "slug": "更好的画板",
       "id": "更好的画板",
       "name": "更好的画板",
       "description": "更好的画板",
@@ -1006,7 +1006,7 @@
       "descriptionTranslations": {
         "zh-cn": "更好的画板"
       },
-      "image": "img/zerotwoengine/更好的画板.png",
+      "image": "更好的画板.png",
       "by": [
         {
           "name": "yuan",
@@ -1016,11 +1016,11 @@
       "docs": false
     },
     {
-      "slug": "extensions/zerotwoengine/test1",
+      "slug": "test1",
       "id": "test1",
       "name": "test1test1test1test1test1test888888",
       "description": "test1test1test1test1test1test1test1test999999999",
-      "image": "img/zerotwoengine/test1.png",
+      "image": "test1.png",
       "by": [
         {
           "name": "test1"
