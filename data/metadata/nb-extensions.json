@@ -26,6 +26,20 @@
         }
       ]
     },
+	{
+      "slug": "CubesterYT/Lambda",
+      "id": "cubesterLambda",
+      "name": "Lambda",
+      "description": "Make and use anonymous scripts.",
+      "image": "CubesterYT/Lambda.svg",
+      "by": [
+        {
+          "name": "CubesterYT",
+          "link": "https://scratch.mit.edu/users/CubesterYT/"
+        }
+      ],
+      "docs": true
+    },
     {
       "slug": "ddededodediamante/Sprites",
       "id": "ddeSprites",
@@ -45,6 +59,88 @@
       "name": "Comments",
       "description": "Organize and label your code.",
       "image": "Comments.svg"
+    },
+	 {
+      "slug": "Xeltalliv/clippingblending",
+      "id": "xeltallivclipblend",
+      "name": "Clipping & Blending",
+      "description": "Clipping outside of a specified rectangular area and different color blending modes.",
+      "nameTranslations": {
+        "de": "Ränder verändern & Farben mischen",
+        "fi": "Leikkaaminen ja sekoitus",
+        "it": "Ritaglio e Fusione",
+        "ja": "クリッピングとブレンディング",
+        "ko": "클리핑 및 블렌딩",
+        "nb": "Klipping og blanding",
+        "nl": "Knippen & mengen",
+        "ru": "Обрезка и Смешивание",
+        "tr": "Kırpma ve Karıştırma",
+        "uk": "Обрізання та Змішування",
+        "zh-cn": "裁剪与颜色混合"
+      },
+      "descriptionTranslations": {
+        "de": "Verändere die Ränder Figur in einer rechteckigen Fläche und nutze verschiedene Farbmischungsmodi.",
+        "fi": "Leikkaa pois tietty neliskulmainen alue ja käytä erilaisia värien sekoitustiloja.",
+        "it": "Ritaglio di immagini al di fuori di una zona rettangolare predefinita e modalità aggiuntive di mescolamento dei colori.",
+        "ja": "指定された長方形領域の外側のクリッピングとさまざまなカラーブレンドモード。",
+        "ko": "지정된 사각형 영역 외부를 클리핑하거나 다양한 블렌딩 모드를 사용합니다.",
+        "nb": "Klipping utenfor et spesifisert rektangulært område og forskjellige fargeblandingsmoduser.",
+        "nl": "Knip sprites buiten een bepaald gebied af en meng sprites met elkaar.",
+        "ru": "Обрезка за пределами заданной прямоугольной области и различные режимы наложения цветов.",
+        "tr": "Belirli bir dikdörtgen alanın dışına kırpma ve farklı renk karıştırma modları.",
+        "uk": "Обрізання елементів за межами вказаної зони та різні моделі змішування кольорів.",
+        "zh-cn": "在指定的矩形区域进行裁剪以及不同模式的颜色混合。"
+      },
+      "image": "Xeltalliv/clippingblending.svg",
+      "original": [
+        {
+          "name": "Vadik1",
+          "link": "https://scratch.mit.edu/users/Vadik1/"
+        }
+      ],
+      "samples": [
+        "Clipping Sprites and Pen"
+      ]
+    },
+    {
+      "slug": "obviousAlexC/penPlus",
+      "id": "penP",
+      "name": "Pen Plus V7",
+      "description": "Advanced rendering capabilities.",
+      "nameTranslations": {
+        "fi": "Kynä Plus V7",
+        "it": "Penna+ V7",
+        "ja": "Pen Plus V7\n ",
+        "ko": "펜 플러스 V7",
+        "nl": "Pen uitgebreid V7",
+        "ru": "Перо Плюс V7",
+        "zh-cn": "画笔 + V7"
+      },
+      "descriptionTranslations": {
+        "de": "Fortgeschrittene Renderingmöglichkeiten.",
+        "fi": "Edistyneet renderöintikyvyt.",
+        "it": "Capacità di rendering avanzate.",
+        "ja": "高度なレンダリング機能。",
+        "ko": "보다 향상된 렌더링 능력을 갖춘 펜 확장 기능입니다.",
+        "nb": "Avanserte renderingfunksjoner.",
+        "nl": "Maak gebruik van gevorderde weergavemogelijkheden.",
+        "ru": "Расширенные способности рендера.",
+        "zh-cn": "更加高级的画笔渲染。"
+      },
+      "image": "obviousAlexC/penPlus.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ],
+      "samples": [
+        "Pen Plus"
+      ]
     },
     {
       "slug": "CubesterYT/RichPresence",
