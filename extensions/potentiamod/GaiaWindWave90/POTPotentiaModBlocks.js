@@ -39,16 +39,7 @@ class PotentiaModBlocks {
             menuIconURI: iconURI,
             blockIconURI: iconURI,
             blocks: [
-			// Sudden XML
-               {
-                    blockType: Scratch.BlockType.XML,
-                    xml: '<block type="argument_reporter_boolean"><field name="VALUE">is compiled?</field></block>'
-                },
-				{
-                    blockType: Scratch.BlockType.XML,
-                    xml: '<block type="argument_reporter_boolean"><field name="VALUE">is PotentiaMod?</field></block>'
-                },
-		  // OK there
+		  // Blocks
                 {
                     opcode: 'getLastKeyPressed',
                     text: 'last key pressed',
@@ -65,7 +56,7 @@ class PotentiaModBlocks {
                             defaultValue: '0'
                         }
                     }
-                }
+                },
             ],
             menus: {
                 mouseButton: {
