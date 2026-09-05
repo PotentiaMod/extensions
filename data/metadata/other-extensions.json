@@ -77,6 +77,110 @@
       ]
     },
 	{
+      "slug": "applelemod/Applele",
+      "id": "Applele",
+      "name": "Applele Blocks",
+      "description": "Simple Applele Blocks.",
+      "image": "applelemod/applele.png",
+      "by": [
+        {
+          "name": "Dimix",
+          "link": "https://github.com/Dimixixixiixix"
+        }
+      ]
+    },
+	{
+      "slug": "applelemod/golden-applele",
+      "id": "golden-applele",
+      "name": "Golden Applele Economy!",
+      "description": "Economy extension, based on the discord bot unbelievaboat.",
+      "image": "applelemod/economy.png",
+      "by": [
+        {
+          "name": "Dimix",
+          "link": "https://github.com/Dimixixixiixix"
+        }
+      ]
+    },
+	{
+      "slug": "applelemod/golden-applele",
+      "id": "golden-applele",
+      "name": "Golden Applele Economy!",
+      "description": "Economy extension, based on the discord bot unbelievaboat.",
+      "image": "applelemod/economy.png",
+      "by": [
+        {
+          "name": "Dimix",
+          "link": "https://github.com/Dimixixixiixix"
+        }
+      ]
+    },
+	{
+    "slug": "applelemod/green-applele",
+    "id": "green-applele",
+    "name": "Green-Applele Shops",
+    "description": "A better version of the Golden-Applele Extension, make shops",
+    "image": "applelemod/green-applele.png",
+	"by": [
+        {
+          "name": "Dimix",
+          "slug": "https://github.com/"
+        }
+      ]
+  },
+  {
+    "slug": "applelemod/applele-predict",
+    "id": "applele-predict",
+    "name": "Applele Soccer Predictions!",
+    "description": "Makes predictions for the world cup (you can add your own teams too! but by defualt the only teams with ratings by default are the teams that were in the world cup)",
+    "image": "applelemod/applele-predictions.png",
+	"by": [
+        {
+          "name": "Dimix",
+          "slug": "https://github.com/"
+        }
+      ]
+  },
+  {
+    "slug": "applelemod/Gemini",
+    "id": "Gemini",
+    "name": "Applele Gemini",
+    "description": "Talk with AI using blocks!",
+    "image": "applelemod/Gemini.png",
+	"by": [
+        {
+          "name": "Dimix",
+          "slug": "https://github.com/"
+        }
+      ]
+  },
+  {
+    "slug": "applelemod/tra",
+    "id": "tra",
+    "name": "Applele Translations",
+    "description": "Useful extension for translations or making your own language",
+    "image": "applelemod/tra.png",
+	"by": [
+        {
+          "name": "Dimix",
+          "slug": "https://github.com/"
+        }
+      ]
+  },
+  {
+    "slug": "applelemod/megaop",
+    "id": "megaop",
+    "name": "MEGA Operators!",
+    "description": "Extra math & strings operators for PenguinMod (and PotentiaMod)",
+    "image": "applelemod/megaop.png",
+	"by": [
+        {
+          "name": "Dimix",
+          "slug": "https://github.com/"
+        }
+      ]
+  },
+	{
       "slug": "bananamod/italianbrainrot",
       "id": "italianbrainrot",
       "name": "Italian Brainrot Extension",
