@@ -243,7 +243,7 @@
       "descriptionTranslations": {
         "zh-cn": "多种寻路算法扩展，支持A*、BFS、Dijkstra、JPS等算法，可在舞台上显示调试窗口"
       },
-      "image": "remixwarp/pathfinding.png",
+      "image": "remixwarp/寻路.png",
       "by": [
         {
           "name": "该账号差一点注销",
