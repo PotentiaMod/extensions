@@ -335,6 +335,32 @@
       ]
     },
 	{
+      "slug": "remixwarp/astar-odyssey",
+      "id": "astar-odyssey",
+      "name": "A* Odyssey",
+      "nameTranslations": {
+        "zh-cn": "A*奥德赛"
+      },
+      "image": "remixwarp/astar-odyssey.svg",
+      "description": "Make pathfinding faster.",
+      "descriptionTranslations": {
+        "zh-cn": "让寻路更加迅速"
+      },
+      "by": [
+        {
+          "name": "Arkos",
+          "link": "https://space.bilibili.com/446532545"
+        },
+        {
+          "name": "朱元翔",
+          "link": "https://space.bilibili.com/3546902484224452"
+        }
+      ],
+      "samples": [
+        "remixwarp/寻路示例作品"
+      ]
+    },
+	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
