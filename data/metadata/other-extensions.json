@@ -295,7 +295,7 @@
 		{
       "slug": "remixwarp/ntcolor",
       "id": "NTcolor-remixwarp",
-      "name": "NTcolor",
+      "name": "NTcolor (1)",
 	  "nameTranslations": {
         "zh-cn": "NT的颜色分析"
       },
@@ -308,6 +308,29 @@
         {
           "name": "NTUN",
           "link": "https://space.bilibili.com/3546570106604381"
+        }
+      ]
+    },
+	{
+      "slug": "remixwarp/simple3d-cn",
+      "id": "xeltallivSimple3D",
+      "name": "Simple3D (Chinese)",
+	  "nameTranslations": {
+        "zh-cn": "简易3D (汉化版)"
+      },
+      "image": "remixwarp/simple3d-cn.png",
+      "description": "Chinese localized version of the Simple3D extension. Create 3D projects in Scratch with ease.",
+      "descriptionTranslations": {
+        "zh-cn": "Simple3D扩展的中文汉化版本，让你轻松在Scratch中创建3D项目。"
+      },
+      "by": [
+        {
+          "name": "Xeltalliv",
+          "link": "https://xeltalliv.github.io/simple3d-extension/"
+        },
+        {
+          "name": "SF-Twilight (Translator)",
+          "link": "https://space.bilibili.com/3546717859351038"
         }
       ]
     },
