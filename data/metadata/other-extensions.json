@@ -293,25 +293,6 @@
       ],
     },
 	{
-      "slug": "remixwarp/ntcolor",
-      "id": "NTcolor-remixwarp",
-      "name": "NTcolor",
-      "nameTranslations": {
-        "zh-cn": "NT的颜色分析"
-      },
-      "description": "URL-Only High-Performance Color Analyzer.",
-      "descriptionTranslations": {
-        "zh-cn": "高性能颜色分析器，通过URL获取颜色信息"
-      },
-      "image": "remixwarp/ntcolor.png",
-      "by": [
-	  {
-        "name": "NTUN",
-        "link": "https://space.bilibili.com/3546570106604381"
-	   },
-      ],
-    },
-	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
