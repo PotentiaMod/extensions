@@ -371,13 +371,51 @@
       },
       "id": "cloudvariablesplus",
       "slug": "yesshape/cloudvariablesplus",
-      "image": "yesshape/images/cloudvariablesplus.svg",
+      "image": "yesshape/cloudvariablesplus.svg",
       "by": [
         {
           "name": "Yesshape",
           "link": "https://scratch.mit.edu/users/yesshape/"
         }
       ]
+    },
+	{
+      "name": "Mouse+",
+      "nameTranslations": {
+        "zh-cn": "鼠标+"
+      },
+      "description": "控制鼠标位置、自定义光标样式、显示虚拟指针，并支持指针锁定功能。指针锁定后鼠标移动将报告相对位移。",
+      "descriptionTranslations": {
+        "zh-cn": "控制鼠标位置、自定义光标样式、显示虚拟指针，并支持指针锁定功能。指针锁定后鼠标移动将报告相对位移。"
+      },
+      "id": "mouseplus",
+      "slug": "yesshape/mouseplus",
+      "image": "yesshape/mouseplus.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Select Box",
+      "nameTranslations": {
+        "zh-cn": "选择框"
+      },
+      "description": "添加选择框功能。",
+      "descriptionTranslations": {
+        "zh-cn": "添加选择框功能。"
+      },
+      "id": "selectbox",
+      "slug": "yesshape/selectbox",
+      "image": "yesshape/selectbox.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
     },
 	{
       "slug": "pooiod7/Ace",
