@@ -273,6 +273,25 @@
         "remixwarp/sample-project"
       ]
     },
+		{
+      "slug": "remixwarp/audio-encoder",
+      "id": "audio-encoder",
+      "name": "Audio Encoder",
+	  "nameTranslations": {
+        "zh-cn": "音频编码器"
+      },
+      "image": "remixwarp/audio-encoder.svg",
+      "description": "Store your voice as text.",
+      "descriptionTranslations": {
+        "zh-cn": "将你的声音用文本储存"
+      },
+      "by": [
+	    {
+          "name": "10000why",
+          "link": "https://space.bilibili.com/541080936"
+        }
+      ]
+    },
 	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
