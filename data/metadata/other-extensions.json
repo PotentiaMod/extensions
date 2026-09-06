@@ -418,6 +418,65 @@
       ]
     },
 	{
+      "name": "Input Box",
+      "nameTranslations": {
+        "zh-cn": "输入框"
+      },
+      "description": "Added input field functionality.",
+      "descriptionTranslations": {
+        "zh-cn": "添加输入框功能。"
+      },
+      "id": "inputbox",
+      "slug": "yesshape/inputbox",
+      "image": "yesshape/inputbox.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Advanced Keys",
+      "nameTranslations": {
+        "zh-cn": "按键侦测"
+      },
+      "description": "Advanced features such as extended key detection and key combination detection.",
+      "descriptionTranslations": {
+        "zh-cn": "更多的按键侦测与组合键侦测等进阶功能。"
+      },
+      "id": "advancedkeys",
+      "slug": "yesshape/advancedkeys",
+      "image": "yesshape/advancedkeys.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+    {
+      "name": "Text to HTML",
+      "nameTranslations": {
+        "zh-cn": "文字转HTML"
+      },
+      "description": "It can convert some basic HTML formatting.",
+      "descriptionTranslations": {
+        "zh-cn": "可以转换一些基本的HTML格式。"
+      },
+      "id": "texttohtml",
+      "slug": "yesshape/texttohtml",
+      "image": "yesshape/unknown.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "by": [
+        {
+          "name": "Comtbwp"
+        }
+      ]
+    },
+	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
