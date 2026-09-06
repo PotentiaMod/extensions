@@ -1,0 +1,225 @@
+{
+  "extensions": [
+    {
+      "name": "Cloud Variables+",
+      "nameTranslations": {
+        "zh-cn": "云变量+"
+      },
+      "description": "更多的云变量操作积木，允许创建、更改、删除云变量，连接不同的云变量服务器，更改作品ID等进阶功能。",
+      "descriptionTranslations": {
+        "zh-cn": "更多的云变量操作积木，允许创建、更改、删除云变量，连接不同的云变量服务器，更改作品ID等进阶功能。"
+      },
+      "extensionId": "cloudvariablesplus",
+      "extensionURL": "https://openwarp-extensions.pages.dev/cloudvariablesplus.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/cloudvariablesplus.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "docsURI": "https://openwarp-extensions.pages.dev/cloudvariablesplus",
+      "samples": [
+        {
+          "href": "https://turbowarp.org/editor?project_url=https://openwarp-extensions.pages.dev/samples/cloudvariablesplus.sb3"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Mouse+",
+      "nameTranslations": {
+        "zh-cn": "鼠标+"
+      },
+      "description": "控制鼠标位置、自定义光标样式、显示虚拟指针，并支持指针锁定功能。指针锁定后鼠标移动将报告相对位移。",
+      "descriptionTranslations": {
+        "zh-cn": "控制鼠标位置、自定义光标样式、显示虚拟指针，并支持指针锁定功能。指针锁定后鼠标移动将报告相对位移。"
+      },
+      "extensionId": "mouseplus",
+      "extensionURL": "https://openwarp-extensions.pages.dev/mouseplus.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/mouseplus.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Select Box",
+      "nameTranslations": {
+        "zh-cn": "选择框"
+      },
+      "description": "添加选择框功能。",
+      "descriptionTranslations": {
+        "zh-cn": "添加选择框功能。"
+      },
+      "extensionId": "selectbox",
+      "extensionURL": "https://openwarp-extensions.pages.dev/selectbox.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/selectbox.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Input Box",
+      "nameTranslations": {
+        "zh-cn": "输入框"
+      },
+      "description": "添加输入框功能。",
+      "descriptionTranslations": {
+        "zh-cn": "添加输入框功能。"
+      },
+      "extensionId": "inputbox",
+      "extensionURL": "https://openwarp-extensions.pages.dev/inputbox.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/inputbox.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Advanced Keys",
+      "nameTranslations": {
+        "zh-cn": "按键侦测"
+      },
+      "description": "更多的按键侦测与组合键侦测等进阶功能。",
+      "descriptionTranslations": {
+        "zh-cn": "更多的按键侦测与组合键侦测等进阶功能。"
+      },
+      "extensionId": "advancedkeys",
+      "extensionURL": "https://openwarp-extensions.pages.dev/advancedkeys.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/advancedkeys.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Text to HTML",
+      "nameTranslations": {
+        "zh-cn": "文字转HTML"
+      },
+      "description": "可以转换一些基本的HTML格式。",
+      "descriptionTranslations": {
+        "zh-cn": "可以转换一些基本的HTML格式。"
+      },
+      "extensionId": "texttohtml",
+      "extensionURL": "https://openwarp-extensions.pages.dev/texttohtml.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/unknown.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Comtbwp"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "MMO",
+      "nameTranslations": {
+        "zh-cn": "MMO"
+      },
+      "description": "Massively Multiplayer Online.",
+      "descriptionTranslations": {
+        "zh-cn": "Massively Multiplayer Online。"
+      },
+      "extensionId": "MMOGameOnlineV9",
+      "extensionURL": "https://openwarp-extensions.pages.dev/MMOGameOnlineV9.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/MMOGameOnlineV9.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Hugh",
+          "link": "https://space.bilibili.com/3546737813752345"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Image Size",
+      "nameTranslations": {
+        "zh-cn": "获取图片长、宽"
+      },
+      "description": "获取图片的长、宽。",
+      "descriptionTranslations": {
+        "zh-cn": "获取图片的长、宽。"
+      },
+      "extensionId": "imagesize",
+      "extensionURL": "https://openwarp-extensions.pages.dev/imagesize.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/imagesize.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "javascript",
+      "nameTranslations": {
+        "zh-cn": "javascript"
+      },
+      "description": "使用javascript代码",
+      "descriptionTranslations": {
+        "zh-cn": "使用javascript代码"
+      },
+      "extensionId": "javascript",
+      "extensionURL": "https://openwarp-extensions.pages.dev/javascript.js",
+      "iconURL": "https://openwarp-extensions.pages.dev/images/unknown.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "credits": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    }
+  ]
+}

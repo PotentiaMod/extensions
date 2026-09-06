@@ -1,0 +1,176 @@
+{
+  "extensions": [
+    {
+      "name": "Pathfinding",
+      "nameTranslations": {
+        "zh-cn": "寻路 (舞台坐标)"
+      },
+      "description": "Multiple pathfinding algorithms including A*, BFS, Dijkstra, JPS, with debug window display on stage.",
+      "descriptionTranslations": {
+        "zh-cn": "多种寻路算法扩展，支持A*、BFS、Dijkstra、JPS等算法，可在舞台上显示调试窗口"
+      },
+      "extensionId": "pathfinding",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/pathfinding/寻路.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/pathfinding/寻路.png",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        {
+          "name": "该账号差一点注销",
+          "link": "https://space.bilibili.com/3546902484224452"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true,
+      "samples": [
+        {
+          "href": "https://rw-extensions.pages.dev/remixwarp/pathfinding/寻路示例作品.sb3",
+          "text": "示例作品"
+        }
+      ]
+    },
+    {
+      "name": "Windows of OS",
+      "description": "An extension that simulates an operating system, including CMD terminal, register management, external program loading, custom windows, and GUI components.",
+      "descriptionTranslations": {
+        "zh-cn": "一个模拟操作系统的扩展，包含CMD终端、寄存器管理、外部程序加载、自定义窗口和GUI组件等功能。"
+      },
+      "extensionId": "gmyosWindow",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/windows-of-os/windows-of-os.js",
+      "onlineURL": "https://extensions.remixwarp.org/gmy-xxl/windows-of-os.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/windows-of-os/win-of-os.png",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        "gmy-xxl"
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true,
+      "samples": [
+        {
+          "href": "https://rw-extensions.pages.dev/remixwarp/windows-of-os/sample-project.sb3",
+          "text": "示例作品"
+        }
+      ]
+    },
+    {
+      "name": "Audio Encoder",
+      "nameTranslations": {
+        "zh-cn": "音频编码器"
+      },
+      "description": "Store your voice as text.",
+      "descriptionTranslations": {
+        "zh-cn": "将你的声音用文本储存"
+      },
+      "extensionId": "audio-encoder",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/audio-encoder/audio-encoder.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/audio-encoder/audio-encoder.svg",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        {
+          "name": "10000why",
+          "link": "https://space.bilibili.com/541080936"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "NTcolor",
+      "nameTranslations": {
+        "zh-cn": "NT的颜色分析"
+      },
+      "description": "URL-Only High-Performance Color Analyzer.",
+      "descriptionTranslations": {
+        "zh-cn": "高性能颜色分析器，通过URL获取颜色信息"
+      },
+      "extensionId": "NTcolor-remixwarp",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/ntcolor/ntcolor.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/ntcolor/ntcolor.png",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        {
+          "name": "NTUN",
+          "link": "https://space.bilibili.com/3546570106604381"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true
+    },
+    {
+      "name": "Simple3D (Chinese)",
+      "nameTranslations": {
+        "zh-cn": "简易3D (汉化版)"
+      },
+      "description": "Chinese localized version of the Simple3D extension. Create 3D projects in Scratch with ease.",
+      "descriptionTranslations": {
+        "zh-cn": "Simple3D扩展的中文汉化版本，让你轻松在Scratch中创建3D项目。"
+      },
+      "extensionId": "xeltallivSimple3D",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/simple3d-cn/simple3d-cn.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/simple3d-cn/simple3d-cn.png",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        {
+          "name": "Xeltalliv",
+          "link": "https://xeltalliv.github.io/simple3d-extension/"
+        },
+        {
+          "name": "SF-Twilight (Translator)",
+          "link": "https://space.bilibili.com/3546717859351038"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true,
+      "samples": [
+        {
+          "href": "https://extensions.turbowarp.org/samples/Simple3D%20template.sb3",
+          "text": "示例作品"
+        }
+      ],
+      "docsURI": "https://extensions.turbowarp.org/Xeltalliv/simple3D"
+    },
+    {
+      "name": "A* Odyssey",
+      "nameTranslations": {
+        "zh-cn": "A*奥德赛"
+      },
+      "description": "Make pathfinding faster.",
+      "descriptionTranslations": {
+        "zh-cn": "让寻路更加迅速"
+      },
+      "extensionId": "astar-odyssey",
+      "extensionURL": "https://rw-extensions.pages.dev/remixwarp/astar-odyssey/astar-odyssey.js",
+      "iconURL": "https://rw-extensions.pages.dev/remixwarp/astar-odyssey/astar-odyssey.svg",
+      "tags": [
+        "remixwarp"
+      ],
+      "credits": [
+        {
+          "name": "Arkos",
+          "link": "https://space.bilibili.com/446532545"
+        },
+        {
+          "name": "朱元翔",
+          "link": "https://space.bilibili.com/3546902484224452"
+        }
+      ],
+      "incompatibleWithScratch": true,
+      "featured": true,
+      "samples": [
+        {
+          "href": "https://rw-extensions.pages.dev/remixwarp/astar-odyssey/寻路.sb3",
+          "text": "示例作品"
+        }
+      ]
+    }
+  ]
+}
