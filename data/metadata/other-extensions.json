@@ -399,25 +399,6 @@
       ]
     },
 	{
-      "name": "Select Box",
-      "nameTranslations": {
-        "zh-cn": "选择框"
-      },
-      "description": "添加选择框功能。",
-      "descriptionTranslations": {
-        "zh-cn": "添加选择框功能。"
-      },
-      "id": "selectbox",
-      "slug": "yesshape/selectbox",
-      "image": "yesshape/selectbox.svg",
-      "by": [
-        {
-          "name": "Yesshape",
-          "link": "https://scratch.mit.edu/users/yesshape/"
-        }
-      ],
-    },
-	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
