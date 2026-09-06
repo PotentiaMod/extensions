@@ -264,11 +264,31 @@
         "zh-cn": "一个模拟操作系统的扩展，包含CMD终端、寄存器管理、外部程序加载、自定义窗口和GUI组件等功能。"
       },
       "by": [
-        "gmy-xxl"
+	     "name": "gmy-xxl",
+          "link": null
       ],
       "samples": [
         "remixwarp/sample-project"
       ]
+    },
+	{
+      "slug": "remixwarp/audio-encoder",
+      "id": "audio-encoder",
+      "name": "Audio Encoder",
+      "nameTranslations": {
+        "zh-cn": "音频编码器"
+      },
+      "description": "Store your voice as text.",
+      "descriptionTranslations": {
+        "zh-cn": "将你的声音用文本储存"
+      },
+      "image": "remixwarp/audio-encoder.svg",
+      "by": [
+        {
+          "name": "10000why",
+          "link": "https://space.bilibili.com/541080936"
+        }
+      ],
     },
 	{
       "slug": "pooiod7/Ace",
