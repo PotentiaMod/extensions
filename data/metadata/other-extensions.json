@@ -361,6 +361,25 @@
       ]
     },
 	{
+      "name": "Cloud Variables+",
+      "nameTranslations": {
+        "zh-cn": "云变量+"
+      },
+      "description": "更多的云变量操作积木，允许创建、更改、删除云变量，连接不同的云变量服务器，更改作品ID等进阶功能。",
+      "descriptionTranslations": {
+        "zh-cn": "更多的云变量操作积木，允许创建、更改、删除云变量，连接不同的云变量服务器，更改作品ID等进阶功能。"
+      },
+      "id": "cloudvariablesplus",
+      "slug": "yesshape/cloudvariablesplus",
+      "image": "yesshape/images/cloudvariablesplus.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
