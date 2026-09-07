@@ -56,7 +56,7 @@
         "name": "Iris Text",
         "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
         "slug": "Gen1x/iris-text",
-        "id": "iris-text",
+        "id": "iristext",
         "image": "Gen1x/iris-text.avif",
         "by": [
         {
@@ -434,7 +434,7 @@
       "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
       "slug": "Div/divVecQuat",
       "id": "divVecQuat",
-      "image": "Div/divVecQuat.svgg",
+      "image": "Div/divVecQuat.svg",
       "by": [
         {
           "name": "Dicuo",
