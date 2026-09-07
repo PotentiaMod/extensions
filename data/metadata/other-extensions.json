@@ -543,6 +543,741 @@
       ]
     },
 	{
+      "name": "HTML",
+      "description": "强大的HTML",
+      "id": "cyse_ext_1784261581575_65pi4lbto",
+      "slug": "cy-scr-ext-hub/ext_1784261581575_65pi4lbto_HTML",
+      "image": "cy-scr-ext-hub/cover_1786614031560_0khewp.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "MarkDown弹窗",
+      "description": "MarkDown弹窗-更好的弹窗",
+      "id": "cyse_ext_1784261670683_0wghtzmnf",
+      "slug": "cy-scr-ext-hub/ext_1784261670683_0wghtzmnf_MarkDown弹窗",
+      "image": "cy-scr-ext-hub/ext_1784261670683_0wghtzmnf_MarkDown弹窗.png",
+      "tags": [
+        "cy-scr-ext-hub"
+      ],
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "UI工具箱",
+      "description": "UI工具箱-更全面的UI系统",
+      "id": "cyse_ext_1784261722930_jrjj6i9wq",
+      "slug": "cy-scr-ext-hub/ext_1784261722930_jrjj6i9wq_UI工具箱",
+      "image": "cy-scr-ext-hub/ext_1784261722930_jrjj6i9wq_UI工具箱.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "并行音频",
+      "description": "更好的音频系统",
+      "id": "cyse_ext_1784261807812_bt3xq7aoa",
+      "slug": "cy-scr-ext-hub/ext_1784261807812_bt3xq7aoa_并行音频",
+      "image": "cy-scr-ext-hub/ext_1784261807812_bt3xq7aoa_并行音频.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "高级封屏",
+      "description": "防止F12",
+      "id": "cyse_ext_1784261994364_tni5h8i9o",
+      "slug": "cy-scr-ext-hub/ext_1784261994364_tni5h8i9o_高级封屏",
+      "image": "cy-scr-ext-hub/ext_1784261994364_tni5h8i9o_高级封屏.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "高斯模糊",
+      "description": "高斯模糊装置",
+      "id": "cyse_ext_1784262057671_1hksjgi4s",
+      "slug": "cy-scr-ext-hub/ext_1784262057671_1hksjgi4s_高斯模糊",
+      "image": "cy-scr-ext-hub/ext_1784262057671_1hksjgi4s_高斯模糊.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "剪切板+",
+      "description": "剪切板管理器",
+      "id": "cyse_ext_1784262107137_mn619a5w2",
+      "slug": "cy-scr-ext-hub/ext_1784262107137_mn619a5w2_剪切板_",
+      "image": "cy-scr-ext-hub/ext_1784262107137_mn619a5w2_剪切板_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "灵动弹窗",
+      "description": "更灵动的弹窗",
+      "id": "cyse_ext_1784262216883_xzd9iheyx",
+      "slug": "cy-scr-ext-hub/ext_1784262216883_xzd9iheyx_灵动弹窗",
+      "image": "cy-scr-ext-hub/ext_1784262216883_xzd9iheyx_灵动弹窗.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "毛玻璃Mac风窗口",
+      "description": "更便捷的制作MacOS",
+      "id": "cyse_ext_1784262411379_6x9htwtp0",
+      "slug": "cy-scr-ext-hub/ext_1784262411379_6x9htwtp0_毛玻璃Mac风窗口",
+      "image": "cy-scr-ext-hub/ext_1784262411379_6x9htwtp0_毛玻璃Mac风窗口.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "高斯模糊+",
+      "description": "更强的高斯模糊",
+      "id": "cyse_ext_1784262466152_caecltx0y",
+      "slug": "cy-scr-ext-hub/ext_1784262466152_caecltx0y_高斯模糊_",
+      "image": "cy-scr-ext-hub/ext_1784262466152_caecltx0y_高斯模糊_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "天气",
+      "description": "天气获取器",
+      "id": "cyse_ext_1784262544144_0v96uv5ce",
+      "slug": "cy-scr-ext-hub/ext_1784262544144_0v96uv5ce_天气",
+      "image": "cy-scr-ext-hub/ext_1784262544144_0v96uv5ce_天气.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "网页控制",
+      "description": "网页控制 1",
+      "id": "cyse_ext_1784262593902_uwdeni5p5",
+      "slug": "cy-scr-ext-hub/ext_1784262593902_uwdeni5p5_网页控制",
+      "image": "cy-scr-ext-hub/ext_1784262593902_uwdeni5p5_网页控制.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "网页控制",
+      "description": "网页控制 2",
+      "id": "cyse_ext_1784262656240_r105t0mw6",
+      "slug": "cy-scr-ext-hub/ext_1784262656240_r105t0mw6_网页控制",
+      "image": "cy-scr-ext-hub/ext_1784262656240_r105t0mw6_网页控制.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "网页嵌入",
+      "description": "网页嵌入",
+      "id": "cyse_ext_1784262733809_k8i6zlrm6",
+      "slug": "cy-scr-ext-hub/ext_1784262733809_k8i6zlrm6_网页嵌入",
+      "image": "cy-scr-ext-hub/ext_1784262733809_k8i6zlrm6_网页嵌入.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "文件管理",
+      "description": "文件管理系统",
+      "id": "cyse_ext_1784262776019_008ouvyrk",
+      "slug": "cy-scr-ext-hub/ext_1784262776019_008ouvyrk_文件管理",
+      "image": "cy-scr-ext-hub/ext_1784262776019_008ouvyrk_文件管理.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "液体玻璃弹窗",
+      "description": "液体玻璃弹窗",
+      "id": "cyse_ext_1784262927067_vm4ymdb1b",
+      "slug": "cy-scr-ext-hub/ext_1784262927067_vm4ymdb1b_液体玻璃弹窗",
+      "image": "cy-scr-ext-hub/ext_1784262927067_vm4ymdb1b_液体玻璃弹窗.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "网页控制+",
+      "description": "网页控制+",
+      "id": "cyse_ext_1784262994182_l4xyqkczo",
+      "slug": "cy-scr-ext-hub/ext_1784262994182_l4xyqkczo_网页控制_",
+      "image": "cy-scr-ext-hub/ext_1784262994182_l4xyqkczo_网页控制_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "着色器+",
+      "description": "自制着色器的快乐谁懂?",
+      "id": "cyse_ext_1784263818807_u6riupcnh",
+      "slug": "cy-scr-ext-hub/ext_1784263818807_u6riupcnh_着色器_",
+      "image": "cy-scr-ext-hub/ext_1784263818807_u6riupcnh_着色器_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "数字签名",
+      "description": "保护你的作品版权",
+      "id": "cyse_ext_1784263860179_7mwne8wub",
+      "slug": "cy-scr-ext-hub/ext_1784263860179_7mwne8wub_数字签名",
+      "image": "cy-scr-ext-hub/ext_1784263860179_7mwne8wub_数字签名.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "日出日落计算器",
+      "description": "使用deepseek生成的可以计算太阳位置时间的扩展，使用suncalc，还拥有一些时间处理附加积木",
+      "id": "cyse_ext_1784294115696_7g47mnsr2",
+      "slug": "cy-scr-ext-hub/ext_1784294115696_7g47mnsr2_日出日落计算器",
+      "image": "cy-scr-ext-hub/ext_1784294115696_7g47mnsr2_日出日落计算器.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "文本",
+      "description": "使用deepseek修改的文本扩展， turbowarp中原本的文本扩展不支持大小写区分，这个修改版本支持大小写区分， 可以在下拉菜单中手动修改",
+      "id": "cyse_ext_1784340508325_yxi9u34zl",
+      "slug": "cy-scr-ext-hub/ext_1784340508325_yxi9u34zl_文本",
+      "image": "cy-scr-ext-hub/ext_1784340508325_yxi9u34zl_文本.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "本地存储",
+      "description": "用deepseek修改的本地存储扩展，turbowarp原版本地存储不支持同时操作多个命名空间，获取当前命名空间名称，以及判断某一个键是否存在，此修改版本支持跨多个命名空间操作和获取当前命名空间的名称以及判断某一个键是否存在",
+      "id": "cyse_ext_1784340620628_q7q1xty14",
+      "slug": "cy-scr-ext-hub/ext_1784340620628_q7q1xty14_本地存储",
+      "image": "cy-scr-ext-hub/ext_1784340620628_q7q1xty14_本地存储.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "通知",
+      "description": "使用deepseek修改的通知，turbowarp原版通知不支持自定义标题，设置是否静音和设置图标和一直显示，修改版支持自定义标题，是否静音，图标以及显示模式",
+      "id": "cyse_ext_1784340884612_kwhh4telz",
+      "slug": "cy-scr-ext-hub/ext_1784340884612_kwhh4telz_通知",
+      "image": "cy-scr-ext-hub/ext_1784340884612_kwhh4telz_通知.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "坐标转换",
+      "description": "使用deepseek生成的坐标转换+原版没有的三角函数以及度分秒转换，以下是deepseek在扩展中给出的说明\r\n\r\n坐标转换扩展说明：\r\n\r\n此扩展提供以下功能：\r\n1. 直角坐标与极坐标之间的转换\r\n2. 各种三角函数计算\r\n3. 角度单位转换（度、弧度、百分度）\r\n4. 十进制角度与60进制角度（度分秒）转换\r\n5. 三角函数幂运算\r\n\r\n使用提示：\r\n- 使用 [函数][值]单位[单位] 积木时，双曲函数的单位参数会被忽略\r\n- 使用 [函数][值] 积木时，始终使用弧度单位\r\n- 双曲函数与角度无关，适合使用弧度专用积木\r\n- 三角函数幂运算可以计算如 sin²(x) 这样的表达式",
+      "id": "cyse_ext_1784340997652_vmkgeioxg",
+      "slug": "cy-scr-ext-hub/ext_1784340997652_vmkgeioxg_坐标转换",
+      "image": "cy-scr-ext-hub/ext_1784340997652_vmkgeioxg_坐标转换.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "浏览器弹窗扩展",
+      "description": "浏览器弹窗扩展",
+      "id": "cyse_ext_1784442675184_l84tvsgck",
+      "slug": "cy-scr-ext-hub/ext_1784442675184_l84tvsgck_浏览器弹窗扩展",
+      "image": "cy-scr-ext-hub/ext_1784442675184_l84tvsgck_浏览器弹窗扩展.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "侧边栏弹窗",
+      "description": "更方便的制作悬疑交互大作",
+      "id": "cyse_ext_1784443176741_qc1xryrgd",
+      "slug": "cy-scr-ext-hub/ext_1784443176741_qc1xryrgd_侧边栏弹窗",
+      "image": "cy-scr-ext-hub/ext_1784443176741_qc1xryrgd_侧边栏弹窗.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "无敌弹窗",
+      "description": "无敌弹窗",
+      "id": "cyse_ext_1784443355249_jgurog4zd",
+      "slug": "cy-scr-ext-hub/ext_1784443355249_jgurog4zd_无敌弹窗",
+      "image": "cy-scr-ext-hub/ext_1784443355249_jgurog4zd_无敌弹窗.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "通用弹窗",
+      "description": "通用弹窗",
+      "id": "cyse_ext_1784443464997_tybk6avbb",
+      "slug": "cy-scr-ext-hub/ext_1784443464997_tybk6avbb_通用弹窗",
+      "image": "cy-scr-ext-hub/ext_1784443464997_tybk6avbb_通用弹窗.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "TextDB",
+      "description": "更好的文本云存",
+      "id": "cyse_ext_1784443942043_p6gbmu75s",
+      "slug": "cy-scr-ext-hub/ext_1784443942043_p6gbmu75s_TextDB",
+      "image": "cy-scr-ext-hub/ext_1784443942043_p6gbmu75s_TextDB.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "inlineblock",
+      "description": "请把它放进输入数字/文本的里面，提示：把return放进inline块里面，inline里面可以放块，不要把它跟自制积木的return搞混，千万不要只放inline里面不放return，",
+      "id": "cyse_ext_1784444283178_6gsswc62x",
+      "slug": "cy-scr-ext-hub/ext_1784444283178_6gsswc62x_inlineblock",
+      "image": "cy-scr-ext-hub/ext_1784444283178_6gsswc62x_inlineblock.png",
+      "by": [
+        {
+          "name": "auu"
+        }
+      ]
+    },
+    {
+      "name": "舞台覆盖层",
+      "description": "使用deepseek生成的舞台覆盖层扩展，它能在舞台上添加一个覆盖层，它在任何角色之上而且不会影响到点击，颜色和浓度均可自定义，RGB颜色在0到255之间，浓度在0到100之间",
+      "id": "cyse_ext_1784452834796_4a88q81vq",
+      "slug": "cy-scr-ext-hub/ext_1784452834796_4a88q81vq_舞台覆盖层",
+      "image": "cy-scr-ext-hub/ext_1784452834796_4a88q81vq_舞台覆盖层.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "WebHook",
+      "description": "✨更好的WebHook",
+      "id": "cyse_ext_1784641053968_p9x5ckf4r",
+      "slug": "cy-scr-ext-hub/ext_1784641053968_p9x5ckf4r_WebHook",
+      "image": "cy-scr-ext-hub/ext_1784641053968_p9x5ckf4r_WebHook.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "GLM AI",
+      "description": "使用deep seek做的通过GLM的免费AI做的",
+      "id": "cyse_ext_1784641354900_p1rr9ygq8",
+      "slug": "cy-scr-ext-hub/ext_1784641354900_p1rr9ygq8_GLM_AI",
+      "image": "cy-scr-ext-hub/ext_1784641354900_p1rr9ygq8_GLM_AI.webp",
+      "by": [
+        {
+          "name": "dhdbvcg"
+        }
+      ]
+    },
+    {
+      "name": "白猫的输入框",
+      "description": "白猫的输入框",
+      "id": "cyse_ext_1784686837462_3w3z746e4",
+      "slug": "cy-scr-ext-hub/ext_1784686837462_3w3z746e4_白猫的输入框",
+      "image": "cy-scr-ext-hub/ext_1784686837462_3w3z746e4_白猫的输入框.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "数字签名Plus",
+      "description": "保护你的作品版权",
+      "id": "cyse_ext_1784806969453_6qaw92plv",
+      "slug": "cy-scr-ext-hub/ext_1784806969453_6qaw92plv_数字签名Plus",
+      "image": "cy-scr-ext-hub/ext_1784806969453_6qaw92plv_数字签名Plus.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "本地储存",
+      "description": "本地储存",
+      "id": "cyse_ext_1784808537295_3crwhkx9u",
+      "slug": "cy-scr-ext-hub/ext_1784808537295_3crwhkx9u_本地储存",
+      "image": "cy-scr-ext-hub/ext_1784808537295_3crwhkx9u_本地储存.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "Easy UI",
+      "description": "Easy UI",
+      "id": "cyse_ext_1784808551377_fze1pi83o",
+      "slug": "cy-scr-ext-hub/ext_1784808551377_fze1pi83o_Easy_UI",
+      "image": "cy-scr-ext-hub/ext_1784808551377_fze1pi83o_Easy_UI.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "本地文件储存",
+      "description": "本地文件储存",
+      "id": "cyse_ext_1784808569283_nparxmgwy",
+      "slug": "cy-scr-ext-hub/ext_1784808569283_nparxmgwy_本地文件储存",
+      "image": "cy-scr-ext-hub/ext_1784808569283_nparxmgwy_本地文件储存.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "Open UI",
+      "description": "Open UI",
+      "id": "cyse_ext_1784808582484_bwjthvoyo",
+      "slug": "cy-scr-ext-hub/ext_1784808582484_bwjthvoyo_Open_UI",
+      "image": "cy-scr-ext-hub/ext_1784808582484_bwjthvoyo_Open_UI.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "7z压缩拓展",
+      "description": "可以将文本按照7z格式进行压缩",
+      "id": "cyse_ext_1785059421009_b24yy0vbo",
+      "slug": "cy-scr-ext-hub/ext_1785059421009_b24yy0vbo_7z压缩拓展",
+      "image": "cy-scr-ext-hub/ext_1785059421009_b24yy0vbo_7z压缩拓展.png",
+      "by": [
+        {
+          "name": "sss"
+        }
+      ]
+    },
+    {
+      "name": "tar.xz压缩拓展",
+      "description": "可以将文本按tar.xz格式压缩",
+      "id": "cyse_ext_1785059526934_wrdaz3d7d",
+      "slug": "cy-scr-ext-hub/ext_1785059526934_wrdaz3d7d_tar_xz压缩拓展",
+      "image": "cy-scr-ext-hub/ext_1785059526934_wrdaz3d7d_tar_xz压缩拓展.png",
+      "by": [
+        {
+          "name": "sss"
+        }
+      ]
+    },
+    {
+      "name": "HTML实验室",
+      "description": "HTML实验室",
+      "id": "cyse_ext_1785060139192_qa0w0i7kh",
+      "slug": "cy-scr-ext-hub/ext_1785060139192_qa0w0i7kh_HTML实验室",
+      "image": "cy-scr-ext-hub/ext_1785060139192_qa0w0i7kh_HTML实验室.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "框选扩展",
+      "description": "框选扩展",
+      "id": "cyse_ext_1785060263535_tt4x3u4vx",
+      "slug": "cy-scr-ext-hub/ext_1785060263535_tt4x3u4vx_框选扩展",
+      "image": "cy-scr-ext-hub/ext_1785060263535_tt4x3u4vx_框选扩展.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "临时云变量",
+      "description": "临时云变量",
+      "id": "cyse_ext_1785060337376_a0jktouf8",
+      "slug": "cy-scr-ext-hub/ext_1785060337376_a0jktouf8_临时云变量",
+      "image": "cy-scr-ext-hub/ext_1785060337376_a0jktouf8_临时云变量.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "遥感扩展",
+      "description": "遥感扩展",
+      "id": "cyse_ext_1785060436120_yegn099at",
+      "slug": "cy-scr-ext-hub/ext_1785060436120_yegn099at_遥感扩展",
+      "image": "cy-scr-ext-hub/ext_1785060436120_yegn099at_遥感扩展.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "移动端",
+      "description": "移动端",
+      "id": "cyse_ext_1785060511824_gq6d9sw9s",
+      "slug": "cy-scr-ext-hub/ext_1785060511824_gq6d9sw9s_移动端",
+      "image": "cy-scr-ext-hub/ext_1785060511824_gq6d9sw9s_移动端.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "作品锁",
+      "description": "保护你的作品",
+      "id": "cyse_ext_1785061522218_gw5hcuc39",
+      "slug": "cy-scr-ext-hub/ext_1785061522218_gw5hcuc39_作品锁",
+      "image": "cy-scr-ext-hub/ext_1785061522218_gw5hcuc39_作品锁.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "YOLO的内嵌框架",
+      "description": "YOLO的内嵌框架",
+      "id": "cyse_ext_1785061836346_6y7c2985k",
+      "slug": "cy-scr-ext-hub/ext_1785061836346_6y7c2985k_YOLO的内嵌框架",
+      "image": "cy-scr-ext-hub/ext_1785061836346_6y7c2985k_YOLO的内嵌框架.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "网络请求",
+      "description": "可以使用get post PUT Patch delete head options这几种请求方法来请求某个网站并且可以自定义返回格式可以是UTF-8文本,base64或者data:URL",
+      "id": "cyse_ext_1785061883307_2ln45xgk6",
+      "slug": "cy-scr-ext-hub/ext_1785061883307_2ln45xgk6_网络请求",
+      "image": "cy-scr-ext-hub/ext_1785061883307_2ln45xgk6_网络请求.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "Three3D",
+      "description": "Three3D",
+      "id": "cyse_ext_1785571343237_clp1cav5h",
+      "slug": "cy-scr-ext-hub/ext_1785571343237_clp1cav5h_Three3D_js",
+      "image": "cy-scr-ext-hub/ext_1785571343237_clp1cav5h_Three3D_js.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "广播+",
+      "description": "广播+",
+      "id": "cyse_ext_1785571410654_f0t1gqz74",
+      "slug": "cy-scr-ext-hub/ext_1785571410654_f0t1gqz74_广播_",
+      "image": "cy-scr-ext-hub/ext_1785571410654_f0t1gqz74_广播_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "灵动弹窗",
+      "description": "使用方法：在 TurboWarp（或其他二改编辑器，兼容Gandi） 中选择「自定义扩展」，加载本文件，并勾选「不使用沙盒运行扩展 (Run without sandbox)」。",
+      "id": "cyse_ext_1785571475732_mosuh83av",
+      "slug": "cy-scr-ext-hub/ext_1785571475732_mosuh83av_灵动弹窗",
+      "image": "cy-scr-ext-hub/ext_1785571475732_mosuh83av_灵动弹窗.jpeg",
+      "by": [
+        {
+          "name": "勇敢的菠萝吖"
+        }
+      ]
+    },
+    {
+      "name": "Simple3D汉化版",
+      "description": "turbowarp的simple3d扩展的汉化版本",
+      "id": "cyse_ext_1785846312325_wr5xz1u1a",
+      "slug": "cy-scr-ext-hub/ext_1785846312325_wr5xz1u1a_Simple3D汉化版",
+      "image": "cy-scr-ext-hub/ext_1785846312325_wr5xz1u1a_Simple3D汉化版.jpg",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "简单计算",
+      "description": "支持计算一个表达式或者化简某个代数式",
+      "id": "cyse_ext_1786174081138_ekv0ojk3g",
+      "slug": "cy-scr-ext-hub/ext_1786174081138_ekv0ojk3g_简单计算",
+      "image": "cy-scr-ext-hub/ext_1786174081138_ekv0ojk3g_简单计算.png",
+      "by": [
+        {
+          "name": "qazk"
+        }
+      ]
+    },
+    {
+      "name": "类WinUI3弹窗",
+      "description": "这是一个名为 WinUI 3弹窗 的社区扩展，该扩展的主要功能是为Scratch编程环境增添多种类型的弹窗交互功能，使用户可以在Scratch项目里方便地创建和使用不同样式与用途的弹窗，例如提示弹窗、确认弹窗、输入弹窗等，并且能够获取这些弹窗的返回值，增强项目的交互性和用户体验。\r\n注：其中一部分代码使用了豆包AI\r\n总的来说非常牛X！\r\n感谢支持！\r\n这是我迄今为止做过的最大的工程，总共1000多条代码",
+      "id": "cyse_ext_1786174124890_nazsihhde",
+      "slug": "cy-scr-ext-hub/ext_1786174124890_nazsihhde_类WinUI3弹窗",
+      "image": "cy-scr-ext-hub/ext_1786174124890_nazsihhde_类WinUI3弹窗.PNG",
+      "by": [
+        {
+          "name": "E.R.T.J"
+        }
+      ]
+    },
+    {
+      "name": "飞书",
+      "description": "飞书-✨更好的WebHook",
+      "id": "cyse_ext_1786501890060_socqesjfw",
+      "slug": "cy-scr-ext-hub/ext_1786501890060_socqesjfw_飞书",
+      "image": "cy-scr-ext-hub/ext_1786501890060_socqesjfw_飞书.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "Morgan的工具箱",
+      "description": "扩展是象棋脑工作室制作",
+      "id": "cyse_ext_1786502003290_e9p0qtvkb",
+      "slug": "cy-scr-ext-hub/ext_1786502003290_e9p0qtvkb_Morgan的工具箱",
+      "image": "cy-scr-ext-hub/ext_1786502003290_e9p0qtvkb_Morgan的工具箱.png",
+      "by": [
+        {
+          "name": "dhdbvcg"
+        }
+      ]
+    },
+    {
+      "name": "自定义积木+",
+      "description": "自定义积木+",
+      "id": "cyse_ext_1786519093931_i9azxhn4x",
+      "slug": "cy-scr-ext-hub/ext_1786519093931_i9azxhn4x_自定义积木_",
+      "image": "cy-scr-ext-hub/ext_1786519093931_i9azxhn4x_自定义积木_.png",
+      "by": [
+        {
+          "name": "Maxkore"
+        }
+      ]
+    },
+    {
+      "name": "可回收音频",
+      "description": "缓存、复用项目中与外部的音频",
+      "id": "cyse_ext_1786591471577_vmaoumcs2",
+      "slug": "cy-scr-ext-hub/ext_1786591471577_vmaoumcs2_可回收音频",
+      "image": "cy-scr-ext-hub/ext_1786591471577_vmaoumcs2_可回收音频.png",
+      "by": [
+        {
+          "name": "大尾巴奇"
+        }
+      ]
+    },
+    {
+      "name": "并行音频Plus",
+      "description": "允许你高效地播放同一个音频多次",
+      "id": "cyse_ext_1786591495550_92dmjg4gt",
+      "slug": "cy-scr-ext-hub/ext_1786591495550_92dmjg4gt_并行音频Plus",
+      "image": "cy-scr-ext-hub/ext_1786591495550_92dmjg4gt_并行音频Plus.png",
+      "by": [
+        {
+          "name": "大尾巴奇"
+        }
+      ]
+    },
+    {
+      "name": "计算器扩展",
+      "description": "本扩展数学要素最多，目前版本制的话已经有集合的东西，现在只要是TW/02/PM等都可以导入，如果没导入，可能最多的情况是下载时出了一点问题，重新下载就好了，如果没用，可以第一时间反馈作者：https://space.bilibili.com/3546949919705808;目前是最新版本，想要别的版本可以去我的GITHUB",
+      "id": "cyse_ext_1786597332384_n4divqqkn",
+      "slug": "cy-scr-ext-hub/ext_1786597332384_n4divqqkn_计算器扩展",
+      "image": "cy-scr-ext-hub/cover_1786598562773_uc4xfs.png",
+      "by": [
+        {
+          "name": "Bluest_iloveblue5715"
+        }
+      ]
+    },
+	{
       "slug": "pooiod7/Ace",
       "id": "Ace",
       "name": "Ace",
