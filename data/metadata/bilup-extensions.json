@@ -224,7 +224,7 @@
       "id": "PineSounds",
       "name": "PineSounds",
       "description": "An advanced audio engine, providing complex sound control, synthesis, and offline remixing.",
-      "image": "images/PineSounds.svg",
+      "image": "PineSounds.svg",
       "by": [
         {
           "name": "SharkPool (original), enhanced as \"PineSounds\"",
