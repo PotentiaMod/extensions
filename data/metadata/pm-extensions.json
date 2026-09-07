@@ -56,7 +56,7 @@
         "name": "Iris Text",
         "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
         "slug": "Gen1x/iris-text",
-        "id": "iristext",
+        "id": "iris-text",
         "image": "Gen1x/iris-text.avif",
         "by": [
         {
