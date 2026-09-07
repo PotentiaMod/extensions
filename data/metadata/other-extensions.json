@@ -630,7 +630,7 @@
       ]
     },
     {
-      "name": "灵动弹窗",
+      "name": "灵动弹窗 (3)",
       "description": "更灵动的弹窗",
       "id": "cyse_ext_1784262216883_xzd9iheyx",
       "slug": "cy-scr-ext-hub/ext_1784262216883_xzd9iheyx_灵动弹窗",
@@ -1098,7 +1098,7 @@
       ]
     },
     {
-      "name": "作品锁",
+      "name": "作品锁 (2)",
       "description": "保护你的作品",
       "id": "cyse_ext_1785061522218_gw5hcuc39",
       "slug": "cy-scr-ext-hub/ext_1785061522218_gw5hcuc39_作品锁",
@@ -1194,7 +1194,7 @@
       ]
     },
     {
-      "name": "类WinUI3弹窗",
+      "name": "类WinUI3弹窗 (1)",
       "description": "这是一个名为 WinUI 3弹窗 的社区扩展，该扩展的主要功能是为Scratch编程环境增添多种类型的弹窗交互功能，使用户可以在Scratch项目里方便地创建和使用不同样式与用途的弹窗，例如提示弹窗、确认弹窗、输入弹窗等，并且能够获取这些弹窗的返回值，增强项目的交互性和用户体验。\r\n注：其中一部分代码使用了豆包AI\r\n总的来说非常牛X！\r\n感谢支持！\r\n这是我迄今为止做过的最大的工程，总共1000多条代码",
       "id": "cyse_ext_1786174124890_nazsihhde",
       "slug": "cy-scr-ext-hub/ext_1786174124890_nazsihhde_类WinUI3弹窗",
