@@ -52,6 +52,19 @@
         }
       ]
     },
+	{
+        "name": "Iris Text",
+        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
+        "slug": "Gen1x/iris-text",
+        "id": "iris-text",
+        "image": "Gen1x/iris-text.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
    {
         "slug": "pooiod/Box2D",
         "id": "Box2D",
@@ -410,6 +423,19 @@
         "description": "Intercept custom actions in your scripts to pause, resume, or redirect their flow using modular handlers.",
         "image": "Div/divAlgEffects.svg",
 		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "3D Vectors & Quaternions",
+      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
+      "slug": "Div/divVecQuat",
+      "id": "divVecQuat",
+      "image": "Div/divVecQuat.svgg",
+      "by": [
         {
           "name": "Dicuo",
           "link": null
@@ -944,6 +970,45 @@
         "by": [
         {
           "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "ODE (PM)",
+        "description": "3D physics using ODE.",
+        "slug": "NishiOwO/ode",
+        "id": "ODEE",
+        "image": "NishiOwO/ode.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "TurboSynth",
+        "description": "Synthesizer that uses TurboSynth.",
+        "slug": "NishiOwO/turbosynth",
+        "id": "TurboSynth",
+        "image": "NishiOwO/turbosynth.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+      "name": "Libxmp (PM)",
+      "description": "Play tracker modules using Libxmp.",
+      "slug": "NishiOwO/libxmp",
+      "id": "nishiowoLibxmpp",
+      "image": "NishiOwO/libxmp.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
           "link": null
         }
       ]
