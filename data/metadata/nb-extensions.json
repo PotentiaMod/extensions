@@ -142,6 +142,46 @@
         "Pen Plus"
       ]
     },
+	{
+      "slug": "JeremyGamer13/tween",
+      "id": "jeremygamerTweening",
+      "name": "Tween (NB)",
+      "description": "Easing methods for smooth animations.",
+      "nameTranslations": {
+        "fi": "Interpolointi",
+        "it": "Animazioni Interpolate",
+        "ko": "트윈 애니메이션",
+        "nl": "Overgangen",
+        "ru": "Плавность",
+        "tr": "Ara",
+        "uk": "Анімування",
+        "zh-cn": "补间"
+      },
+      "descriptionTranslations": {
+        "de": "Methoden für sanftere Animationen",
+        "fi": "Sujuvampien animaatioiden tekemistä helpottavia menetelmiä.",
+        "it": "Metodi di interpolazione per rendere più fluide le animazioni.",
+        "ja": "イージングでアニメーションをスムーズにします。",
+        "ko": "부드러운 애니메이션을 위한 easing 방식들을 제공합니다.",
+        "nb": "Easing metoder for jevne animasjoner.",
+        "nl": "Maak je animaties soepeler met geleidelijke overgangen.",
+        "ru": "Упрощенные методы для плавной анимации.",
+        "tr": "Pürüzsüz animasyonlar için kolaylaştırma yöntemleri.",
+        "uk": "Простіші методи створення плавних анімацій.",
+        "zh-cn": "简化制作平滑动画的方法。"
+      },
+      "image": "images/JeremyGamer13/tween.svg",
+      "by": [
+        {
+          "name": "JeremyGamer13",
+          "link": "https://scratch.mit.edu/users/JeremyGamer13/"
+        },
+        {
+          "name": "Fath11",
+          "link": "https://scratch.mit.edu/users/Fath11/"
+        }
+      ]
+    },
     {
       "slug": "CubesterYT/RichPresence",
       "id": "cubesterRichPresence",
@@ -183,6 +223,23 @@
       ],
       "samples": [
         "ODE"
+      ]
+    },
+	{
+      "slug": "NishiOwO/turbosynth",
+      "id": "nishiowoTurboSynth",
+      "name": "TurboSynth",
+      "description": "Synthesizer that uses TurboSynth.",
+      "image": "images/NishiOwO/turbosynth.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ],
+      "docs": true,
+      "samples": [
+        "TurboSynth"
       ]
     }
   ]

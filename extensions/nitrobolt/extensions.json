@@ -1,13 +1,16 @@
 [
   // This file supports comments
+  "Comments",
   "ddededodediamante/Vectors",
   "CubesterYT/Lambda",
   "ddededodediamante/Sprites",
   "Comments",
   "Xeltalliv/clippingblending",
   "obviousAlexC/penPlus",
+  "JeremyGamer13/tween",
   "CubesterYT/RichPresence",
   "Aness6040/Translation",
   "NishiOwO/libxmp",
-  "NishiOwO/ode"
+  "NishiOwO/ode",
+  "NishiOwO/turbosynth"
 ]

@@ -2,9 +2,9 @@
 // ID: nishiowoOde
 // Description: 3D physics using ODE.
 // By: NishiOwO
-// License: BSD-3-Clause
+// License: MIT or BSD-3-Clause
 
-// Repository is at https://github.com/nitro-bolt/tw-ode
+// Repository is at https://github.com/NishiOwO/tw-ode
 
 (async function (Scratch) {
   "use strict";
@@ -98,6 +98,7 @@
     dJointGetHinge2Axis1,
     dJointGetHinge2Axis2,
     dJointGetHinge2Angle1,
+    dJointGetHinge2Angle2,
     dJointSetPRAxis1,
     dJointGetPRAxis1,
     dJointSetPRAxis2,
@@ -148,46 +149,64 @@
     dJointSetTransmissionAxis2,
     dJointGetPRAngle,
     dJointGetTransmissionAngle1,
-    dJointGetHingeAngle2,
     dJointGetTransmissionAngle2,
     dJointAddPRTorque,
     dJointAddPUTorques;
   let ode;
   let embedded = false;
-  var ODEWASM;
   let worlds = {};
   let geoms = {};
   let bodies = {};
   let joints = {};
+  let divVecQuat;
+  let jwArray;
+  let blk_array_obj = {};
+  let arg_array_obj = {};
   const blk_array =
     Scratch.BlockType[Scratch.extensions.isNitroBolt ? "ARRAY" : "REPORTER"];
   const arg_array =
     Scratch.ArgumentType[Scratch.extensions.isNitroBolt ? "ARRAY" : "STRING"];
   const from_array = Scratch.extensions.isNitroBolt
     ? (x) => x
-    : (x) => JSON.stringify(x);
+    : Scratch.extensions.isPenguinMod
+      ? (x) => new jwArray.Type(x)
+      : (x) => JSON.stringify(x);
   const to_f32array = Scratch.extensions.isNitroBolt
     ? Scratch.Cast.toFloat32Array
-    : (x) => {
-        try {
-          const json = JSON.parse(x);
-
-          if (!Array.isArray(json)) return new Float32Array([]);
-
-          return json;
-        } catch {
-          return new Float32Array([]);
+    : Scratch.extensions.isPenguinMod && jwArray
+      ? (x) => {
+          return new Float32Array(jwArray.Type.toArray(x).array);
         }
-      };
+      : (x) => {
+          try {
+            const json = JSON.parse(x);
+
+            if (!Array.isArray(json)) return new Float32Array([]);
+
+            return json;
+          } catch {
+            return new Float32Array([]);
+          }
+        };
+
+  if (Scratch.vm.divVecQuat) divVecQuat = Scratch.vm.divVecQuat;
+
+  if (Scratch.extensions.isPenguinMod && !Scratch.vm.jwArray)
+    Scratch.vm.extensionManager.loadExtensionIdSync("jwArray");
+  if (Scratch.vm.jwArray) {
+    jwArray = Scratch.vm.jwArray;
+    blk_array_obj = jwArray.Block;
+    arg_array_obj = jwArray.Argument;
+  }
 
   /* DO NOT REMOVE THE COMMENT BELOW!!! */
   /* EMBED ODEJS.JS HERE */
 
   if (embedded) {
-    ode = ODEWASM;
+    ode = ODEWASM; // eslint-disable-line
   } else {
     ode = await Scratch.external.evalAndReturn(
-      "https://raw.githubusercontent.com/Nitro-Bolt/tw-ode/d580df0057453d3d950c9b65c5672fbe4a160768/odejs.js",
+      "https://raw.githubusercontent.com/NishiOwO/tw-ode/e5f54b5e05ae363e937740af0c81b217e06c15e8/odejs.js",
       "ODEWASM"
     );
   }
@@ -662,6 +681,9 @@
   dJointGetHinge2Angle1 = Module.cwrap("dJointGetHinge2Angle1", "number", [
     "number",
   ]);
+  dJointGetHinge2Angle2 = Module.cwrap("dJointGetHinge2Angle2", "number", [
+    "number",
+  ]);
   dJointSetPRAxis1 = Module.cwrap("dJointSetPRAxis1", null, [
     "number",
     "number",
@@ -908,7 +930,7 @@
 
   class ODE {
     getInfo() {
-      return {
+      let base = {
         id: "nishiowoOde",
         name: Scratch.translate("ODE"),
         blockIconURI: blockIconURI,
@@ -1026,6 +1048,7 @@
               GRAVITY: {
                 type: arg_array,
                 defaultValue: from_array([0, -9.81, 0]),
+                ...arg_array_obj,
               },
             },
           },
@@ -1043,10 +1066,12 @@
               START: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
               END: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
             },
           },
@@ -1064,10 +1089,12 @@
               START: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
               END: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
               GEOM: {
                 type: Scratch.ArgumentType.STRING,
@@ -1107,6 +1134,7 @@
           {
             opcode: "bodyGetArray",
             blockType: blk_array,
+            ...blk_array_obj,
             disableMonitor: true,
             text: Scratch.translate("get [TYPE] of body [BODY]"),
             arguments: {
@@ -1138,6 +1166,7 @@
               ARRAY: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
             },
           },
@@ -1153,6 +1182,7 @@
               FORCE: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
             },
           },
@@ -1242,6 +1272,7 @@
               SIZE: {
                 type: arg_array,
                 defaultValue: from_array([1, 1, 1]),
+                ...arg_array_obj,
               },
               WORLD: {
                 type: Scratch.ArgumentType.STRING,
@@ -1351,11 +1382,13 @@
             arguments: {
               VERTEX: {
                 type: arg_array,
-                defaultValue: [],
+                defaultValue: from_array([]),
+                ...arg_array_obj,
               },
               INDEX: {
                 type: arg_array,
-                defaultValue: [],
+                defaultValue: from_array([]),
+                ...arg_array_obj,
               },
               WORLD: {
                 type: Scratch.ArgumentType.STRING,
@@ -1383,7 +1416,8 @@
               },
               DATA: {
                 type: arg_array,
-                defaultValue: [],
+                defaultValue: from_array([]),
+                ...arg_array_obj,
               },
               WIDTH: {
                 type: Scratch.ArgumentType.NUMBER,
@@ -1454,6 +1488,7 @@
           {
             opcode: "geomGetArray",
             blockType: blk_array,
+            ...blk_array_obj,
             disableMonitor: true,
             text: Scratch.translate("get [TYPE] of geometry [GEOM]"),
             arguments: {
@@ -1485,6 +1520,7 @@
               ARRAY: {
                 type: arg_array,
                 defaultValue: from_array([0, 0, 0]),
+                ...arg_array_obj,
               },
             },
           },
@@ -1529,6 +1565,7 @@
           {
             opcode: "jointGetArray",
             blockType: blk_array,
+            ...blk_array_obj,
             disableMonitor: true,
             text: Scratch.translate("get [TYPE] of joint [JOINT]"),
             arguments: {
@@ -1641,12 +1678,66 @@
               },
               TORQUES: {
                 type: arg_array,
-                defaultValue: [0],
+                defaultValue: from_array([0]),
+                ...arg_array_obj,
               },
             },
           },
         ],
       };
+
+      if (Scratch.extensions.isPenguinMod && divVecQuat) {
+        base.blocks.push(
+          {
+            blockType: "label",
+            text: Scratch.translate("3D Vectors & Quats compatibility"),
+          },
+          {
+            opcode: "divVecToVector",
+            blockType: Scratch.BlockType.REPORTER,
+            text: Scratch.translate("div vector [INPUT] to vector"),
+            arguments: {
+              INPUT: {
+                ...divVecQuat.Vector.Argument,
+              },
+            },
+          },
+          {
+            opcode: "vectorToDivVec",
+            text: Scratch.translate("vector [INPUT] to div vector"),
+            ...divVecQuat.Vector.Block,
+            arguments: {
+              INPUT: {
+                type: arg_array,
+                defaultValue: from_array([0, 0, 0]),
+              },
+            },
+          },
+          {
+            opcode: "divQuatToQuaternion",
+            text: Scratch.translate("div quaternion [INPUT] to quaternion"),
+            blockType: Scratch.BlockType.REPORTER,
+            arguments: {
+              INPUT: {
+                ...divVecQuat.Quat.Argument,
+              },
+            },
+          },
+          {
+            opcode: "quaternionToDivQuat",
+            text: Scratch.translate("quaternion [INPUT] to div quaternion"),
+            ...divVecQuat.Quat.Block,
+            arguments: {
+              INPUT: {
+                type: arg_array,
+                defaultValue: from_array([0, 0, 0, 0]),
+              },
+            },
+          }
+        );
+      }
+
+      return base;
     }
 
     resetAll() {
@@ -1775,6 +1866,8 @@
         body: dBodyCreate(worlds[world].world),
         geoms: [],
       };
+
+      dBodySetPosition(bodies[key].body, 0, 0, 0);
 
       return key;
     }
@@ -2025,6 +2118,8 @@
         geom: dCreateBox(worlds[world].space, sz[0], sz[1], sz[2]),
       };
 
+      dGeomSetPosition(geoms[key].geom, 0, 0, 0);
+
       return key;
     }
 
@@ -2041,6 +2136,8 @@
         world: world,
         geom: dCreateCapsule(worlds[world].space, r, len),
       };
+
+      dGeomSetPosition(geoms[key].geom, 0, 0, 0);
 
       return key;
     }
@@ -2059,6 +2156,8 @@
         geom: dCreateCylinder(worlds[world].space, r, len),
       };
 
+      dGeomSetPosition(geoms[key].geom, 0, 0, 0);
+
       return key;
     }
 
@@ -2074,6 +2173,8 @@
         world: world,
         geom: dCreateSphere(worlds[world].space, r),
       };
+
+      dGeomSetPosition(geoms[key].geom, 0, 0, 0);
 
       return key;
     }
@@ -2131,6 +2232,8 @@
           index.length / 3
         ),
       };
+
+      dGeomSetPosition(geoms[key].geom, 0, 0, 0);
 
       Module._free(i_ptr);
       Module._free(v_ptr);
@@ -2839,7 +2942,7 @@
       let m;
       switch (joints[joint].type) {
         case dJointCreateHinge2:
-          m = dJointGetHingeAngle2;
+          m = dJointGetHinge2Angle2;
           break;
         case dJointCreateUniversal:
           m = dJointGetUniversalAngle2;
@@ -2947,6 +3050,26 @@
             dJointAddPUTorques(joints[joint].joint, torques[0], torques[1]);
           break;
       }
+    }
+
+    divVecToVector(args) {
+      const input = divVecQuat.Vector.Type.toVector3D(args.INPUT);
+      return from_array([input.x, input.y, input.z]);
+    }
+
+    vectorToDivVec(args) {
+      const input = to_f32array(args.INPUT);
+      return new divVecQuat.Vector.Type(input[0], input[1], input[2]);
+    }
+
+    divQuatToQuaternion(args) {
+      const input = divVecQuat.Quat.Type.toQuat(args.INPUT);
+      return from_array([input.r, input.yz, input.xz, input.xy]);
+    }
+
+    quaternionToDivQuat(args) {
+      const input = to_f32array(args.INPUT);
+      return new divVecQuat.Quat.Type(input[3], input[0], input[1], input[2]);
     }
   }
 
