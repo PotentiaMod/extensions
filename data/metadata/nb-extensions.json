@@ -170,7 +170,7 @@
         "uk": "Простіші методи створення плавних анімацій.",
         "zh-cn": "简化制作平滑动画的方法。"
       },
-      "image": "images/JeremyGamer13/tween.svg",
+      "image": "JeremyGamer13/tween.svg",
       "by": [
         {
           "name": "JeremyGamer13",
@@ -228,9 +228,9 @@
 	{
       "slug": "NishiOwO/turbosynth",
       "id": "nishiowoTurboSynth",
-      "name": "TurboSynth",
+      "name": "TurboSynth (NB)",
       "description": "Synthesizer that uses TurboSynth.",
-      "image": "images/NishiOwO/turbosynth.svg",
+      "image": "NishiOwO/turbosynth.svg",
       "by": [
         {
           "name": "NishiOwO",
