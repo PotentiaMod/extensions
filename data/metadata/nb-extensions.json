@@ -62,7 +62,7 @@
     },
 	 {
       "slug": "Xeltalliv/clippingblending",
-      "id": "xeltallivclipblend",
+      "id": "xeltallivclipblend1",
       "name": "Clipping & Blending",
       "description": "Clipping outside of a specified rectangular area and different color blending modes.",
       "nameTranslations": {
@@ -104,7 +104,7 @@
     },
     {
       "slug": "obviousAlexC/penPlus",
-      "id": "penP",
+      "id": "penP1",
       "name": "Pen Plus V7",
       "description": "Advanced rendering capabilities.",
       "nameTranslations": {
@@ -144,7 +144,7 @@
     },
 	{
       "slug": "JeremyGamer13/tween",
-      "id": "jeremygamerTweening",
+      "id": "jeremygamerTweening1",
       "name": "Tween (NB)",
       "description": "Easing methods for smooth animations.",
       "nameTranslations": {
