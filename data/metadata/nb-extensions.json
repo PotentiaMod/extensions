@@ -63,7 +63,7 @@
 	 {
       "slug": "Xeltalliv/clippingblending",
       "id": "xeltallivclipblend1",
-      "name": "Clipping & Blending",
+      "name": "Clipping & Blending (1)",
       "description": "Clipping outside of a specified rectangular area and different color blending modes.",
       "nameTranslations": {
         "de": "Ränder verändern & Farben mischen",
@@ -105,7 +105,7 @@
     {
       "slug": "obviousAlexC/penPlus",
       "id": "penP1",
-      "name": "Pen Plus V7",
+      "name": "Pen Plus V7 (1)",
       "description": "Advanced rendering capabilities.",
       "nameTranslations": {
         "fi": "Kynä Plus V7",
