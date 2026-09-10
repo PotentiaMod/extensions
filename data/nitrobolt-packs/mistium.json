@@ -6,7 +6,7 @@
   },
   "extensions": [
    {
-      "slug": "featured/async skins",
+      "slug": "featured/Async Skins",
       "id": "Async Skins",
       "name": "Async Skins",
       "description": "Have your sprites render as other images or costumes.",
@@ -18,10 +18,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Async Skins.js"
+      "filename": "Async Skins.js"
     },
     {
-      "slug": "featured/canvas",
+      "slug": "featured/Canvas",
       "id": "Canvas",
       "name": "Canvas",
       "description": "Create and manipulate canvases with this extension",
@@ -33,10 +33,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Canvas.js"
+      "filename": "Canvas.js"
     },
     {
-      "slug": "featured/discordbot",
+      "slug": "featured/DiscordBot",
       "id": "DiscordBot",
       "name": "DiscordBot",
       "description": "Make discord bots in turbowarp",
@@ -48,10 +48,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/DiscordBot.js"
+      "filename": "DiscordBot.js"
     },
     {
-      "slug": "featured/evalplus",
+      "slug": "featured/EvalPlus",
       "id": "EvalPlus",
       "name": "EvalPlus",
       "description": "Evaluate JS better (plus some dom stuff)",
@@ -63,10 +63,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/EvalPlus.js"
+      "filename": "EvalPlus.js"
     },
     {
-      "slug": "featured/github",
+      "slug": "featured/Github",
       "id": "Github",
       "name": "Github",
       "description": "Access github from scratch",
@@ -78,10 +78,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Github.js"
+      "filename": "Github.js"
     },
     {
-      "slug": "featured/htmlinputs",
+      "slug": "featured/HTMLInputs",
       "id": "HTMLInputs",
       "name": "HTMLInputs",
       "description": "Manage html inut elements on the stage",
@@ -93,10 +93,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/HTMLInputs.js"
+      "filename": "HTMLInputs.js"
     },
     {
-      "slug": "featured/iframe",
+      "slug": "featured/Iframe+",
       "id": "Iframe+",
       "name": "Iframe+",
       "description": "Have many iframes at once",
@@ -108,10 +108,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Iframe+.js"
+      "filename": "Iframe+.js"
     },
     {
-      "slug": "featured/indexeddb",
+      "slug": "featured/IndexedDB",
       "id": "IndexedDB",
       "name": "IndexedDB",
       "description": "Access and write to IndexedDB.",
@@ -123,10 +123,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/IndexedDB.js"
+      "filename": "IndexedDB.js"
     },
     {
-      "slug": "featured/keyhistory",
+      "slug": "featured/KeyHistory",
       "id": "KeyHistory",
       "name": "KeyHistory",
       "description": "Manage previous keys simply",
@@ -138,10 +138,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/KeyHistory.js"
+      "filename": "KeyHistory.js"
     },
     {
-      "slug": "featured/mediautils",
+      "slug": "featured/MediaUtils",
       "id": "MediaUtils",
       "name": "MediaUtils",
       "description": "Just some uilities for media devices",
@@ -153,10 +153,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/MediaUtils.js"
+      "filename": "MediaUtils.js"
     },
     {
-      "slug": "featured/mist s utils",
+      "slug": "featured/Mist's Utils",
       "id": "Mist's Utils",
       "name": "Mist's Utils",
       "description": "A bunch of compiled stuff",
@@ -168,10 +168,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Mist's Utils.js"
+      "filename": "Mist's Utils.js"
     },
     {
-      "slug": "featured/mistfetch",
+      "slug": "featured/MistFetch",
       "id": "MistFetch",
       "name": "MistFetch",
       "description": "my fetch extension for http and stuff cos i needed a better one for originOS",
@@ -183,10 +183,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/MistFetch.js"
+      "filename": "MistFetch.js"
     },
     {
-      "slug": "featured/oasm",
+      "slug": "featured/OASM",
       "id": "OASM",
       "name": "OASM",
       "description": "Run the full oasm interpreter except very fast.",
@@ -198,10 +198,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/OASM.js"
+      "filename": "OASM.js"
     },
     {
-      "slug": "featured/persistent file system",
+      "slug": "featured/Persistent File System",
       "id": "Persistent File System",
       "name": "Persistent File System",
       "description": "Persistent file system using IndexedDB",
@@ -213,12 +213,12 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Persistent File System.js"
+      "filename": "Persistent File System.js"
     },
     {
-      "slug": "featured/python",
+      "slug": "featured/Python",
       "id": "Python",
-      "name": "Python",
+      "name": "Python (1)",
       "description": "Run python in turbowarp with piodide",
       "image": "images/Python.png",
       "by": [
@@ -228,10 +228,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Python.js"
+      "filename": "Python.js"
     },
     {
-      "slug": "featured/rdf",
+      "slug": "featured/RDF",
       "id": "RDF",
       "name": "RDF",
       "description": "Type restricted data formatting",
@@ -243,10 +243,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/RDF.js"
+      "filename": "RDF.js"
     },
     {
-      "slug": "featured/rotur",
+      "slug": "featured/Rotur",
       "id": "Rotur",
       "name": "Rotur",
       "description": "Utilise rotur in your projects",
@@ -258,10 +258,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Rotur.js"
+      "filename": "Rotur.js"
     },
     {
-      "slug": "featured/roturvoice",
+      "slug": "featured/roturVoice",
       "id": "roturVoice",
       "name": "roturVoice",
       "description": "Voice and video calling for turbowarp",
@@ -273,10 +273,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/roturVoice.js"
+      "filename": "roturVoice.js"
     },
     {
-      "slug": "featured/shaders",
+      "slug": "featured/Shaders",
       "id": "Shaders",
       "name": "Shaders",
       "description": "Run GLSL shaders on your sprites",
@@ -288,10 +288,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Shaders.js"
+      "filename": "Shaders.js"
     },
     {
-      "slug": "featured/tables",
+      "slug": "featured/Tables",
       "id": "Tables",
       "name": "Tables",
       "description": "basically just compiled 2d arrays",
@@ -303,10 +303,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Tables.js"
+      "filename": "Tables.js"
     },
     {
-      "slug": "featured/virtual file system",
+      "slug": "featured/Virtual File System",
       "id": "Virtual File System",
       "name": "Virtual File System",
       "description": "in memory file system as an ext goes pretty crazy :sunglasses:",
@@ -318,10 +318,10 @@
         }
       ],
       "featured": true,
-      "filename": "featured/Virtual File System.js"
+      "filename": "Virtual File System.js"
     },
     {
-      "slug": "featured/websocketplus",
+      "slug": "featured/WebsocketPlus",
       "id": "WebsocketPlus",
       "name": "WebsocketPlus",
       "description": "Connect and manage multiple websocket connections",
@@ -333,7 +333,7 @@
         }
       ],
       "featured": true,
-      "filename": "featured/WebsocketPlus.js"
-    }
+      "filename": "WebsocketPlus.js"
+    },
   ]
 }

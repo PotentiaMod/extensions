@@ -58,10 +58,10 @@
       ]
     },
 	{
-        "name": "Iris Text",
-        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
         "slug": "extensions/Gen1x/iris-text",
         "id": "iris-text",
+        "name": "Iris Text",
+        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
         "image": "images/Gen1x/iris-text.avif",
         "by": [
         {
@@ -110,10 +110,10 @@
       ]
     },
     {
-        "name": "GPU.sb3",
-        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
         "slug": "extensions/derpygamer2142/gpusb3",
         "id": "gpusb3",
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
         "image": "images/derpygamer2142/gpusb3.png",
 		"by": [
         {
@@ -435,10 +435,10 @@
       ]
     },
 	{
-      "name": "3D Vectors & Quaternions",
-      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
       "slug": "extensions/Div/divVecQuat",
       "id": "divVecQuat",
+      "name": "3D Vectors & Quaternions",
+      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
       "image": "images/Div/divVecQuat.svg",
       "by": [
         {
@@ -630,11 +630,11 @@
       ]
     },
     {
-        "image": "images/Codefoxy/cfupload.svg",
+        "slug": "extensions/Codefoxy/cfupload",
         "id": "cfupload.svg",
         "name": "File Upload",
+        "image": "images/Codefoxy/cfupload.svg",
         "description": "Upload files to the Network, can also used with Files extension.",
-        "slug": "extensions/Codefoxy/cfupload",
 		"by": [
         {
           "name": "Codefoxy",
@@ -643,10 +643,10 @@
       ]
     },
     {
-        "name": "Video Sharing",
-        "description": "Share your screen or camera to your projects!",
         "slug": "extensions/pooiod/VideoSharing",
         "id": "VideoSharing",
+        "name": "Video Sharing",
+        "description": "Share your screen or camera to your projects!",
         "image": "images/pooiod/VideoSharing.svg",
 		"by": [
         {
@@ -708,10 +708,10 @@
       ]
     },
     {
-        "name": "Discord Auth",
-        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
         "slug": "extensions/NotHouse/DiscordAuth",
         "id": "DiscordAuth",
+        "name": "Discord Auth",
+        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
         "image": "images/NotHouse/DiscordAuth-banner.avif",
 		"by": [
         {
@@ -721,10 +721,10 @@
       ]
     },
     {
-        "name": "Twitch",
-        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
         "slug": "extensions/bop_tw/Twitch",
         "id": "Twitch",
+        "name": "Twitch",
+        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
         "image": "images/bop_tw/Twitch.avif",
 		"by": [
         {
@@ -734,10 +734,10 @@
       ]
     },
     {
-        "name": "Chess",
-        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
         "slug": "extensions/Gen1x/chess-ext",
         "id": "chess-ext",
+        "name": "Chess",
+        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
         "image": "images/Gen1x/chess-ext.avif",
         "by": [
         {
@@ -747,10 +747,10 @@
       ]
     },
     {
-        "name": "CATS",
-        "description": "Blocks related to cats.",
         "slug": "extensions/Gen1x/CATS",
         "id": "CATS",
+        "name": "CATS",
+        "description": "Blocks related to cats.",
         "image": "images/Gen1x/cats.avif",
         "by": [
         {
@@ -760,10 +760,10 @@
       ]
     },
    {
-        "name": "Free Servers",
-        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
         "slug": "extensions/WAYLIVES/FreeServers",
         "id": "FreeServers",
+        "name": "Free Servers",
+        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
         "image": "images/WAYLIVES/FreeServersIMG.svg",
 		"by": [
         {
@@ -773,10 +773,10 @@
       ]
     },
     {
-        "name": "More Types",
-        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
         "slug": "extensions/VeryGoodScratcher42/More-Types",
         "id": "More-Types",
+        "name": "More Types",
+        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
         "image": "images/VeryGoodScratcher42/More-Types.avif",
 		"by": [
         {
@@ -786,10 +786,10 @@
       ]
     },
     {
-        "name": "oneko",
-        "description": "Cute cat that follows you on the block area.",
         "slug": "extensions/TheShovel/oneko",
         "id": "oneko",
+        "name": "oneko",
+        "description": "Cute cat that follows you on the block area.",
         "image": "images/TheShovel/thumbnail-oneko.avif",
         "by": [
         {
@@ -799,10 +799,10 @@
       ]
     },
     {
-        "name": "Counter++",
-        "description": "Count anything, at any time, in PenguinMod!",
         "slug": "extensions/MrRedstonia/counterplusplus",
         "id": "counterplusplus",
+        "name": "Counter++",
+        "description": "Count anything, at any time, in PenguinMod!",
         "image": "images/MrRedstonia/counterplusplus.avif",
 		"by": [
         {
@@ -812,10 +812,10 @@
       ]
     },
     {
-        "name": "How many lines?",
-        "description": "Blocks to determine the amount of new lines in a piece of text.",
         "slug": "extensions/Monochromasity/howmanylines",
         "id": "howmanylines",
+        "name": "How many lines?",
+        "description": "Blocks to determine the amount of new lines in a piece of text.",
         "image": "images/Monochromasity/placeholder-howmanylines.avif",
         "by": [
         {
@@ -825,10 +825,10 @@
       ]
     },
     {
-        "name": "Paint Utils",
-        "description": "A colour extension that lets you mix colours.",
         "slug": "extensions/Fruits555000/PaintUtils",
         "id": "PaintUtils",
+        "name": "Paint Utils",
+        "description": "A colour extension that lets you mix colours.",
         "image": "images/Fruits555000/PaintUtils.svg",
 		"by": [
         {
@@ -838,10 +838,10 @@
       ]
     },
     {
-        "name": "Resolution",
-        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
         "slug": "extensions/DogeisCut/Resolution",
         "id": "Resolution",
+        "name": "Resolution",
+        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
         "image": "images/DogeisCut/Resolution.svg",
         "by": [
         {
