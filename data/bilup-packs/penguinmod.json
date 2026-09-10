@@ -1,0 +1,1018 @@
+{
+  "extensions": [
+    {
+      "slug": "https://extensions.penguinmod.com/extensions/TheShovel/shoveldebugger",
+      "id": "shoveldebugger",
+      "name": "Shovel Debugger",
+      "description": "Shovel's improved and feature rich debugger!",
+      "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-shoveldebugger.avif",
+      "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+	{
+     "slug": "https://extensions.penguinmod.com/extensions/Ikelene/serverStorageExtension",
+     "id": "serverStorageExtension",
+     "name": "Server Storage",
+     "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
+     "image": "https://extensions.penguinmod.com/images/Ikelene/serverStorageIMG.avif",
+	 "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+   {
+      "slug": "https://extensions.penguinmod.com/extensions/Gen1x/storage_plus",
+      "id": "storage_plus",
+      "name": "Storage Plus",
+      "description": "A storage extension with many more features. Featuring server storage (with a fast server), local storage and more!",
+      "image": "https://extensions.penguinmod.com/images/Gen1x/storage_plus.avif",
+      "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/qoan-renderer",
+        "id": "qoan-renderer",
+        "name": "MotionSprite",
+        "description": "An advanced math-based animation system",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-motionsprite.avif",
+		"by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/iris-text",
+        "id": "iristext",
+        "name": "Iris Text",
+        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/iris-text.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Box2D",
+        "id": "Box2D",
+        "name": "Boxed Physics",
+        "description": "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        "image": "https://extensions.penguinmod.com/images/pooiod/B2Dimg.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/lighting",
+        "id": "lighting",
+        "name": "Lighting",
+        "description": "A fast, powerful and easy-to-use lighting engine powered by WebGL!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/lighting.avif",
+		"by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/ObviousAlexC/3DMath",
+        "id": "3DMath",
+        "name": "3D Math",
+        "description": "A handful of utilities for making your own sprite-based 3D engine.",
+        "image": "https://extensions.penguinmod.com/images/ObviousAlexC/3DMath.svg",
+		"by": [
+        {
+          "name": "pinksheep2917",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/derpygamer2142/gpusb3",
+        "id": "gpusb3",
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
+        "image": "https://extensions.penguinmod.com/images/derpygamer2142/gpusb3.png",
+		"by": [
+        {
+          "name": "insanetaco2000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/beat_sync",
+        "id": "beat_sync",
+        "name": "Beat Sync",
+        "description": "An extension designed to let you sync anything in your project to a musical beat, with incredible precision.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/beat_sync.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/skyhigh173/object",
+        "id": "object",
+        "name": "Object",
+        "description": "Handle large JSON files at an extreme speed.",
+        "image": "https://extensions.penguinmod.com/images/skyhigh173/object.svg",
+		"by": [
+        {
+          "name": "skyhigh173",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/0znzw/ScopeVars",
+        "id": "ScopeVars",
+        "name": "Scope Variable",
+        "description": "Manage your variables in a block-like structure.",
+        "image": "https://extensions.penguinmod.com/images/0znzw/ScopeVars.avif",
+		"by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/steve0greatness/timers",
+        "id": "timers",
+        "name": "Extra Timers",
+        "description": "Allows for the creation and management of additional timer blocks.",
+        "image": "https://extensions.penguinmod.com/images/steve0greatness/timers.svg",
+		"by": [
+        {
+          "name": "Steve0Greatness",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Dictation",
+        "id": "Dictation",
+        "name": "Dictation",
+        "description": "Convert your voice into text. (not supported in all browsers)",
+        "image": "https://extensions.penguinmod.com/images/pooiod/Dictation.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/doodlerec",
+        "id": "doodlerec",
+        "name": "Doodle Recognition",
+        "description": "A implementation of Google's Quick Draw image vision model",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-doodlerec.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "https://extensions.penguinmod.com/extensions/sourdoggy/stylus extension",
+        "id": "stylus extension",
+        "name": "Stylus",
+        "description": "Get the pressure and tilt of a stylus or graphic tablet",
+        "image": "https://extensions.penguinmod.com/images/sourdoggy/stylus_ext.avif",
+		"by": [
+        {
+          "name": "sourdoggy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/PuzzlingGGG/ttsrV2",
+        "id": "ttsrV2",
+        "name": "Text To Speech: Redone",
+        "description": "A better alternitive to the base text to speech extension. Powered by the TTStool API",
+        "image": "https://extensions.penguinmod.com/images/PuzzlingGGG/tts.avif",
+		"by": [
+        {
+          "name": "PuzzlingGGG",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/cloudlink",
+        "id": "cloudlink",
+        "name": "CloudLink",
+        "description": "A powerful WebSocket extension for Scratch. Allows for online connectivity to servers for things like multiplayer.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/cloudlink.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/e2ee",
+        "id": "e2ee",
+        "name": "E2EE",
+        "description": "A general-purpose E2EE (End-to-End Encryption) extension for Scratch.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/e2ee.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/webrtc",
+        "id": "webrtc",
+        "name": "WebRTC",
+        "description": "A barebones WebRTC implementation.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/webrtc.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/spritesheeter",
+        "id": "spritesheeter",
+        "name": "Spritesheeter",
+        "description": "Load and manipulate spritesheets with customizable frames and XML support",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/spritesheeter.avif",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/dumzdev/removebg",
+        "id": "removebg",
+        "name": "Background Remover",
+        "description": "Removes background from images.",
+        "image": "https://extensions.penguinmod.com/images/dumzdev/removebgbanner.svg",
+		"by": [
+        {
+          "name": "dumzdev",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/penguinhook",
+        "id": "MubiLop/penguinhook",
+        "name": "PenguinHook",
+        "description": "Send Webhook requests, that can be Discord or any type of webhook.",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/penguinhook.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/numutils",
+        "id": "MubiLop/numutils",
+        "name": "Number Utilities",
+        "description": "Adds blocks for number formatting and manipulation.",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/numutils.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/jwklong/mathematics",
+        "id": "mathematics",
+        "name": "Mathematics",
+        "description": "Complicated maths extension for nerds.",
+        "image": "https://extensions.penguinmod.com/images/jwklong/mathematics.avif",
+		"by": [
+        {
+          "name": "jwklong",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/qxsck/big-decimal",
+        "id": "big-decimal",
+        "name": "Big Decimal",
+        "description": "High precision operations. (Support decimals)",
+        "image": "https://extensions.penguinmod.com/images/qxsck/big-decimal.svg",
+		"by": [
+        {
+          "name": "qxsck",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/ddededodediamante/dateFormatV2",
+        "id": "dateFormatV2",
+        "name": "Date Format",
+        "description": "Manage, format and compare dates.",
+        "image": "https://extensions.penguinmod.com/images/ddededodediamante/dateFormat.svg",
+		"by": [
+        {
+          "name": "ddededodediamante",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Embin/embintranslation",
+        "id": "Embin/embintranslation",
+        "name": "Translation Keys",
+        "description": "Use translation keys in your projects for multi-language support",
+        "image": "https://extensions.penguinmod.com/images/Embin/embintranslation.avif",
+		"by": [
+        {
+          "name": "embinmc",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/YetAnotherStringExtension",
+        "id": "YetAnotherStringExtension",
+        "name": "Yet Another String Extension",
+        "description": "A small collection of utilty blocks intended to make managing strings much, much easier.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/YetAnotherStringExtension.svg",
+		"by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutRegularExpressions",
+        "id": "dogeiscutRegularExpressions",
+        "name": "Regular Expressions",
+        "description": "Create, modify, filter, and more with the new regular expression type.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/dogeiscutRegularExpressions.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutSet",
+        "id": "dogeiscutSet",
+        "name": "Sets",
+        "description": "Store non-repeating, unordered data super efficiently in sets.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/dogeiscutSet.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/Div/divIterators",
+        "id": "divIterators",
+        "name": "Iterators",
+        "description": "Transform and iterate over different types of collections and more.",
+        "image": "https://extensions.penguinmod.com/images/Div/divIterators.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Div/divAlgEffects",
+        "id": "divAlgEffects",
+        "name": "Algebraic Effects",
+        "description": "Intercept custom actions in your scripts to pause, resume, or redirect their flow using modular handlers.",
+        "image": "https://extensions.penguinmod.com/images/Div/divAlgEffects.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "https://extensions.penguinmod.com/extensions/Div/divVecQuat",
+      "id": "divVecQuat",
+      "name": "3D Vectors & Quaternions",
+      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
+      "image": "https://extensions.penguinmod.com/images/Div/divVecQuat.svg",
+      "by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Faunks/Blobs",
+        "id": "Blobs",
+        "name": "Blobs",
+        "description": "An extension made for handling blobs which can be used to store files. Allows to easily make blobs for the Js extension",
+        "image": "https://extensions.penguinmod.com/images/Faunks/Blobs.avif",
+		"by": [
+        {
+          "name": "Faunks",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/random_utils",
+        "id": "random_utils",
+        "name": "Random Utilities",
+        "description": "Many blocks related to generating random values, including seed-based number generation, true number generation, UUID's, random strings, etc.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/randomutils.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/toastnotifs",
+        "id": "toastnotifs",
+        "name": "Toast Notifications",
+        "description": "Did you want alerts? Notifications that are easily customizable? This is the only and best notification extension!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/toastnotifs.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/LordCat0/ProjectInterfaces",
+        "id": "ProjectInterfaces",
+        "name": "Project Interfaces",
+        "description": "Effortlessly create intuitive graphical user interfaces in your projects.",
+        "image": "https://extensions.penguinmod.com/images/LordCat0/ProjectInterfaces.avif",
+		"by": [
+        {
+          "name": "LordCat0",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/justablock/gitpenguin",
+        "id": "gitpenguin",
+        "name": "Git Penguin",
+        "description": "Make requests and control the files for your GitHub repository.",
+        "image": "https://extensions.penguinmod.com/images/justablock/gitpenguin.avif",
+		"by": [
+        {
+          "name": "justablock",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/SammerLOL/pangapi",
+        "id": "pangapi",
+        "name": "Pang API",
+        "description": "Fetch information from the PenguinMod API.",
+        "image": "https://extensions.penguinmod.com/images/SammerLOL/pangapi.avif",
+        "by": [
+        {
+          "name": "oc9x97",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/RubyDevs/turboweather",
+        "id": "turboweather",
+        "name": "TurboWeather",
+        "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
+        "image": "https://extensions.penguinmod.com/images/RubyDevs/turboweather.avif",
+		"by": [
+        {
+          "name": "RubyDevs",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/bruhbeast-pixel/CockatielLocation",
+        "id": "CockatielLocation",
+        "name": "Cockatiel Location",
+        "description": "Fetch Users' IP Addresses and Location.",
+        "image": "https://extensions.penguinmod.com/images/bruhbeast-pixel/CockatielLocation.svg",
+		"by": [
+        {
+          "name": "bruhbeast-pixel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NamelessCat/corsproxy",
+        "id": "corsproxy",
+        "name": "CORS Proxy",
+        "description": "Accessible CORS Proxies for fetching information with PenguinMod.",
+        "image": "https://extensions.penguinmod.com/images/NamelessCat/corsproxy.avif",
+		"by": [
+        {
+          "name": "NamelessCat",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/extexp",
+        "id": "extexp",
+        "name": "Extension Exposer",
+        "description": "Access the raw functions from other extensions.",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/placeholder-extexp.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Ashime/MoreFields",
+        "id": "MoreFields",
+        "name": "More Fields",
+        "description": "Custom Field Types",
+        "image": "https://extensions.penguinmod.com/images/0znzw/MoreFields.avif",
+        "by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/BeepBoxPlayer",
+        "id": "DogeisCut/BeepBoxPlayer",
+        "name": "Beepbox Player",
+        "description": "Play, edit, and read songs from any BeepBox mod directly from the URL or JSON!",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/BeepBoxPlayer.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/Anonymous_cat1/updateFile",
+        "id": "updateFile",
+        "name": "Update File (Direct Access)",
+        "description": "A simple extension that uses the File System Access API to update files dynamically.",
+        "image": "https://extensions.penguinmod.com/images/Anonymous_cat1/updateFile.svg",
+		"by": [
+        {
+          "name": "Anonymous-cat1",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/yeetyourfiles",
+        "id": "yeetyourfiles",
+        "name": "YeetYourFiles",
+        "description": "Upload files to the cloud by throwing it to outer space!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/yeetyourfiles.png",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Codefoxy/cfupload",
+        "id": "cfupload.svg",
+        "name": "File Upload",
+        "description": "Upload files to the Network, can also used with Files extension.",
+        "image": "https://extensions.penguinmod.com/images/Codefoxy/cfupload.svg",
+		"by": [
+        {
+          "name": "Codefoxy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/VideoSharing",
+        "id": "VideoSharing",
+        "name": "Video Sharing",
+        "description": "Share your screen or camera to your projects!",
+        "image": "https://extensions.penguinmod.com/images/pooiod/VideoSharing.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/WindowHasher",
+        "id": "WindowHasher",
+        "name": "WindowHasher",
+        "description": "Interact with URL hash: the part of the URL after a hashtag",
+        "image": "https://extensions.penguinmod.com/images/pooiod/WindowHasher.avif",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Scratchblocks",
+        "id": "Scratchblocks",
+        "name": "Scratchblocks",
+        "description": "Generate blocks in the Scratch3, or Scratch2 format.",
+        "image": "https://extensions.penguinmod.com/images/pooiod/Scratchblocks.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/authpenguin",
+        "id": "authpenguin",
+        "name": "AuthPenguin",
+        "description": "Authenticate with anything and everything!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/authpenguin.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Ikelene/googleAuthExtension",
+        "id": "googleAuthExtension",
+        "name": "Google Auth",
+        "description": "Login with Google to your projects. Allows getting a name, profile picture and email from the google account.",
+        "image": "https://extensions.penguinmod.com/images/Ikelene/ExtensionBanner.avif",
+        "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NotHouse/DiscordAuth",
+        "id": "DiscordAuth",
+        "name": "Discord Auth",
+        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
+        "image": "https://extensions.penguinmod.com/images/NotHouse/DiscordAuth-banner.avif",
+		"by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/bop_tw/Twitch",
+        "id": "Twitch",
+        "name": "Twitch",
+        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
+        "image": "https://extensions.penguinmod.com/images/bop_tw/Twitch.avif",
+		"by": [
+        {
+          "name": "bop_tw",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/chess-ext",
+        "id": "chess-ext",
+        "name": "Chess",
+        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/chess-ext.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/CATS",
+        "id": "CATS",
+        "name": "CATS",
+        "description": "Blocks related to cats.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/cats.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "https://extensions.penguinmod.com/extensions/WAYLIVES/FreeServers",
+        "id": "FreeServers",
+        "name": "Free Servers",
+        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
+        "image": "https://extensions.penguinmod.com/images/WAYLIVES/FreeServersIMG.svg",
+		"by": [
+        {
+          "name": "WAYLIVES",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/VeryGoodScratcher42/More-Types",
+        "id": "More-Types",
+        "name": "More Types",
+        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
+        "image": "https://extensions.penguinmod.com/images/VeryGoodScratcher42/More-Types.avif",
+		"by": [
+        {
+          "name": "VeryGoodScratcher42",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/oneko",
+        "id": "oneko",
+        "name": "oneko",
+        "description": "Cute cat that follows you on the block area.",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-oneko.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MrRedstonia/counterplusplus",
+        "id": "counterplusplus",
+        "name": "Counter++",
+        "description": "Count anything, at any time, in PenguinMod!",
+        "image": "https://extensions.penguinmod.com/images/MrRedstonia/counterplusplus.avif",
+		"by": [
+        {
+          "name": "MrRedstonia",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Monochromasity/howmanylines",
+        "id": "howmanylines",
+        "name": "How many lines?",
+        "description": "Blocks to determine the amount of new lines in a piece of text.",
+        "image": "https://extensions.penguinmod.com/images/Monochromasity/placeholder-howmanylines.avif",
+        "by": [
+        {
+          "name": "Monochromasity",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Fruits555000/PaintUtils",
+        "id": "PaintUtils",
+        "name": "Paint Utils",
+        "description": "A colour extension that lets you mix colours.",
+        "image": "https://extensions.penguinmod.com/images/Fruits555000/PaintUtils.svg",
+		"by": [
+        {
+          "name": "Fruits555000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/Resolution",
+        "id": "Resolution",
+        "name": "Resolution",
+        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/Resolution.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/gaimerI17/DeviceMotion",
+        "id": "deviceMotion",
+        "name": "Device Motion",
+        "description": "Use Device Motion API to get rotation or movement of the device. Works best on mobile devices. Thumbnail by Dillon.",
+        "image": "https://extensions.penguinmod.com/images/gaimerI17/DeviceMotion.avif",
+		"by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/gaimerI17/crypto",
+        "id": "crypto",
+        "name": "Cryptography",
+        "description": "Hash, encrypt and verify values using various algorithms. Actual security not guaranteed",
+        "image": "https://extensions.penguinmod.com/images/gaimerI17/crypto.avif",
+        "by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NotHouse/OnlineCaptcha",
+        "id": "OnlineCaptcha",
+        "name": "Online Captcha",
+        "description": "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
+        "image": "https://extensions.penguinmod.com/images/NotHouse/OnlineCaptcha-banner.avif",
+        "by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/better_storage",
+        "id": "better_storage",
+        "name": "Better Storage",
+        "description": "Like PenguinMod's Storage Extension, but with a couple more features, and faster servers.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/betterstorage.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/mouth_washer",
+        "id": "mouth_washer",
+        "name": "Mouth Washer",
+        "description": "Includes many utilities related to cleaning bad words, swearing and profanity. Thought of as an extra layer of security for filtering messages.\n\n(ft. violet and jwklong)",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/mw-placeholder.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/firealarm",
+        "id": "firealarm",
+        "name": "Smoke Detector",
+        "description": "Plays a beep every 30 seconds.",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/firealarm.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/StageBrah",
+        "id": "StageBrah",
+        "name": "Stage Brah",
+        "description": "Spawn Brah cats in your codespace!",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/StageBrah.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/MIDI",
+        "id": "MIDI",
+        "name": "MIDI Controller",
+        "description": "Use a MIDI keyboard to interact with projects!",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/MIDI.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "https://extensions.penguinmod.com/extensions/AndrewGaming587/agBuffer",
+        "id": "agBuffer",
+        "name": "Array Buffers",
+        "description": "Read, parse, and write raw data efficiently using Array Buffers",
+        "image": "https://extensions.penguinmod.com/images/AndrewGaming587/agBuffer.svg",
+		"by": [
+        {
+          "name": "AndrewGaming587",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/blackMold",
+        "id": "blackMold",
+        "name": "Black Mold",
+        "description": "mmmmm black mold",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/blackMold.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/ode",
+        "id": "ODEE",
+        "name": "ODE (PM)",
+        "description": "3D physics using ODE.",
+        "image": "https://extensions.penguinmod.com/NishiOwO/ode.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/turbosynth",
+        "id": "TurboSynth",
+        "name": "TurboSynth",
+        "description": "Synthesizer that uses TurboSynth.",
+        "image": "https://extensions.penguinmod.com/NishiOwO/turbosynth.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/libxmp",
+      "id": "nishiowoLibxmpp",
+      "name": "Libxmp (PM)",
+      "description": "Play tracker modules using Libxmp.",
+      "image": "https://extensions.penguinmod.com/NishiOwO/libxmp.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
