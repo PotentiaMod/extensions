@@ -19,11 +19,11 @@
       ]
     },
 	{
-     "slug": "Ikelene/serverStorageExtension",
+     "slug": "extensions/Ikelene/serverStorageExtension",
      "id": "serverStorageExtension",
      "name": "Server Storage",
      "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
-     "image": "Ikelene/serverStorageIMG.avif",
+     "image": "images/Ikelene/serverStorageIMG.avif",
 	 "by": [
         {
           "name": "Ikelene",
@@ -32,11 +32,11 @@
       ]
     },
    {
-      "slug": "Gen1x/storage_plus",
+      "slug": "extensions/Gen1x/storage_plus",
       "id": "storage_plus",
       "name": "Storage Plus",
       "description": "A storage extension with many more features. Featuring server storage (with a fast server), local storage and more!",
-      "image": "Gen1x/storage_plus.avif",
+      "image": "images/Gen1x/storage_plus.avif",
       "by": [
         {
           "name": "G1nX",
@@ -45,14 +45,66 @@
       ]
     },
 	{
-        "slug": "TheShovel/qoan-renderer",
+        "slug": "extensions/TheShovel/qoan-renderer",
         "id": "qoan-renderer",
         "name": "MotionSprite",
         "description": "An advanced math-based animation system",
-        "image": "TheShovel/thumbnail-motionsprite.avif",
+        "image": "images/TheShovel/thumbnail-motionsprite.avif",
 		"by": [
         {
           "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "extensions/Gen1x/iris-text",
+        "id": "iristext",
+        "name": "Iris Text",
+        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
+        "image": "images/Gen1x/iris-text.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "extensions/pooiod/Box2D",
+        "id": "Box2D",
+        "name": "Boxed Physics",
+        "description": "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        "image": "images/pooiod/B2Dimg.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/lighting",
+        "id": "lighting",
+        "name": "Lighting",
+        "description": "A fast, powerful and easy-to-use lighting engine powered by WebGL!",
+        "image": "images/Gen1x/lighting.avif",
+		"by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/ObviousAlexC/3DMath",
+        "id": "3DMath",
+        "name": "3D Math",
+        "description": "A handful of utilities for making your own sprite-based 3D engine.",
+        "image": "images/ObviousAlexC/3DMath.svg",
+		"by": [
+        {
+          "name": "pinksheep2917",
           "link": null
         }
       ]
