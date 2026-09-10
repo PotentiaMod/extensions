@@ -17,6 +17,45 @@
           "link": null
         }
       ]
+    },
+	{
+     "slug": "Ikelene/serverStorageExtension",
+     "id": "serverStorageExtension",
+     "name": "Server Storage",
+     "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
+     "image": "Ikelene/serverStorageIMG.avif",
+	 "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+   {
+      "slug": "Gen1x/storage_plus",
+      "id": "storage_plus",
+      "name": "Storage Plus",
+      "description": "A storage extension with many more features. Featuring server storage (with a fast server), local storage and more!",
+      "image": "Gen1x/storage_plus.avif",
+      "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "TheShovel/qoan-renderer",
+        "id": "qoan-renderer",
+        "name": "MotionSprite",
+        "description": "An advanced math-based animation system",
+        "image": "TheShovel/thumbnail-motionsprite.avif",
+		"by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
     }
   ]
 }
