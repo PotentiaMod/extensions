@@ -980,7 +980,7 @@
         "id": "ODEE",
         "name": "ODE (PM)",
         "description": "3D physics using ODE.",
-        "image": "https://extensions.penguinmod.com/NishiOwO/ode.svg",
+        "image": "https://extensions.penguinmod.com/images/NishiOwO/ode.svg",
         "by": [
         {
           "name": "NishiOwO",
@@ -993,7 +993,7 @@
         "id": "TurboSynth",
         "name": "TurboSynth",
         "description": "Synthesizer that uses TurboSynth.",
-        "image": "https://extensions.penguinmod.com/NishiOwO/turbosynth.svg",
+        "image": "https://extensions.penguinmod.com/images/NishiOwO/turbosynth.svg",
         "by": [
         {
           "name": "NishiOwO",
@@ -1006,7 +1006,7 @@
       "id": "nishiowoLibxmpp",
       "name": "Libxmp (PM)",
       "description": "Play tracker modules using Libxmp.",
-      "image": "https://extensions.penguinmod.com/NishiOwO/libxmp.svg",
+      "image": "https://extensions.penguinmod.com/images/NishiOwO/libxmp.svg",
       "by": [
         {
           "name": "NishiOwO",
