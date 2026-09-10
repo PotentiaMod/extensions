@@ -342,6 +342,643 @@
           "link": null
         }
       ]
+    },
+	{
+        "slug": "extensions/ddededodediamante/dateFormatV2",
+        "id": "dateFormatV2",
+        "name": "Date Format",
+        "description": "Manage, format and compare dates.",
+        "image": "images/ddededodediamante/dateFormat.svg",
+		"by": [
+        {
+          "name": "ddededodediamante",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Embin/embintranslation",
+        "id": "Embin/embintranslation",
+        "name": "Translation Keys",
+        "description": "Use translation keys in your projects for multi-language support",
+        "image": "images/Embin/embintranslation.avif",
+		"by": [
+        {
+          "name": "embinmc",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/DogeisCut/YetAnotherStringExtension",
+        "id": "YetAnotherStringExtension",
+        "name": "Yet Another String Extension",
+        "description": "A small collection of utilty blocks intended to make managing strings much, much easier.",
+        "image": "images/DogeisCut/YetAnotherStringExtension.svg",
+		"by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/DogeisCut/dogeiscutRegularExpressions",
+        "id": "dogeiscutRegularExpressions",
+        "name": "Regular Expressions",
+        "description": "Create, modify, filter, and more with the new regular expression type.",
+        "image": "images/DogeisCut/dogeiscutRegularExpressions.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/DogeisCut/dogeiscutSet",
+        "id": "dogeiscutSet",
+        "name": "Sets",
+        "description": "Store non-repeating, unordered data super efficiently in sets.",
+        "image": "images/DogeisCut/dogeiscutSet.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "extensions/Div/divIterators",
+        "id": "divIterators",
+        "name": "Iterators",
+        "description": "Transform and iterate over different types of collections and more.",
+        "image": "images/Div/divIterators.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Div/divAlgEffects",
+        "id": "divAlgEffects",
+        "name": "Algebraic Effects",
+        "description": "Intercept custom actions in your scripts to pause, resume, or redirect their flow using modular handlers.",
+        "image": "images/Div/divAlgEffects.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "extensions/Div/divVecQuat",
+      "id": "divVecQuat",
+      "name": "3D Vectors & Quaternions",
+      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
+      "image": "images/Div/divVecQuat.svg",
+      "by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Faunks/Blobs",
+        "id": "Blobs",
+        "name": "Blobs",
+        "description": "An extension made for handling blobs which can be used to store files. Allows to easily make blobs for the Js extension",
+        "image": "images/Faunks/Blobs.avif",
+		"by": [
+        {
+          "name": "Faunks",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/random_utils",
+        "id": "random_utils",
+        "name": "Random Utilities",
+        "description": "Many blocks related to generating random values, including seed-based number generation, true number generation, UUID's, random strings, etc.",
+        "image": "images/Gen1x/randomutils.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/toastnotifs",
+        "id": "toastnotifs",
+        "name": "Toast Notifications",
+        "description": "Did you want alerts? Notifications that are easily customizable? This is the only and best notification extension!",
+        "image": "images/MubiLop/toastnotifs.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/LordCat0/ProjectInterfaces",
+        "id": "ProjectInterfaces",
+        "name": "Project Interfaces",
+        "description": "Effortlessly create intuitive graphical user interfaces in your projects.",
+        "image": "images/LordCat0/ProjectInterfaces.avif",
+		"by": [
+        {
+          "name": "LordCat0",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/justablock/gitpenguin",
+        "id": "gitpenguin",
+        "name": "Git Penguin",
+        "description": "Make requests and control the files for your GitHub repository.",
+        "image": "images/justablock/gitpenguin.avif",
+		"by": [
+        {
+          "name": "justablock",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/SammerLOL/pangapi",
+        "id": "pangapi",
+        "name": "Pang API",
+        "description": "Fetch information from the PenguinMod API.",
+        "image": "images/SammerLOL/pangapi.avif",
+        "by": [
+        {
+          "name": "oc9x97",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "extensions/RubyDevs/turboweather",
+        "id": "turboweather",
+        "name": "TurboWeather",
+        "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
+        "image": "images/RubyDevs/turboweather.avif",
+		"by": [
+        {
+          "name": "RubyDevs",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/bruhbeast-pixel/CockatielLocation",
+        "id": "CockatielLocation",
+        "name": "Cockatiel Location",
+        "description": "Fetch Users' IP Addresses and Location.",
+        "image": "images/bruhbeast-pixel/CockatielLocation.svg",
+		"by": [
+        {
+          "name": "bruhbeast-pixel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/NamelessCat/corsproxy",
+        "id": "corsproxy",
+        "name": "CORS Proxy",
+        "description": "Accessible CORS Proxies for fetching information with PenguinMod.",
+        "image": "images/NamelessCat/corsproxy.avif",
+		"by": [
+        {
+          "name": "NamelessCat",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/TheShovel/extexp",
+        "id": "extexp",
+        "name": "Extension Exposer",
+        "description": "Access the raw functions from other extensions.",
+        "image": "images/TheShovel/placeholder-extexp.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Ashime/MoreFields",
+        "id": "MoreFields",
+        "name": "More Fields",
+        "description": "Custom Field Types",
+        "image": "images/0znzw/MoreFields.avif",
+        "by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/DogeisCut/BeepBoxPlayer",
+        "id": "DogeisCut/BeepBoxPlayer",
+        "name": "Beepbox Player",
+        "description": "Play, edit, and read songs from any BeepBox mod directly from the URL or JSON!",
+        "image": "images/DogeisCut/BeepBoxPlayer.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "extensions/Anonymous_cat1/updateFile",
+        "id": "updateFile",
+        "name": "Update File (Direct Access)",
+        "description": "A simple extension that uses the File System Access API to update files dynamically.",
+        "image": "images/Anonymous_cat1/updateFile.svg",
+		"by": [
+        {
+          "name": "Anonymous-cat1",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/yeetyourfiles",
+        "id": "yeetyourfiles",
+        "name": "YeetYourFiles",
+        "description": "Upload files to the cloud by throwing it to outer space!",
+        "image": "images/MubiLop/yeetyourfiles.png",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Codefoxy/cfupload",
+        "id": "cfupload.svg",
+        "name": "File Upload",
+        "description": "Upload files to the Network, can also used with Files extension.",
+        "image": "images/Codefoxy/cfupload.svg",
+		"by": [
+        {
+          "name": "Codefoxy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/pooiod/VideoSharing",
+        "id": "VideoSharing",
+        "name": "Video Sharing",
+        "description": "Share your screen or camera to your projects!",
+        "image": "images/pooiod/VideoSharing.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/pooiod/WindowHasher",
+        "id": "WindowHasher",
+        "name": "WindowHasher",
+        "description": "Interact with URL hash: the part of the URL after a hashtag",
+        "image": "images/pooiod/WindowHasher.avif",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/pooiod/Scratchblocks",
+        "id": "Scratchblocks",
+        "name": "Scratchblocks",
+        "description": "Generate blocks in the Scratch3, or Scratch2 format.",
+        "image": "images/pooiod/Scratchblocks.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/authpenguin",
+        "id": "authpenguin",
+        "name": "AuthPenguin",
+        "description": "Authenticate with anything and everything!",
+        "image": "images/MubiLop/authpenguin.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Ikelene/googleAuthExtension",
+        "id": "googleAuthExtension",
+        "name": "Google Auth",
+        "description": "Login with Google to your projects. Allows getting a name, profile picture and email from the google account.",
+        "image": "images/Ikelene/ExtensionBanner.avif",
+        "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/NotHouse/DiscordAuth",
+        "id": "DiscordAuth",
+        "name": "Discord Auth",
+        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
+        "image": "images/NotHouse/DiscordAuth-banner.avif",
+		"by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/bop_tw/Twitch",
+        "id": "Twitch",
+        "name": "Twitch",
+        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
+        "image": "images/bop_tw/Twitch.avif",
+		"by": [
+        {
+          "name": "bop_tw",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/chess-ext",
+        "id": "chess-ext",
+        "name": "Chess",
+        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
+        "image": "images/Gen1x/chess-ext.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/CATS",
+        "id": "CATS",
+        "name": "CATS",
+        "description": "Blocks related to cats.",
+        "image": "images/Gen1x/cats.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "extensions/WAYLIVES/FreeServers",
+        "id": "FreeServers",
+        "name": "Free Servers",
+        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
+        "image": "images/WAYLIVES/FreeServersIMG.svg",
+		"by": [
+        {
+          "name": "WAYLIVES",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/VeryGoodScratcher42/More-Types",
+        "id": "More-Types",
+        "name": "More Types",
+        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
+        "image": "images/VeryGoodScratcher42/More-Types.avif",
+		"by": [
+        {
+          "name": "VeryGoodScratcher42",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/TheShovel/oneko",
+        "id": "oneko",
+        "name": "oneko",
+        "description": "Cute cat that follows you on the block area.",
+        "image": "images/TheShovel/thumbnail-oneko.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MrRedstonia/counterplusplus",
+        "id": "counterplusplus",
+        "name": "Counter++",
+        "description": "Count anything, at any time, in PenguinMod!",
+        "image": "images/MrRedstonia/counterplusplus.avif",
+		"by": [
+        {
+          "name": "MrRedstonia",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Monochromasity/howmanylines",
+        "id": "howmanylines",
+        "name": "How many lines?",
+        "description": "Blocks to determine the amount of new lines in a piece of text.",
+        "image": "images/Monochromasity/placeholder-howmanylines.avif",
+        "by": [
+        {
+          "name": "Monochromasity",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Fruits555000/PaintUtils",
+        "id": "PaintUtils",
+        "name": "Paint Utils",
+        "description": "A colour extension that lets you mix colours.",
+        "image": "images/Fruits555000/PaintUtils.svg",
+		"by": [
+        {
+          "name": "Fruits555000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/DogeisCut/Resolution",
+        "id": "Resolution",
+        "name": "Resolution",
+        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
+        "image": "images/DogeisCut/Resolution.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/gaimerI17/DeviceMotion",
+        "id": "deviceMotion",
+        "name": "Device Motion",
+        "description": "Use Device Motion API to get rotation or movement of the device. Works best on mobile devices. Thumbnail by Dillon.",
+        "image": "images/gaimerI17/DeviceMotion.avif",
+		"by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/gaimerI17/crypto",
+        "id": "crypto",
+        "name": "Cryptography",
+        "description": "Hash, encrypt and verify values using various algorithms. Actual security not guaranteed",
+        "image": "images/gaimerI17/crypto.avif",
+        "by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/NotHouse/OnlineCaptcha",
+        "id": "OnlineCaptcha",
+        "name": "Online Captcha",
+        "description": "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
+        "image": "images/NotHouse/OnlineCaptcha-banner.avif",
+        "by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/better_storage",
+        "id": "better_storage",
+        "name": "Better Storage",
+        "description": "Like PenguinMod's Storage Extension, but with a couple more features, and faster servers.",
+        "image": "images/Gen1x/betterstorage.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/mouth_washer",
+        "id": "mouth_washer",
+        "name": "Mouth Washer",
+        "description": "Includes many utilities related to cleaning bad words, swearing and profanity. Thought of as an extra layer of security for filtering messages.\n\n(ft. violet and jwklong)",
+        "image": "images/Gen1x/mw-placeholder.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "extensions/electricfuzzball_pm/firealarm",
+        "id": "firealarm",
+        "name": "Smoke Detector",
+        "description": "Plays a beep every 30 seconds.",
+        "image": "images/electricfuzzball_pm/firealarm.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "extensions/electricfuzzball_pm/StageBrah",
+        "id": "StageBrah",
+        "name": "Stage Brah",
+        "description": "Spawn Brah cats in your codespace!",
+        "image": "images/electricfuzzball_pm/StageBrah.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "extensions/electricfuzzball_pm/MIDI",
+        "id": "MIDI",
+        "name": "MIDI Controller",
+        "description": "Use a MIDI keyboard to interact with projects!",
+        "image": "images/electricfuzzball_pm/MIDI.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "extensions/AndrewGaming587/agBuffer",
+        "id": "agBuffer",
+        "name": "Array Buffers",
+        "description": "Read, parse, and write raw data efficiently using Array Buffers",
+        "image": "images/AndrewGaming587/agBuffer.svg",
+		"by": [
+        {
+          "name": "AndrewGaming587",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "extensions/electricfuzzball_pm/blackMold",
+        "id": "blackMold",
+        "name": "Black Mold",
+        "description": "mmmmm black mold",
+        "image": "images/electricfuzzball_pm/blackMold.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
     }
   ]
 }
