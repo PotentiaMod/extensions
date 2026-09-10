@@ -108,6 +108,240 @@
           "link": null
         }
       ]
+    },
+	{
+        "slug": "extensions/derpygamer2142/gpusb3",
+        "id": "gpusb3",
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
+        "image": "images/derpygamer2142/gpusb3.png",
+		"by": [
+        {
+          "name": "insanetaco2000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/Gen1x/beat_sync",
+        "id": "beat_sync",
+        "name": "Beat Sync",
+        "description": "An extension designed to let you sync anything in your project to a musical beat, with incredible precision.",
+        "image": "images/Gen1x/beat_sync.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/skyhigh173/object",
+        "id": "object",
+        "name": "Object",
+        "description": "Handle large JSON files at an extreme speed.",
+        "image": "images/skyhigh173/object.svg",
+		"by": [
+        {
+          "name": "skyhigh173",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/0znzw/ScopeVars",
+        "id": "ScopeVars",
+        "name": "Scope Variable",
+        "description": "Manage your variables in a block-like structure.",
+        "image": "images/0znzw/ScopeVars.avif",
+		"by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/steve0greatness/timers",
+        "id": "timers",
+        "name": "Extra Timers",
+        "description": "Allows for the creation and management of additional timer blocks.",
+        "image": "images/steve0greatness/timers.svg",
+		"by": [
+        {
+          "name": "Steve0Greatness",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "extensions/pooiod/Dictation",
+        "id": "Dictation",
+        "name": "Dictation",
+        "description": "Convert your voice into text. (not supported in all browsers)",
+        "image": "images/pooiod/Dictation.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "extensions/TheShovel/doodlerec",
+        "id": "doodlerec",
+        "name": "Doodle Recognition",
+        "description": "A implementation of Google's Quick Draw image vision model",
+        "image": "images/TheShovel/thumbnail-doodlerec.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "extensions/sourdoggy/stylus extension",
+        "id": "stylus extension",
+        "name": "Stylus",
+        "description": "Get the pressure and tilt of a stylus or graphic tablet",
+        "image": "images/sourdoggy/stylus_ext.avif",
+		"by": [
+        {
+          "name": "sourdoggy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/PuzzlingGGG/ttsrV2",
+        "id": "ttsrV2",
+        "name": "Text To Speech: Redone",
+        "description": "A better alternitive to the base text to speech extension. Powered by the TTStool API",
+        "image": "images/PuzzlingGGG/tts.avif",
+		"by": [
+        {
+          "name": "PuzzlingGGG",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MikeDev101/cloudlink",
+        "id": "cloudlink",
+        "name": "CloudLink",
+        "description": "A powerful WebSocket extension for Scratch. Allows for online connectivity to servers for things like multiplayer.",
+        "image": "images/MikeDev101/cloudlink.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MikeDev101/e2ee",
+        "id": "e2ee",
+        "name": "E2EE",
+        "description": "A general-purpose E2EE (End-to-End Encryption) extension for Scratch.",
+        "image": "images/MikeDev101/e2ee.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MikeDev101/webrtc",
+        "id": "webrtc",
+        "name": "WebRTC",
+        "description": "A barebones WebRTC implementation.",
+        "image": "images/MikeDev101/webrtc.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/spritesheeter",
+        "id": "spritesheeter",
+        "name": "Spritesheeter",
+        "description": "Load and manipulate spritesheets with customizable frames and XML support",
+        "image": "images/MubiLop/spritesheeter.avif",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/dumzdev/removebg",
+        "id": "removebg",
+        "name": "Background Remover",
+        "description": "Removes background from images.",
+        "image": "images/dumzdev/removebgbanner.svg",
+		"by": [
+        {
+          "name": "dumzdev",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/penguinhook",
+        "id": "MubiLop/penguinhook",
+        "name": "PenguinHook",
+        "description": "Send Webhook requests, that can be Discord or any type of webhook.",
+        "image": "images/MubiLop/penguinhook.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/MubiLop/numutils",
+        "id": "MubiLop/numutils",
+        "name": "Number Utilities",
+        "description": "Adds blocks for number formatting and manipulation.",
+        "image": "images/MubiLop/numutils.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "extensions/jwklong/mathematics",
+        "id": "mathematics",
+        "name": "Mathematics",
+        "description": "Complicated maths extension for nerds.",
+        "image": "images/jwklong/mathematics.avif",
+		"by": [
+        {
+          "name": "jwklong",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "extensions/qxsck/big-decimal",
+        "id": "big-decimal",
+        "name": "Big Decimal",
+        "description": "High precision operations. (Support decimals)",
+        "image": "images/qxsck/big-decimal.svg",
+		"by": [
+        {
+          "name": "qxsck",
+          "link": null
+        }
+      ]
     }
   ]
 }
