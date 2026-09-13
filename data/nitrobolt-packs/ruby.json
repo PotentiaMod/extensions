@@ -1,15 +1,16 @@
 {
   "information": {
     "name": "Ruby Team",
-    "tag": "ruby"
+    "tag": "ruby",
+    "source": "https://ruby-devs.vercel.app/cdn/"
   },
   "extensions": [
     {
     "name": "Poop Extension",
     "description": "The most useful, amazing, and well done extension, made by the most cool person ever! (ddededodediamante)",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/poop",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/poop.png",
-    "creator": [
+    "slug": "extensions/poop",
+    "image": "imagenails/poop.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -19,9 +20,9 @@
   {
     "name": "Mewing Utils",
     "description": "Wanted to mew easily? Mewing Utils is here!",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/mewingUtils",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/mewingUtils.png",
-    "creator": [
+    "slug": "extensions/mewingUtils",
+    "image": "imagenails/mewingUtils.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -31,9 +32,9 @@
   {
     "name": "Joe",
     "description": "Joe",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/Joe",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/Joe.png",
-    "creator": [
+    "slug": "extensions/Joe",
+    "image": "imagenails/Joe.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -43,9 +44,9 @@
   {
     "name": "PenguinPedia",
     "description": "Get a lot of data from Wikipedia, like definitions and images!",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/penguinpedia",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/penguinpedia.webp",
-    "creator": [
+    "slug": "extensions/penguinpedia",
+    "image": "imagenails/penguinpedia.webp",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -55,9 +56,9 @@
   {
     "name": "Speech2Text",
     "description": "Recognizes words or sentences said into the microphone. Experimental, can be innacurate sometimes.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/speechtotext",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/speechtotext.png",
-	"creator": [
+    "slug": "extensions/speechtotext",
+    "image": "imagenails/speechtotext.png",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -67,9 +68,9 @@
  {
     "name": "ToastNotifs",
     "description": "Wanted to make an notification system in your project but you couldn't make it work? Toast Notifs is here! (add unsandboxed)",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/toastnotifs",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/toastnotifs.png",
-    "creator": [
+    "slug": "extensions/toastnotifs",
+    "image": "imagenails/toastnotifs.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -79,9 +80,9 @@
   {
     "name": "1mbShortener",
     "description": "Using 1mb Api you can now share links without it being long!",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/1mb",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/1mb.svg",
-    "creator": [
+    "slug": "extensions/1mb",
+    "image": "imagenails/1mb.svg",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -91,9 +92,9 @@
   {
     "name": "PenguinGPT",
     "description": "Using WorkingTurboGPT's source code, we made PenguinGPT! New features will come like DALL-E, etc, all for free!",
-    "url": "https://extensions.penguinmod.com/images/MubiLop/penguingpt.png",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/penguingpt.png",
-    "creator": [
+    "slug": "https://extensions.penguinmod.com/images/MubiLop/penguingpt.png",
+    "image": "imagenails/penguingpt.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -103,9 +104,9 @@
   {
     "name": "GoFile",
     "description": "Upload any files with no limits using the gofile.io service. Updates may come with better features.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/gofile",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/gofile.png",
-    "creator": [
+    "slug": "extensions/gofile",
+    "image": "imagenails/gofile.png",
+    "by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -115,9 +116,9 @@
   {
     "name": "TurboGemini",
     "description": "Use Google's brand-new Gemini AI technology (similar to ChatGPT) inside your projects.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/geminiai",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/turbogemini.webp",
-	"creator": [
+    "slug": "extensions/geminiai",
+    "image": "imagenails/turbogemini.webp",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -127,9 +128,9 @@
   {
     "name": "PenguinHook",
     "description": "Send Webhook requests, that can be Discord or any type of webhook.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/penguinhook",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/penguinhook.png",
-	"creator": [
+    "slug": "extensions/penguinhook",
+    "image": "imagenails/penguinhook.png",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -139,9 +140,9 @@
   {
     "name": "Ruby Maps",
     "description": "An extension that lets you integrate the power of maps into your projects!",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/rubymaps",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/rubymaps.svg",
-	"creator": [
+    "slug": "extensions/rubymaps",
+    "image": "imagenails/rubymaps.svg",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -151,9 +152,9 @@
   {
     "name": "Analytics",
     "description": "See Analytics about your project, using our sophisticated web tools.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/analytics",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/analytics.webp",
-	"creator": [
+    "slug": "extensions/analytics",
+    "image": "imagenails/analytics.webp",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
@@ -163,9 +164,9 @@
   {
     "name": "TurboWeather",
     "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
-    "url": "https://ruby-devs.vercel.app/cdn/extensions/turboweather",
-    "thumb": "https://ruby-devs.vercel.app/cdn/thumbnails/turboweather.webp",
-	"creator": [
+    "slug": "extensions/turboweather",
+    "image": "imagenails/turboweather.webp",
+	"by": [
         {
           "name": "Ruby Devs",
           "link": null
