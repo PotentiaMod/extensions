@@ -1,0 +1,85 @@
+{
+  "information": {
+    "name": "CST1229",
+    "tag": "cst1229"
+  },
+  "extensions": [
+    {
+    "name": "Extendable Blocks",
+    "description": "Blocks with inputs that can be added and removed.",
+    "slug": "https://raw.githubusercontent.com/CST1229/turbowarp-extensions/refs/heads/extendable-blocks/extensions/CST1229/extendableblocks",
+    "id": "extendableblocks",
+    "image": "https://cst1229.eu.org/_app/immutable/assets/extendableBlocks.BMzFvOcp.svg",
+    "by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+  },
+  {
+    "name": "Extendable Blocks (Compiled)",
+    "description": "Extendable Blocks but the blocks compile natively to JavaScript in the compiler, making it run faster. Otherwise fully compatible.",
+    "slug": "https://raw.githubusercontent.com/CST1229/turbowarp-extensions/refs/heads/extendable-blocks-compiled/extensions/CST1229/extendableblocks",
+    "id": "extendableblockscompiled",
+    "image": "https://cst1229.eu.org/_app/immutable/assets/extendableBlocksCompiled.CTIwYUai.svg",
+    "by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+  },
+  {
+    "name": "CST 3D",
+    "description": "Bring your sprites into the third dimension. Still in alpha, and not being worked on often.",
+    "slug": "https://raw.githubusercontent.com/CST1229/turbowarp-extensions/3d/extensions/CST1229/3d",
+    "id": "3dcst",
+    "by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+  },
+  {
+    "name": "Multiline Text Input",
+    "description": "A block that lets you enter multiline text",
+    "slug": "https://cst1229.eu.org/extensions/multilinetext",
+    "id": "multilinetext",
+	"image": "https://cst1229.eu.org/_app/immutable/assets/multilineText.B-S0qK4H.png",
+    "by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+  },
+  {
+    "name": "Extendable Blocks 2",
+    "description": "If Extendable Blocks is so good, why isn't there an Extendable Blocks 2? (APRIL FOOLS 2025 JOKE)",
+    "slug": "https://cst1229.eu.org/extensions/extendableblocks2",
+    "id": "extendableblocks2",
+	"image": "https://cst1229.eu.org/_app/immutable/assets/extendableBlocks2.XTaGctqv.svg",
+    "by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+  },
+  {
+    "name": "Scratch 2.2",
+    "description": "le funni extension which lets you rotate blocks (JOKE EXTENSION)",
+    "slug": "https://cst1229.eu.org/extensions/scratch22",
+    "id": "scratch22",
+    "image": "https://cst1229.eu.org/_app/immutable/assets/scratch22.D5zQW6Xk.png",
+	"by": [
+        {
+          "name": "CST1229",
+          "link": "https://scratch.mit.edu/users/CST1229/"
+        }
+	]
+    }
+  ]
+}
