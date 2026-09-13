@@ -1805,7 +1805,7 @@
     },
 	{
       "slug": "cattymod/javascript",
-      "id": "javascript",
+      "id": "javascriptcm",
       "name": "CattyMod Javascript",
       "description": "Run JavaScript commands and more inside of your project.",
       "image": "cattymod/javascript.svg",
