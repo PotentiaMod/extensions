@@ -10,7 +10,7 @@
     "description": "The most useful, amazing, and well done extension, made by the most cool person ever! (ddededodediamante)",
     "slug": "extensions/poop",
     "id": "poop",
-    "image": "imagenails/poop.png",
+    "image": "thumbnails/poop.png",
     "by": [
         {
           "name": "Ruby Devs",
@@ -23,7 +23,7 @@
     "description": "Wanted to mew easily? Mewing Utils is here!",
     "slug": "extensions/mewingUtils",
     "id": "mewingUtils",
-    "image": "imagenails/mewingUtils.png",
+    "image": "thumbnails/mewingUtils.png",
     "by": [
         {
           "name": "Ruby Devs",
@@ -36,7 +36,7 @@
     "description": "Joe",
     "slug": "extensions/Joe",
     "id": "Joe",
-    "image": "imagenails/Joe.png",
+    "image": "thumbnails/Joe.png",
     "by": [
         {
           "name": "Ruby Devs",
@@ -49,7 +49,7 @@
     "description": "Get a lot of data from Wikipedia, like definitions and images!",
     "slug": "extensions/penguinpedia",
     "id": "penguinpedia",
-    "image": "imagenails/penguinpedia.webp",
+    "image": "thumbnails/penguinpedia.webp",
     "by": [
         {
           "name": "Ruby Devs",
@@ -62,7 +62,7 @@
     "description": "Recognizes words or sentences said into the microphone. Experimental, can be innacurate sometimes.",
     "slug": "extensions/speechtotext",
     "id": "speechtotext",
-    "image": "imagenails/speechtotext.png",
+    "image": "thumbnails/speechtotext.png",
 	"by": [
         {
           "name": "Ruby Devs",
@@ -75,7 +75,7 @@
     "description": "Wanted to make an notification system in your project but you couldn't make it work? Toast Notifs is here! (add unsandboxed)",
     "slug": "extensions/toastnotifs",
     "id": "toastnotifs",
-    "image": "imagenails/toastnotifs.png",
+    "image": "thumbnails/toastnotifs.png",
     "by": [
         {
           "name": "Ruby Devs",
@@ -88,7 +88,7 @@
     "description": "Using 1mb Api you can now share links without it being long!",
     "slug": "extensions/1mb",
     "id": "1mb",
-    "image": "imagenails/1mb.svg",
+    "image": "thumbnails/1mb.svg",
     "by": [
         {
           "name": "Ruby Devs",
@@ -101,7 +101,7 @@
     "description": "Upload any files with no limits using the gofile.io service. Updates may come with better features.",
     "slug": "extensions/gofile",
     "id": "gofile",
-    "image": "imagenails/gofile.png",
+    "image": "thumbnails/gofile.png",
     "by": [
         {
           "name": "Ruby Devs",
@@ -114,7 +114,7 @@
     "description": "Use Google's brand-new Gemini AI technology (similar to ChatGPT) inside your projects.",
     "slug": "extensions/geminiai",
     "id": "geminiai",
-    "image": "imagenails/turbogemini.webp",
+    "image": "thumbnails/turbogemini.webp",
 	"by": [
         {
           "name": "Ruby Devs",
@@ -127,7 +127,7 @@
     "description": "Send Webhook requests, that can be Discord or any type of webhook.",
     "slug": "extensions/penguinhook",
     "id": "penguinhook",
-    "image": "imagenails/penguinhook.png",
+    "image": "thumbnails/penguinhook.png",
 	"by": [
         {
           "name": "Ruby Devs",
@@ -140,7 +140,7 @@
     "description": "An extension that lets you integrate the power of maps into your projects!",
     "slug": "extensions/rubymaps",
     "id": "rubymaps",
-    "image": "imagenails/rubymaps.svg",
+    "image": "thumbnails/rubymaps.svg",
 	"by": [
         {
           "name": "Ruby Devs",
@@ -153,7 +153,7 @@
     "description": "See Analytics about your project, using our sophisticated web tools.",
     "slug": "extensions/analytics",
     "id": "analytics",
-    "image": "imagenails/analytics.webp",
+    "image": "thumbnails/analytics.webp",
 	"by": [
         {
           "name": "Ruby Devs",
@@ -166,7 +166,7 @@
     "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
     "slug": "extensions/turboweather",
     "id": "turboweather",
-    "image": "imagenails/turboweather.webp",
+    "image": "thumbnails/turboweather.webp",
 	"by": [
         {
           "name": "Ruby Devs",
