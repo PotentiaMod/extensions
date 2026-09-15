@@ -22,6 +22,11 @@ class platformDetector {
             text: 'Is GaiaMod?'
           },
 		  {
+            opcode: 'isNitroBolt',
+            blockType: Scratch.BlockType.BOOLEAN,
+            text: 'Is NitroBolt?'
+          },
+		  {
             opcode: 'isDash',
             blockType: Scratch.BlockType.BOOLEAN,
             text: 'Is Dash?'
@@ -54,6 +59,11 @@ class platformDetector {
       this.isgm = Scratch.extensions.isGaiaMod
     ? "true"  : "false";
   return this.isgm
+    }
+    isNitroBolt() {
+      this.isnb = Scratch.extensions.isNitroBolt
+    ? "true"  : "false";
+  return this.isnb
     }
     isDash() {
       this.isdash = Scratch.extensions.isDash
