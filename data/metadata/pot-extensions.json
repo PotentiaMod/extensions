@@ -56,6 +56,19 @@
       ]
     },
 	{
+      "slug": "GaiaWindWave90/POTImageBlocks",
+      "id": "POTImageBlocks",
+      "name": "Image Blocks: Potentia Edition",
+      "description": "PotentiaMod's modification of the Image Blocks extension. Works only best in PenguinMod.",
+      "image": "GaiaWindWave90/POTImageBlocks.png",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+	{
       "slug": "GaiaWindWave90/POTAdBlockDetect",
       "id": "POTAdBlockDetect",
       "name": "Adblock Detection",
