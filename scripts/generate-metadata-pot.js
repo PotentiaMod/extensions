@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const FILES_DIR = path.join(__dirname, 'extensions/other');
+const FILES_DIR = path.join(__dirname, 'extensions/potentiamod');
 const OUTPUT_FILE = path.join(__dirname, 'generated-metadata', 'extensions-v0.json');
 const SITE_DATA_FILE = path.join(__dirname, 'site-data.js');
 const VERSIONS_FILE = path.join(__dirname, 'versions.json');
@@ -46,7 +46,7 @@ function processExtensions(dir, isFeatured = false) {
         id: name,
         name,
         description,
-        image: `${name}.png`,
+        image: `${name}.svg`,
         by: [
           {
             name: "Unknown",

@@ -1,3 +1,9 @@
+// Name: Webcam Recorder
+// ID: webcarecorder
+// Description: Records videos straight out of webcam.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// Original: -SIPC-
+// License: CC BY-NC-SA 4.0
 (function (Scratch) {
   "use strict";
   if (!Scratch.extensions.unsandboxed) {

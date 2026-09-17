@@ -1,4 +1,8 @@
-// create by scratch3-extension generator
+// Name: Prompts
+// ID: GPTPrompts
+// Description: Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// License: CC BY-NC-SA 4.0
 class GaiaAIPrompts {
   constructor(runtime) {
     this.runtime = runtime;

@@ -1,3 +1,8 @@
+// Name: Pony Spawner
+// ID: PonySpawner
+// Description: Allow you to spawn characters from MLP:FIM!
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// License: CC BY-NC-SA 4.0
 (function (Scratch) {
 	"use strict";
 	

@@ -1,3 +1,9 @@
+// Name: Gaia Utilities
+// ID: gaiaBlocks
+// Description: Wonderful utility blocks!
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// Original: Blocks from others users
+// License: CC BY-NC-SA 4.0
 (function(Scratch) {
     const variables = {};
     let vm = Scratch.vm

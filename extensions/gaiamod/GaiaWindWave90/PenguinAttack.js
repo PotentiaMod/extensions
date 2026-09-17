@@ -1,3 +1,9 @@
+// Name: Penguin Attack!
+// ID: penguinAttack
+// Description: Edited version of the Fire in the Hole extension. Original extension by JeremyGamer13.
+// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// Original: JeremyGamer13
+// License: CC BY-NC-SA 4.0
 (function (Scratch) {
     'use strict';
 
