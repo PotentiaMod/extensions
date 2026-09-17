@@ -59,7 +59,7 @@
       "slug": "https://potentiamod.github.io/extensions/extensions/potentiamod/GaiaWindWave90/POTImageBlocks",
       "id": "POTImageBlocks",
       "name": "Image Blocks: Potentia Edition",
-      "description": "PotentiaMod's modification of the Image Blocks extension. Works only best in PenguinMod.",
+      "description": "PotentiaMod's modification of the Image Blocks extension. Only works best in PenguinMod.",
       "image": "https://potentiamod.github.io/extensions/extensions/potentiamod/GaiaWindWave90/POTImageBlocks.png",
       "by": [
         {
@@ -90,6 +90,19 @@
       "name": "PotentiaMod Stuff",
       "description": "Something that I will try to do stuff on. Inspired by the AcidMod Test extension.",
       "image": "https://potentiamod.github.io/extensions/img/potentiamod/GaiaWindWave90/POTStuff.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://github.com/gaiawindwave90"
+        }
+      ]
+    },
+	{
+      "slug": "https://potentiamod.github.io/extensions/extensions/potentiamod/GaiaWindWave90/POTBlockThemeChanger",
+      "id": "POTBlockThemeChanger",
+      "name": "Block Theme Changer",
+      "description": "Allow you to change block themes!",
+      "image": "https://potentiamod.github.io/extensions/extensions/potentiamod/GaiaWindWave90/POTBlockThemeChanger.svg",
       "by": [
         {
           "name": "GaiaWindWave90",

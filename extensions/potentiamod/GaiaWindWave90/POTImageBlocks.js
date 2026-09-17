@@ -1,6 +1,6 @@
 // Name: Image Blocks: Potentia Edition
 // ID: potBlocksByGaia
-// Description: PotentiaMod's modification of the Image Blocks extension. Works only best in PenguinMod.
+// Description: PotentiaMod's modification of the Image Blocks extension. Only works best in PenguinMod.
 // By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // License: MPL-2.0
 /**
