@@ -97,6 +97,7 @@
         return {
           id: 'potBlocksByGaia',
           name: 'Image Blocks: Potentia Edition',
+		  color1: '#698759',
           blocks: [
             {
               blockType: Scratch.BlockType.BUTTON,

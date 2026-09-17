@@ -17,6 +17,7 @@
             return {
                 id: 'POTBlockThemeChanger',
                 name: 'Block Theme Changer',
+				color1: '#C38500',
                 blocks: [
                     {
                         opcode: 'setDarkTheme',
