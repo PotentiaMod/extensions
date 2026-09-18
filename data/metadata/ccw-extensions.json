@@ -48,11 +48,11 @@
 	{
       "slug": "Miku",
       "id": "OpenMikuLink2.0",
-      "name": "Miku [初音]"
+      "name": "Miku [初音]",
       "description": "Open Miku Link!",
       "image": "Miku.png",
       "by": [
-	  {
+        {
           "name": "Lumi",
           "link": null
         }
