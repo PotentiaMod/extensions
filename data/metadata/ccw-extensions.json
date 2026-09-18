@@ -46,6 +46,19 @@
       ]
     },
 	{
+      "slug": "Miku",
+      "id": "OpenMikuLink2.0",
+      "name": "Miku [初音]"
+      "description": "Open Miku Link!",
+      "image": "Miku.png",
+      "by": [
+	  {
+          "name": "Lumi",
+          "link": null
+        }
+      ]
+    },
+	{
       "slug": "advancedDialog",
       "id": "advancedDialog",
       "name": "灵动弹窗工具HTML自定义关闭",

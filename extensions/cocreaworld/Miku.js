@@ -29,10 +29,10 @@
 
         getInfo () {
             return {
-                id: 'openMikuLink',
+                id: 'OpenMikuLink2.0',
                 name: translate({id: 'extensionName'}),
-                color1: '#39D59F',
-                color2: '#39D59F',
+                color1: '#35c5d3',
+                color2: '#35c5d3',
                 blocks: [
                     {
                         opcode: 'openMikuLink',

@@ -6,11 +6,11 @@
   },
   "extensions": [
     {
-      "slug": "GaiaWindWave90/POTTest",
-      "id": "POTTest",
-      "name": "PotentiaMod Test",
+      "slug": "GaiaWindWave90/POTStuff",
+      "id": "POTStuff",
+      "name": "PotentiaMod Stuff",
       "description": "Something that I will try to test on. Inspired by the AcidMod Test extension.",
-      "image": "images/GaiaWindWave90/POTTest.svg",
+      "image": "images/GaiaWindWave90/POTStuff.svg",
       "by": [
         {
           "name": "GaiaWindWave90",

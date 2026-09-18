@@ -1,0 +1,166 @@
+{
+  "information": {
+    "name": "Cocrea World",
+    "tag": "ccw",
+    "source": "https://m.ccw.site/"
+  },
+  "extensions": [
+    {
+      "slug": "user_projects_assets/516299f1859d44315bb47f2209dea7c4.js",
+      "id": "TipsC",
+      "name": "Tips for -contact-",
+      "description": "注释",
+      "image": "works-covers/10d31231-6ba9-4974-801c-fb0a131a9df3.png",
+	  "by": [{"name": "-contact-"}]
+    },
+    {
+      "slug": "user_projects_assets/d0410ff7bcf3d8d15996c94a55084031.js",
+      "id": "advancedAudioExtension",
+      "name": "高级音乐播放",
+      "description": "和懒加载有点像？",
+      "image": "works-covers/0dd21e1b-b94f-4477-a5b0-bd1379149f81.png",
+	  "by": [{"name": "Toy"}]
+    },
+    {
+      "slug": "user_projects_assets/a719e61eaf6d4faa6de10e8dbc47357f.js",
+      "id": "ASCII2.0",
+      "name": "ASCII加密解密",
+      "description": "用ASCII编码加密解密",
+      "image": "works-covers/4bd5894e-ebc0-466e-b952-23e9fb1678b3.jpg",
+	  "by": [{"name": "Tynthrax【TNT_G】"}]
+    },
+    {
+      "slug": "user_projects_assets/b04407aaf31bd966fc2628a9e5f62b5e.js",
+      "id": "wy",
+      "name": "混淆器",
+      "description": "啊啊啊，我要气死了，现在抄代码的这么多，没错，说的就是你，还不快点看看，给你的拓展源码加密！！！！！",
+      "image": "works-covers/d47b43a0-07d7-4b99-92ec-fe4b1be0f442.png",
+	  "by": [{"name": "Tynthrax【TNT_G】"}]
+    },
+    {
+      "slug": "user_projects_assets/f8b1a1f74f49f38b36569795222f27cb.js",
+      "id": "someBlo",
+      "name": "miophhh HOOOO",
+      "description": "好东西",
+      "image": "works-covers/124eca51-6e66-4430-8ddd-b462c6a7cf15.png",
+	  "by": [{"name": "PPPoE?"}]
+    },
+    {
+      "slug": "user_projects_assets/82631c6a5b092e556c504a4ec4a6911f.js",
+      "id": "hhhhhhhhhhhhhhhhhhh",
+      "name": "2333333安全卫士",
+      "description": "安全",
+      "image": "works-covers/ccfa310e-ba6d-4d3c-bb39-1a8f511ff174.png",
+	  "by": [{"name": "Mike"}]
+    },
+    {
+      "slug": "user_projects_assets/4b843f12bf46ccf6397bfa621da09c95.js",
+      "id": "IOpTYREwchongchongzhizhizhizhizhizhi",
+      "name": "杂项",
+      "description": "杂项",
+      "image": "works-covers/9939fbe1-ccfa-4643-9fca-cbe13ef6a769.png",
+	  "by": [{"name": "واهأو"}]
+    },
+    {
+      "slug": "user_projects_assets/da2f6de9dab1b6a8796493893aaab008.js",
+      "id": "lmsHackedBlocks",
+      "name": "隐藏的积木",
+      "description": "turbowarp搬运",
+      "image": "works-covers/d5ab37d7-e0ea-4b8c-bcc3-4c860fb893e0.png",
+	  "by": [{"name": "创作者_246341217"}]
+    },
+    {
+      "slug": "user_projects_assets/b48e046cb1833bef208b068dfd5971a7.js",
+      "id": "timeCalcPro",
+      "name": "时间计算Pro",
+      "description": "更多计算时间的积木",
+      "image": "works-covers/74a894ae-00a9-4759-8b00-03977f29717f.png",
+	  "by": [{"name": "草莓派的创作者"}]
+    },
+    {
+      "slug": "user_projects_assets/9653a7e6cd9a3337674ee4a4a93d534f.js",
+      "id": "nn",
+      "name": "NN",
+      "description": "神经网络",
+      "image": "works-covers/e5bfa879-8583-410b-bddb-13b3fdb16f13.png",
+	  "by": [{"name": "官方小傲娇"}]
+    },
+    {
+      "slug": "user_projects_assets/4f7c66e8f2e7dfd91f1e674b64b658da.js",
+      "id": "hideInfo",
+      "name": "字符串的隐藏信息",
+      "description": "设置与获取字符串的隐藏信息",
+      "image": "works-covers/6e898113-d028-4f87-b1f8-3b1ec0b7cbb0.png"
+	  },
+    {
+      "slug": "user_projects_assets/9104d7f36810503857700dba6a7bba72.js",
+      "id": "wl",
+      "name": "wlwlwl",
+      "description": "网络",
+      "image": "works-covers/45c5eaf6-7c8b-4395-bedb-70e0c04c1447.png",
+	  "by": [{"name": "༺✧ཌༀཉི溯光༃ༀད✧༻"}]
+    },
+    {
+      "slug": "user_projects_assets/5f55f9c7f6390fef760bf1469be5eebf.js",
+      "id": "tc",
+      "name": "弹窗",
+      "description": "弹窗",
+      "image": "works-covers/2d13770d-37d7-4ca6-b059-804d50dcc146.png",
+	  "by": [{"name": "༺✧ཌༀཉི溯光༃ༀད✧༻"}]
+    },
+    {
+      "slug": "user_projects_assets/40a10d7fd06d2bda7432d74a6271a062.js",
+      "id": "furryrtesteval",
+      "name": "能过审的 eval",
+      "description": "干碎扩展集市大部分eval扩展了",
+      "image": "works-covers/41cc3de5-d945-4e0d-a271-4cf703346060.png",
+	  "by": [{"name": "用户已注销"}]
+    },
+    {
+      "slug": "user_projects_assets/3ba5331150375d577ebebb617f22b128.js",
+      "id": "12341235",
+      "name": "微笑的浏览器",
+      "description": "浏览器",
+      "image": "works-covers/c0a2ffc7-f69a-4263-be43-556bebe6d4ee.png"
+    },
+    {
+      "slug": "user_projects_assets/09a286426f57d92d5f7a4cb512478318.js",
+      "id": "FalseTrue",
+      "name": "假的真",
+      "description": "假的真",
+      "image": "works-covers/0915b023-7935-4752-8400-1ad29f92033a.png"
+    },
+    {
+      "slug": "user_projects_assets/5da115b1bfa161cad8f2529f40f2ec55.js",
+      "id": "cappuLambda",
+      "name": "Lambda 发布版",
+      "description": "Lambda yes, Procedure no!",
+      "image": "works-covers/e05d7ba7-c4b3-4f5a-bbf5-b2a51cd2559a.png",
+	  "by": [{"name": "Cappu"}]
+    },
+    {
+      "slug": "user_projects_assets/a35f04f719e435010bb6e842817d73e4.js",
+      "id": "AZblocksie",
+      "name": "simple T/F 简单真假",
+      "description": "可以简单的调用真或者假，而不是自制永远为真/假的条件块",
+      "image": "works-covers/8ea40a9a-0fe3-43a1-9e7d-a9e14a290eee.png",
+	  "by": [{"name": "阿Z哦"}]
+    },
+    {
+      "slug": "user_projects_assets/6568a4fb332fa1590238a9d1d54dc49d.js",
+      "id": "say",
+      "name": "输入字符",
+      "description": "无",
+      "image": "works-covers/5e185ce8-379c-43a6-9552-d3457501ce4b.png",
+	  "by": [{"name": "创作者_280044633"}]
+    },
+    {
+      "slug": "user_projects_assets/4ff697823bea92111b2b12519dc7977b.js",
+      "id": "rxfs",
+      "name": "rxFS",
+      "description": "轻松地构建一个文件系统，实现管理，存储，访问数据功能。由0832授权重写的Gandi版本。",
+      "image": "works-covers/fa1a2514-1297-45f7-8aec-0012f6a39c0c.png",
+	  "by": [{"name": "官方小傲娇"}]
+    }
+  ]
+}
