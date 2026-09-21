@@ -6,7 +6,9 @@
   },
   "extensions": [
    {
-      "name": "Pathfinding",
+      "slug": "pathfinding/pathfinding",
+      "id": "pathfinding",
+      "name": "Pathfinding (RW)",
       "nameTranslations": {
         "zh-cn": "寻路 (舞台坐标)"
       },
@@ -14,93 +16,87 @@
       "descriptionTranslations": {
         "zh-cn": "多种寻路算法扩展，支持A*、BFS、Dijkstra、JPS等算法，可在舞台上显示调试窗口"
       },
-      "id": "pathfinding",
-      "slug": "pathfinding/寻路",
       "image": "pathfinding/寻路.png",
-      "credits": [
+      "by": [
         {
           "name": "该账号差一点注销",
           "link": "https://space.bilibili.com/3546902484224452"
         }
       ],
       "samples": [
-        {
-          "href": "pathfinding/寻路示例作品.sb3",
-          "text": "示例作品"
-        }
+        "pathfinding/寻路"
       ]
     },
-    {
+	{
+      "slug": "windows-of-os/windows-of-os",
+      "id": "gmyosWindow",
       "name": "Windows of OS",
+      "image": "windows-of-os/win-of-os.png",
       "description": "An extension that simulates an operating system, including CMD terminal, register management, external program loading, custom windows, and GUI components.",
       "descriptionTranslations": {
         "zh-cn": "一个模拟操作系统的扩展，包含CMD终端、寄存器管理、外部程序加载、自定义窗口和GUI组件等功能。"
       },
-      "id": "gmyosWindow",
-      "slug": "windows-of-os/windows-of-os",
-      "onlineURL": "https://extensions.remixwarp.org/gmy-xxl/windows-of-os",
-      "image": "windows-of-os/win-of-os.png",
-      "credits": [
-        "gmy-xxl"
+      "by": [
+	    {
+          "name": "gmy-xxl",
+          "link": null
+        }
       ],
       "samples": [
-        {
-          "href": "windows-of-os/sample-project.sb3",
-          "text": "示例作品"
-        }
+        "windows-of-os/sample-project"
       ]
     },
-    {
+		{
+      "slug": "audio-encoder/audio-encoder",
+      "id": "audio-encoder",
       "name": "Audio Encoder",
-      "nameTranslations": {
+	  "nameTranslations": {
         "zh-cn": "音频编码器"
       },
+      "image": "audio-encoder/audio-encoder.svg",
       "description": "Store your voice as text.",
       "descriptionTranslations": {
         "zh-cn": "将你的声音用文本储存"
       },
-      "id": "audio-encoder",
-      "slug": "audio-encoder/audio-encoder",
-      "image": "audio-encoder/audio-encoder.svg",
-      "credits": [
-        {
+      "by": [
+	    {
           "name": "10000why",
           "link": "https://space.bilibili.com/541080936"
         }
-      ],
+      ]
     },
-    {
-      "name": "NTcolor",
-      "nameTranslations": {
+		{
+      "slug": "ntcolor/ntcolor",
+      "id": "NTcolor-remixwarp",
+      "name": "NTcolor (1)",
+	  "nameTranslations": {
         "zh-cn": "NT的颜色分析"
       },
+      "image": "ntcolor/ntcolor.png",
       "description": "URL-Only High-Performance Color Analyzer.",
       "descriptionTranslations": {
         "zh-cn": "高性能颜色分析器，通过URL获取颜色信息"
       },
-      "id": "NTcolor-remixwarp",
-      "slug": "ntcolor/ntcolor",
-      "image": "ntcolor/ntcolor.png",
-      "credits": [
+      "by": [
         {
           "name": "NTUN",
           "link": "https://space.bilibili.com/3546570106604381"
         }
-      ],
+      ]
     },
-    {
+	{
+      "slug": "simple3d-cn/simple3d-cn",
+      "id": "xeltallivSimple3DRW",
       "name": "Simple3D (Chinese)",
-      "nameTranslations": {
+	  "nameTranslations": {
         "zh-cn": "简易3D (汉化版)"
       },
+      "image": "simple3d-cn/simple3d-cn.png",
       "description": "Chinese localized version of the Simple3D extension. Create 3D projects in Scratch with ease.",
       "descriptionTranslations": {
         "zh-cn": "Simple3D扩展的中文汉化版本，让你轻松在Scratch中创建3D项目。"
       },
-      "id": "xeltallivSimple3D",
-      "slug": "simple3d-cn/simple3d-cn",
-      "image": "simple3d-cn/simple3d-cn.png",
-      "credits": [
+      "by": [
         {
           "name": "Xeltalliv",
           "link": "https://xeltalliv.github.io/simple3d-extension/"
@@ -109,22 +105,21 @@
           "name": "SF-Twilight (Translator)",
           "link": "https://space.bilibili.com/3546717859351038"
         }
-      ],
-      "docsURI": "https://extensions.turbowarp.org/Xeltalliv/simple3D"
+      ]
     },
-    {
+	{
+      "slug": "astar-odyssey/astar-odyssey",
+      "id": "astar-odyssey",
       "name": "A* Odyssey",
       "nameTranslations": {
         "zh-cn": "A*奥德赛"
       },
+      "image": "astar-odyssey/astar-odyssey.svg",
       "description": "Make pathfinding faster.",
       "descriptionTranslations": {
         "zh-cn": "让寻路更加迅速"
       },
-      "id": "astar-odyssey",
-      "slug": "astar-odyssey/astar-odyssey",
-      "image": "astar-odyssey/astar-odyssey.svg",
-      "credits": [
+      "by": [
         {
           "name": "Arkos",
           "link": "https://space.bilibili.com/446532545"
@@ -135,10 +130,7 @@
         }
       ],
       "samples": [
-        {
-          "href": "astar-odyssey/寻路.sb3",
-          "text": "示例作品"
-        }
+        "astar-odyssey/寻路示例作品"
       ]
     }
   ]
