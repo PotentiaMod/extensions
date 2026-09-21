@@ -6,9 +6,9 @@
   },
   "extensions": [
    {
-      "slug": "pathfinding/pathfinding",
+      "slug": "pathfinding/寻路",
       "id": "pathfinding",
-      "name": "Pathfinding (RW)",
+      "name": "Pathfinding",
       "nameTranslations": {
         "zh-cn": "寻路 (舞台坐标)"
       },
