@@ -1,0 +1,49 @@
+{
+  "information": {
+    "name": "CattyMod",
+    "tag": "cattymod",
+    "source": "https://cattymod.app/extensions/"
+  },
+  "extensions": [
+   {
+      "slug": "modals",
+      "id": "modals",
+      "name": "Modals",
+      "description": "Create Scratch 3 style popup windows, embeds, and interactive prompts.",
+      "image": "modals.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    },
+	{
+      "slug": "python",
+      "id": "python",
+      "name": "Python",
+      "description": "Run Python code and integrate Python scripts directly into your projects.",
+      "image": "python.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    },
+	{
+      "slug": "javascript",
+      "id": "javascript",
+      "name": "Javascript",
+      "description": "Run JavaScript commands and more inside of your project.",
+      "image": "javascript.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    },
+	{
+      "slug": "dangoai",
+      "id": "dangoai",
+      "name": "DangoAI",
+      "description": "Add AI Chatbots to your CattyMod Projects!",
+      "image": "dangoai.svg",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
+    }
+  ]
+}

@@ -122,66 +122,6 @@
           "link": "https://scratch.mit.edu/users/pinksheep2917/"
         }
       ]
-    },
-  {
-      "slug": "coniblocks/cryptography",
-      "id": "cryptography",
-      "name": "Cryptography (ConiBlocks)",
-      "description": "UUID's and encryption.",
-      "image": "coniblocks/cryptography.png",
-    "by": [
-      {"name": "ConiBlocks", "link": null}
-    ]
-    },
-	{
-      "slug": "coniblocks/mathematics",
-      "id": "mathematics1",
-      "name": "Mathematics (1)",
-      "description": "More advanced math.",
-      "image": "coniblocks/mathematics.png",
-    "by": [
-      {"name": "ConiBlocks", "link": null}
-    ]
-    },
-    {
-      "slug": "coniblocks/randomizers",
-      "id": "randomizers",
-      "name": "Randomizers",
-      "description": "Use seeds and weights.",
-      "image": "coniblocks/randomizers.png",
-    "by": [
-      {"name": "ConiBlocks", "link": null}
-    ]
-    },
-	{
-      "slug": "cattymod/modals",
-      "id": "modals",
-      "name": "CattyMod Modals",
-      "description": "Create Scratch 3 style popup windows, embeds, and interactive prompts.",
-      "image": "cattymod/modals.svg",
-    "by": [
-      {"name": "Noahscratch493", "link": null}
-    ]
-    },
-	{
-      "slug": "cattymod/python",
-      "id": "python1",
-      "name": "CattyMod Python",
-      "description": "Run Python code and integrate Python scripts directly into your projects.",
-      "image": "cattymod/python.svg",
-    "by": [
-      {"name": "Noahscratch493", "link": null}
-    ]
-    },
-	{
-      "slug": "cattymod/javascript",
-      "id": "javascriptcm",
-      "name": "CattyMod Javascript",
-      "description": "Run JavaScript commands and more inside of your project.",
-      "image": "cattymod/javascript.svg",
-    "by": [
-      {"name": "Noahscratch493", "link": null}
-    ]
     }
   ]
 }

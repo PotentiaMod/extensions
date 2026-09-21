@@ -1,0 +1,39 @@
+{
+  "information": {
+    "name": "ConiBlocks",
+    "tag": "cb",
+    "source": "https://coniblocks.github.io/extensions/"
+  },
+  "extensions": [
+   {
+      "slug": "cryptography",
+      "id": "cryptography",
+      "name": "Cryptography",
+      "description": "UUID's and encryption.",
+      "image": "images/cryptography.png",
+    "by": [
+      {"name": "ConiBlocks", "link": null}
+    ]
+    },
+	{
+      "slug": "mathematics",
+      "id": "mathematics",
+      "name": "Mathematics",
+      "description": "More advanced math.",
+      "image": "images/mathematics.png",
+    "by": [
+      {"name": "ConiBlocks", "link": null}
+    ]
+    },
+    {
+      "slug": "randomizers",
+      "id": "randomizers",
+      "name": "Randomizers",
+      "description": "Use seeds and weights.",
+      "image": "images/randomizers.png",
+    "by": [
+      {"name": "ConiBlocks", "link": null}
+    ]
+    }
+  ]
+}
