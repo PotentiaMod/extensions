@@ -1,0 +1,85 @@
+{
+  "information": {
+    "name": "AcidMod",
+    "tag": "acid",
+    "source": "https://acidmod.js.org/extensions/"
+  },
+  "extensions": [
+    {
+      "slug": "AcidMod/test",
+      "id": "acidTest",
+      "name": "AcidMod Test",
+      "description": "Blocks used for testing stuff in AcidMod.",
+      "image": "images/AcidMod/test.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/"
+        }
+      ],
+      "original": [
+        {
+          "name": "AcidMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "AcidMod/AcidAI",
+      "id": "gemini",
+      "name": "AcidAI",
+      "description": "AcidAI extension, powered by Google Gemini",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ],
+      "original": [
+        {
+          "name": "RubyTeam",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "AcidMod/cooleans",
+      "id": "acidCoolean",
+      "name": "Cooleans",
+      "description": "Cooleans, the definitive way of if condition reporters",
+      "image": "images/AcidMod/cooleans.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    },
+    {
+      "slug": "AcidMod/superVars",
+      "id": "acidSuperVars",
+      "name": "Super Variables",
+      "description": "Super Variables, advanced variable creation and clearing on a separate temporary spectrum",
+      "image": "images/AcidMod/superVars.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    },
+    {
+      "slug": "AcidMod/acidConsole",
+      "id": "acidmodConsole",
+      "name": "Console",
+      "description": "Interact with your developer console.",
+      "image": "images/AcidMod/acidConsole.svg",
+      "by": [
+        {
+          "name": "AcidMod",
+          "link": "https://github.com/AcidMod"
+        }
+      ]
+    }
+  ]
+}

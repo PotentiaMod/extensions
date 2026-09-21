@@ -1,0 +1,61 @@
+{
+  "information": {
+    "name": "BananaMod",
+    "tag": "bm",
+    "source": "https://banana-mod.github.io/"
+  },
+  "extensions": [
+   {
+      "slug": "Italian-Brainrot-Extension/italianbrainrot",
+      "id": "italianbrainrot",
+      "name": "Italian Brainrot Extension",
+      "description": "Let the brainrot enter!",
+      "image": "Italian-Brainrot-Extension/itbr.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "pydatabase/pydatabase.js",
+      "id": "pydatabase",
+      "name": "PyDataBase",
+      "description": "Free file uploads",
+      "image": "pydatabase/PYDatabase.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "MemeExtension/MemeExtension",
+      "id": "memeextension",
+      "name": "Meme Extension",
+      "description": "Get fresh baked memes.",
+      "image": "MemeExtension/memeextension.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    },
+	{
+      "slug": "BlockBeat/blockBeat.js",
+      "id": "blockBeat",
+      "name": "BlockBeat (May not work)",
+      "description": "Generate cool beats using Bytebeat",
+      "image": "BlockBeat/blockBeat.svg",
+      "by": [
+        {
+          "name": "BananaMod",
+          "link": "https://scratch.mit.edu/users/numelemeu123/"
+        }
+      ]
+    }
+  ]
+}
