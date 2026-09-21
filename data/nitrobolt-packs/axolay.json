@@ -1,0 +1,69 @@
+{
+  "information": {
+    "name": "Axolay",
+    "tag": "axolay",
+    "source": "https://greedyallay.github.io/extensions/resources/"
+  },
+  "extensions": [
+   {
+    "name": "HTML",
+    "image": "html.png",
+    "description": "Barebones HTML extension that allows easy integration and creation of HTML elements!",
+    "slug": "extensions/html",
+    "id": "html",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+  },
+  {
+    "name": "Tiles",
+    "image": "tiles.png",
+    "description": "Easy way of rendering tiles inside of your project, e.g. for a gallery or level browser!",
+    "slug": "extensions/tiles",
+    "id": "tiles",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+  },
+  {
+    "name": "On-screen Controls",
+    "image": "controls.png",
+    "description": "Control your projects with multitouch without a hassle!",
+    "slug": "extensions/controls",
+    "id": "controls",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+  },
+  {
+    "name": "Simple Console",
+    "image": "console.png",
+    "description": "Very simple extension to render text for consoles inside of your project. Comes with an improved ask block!",
+    "slug": "extensions/console",
+    "id": "console",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+  },
+  {
+    "name": "Ollama",
+    "image": "ollama.png",
+    "description": "Connect to your local Ollama server or an API through Scratch!",
+    "slug": "extensions/ollama",
+    "id": "ollama",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+  },
+  {
+    "name": "Simple Hashing",
+    "image": "hashing.png",
+    "description": "A single block that lets you hash passwords on your client!",
+    "slug": "extensions/hashing",
+    "id": "hashing",
+    "by": [
+      {"name": "Axolay", "link": "https://github.com/greedyallay/"}
+    ]
+   }
+  ]
+}
