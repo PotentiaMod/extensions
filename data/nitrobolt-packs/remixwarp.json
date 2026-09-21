@@ -15,7 +15,7 @@
         "zh-cn": "多种寻路算法扩展，支持A*、BFS、Dijkstra、JPS等算法，可在舞台上显示调试窗口"
       },
       "id": "pathfinding",
-      "slug": "pathfinding/寻路.js",
+      "slug": "pathfinding/寻路",
       "image": "pathfinding/寻路.png",
       "credits": [
         {
@@ -37,8 +37,8 @@
         "zh-cn": "一个模拟操作系统的扩展，包含CMD终端、寄存器管理、外部程序加载、自定义窗口和GUI组件等功能。"
       },
       "id": "gmyosWindow",
-      "slug": "windows-of-os/windows-of-os.js",
-      "onlineURL": "https://extensions.remixwarp.org/gmy-xxl/windows-of-os.js",
+      "slug": "windows-of-os/windows-of-os",
+      "onlineURL": "https://extensions.remixwarp.org/gmy-xxl/windows-of-os",
       "image": "windows-of-os/win-of-os.png",
       "credits": [
         "gmy-xxl"
@@ -60,7 +60,7 @@
         "zh-cn": "将你的声音用文本储存"
       },
       "id": "audio-encoder",
-      "slug": "audio-encoder/audio-encoder.js",
+      "slug": "audio-encoder/audio-encoder",
       "image": "audio-encoder/audio-encoder.svg",
       "credits": [
         {
@@ -79,7 +79,7 @@
         "zh-cn": "高性能颜色分析器，通过URL获取颜色信息"
       },
       "id": "NTcolor-remixwarp",
-      "slug": "ntcolor/ntcolor.js",
+      "slug": "ntcolor/ntcolor",
       "image": "ntcolor/ntcolor.png",
       "credits": [
         {
@@ -98,7 +98,7 @@
         "zh-cn": "Simple3D扩展的中文汉化版本，让你轻松在Scratch中创建3D项目。"
       },
       "id": "xeltallivSimple3D",
-      "slug": "simple3d-cn/simple3d-cn.js",
+      "slug": "simple3d-cn/simple3d-cn",
       "image": "simple3d-cn/simple3d-cn.png",
       "credits": [
         {
@@ -122,7 +122,7 @@
         "zh-cn": "让寻路更加迅速"
       },
       "id": "astar-odyssey",
-      "slug": "astar-odyssey/astar-odyssey.js",
+      "slug": "astar-odyssey/astar-odyssey",
       "image": "astar-odyssey/astar-odyssey.svg",
       "credits": [
         {
