@@ -1,7 +1,7 @@
 {
   "information": {
     "name": "CY ScrExt Hub",
-    "tag": "cy-scrext-hub",
+    "tag": "cyscrexthub",
     "source": "https://rw-extensions.pages.dev/cy-scr-ext-hub/"
   },
   "extensions": [
@@ -739,6 +739,6 @@
           "name": "Bluest_iloveblue5715"
         }
       ]
-    },
+    }
   ]
 }
