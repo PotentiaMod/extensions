@@ -1,0 +1,191 @@
+{
+  "information": {
+    "name": "OpenWarp",
+    "tag": "ow",
+    "source": "https://rw-extensions.pages.dev/yesshape/"
+  },
+  "extensions": [
+   {
+      "name": "Cloud Variables+",
+      "nameTranslations": {
+        "zh-cn": "云变量+"
+      },
+      "description": "Additional cloud variable blocks enable advanced functions such as creating, modifying, and deleting cloud variables, connecting to different cloud variable servers, and changing project IDs.",
+      "descriptionTranslations": {
+        "zh-cn": "更多的云变量操作积木，允许创建、更改、删除云变量，连接不同的云变量服务器，更改作品ID等进阶功能。"
+      },
+      "id": "cloudvariablesplus",
+      "slug": "cloudvariablesplus",
+      "image": "images/cloudvariablesplus.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Mouse+",
+      "nameTranslations": {
+        "zh-cn": "鼠标+"
+      },
+      "description": "Control the mouse position, customize the cursor style, display a virtual pointer, and support pointer locking. When the pointer is locked, mouse movement reports relative displacement.",
+      "descriptionTranslations": {
+        "zh-cn": "控制鼠标位置、自定义光标样式、显示虚拟指针，并支持指针锁定功能。指针锁定后鼠标移动将报告相对位移。"
+      },
+      "id": "mouseplus",
+      "slug": "mouseplus",
+      "image": "images/mouseplus.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Select Box",
+      "nameTranslations": {
+        "zh-cn": "选择框"
+      },
+      "description": "Added checkbox functionality.",
+      "descriptionTranslations": {
+        "zh-cn": "添加选择框功能。"
+      },
+      "id": "selectbox",
+      "slug": "selectbox",
+      "image": "images/selectbox.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Input Box",
+      "nameTranslations": {
+        "zh-cn": "输入框"
+      },
+      "description": "Added input field functionality.",
+      "descriptionTranslations": {
+        "zh-cn": "添加输入框功能。"
+      },
+      "id": "inputbox",
+      "slug": "inputbox",
+      "image": "images/inputbox.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+	{
+      "name": "Advanced Keys",
+      "nameTranslations": {
+        "zh-cn": "按键侦测"
+      },
+      "description": "Advanced features such as extended key detection and key combination detection.",
+      "descriptionTranslations": {
+        "zh-cn": "更多的按键侦测与组合键侦测等进阶功能。"
+      },
+      "id": "advancedkeys",
+      "slug": "advancedkeys",
+      "image": "images/advancedkeys.svg",
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+    {
+      "name": "Text to HTML",
+      "nameTranslations": {
+        "zh-cn": "文字转HTML"
+      },
+      "description": "It can convert some basic HTML formatting.",
+      "descriptionTranslations": {
+        "zh-cn": "可以转换一些基本的HTML格式。"
+      },
+      "id": "texttohtml",
+      "slug": "texttohtml",
+      "image": "images/unknown.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "by": [
+        {
+          "name": "Comtbwp"
+        }
+      ]
+    },
+	{
+      "name": "MMO",
+      "nameTranslations": {
+        "zh-cn": "MMO"
+      },
+      "description": "Massively Multiplayer Online.",
+      "descriptionTranslations": {
+        "zh-cn": "Massively Multiplayer Online。"
+      },
+      "id": "MMOGameOnlineV9",
+      "slug": "MMOGameOnlineV9",
+      "image": "images/MMOGameOnlineV9.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "by": [
+        {
+          "name": "Hugh",
+          "link": "https://space.bilibili.com/3546737813752345"
+        }
+      ]
+    },
+    {
+      "name": "Image Size",
+      "nameTranslations": {
+        "zh-cn": "获取图片长、宽"
+      },
+      "description": "Get the height and width of the image.",
+      "descriptionTranslations": {
+        "zh-cn": "获取图片的长、宽。"
+      },
+      "id": "imagesize",
+      "slug": "imagesize",
+      "image": "images/imagesize.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    },
+    {
+      "name": "javascript",
+      "nameTranslations": {
+        "zh-cn": "javascript"
+      },
+      "description": "使用javascript代码",
+      "descriptionTranslations": {
+        "zh-cn": "使用javascript代码"
+      },
+      "id": "javascript",
+      "slug": "javascript",
+      "image": "images/unknown.svg",
+      "tags": [
+        "yesshape"
+      ],
+      "by": [
+        {
+          "name": "Yesshape",
+          "link": "https://scratch.mit.edu/users/yesshape/"
+        }
+      ]
+    }
+  ]
+}
