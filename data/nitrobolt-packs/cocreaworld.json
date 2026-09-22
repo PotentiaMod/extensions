@@ -319,6 +319,166 @@
       "description": "隐藏的积木块，兼容scratch、turbowarp",
       "image": "works-covers/913cc5fe-a524-4f06-93da-0b7f4e748c80.png",
 	  "by": [{"name": "蜗牛工作室"}]
+    },
+	{
+      "slug": "user_projects_assets/cecf778a436a677ba931d27751bf4ddb.js",
+      "id": "3dExtension",
+      "name": "3d",
+      "description": "ai写的，似乎没什么用",
+      "image": "works-covers/750105b6-5213-4eba-be39-d3f68b21fdea.png",
+	  "by": [{"name": "Gossamer-丝"}]
+    },
+    {
+      "slug": "user_projects_assets/f6f32824ee3b413db3092c0a676c9214.js",
+      "id": "12uihehufhsugjfgsuihf",
+      "name": "Three Pro",
+      "description": "更简洁的3D计算！",
+      "image": "works-covers/d3bf7a00-0f74-4432-b05f-014ebd943268.png",
+	  "by": [{"name": "蜗牛工作室"}]
+    },
+    {
+      "slug": "user_projects_assets/c5dceb1bdafeceae412a68a22d9ad57b.js",
+      "id": "deepseekchat",
+      "name": "DeepSeek对话",
+      "description": "需要自行申请API密钥",
+      "image": "works-covers/a5d7cb1e-423d-4d29-81ec-276fb043c3fd.png",
+	  "by": [{"name": "爱编程的坤南"}]
+    },
+    {
+      "slug": "user_projects_assets/645580f09ca1bdcabeb51cfdd8aba7a9.js",
+      "id": "kfwjxz",
+      "name": "高端下载拓展",
+      "description": "自持任意格式，不要传播病毒！",
+      "image": "works-covers/f702db3e-b104-465c-8a86-b2cbacace8e2.png",
+	  "by": [{"name": "cdy"}]
+    },
+    {
+      "slug": "user_projects_assets/b5db56c515f14d6c3e7d1bc677498ab4.js",
+      "id": "cfinsp",
+      "name": "CFinsp",
+      "description": "为作品内置小破挂",
+      "image": "works-covers/29bdb9da-6291-4dfb-b61d-01625b831895.png",
+	  "by": [{"name": "往昔余庆"}]
+    },
+    {
+      "slug": "user_projects_assets/3ae570a81ae8d2e7bd7aafb9a395611b.js",
+      "id": "rxp",
+      "name": "爬虫",
+      "description": "爬虫",
+      "image": "works-covers/27130516-95cc-49d3-bce9-36bb94a71d1a.png",
+	  "by": [{"name": "瑞轩"}]
+    },
+    {
+      "slug": "user_projects_assets/9d7fafbc4533d81304d8c18172e7c0ac.js",
+      "id": "163music",
+      "name": "网易云音乐",
+      "description": "播放来自网易云音乐的音乐（若无法使用可以播放本地或其他URL链接的音乐）",
+      "image": "works-covers/81255f01-6a26-498a-8d07-8aeb2c7164b1.png",
+	  "by": [{"name": "浅_酱_"}]
+    },
+    {
+      "slug": "user_projects_assets/955022d848f112d5072ba1e364a31bda.js",
+      "id": "locationExtension",
+      "name": "获取地址",
+      "description": "获取用户的地址（经纬度）",
+      "image": "works-covers/3d25ff6a-68aa-4069-8311-5ac183638fdd.png",
+	  "by": [{"name": "智溯CS"}]
+    },
+    {
+      "slug": "user_projects_assets/ec151b3c7399d45795a1b156938ae500.js",
+      "id": "rxsj",
+      "name": "随机生成地形",
+      "description": "随机生成地形",
+      "image": "works-covers/96fa69c3-8435-4975-a5d0-41102c69610d.png",
+	  "by": [{"name": "瑞轩"}]
+    },
+    {
+      "slug": "user_projects_assets/89a7dd441786a0e1f2d266b938d234da.js",
+      "id": "yizhxigo",
+      "name": "游戏机模拟器",
+      "description": "改编自酷可mc 但可以直接使用",
+      "image": "works-covers/31596dea-3c55-420f-a2d1-879932e69058.png",
+	  "by": [{"name": "一只修勾"}]
+    },
+    {
+      "slug": "user_projects_assets/aa483efc4f800f63bd5ff52b5025d6ad.js",
+      "id": "addImage1",
+      "name": "动态资源，但是第三方图片.改",
+      "description": "动态资源",
+      "image": "works-covers/288fd92d-12a3-47cb-a260-b2d6b56e5ec9.png",
+	  "by": [{"name": "飞刀小李"}]
+    },
+    {
+      "slug": "user_projects_assets/59778962cda1aa0dc40262dad19721b1.js",
+      "id": "bilibiliAPIaffiliateGetcoverURL",
+      "name": "获取？？？",
+      "description": "又是用AI乱做的一个拓展，没有任何实际用处，最好还是别加载了",
+      "image": "works-covers/0f4b7a56-04e9-4989-8aeb-1412980a33a9.png",
+	  "by": [{"name": "这个名字花了我几分钟_248902673"}]
+    },
+    {
+      "slug": "user_projects_assets/ad364a23089332a6ffed2fa9c651fadf.js",
+      "id": "passtext",
+      "name": "加密文本-支持中文",
+      "description": "可以加密解密文本",
+      "image": "works-covers/7c4ca196-2548-4af6-8b0f-9482df32649b.jpg",
+	  "by": [{"name": "Donvie"}]
+    },
+    {
+      "slug": "user_projects_assets/80d802b6c06fc53c05cf63e61a137f71.js",
+      "id": "dl0",
+      "name": "dl0",
+      "description": "更优雅的数据字面量",
+      "image": "works-covers/9847c927-1b84-4f44-a305-71a62ae048a8.png",
+	  "by": [{"name": "往昔余庆"}]
+    },
+    {
+      "slug": "user_projects_assets/66e5ef32da08b68ac29ad754292ada4c.js",
+      "id": "PoweredByNCJM",
+      "name": "中文加密",
+      "description": "中文加密",
+      "image": "works-covers/b831ad64-dbe0-4997-8f3c-0af7bcb354eb.png",
+	  "by": [{"name": "两年半"}]
+    },
+    {
+      "slug": "user_projects_assets/d8b2da1700084044c8e68c585fee9da6.js",
+      "id": "fetchExtension",
+      "name": "DeepSeekAPI对话",
+      "description": "DeepSeekAPI对话",
+      "image": "works-covers/5f99eeee-6a00-4754-b705-21342b3579e5.png",
+	  "by": [{"name": "两年半"}]
+    },
+    {
+      "slug": "user_projects_assets/3a6e647720d57fd6b73cc9fdd4f72c78.js",
+      "id": "filesystem",
+      "name": "rxFS-Pro",
+      "description": "rxFS-Pro",
+      "image": "works-covers/deeeca39-488d-4910-b7b4-2e63d69783d0.png",
+	  "by": [{"name": "两年半"}]
+    },
+    {
+      "slug": "user_projects_assets/c1135fed2ab4a6b34c0dcfb9cc10ec69.js",
+      "id": "achievements",
+      "name": "更快捷的成就系统",
+      "description": "更快捷的成就系统，可以因为什么原因就移除位获得的成就来无法获得",
+      "image": "works-covers/970b3a6a-bc07-4884-9e2b-57cb1eafd20c.png",
+	  "by": [{"name": "两年半"}]
+    },
+    {
+      "slug": "user_projects_assets/d6e667a9792eb47aab994866c21fdc89.js",
+      "id": "zvzTest1",
+      "name": "测试",
+      "description": "确认可行后另行发布扩展，请勿导入该扩展",
+      "image": "works-covers/91d25406-61fd-4d05-938f-cf0623991c4d.png",
+	  "by": [{"name": "往昔余庆"}]
+    },
+    {
+      "slug": "user_projects_assets/d59bcf93899cc64e12ec59e7cc59407c.js",
+      "id": "ccwshop",
+      "name": "商品管理扩展",
+      "description": "商品管理扩展",
+      "image": "works-covers/448f95b7-9ee6-4721-8d2d-1eef921aa901.png",
+	  "by": [{"name": "两年半"}]
     }
   ]
 }
