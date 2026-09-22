@@ -6,7 +6,7 @@
   },
   "extensions": [
     {
-      "slug": "user_projects_assets/516299f1859d44315bb47f2209dea7c4.js",
+      "slug": "user_projects_assets/516299f1859d44315bb47f2209dea7c4",
       "id": "TipsC",
       "name": "Tips for -contact-",
       "description": "注释",
@@ -14,7 +14,7 @@
 	  "by": [{"name": "-contact-"}]
     },
     {
-      "slug": "user_projects_assets/d0410ff7bcf3d8d15996c94a55084031.js",
+      "slug": "user_projects_assets/d0410ff7bcf3d8d15996c94a55084031",
       "id": "advancedAudioExtension",
       "name": "高级音乐播放",
       "description": "和懒加载有点像？",
@@ -22,7 +22,7 @@
 	  "by": [{"name": "Toy"}]
     },
     {
-      "slug": "user_projects_assets/a719e61eaf6d4faa6de10e8dbc47357f.js",
+      "slug": "user_projects_assets/a719e61eaf6d4faa6de10e8dbc47357f",
       "id": "ASCII2.0",
       "name": "ASCII加密解密",
       "description": "用ASCII编码加密解密",
@@ -30,7 +30,7 @@
 	  "by": [{"name": "Tynthrax【TNT_G】"}]
     },
     {
-      "slug": "user_projects_assets/b04407aaf31bd966fc2628a9e5f62b5e.js",
+      "slug": "user_projects_assets/b04407aaf31bd966fc2628a9e5f62b5e",
       "id": "wy",
       "name": "混淆器",
       "description": "啊啊啊，我要气死了，现在抄代码的这么多，没错，说的就是你，还不快点看看，给你的拓展源码加密！！！！！",
@@ -38,7 +38,7 @@
 	  "by": [{"name": "Tynthrax【TNT_G】"}]
     },
     {
-      "slug": "user_projects_assets/f8b1a1f74f49f38b36569795222f27cb.js",
+      "slug": "user_projects_assets/f8b1a1f74f49f38b36569795222f27cb",
       "id": "someBlo",
       "name": "miophhh HOOOO",
       "description": "好东西",
@@ -46,7 +46,7 @@
 	  "by": [{"name": "PPPoE?"}]
     },
     {
-      "slug": "user_projects_assets/82631c6a5b092e556c504a4ec4a6911f.js",
+      "slug": "user_projects_assets/82631c6a5b092e556c504a4ec4a6911f",
       "id": "hhhhhhhhhhhhhhhhhhh",
       "name": "2333333安全卫士",
       "description": "安全",
@@ -54,7 +54,7 @@
 	  "by": [{"name": "Mike"}]
     },
     {
-      "slug": "user_projects_assets/4b843f12bf46ccf6397bfa621da09c95.js",
+      "slug": "user_projects_assets/4b843f12bf46ccf6397bfa621da09c95",
       "id": "IOpTYREwchongchongzhizhizhizhizhizhi",
       "name": "杂项",
       "description": "杂项",
@@ -62,7 +62,7 @@
 	  "by": [{"name": "واهأو"}]
     },
     {
-      "slug": "user_projects_assets/da2f6de9dab1b6a8796493893aaab008.js",
+      "slug": "user_projects_assets/da2f6de9dab1b6a8796493893aaab008",
       "id": "lmsHackedBlocks",
       "name": "隐藏的积木",
       "description": "turbowarp搬运",
@@ -70,7 +70,7 @@
 	  "by": [{"name": "创作者_246341217"}]
     },
     {
-      "slug": "user_projects_assets/b48e046cb1833bef208b068dfd5971a7.js",
+      "slug": "user_projects_assets/b48e046cb1833bef208b068dfd5971a7",
       "id": "timeCalcPro",
       "name": "时间计算Pro",
       "description": "更多计算时间的积木",
@@ -78,7 +78,7 @@
 	  "by": [{"name": "草莓派的创作者"}]
     },
     {
-      "slug": "user_projects_assets/9653a7e6cd9a3337674ee4a4a93d534f.js",
+      "slug": "user_projects_assets/9653a7e6cd9a3337674ee4a4a93d534f",
       "id": "nn",
       "name": "NN",
       "description": "神经网络",
@@ -86,14 +86,14 @@
 	  "by": [{"name": "官方小傲娇"}]
     },
     {
-      "slug": "user_projects_assets/4f7c66e8f2e7dfd91f1e674b64b658da.js",
+      "slug": "user_projects_assets/4f7c66e8f2e7dfd91f1e674b64b658da",
       "id": "hideInfo",
       "name": "字符串的隐藏信息",
       "description": "设置与获取字符串的隐藏信息",
       "image": "works-covers/6e898113-d028-4f87-b1f8-3b1ec0b7cbb0.png"
 	  },
     {
-      "slug": "user_projects_assets/9104d7f36810503857700dba6a7bba72.js",
+      "slug": "user_projects_assets/9104d7f36810503857700dba6a7bba72",
       "id": "wl",
       "name": "wlwlwl",
       "description": "网络",
@@ -101,7 +101,7 @@
 	  "by": [{"name": "༺✧ཌༀཉི溯光༃ༀད✧༻"}]
     },
     {
-      "slug": "user_projects_assets/5f55f9c7f6390fef760bf1469be5eebf.js",
+      "slug": "user_projects_assets/5f55f9c7f6390fef760bf1469be5eebf",
       "id": "tc",
       "name": "弹窗",
       "description": "弹窗",
@@ -109,7 +109,7 @@
 	  "by": [{"name": "༺✧ཌༀཉི溯光༃ༀད✧༻"}]
     },
     {
-      "slug": "user_projects_assets/40a10d7fd06d2bda7432d74a6271a062.js",
+      "slug": "user_projects_assets/40a10d7fd06d2bda7432d74a6271a062",
       "id": "furryrtesteval",
       "name": "能过审的 eval",
       "description": "干碎扩展集市大部分eval扩展了",
@@ -117,21 +117,21 @@
 	  "by": [{"name": "用户已注销"}]
     },
     {
-      "slug": "user_projects_assets/3ba5331150375d577ebebb617f22b128.js",
+      "slug": "user_projects_assets/3ba5331150375d577ebebb617f22b128",
       "id": "12341235",
       "name": "微笑的浏览器",
       "description": "浏览器",
       "image": "works-covers/c0a2ffc7-f69a-4263-be43-556bebe6d4ee.png"
     },
     {
-      "slug": "user_projects_assets/09a286426f57d92d5f7a4cb512478318.js",
+      "slug": "user_projects_assets/09a286426f57d92d5f7a4cb512478318",
       "id": "FalseTrue",
       "name": "假的真",
       "description": "假的真",
       "image": "works-covers/0915b023-7935-4752-8400-1ad29f92033a.png"
     },
     {
-      "slug": "user_projects_assets/5da115b1bfa161cad8f2529f40f2ec55.js",
+      "slug": "user_projects_assets/5da115b1bfa161cad8f2529f40f2ec55",
       "id": "cappuLambda",
       "name": "Lambda 发布版",
       "description": "Lambda yes, Procedure no!",
@@ -139,7 +139,7 @@
 	  "by": [{"name": "Cappu"}]
     },
     {
-      "slug": "user_projects_assets/a35f04f719e435010bb6e842817d73e4.js",
+      "slug": "user_projects_assets/a35f04f719e435010bb6e842817d73e4",
       "id": "AZblocksie",
       "name": "simple T/F 简单真假",
       "description": "可以简单的调用真或者假，而不是自制永远为真/假的条件块",
@@ -147,7 +147,7 @@
 	  "by": [{"name": "阿Z哦"}]
     },
     {
-      "slug": "user_projects_assets/6568a4fb332fa1590238a9d1d54dc49d.js",
+      "slug": "user_projects_assets/6568a4fb332fa1590238a9d1d54dc49d",
       "id": "say",
       "name": "输入字符",
       "description": "无",
@@ -155,7 +155,7 @@
 	  "by": [{"name": "创作者_280044633"}]
     },
     {
-      "slug": "user_projects_assets/4ff697823bea92111b2b12519dc7977b.js",
+      "slug": "user_projects_assets/4ff697823bea92111b2b12519dc7977b",
       "id": "rxfs",
       "name": "rxFS",
       "description": "轻松地构建一个文件系统，实现管理，存储，访问数据功能。由0832授权重写的Gandi版本。",
