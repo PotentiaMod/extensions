@@ -161,6 +161,164 @@
       "description": "轻松地构建一个文件系统，实现管理，存储，访问数据功能。由0832授权重写的Gandi版本。",
       "image": "works-covers/fa1a2514-1297-45f7-8aec-0012f6a39c0c.png",
 	  "by": [{"name": "官方小傲娇"}]
+    },
+	{
+      "slug": "user_projects_assets/652e5a8196fa1e6673909bc64cacb2b7",
+      "id": "wydyjxczh",
+      "name": "网页的一些操作",
+      "description": "第一次写扩展，这个就是连接网页用的，有点没用啦",
+      "image": "works-covers/41994a79-9aaf-4f9b-a5dc-e6fa7734c0e8.png",
+	  "by": [{"name": "一个叫Wjh的蒟蒻♦"}]
+    },
+    {
+      "slug": "user_projects_assets/364cb434b05870a24f391210410a5bad",
+      "id": "0832rxfs",
+      "name": "0832-RxFs",
+      "description": "搬运0832，非自制，原链接",
+      "image": "works-covers/001af002-7226-4164-86a9-110bc9fcfb1a.png",
+	  "by": [{"name": "zhiyu"}]
+    },
+    {
+      "slug": "user_projects_assets/a59e035c1169ab80155bed5f20921ca2",
+      "id": "trueandfalse",
+      "name": "真与假（整活）",
+      "description": "真与假（整活）",
+      "image": "works-covers/eae1e38d-4ff6-4460-810f-d03b074579f9.png",
+	  "by": [{"name": "淡蓝色"}]
+    },
+    {
+      "slug": "user_projects_assets/fad48e0863bf72cb05a24534e1d73aa9",
+      "id": "webPageSourceViewer",
+      "name": "网页代码获取",
+      "description": "爬虫，获取网页源代码",
+      "image": "works-covers/a68cb737-737e-4fff-8808-3fc9c346a460.png",
+	  "by": [{"name": "拦屏"}]
+    },
+    {
+      "slug": "user_projects_assets/e0b181952745fe989f3e8e95b452eb4a",
+      "id": "formatjson",
+      "name": "JSON格式化",
+      "description": "将JSON格式化",
+      "image": "works-covers/8efe5172-02df-4a88-a3c5-00c1c028c8af.png"
+    },
+    {
+      "slug": "user_projects_assets/aa30066943202a43421b0992ac01ba47",
+      "id": "StarrySimpleEncryption",
+      "name": "简单加密",
+      "description": "使用指定密钥加密/解密任意文本",
+      "image": "works-covers/d1dc2020-2994-4a6c-a19b-45a86a69f6f3.png",
+	  "by": [{"name": "Starry_cbz"}]
+    },
+    {
+      "slug": "user_projects_assets/559f7c37201474b4596fad07d570327f",
+      "id": "1001",
+      "name": "jjjjjjjjjjjjjjjjjjjj",
+      "description": "会给你一个扩展",
+      "image": "works-covers/6eb7a57a-b43b-4786-b59c-02966d952131.png",
+	  "by": [{"name": "PPPoE?"}]
+    },
+    {
+      "slug": "user_projects_assets/89b1a45b9af5287b14ba7cfe29113720",
+      "id": "IOUTYREwchongzhi",
+      "name": "吴辰宇的杂项（重置版）",
+      "description": "杂项",
+      "image": "works-covers/53c2799b-455d-4470-9af7-1744d7a5de70.png",
+	  "by": [{"name": "واهأو"}]
+    },
+    {
+      "slug": "user_projects_assets/38adaf1581d31061ca6680f083b762ed",
+      "id": "openMikuLink",
+      "name": "Miku [初音] （ #39D59F版 ）",
+      "description": "Open Miku Link ！",
+      "image": "works-covers/50973288-24ef-4017-b0c4-44541deac7ad.PNG",
+	  "by": [{"name": "Lumi"}]
+    },
+    {
+      "slug": "user_projects_assets/f369674852332b29d01d2a90e630c8d8",
+      "id": "hashGenerator",
+      "name": "自动生成哈希值",
+      "description": "可以自动生成哈希值，帮助用户包含隐私",
+      "image": "works-covers/5d72f9d1-31ad-4d23-8c11-9c5444a9c81e.png",
+	  "by": [{"name": "小鹅鹅（張）"}]
+    },
+    {
+      "slug": "user_projects_assets/ebaf69d760c962ead3618708b8e4f2e9",
+      "id": "replaceCanvasWithIframe",
+      "name": "iframe",
+      "description": "在scratch使用iframe",
+      "image": "works-covers/dc4e5abc-fc08-4b6a-8b16-d0d0e53a34ba.jpg",
+	  "by": [{"name": "Displaybook"}]
+    },
+    {
+      "slug": "user_projects_assets/8977a8d02ed4861b92c68d6eb119c95b",
+      "id": "xttz",
+      "name": "科技创新的通知",
+      "description": "以系统默认的主题向设备发送通知",
+      "image": "works-covers/4ade6cf2-1573-4f1e-8729-1c5d5fa77bdb.png",
+	  "by": [{"name": "CCWMORAN"}]
+    },
+    {
+      "slug": "user_projects_assets/c22fafbcb21fdc03c2021ab64b22974c",
+      "id": "compiler",
+      "name": "编译模式",
+      "description": "打开、关闭编译模式",
+      "image": "works-covers/548b9541-cf2f-4ad9-8e78-86635da57bc7.png"
+    },
+    {
+      "slug": "user_projects_assets/f18c82d69387fedd8815e196806310ff",
+      "id": "SPASfontManager",
+      "name": "字体管理",
+      "description": "管理你的字体",
+      "image": "works-covers/6d7ed7c9-3456-434a-a82c-4a0044008242.png",
+	  "by": [{"name": "Silence喵"}]
+    },
+    {
+      "slug": "user_projects_assets/bc81af5ee2b96ff1adfa81ff48ad25d5",
+      "id": "costumeExtension",
+      "name": "家人排序",
+      "description": "我是谁？你是谁？你第几？我第几，求家里共有多少人",
+      "image": "works-covers/e77331a6-7fa4-44cb-b282-b1878b08d424.png",
+	  "by": [{"name": "垒之叶"}]
+    },
+    {
+      "slug": "user_projects_assets/1874ba471e890ee2436ceacf60007a00",
+      "id": "browserAndScreenInfo",
+      "name": "获取浏览器坐标",
+      "description": "获取浏览器相对屏幕左上角的坐标",
+      "image": "works-covers/74f11a8a-3d1f-4417-bd9e-23bae94f8604.png",
+	  "by": [{"name": "章"}]
+    },
+    {
+      "slug": "user_projects_assets/d7353c46da23a4400350fc718803170c",
+      "id": "fh",
+      "name": "fh",
+      "description": ".......",
+      "image": "works-covers/1d3937b3-5697-4a7a-96be-444eeb173e11.png",
+	  "by": [{"name": "Feyiya"}]
+    },
+    {
+      "slug": "user_projects_assets/258f023106640af4977f98b7d3575b6c",
+      "id": "enhancedalerts",
+      "name": "更好的弹窗",
+      "description": "无",
+      "image": "works-covers/10642cc1-fd0f-4a60-8444-4fe0e4196474.png",
+	  "by": [{"name": "爱编程的坤南"}]
+    },
+    {
+      "slug": "user_projects_assets/d89635b28c7beb98f1fadabbfa346ebc",
+      "id": "Customstyles",
+      "name": "自定义样式",
+      "description": "设置变量颜色、坐标等和其他样式",
+      "image": "works-covers/e6cad46c-f92d-4545-b1d6-b12714121983.png",
+	  "by": [{"name": "蜗牛工作室"}]
+    },
+    {
+      "slug": "user_projects_assets/1ae3a687c6b0825660d327ecb2d78f1c",
+      "id": "hidebloks",
+      "name": "隐藏积木块",
+      "description": "隐藏的积木块，兼容scratch、turbowarp",
+      "image": "works-covers/913cc5fe-a524-4f06-93da-0b7f4e748c80.png",
+	  "by": [{"name": "蜗牛工作室"}]
     }
   ]
 }
