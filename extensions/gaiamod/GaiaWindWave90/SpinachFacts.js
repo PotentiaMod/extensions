@@ -1,8 +1,8 @@
 // Name: Spinach Facts
 // ID: ahoySpinach
 // Description: An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.
-// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
-// License: CC BY-NC-SA 4.0
+// By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
+// License: MPL-2.0
 /*
 Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts Extensions
 */

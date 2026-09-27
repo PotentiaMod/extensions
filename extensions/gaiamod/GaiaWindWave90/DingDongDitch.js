@@ -1,9 +1,9 @@
 // Name: Ding Dong Ditch
 // ID: dingDongDitch
 // Description: Something I did for fun.
-// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // Original: Blocks from others users
-// License: CC BY-NC-SA 4.0
+// License: MPL-2.0
 (function(Scratch) {
   'use strict';
   
