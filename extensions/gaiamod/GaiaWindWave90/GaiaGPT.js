@@ -1,9 +1,9 @@
 // Name: GaiaGPT
 // ID: gaiaGPT
 // Description: A GaiaMod modification of logise1123's Pang AI with more prompts.
-// By: GaiaWindWave90 <https://github.com/gaiawindwave90/>
+// By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // Original: logise1123
-// License: MIT
+// License: MPL-2.0
 (function(Scratch) {
     'use strict';
     if (!Scratch.extensions.unsandboxed) throw new Error("This extension must run unsandboxed");
