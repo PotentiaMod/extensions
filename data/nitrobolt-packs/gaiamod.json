@@ -2,11 +2,11 @@
   "information": {
     "name": "GaiaMod",
     "tag": "gm",
-    "source": "https://gaiamod-main.github.io/"
+    "source": "https://gaiawindwave90.github.io/gm-extensions/"
   },
   "extensions": [
     {
-      "slug": "extensions/GaiaWindWave90/GaiaBlocks",
+      "slug": "GaiaWindWave90/GaiaBlocks",
       "id": "gaiaBlocks",
       "name": "Gaia Utilities",
       "description": "Wonderful utility blocks!",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "slug": "extensions/GaiaWindWave90/GTPPrompts",
+      "slug": "GaiaWindWave90/GTPPrompts",
       "id": "GPTPrompts",
       "name": "Prompts",
       "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "slug": "extensions/GaiaWindWave90/PenguinAttack",
+      "slug": "GaiaWindWave90/PenguinAttack",
       "id": "penguinAttack",
       "name": "Penguin Attack!",
       "description": "Edited version of the Fire in the Hole extension. Original extension by JeremyGamer13.",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "slug": "extensions/GaiaWindWave90/GaiaGPT",
+      "slug": "GaiaWindWave90/GaiaGPT",
       "id": "gaiaGPT",
       "name": "GaiaGPT",
       "description": "A GaiaMod modification of logise1123's Pang AI with more prompts.",
@@ -58,7 +58,7 @@
       ]
     },
 	{
-      "slug": "extensions/GaiaWindWave90/Webcamrecorder",
+      "slug": "GaiaWindWave90/Webcamrecorder",
       "id": "Webcamrecorder",
       "name": "Webcam Recorder",
       "description": "Records videos straight out of webcam.",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "slug": "extensions/GaiaWindWave90/SpinachFacts",
+      "slug": "GaiaWindWave90/SpinachFacts",
       "id": "ahoySpinach",
       "name": "Spinach Facts",
       "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
@@ -84,7 +84,7 @@
       ]
     },
 	{
-      "slug": "extensions/GaiaWindWave90/DingDongDitch",
+      "slug": "GaiaWindWave90/DingDongDitch",
       "id": "dingDongDitch",
       "name": "Ding Dong Ditch",
       "description": "Something I did for fun.",
@@ -97,7 +97,7 @@
       ]
     },
 	{
-      "slug": "extensions/GaiaWindWave90/PonySpawner",
+      "slug": "GaiaWindWave90/PonySpawner",
       "id": "ponyspawn",
       "name": "Pony Spawner",
       "description": "Spawn characters from MLP:FIM for fun!",
