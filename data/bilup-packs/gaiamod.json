@@ -1,11 +1,11 @@
 {
   "extensions": [
     {
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaBlocks",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/GaiaBlocks",
       "id": "gaiaBlocks",
       "name": "Gaia Utilities",
       "description": "Wonderful utility blocks!",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/GaiaUtilities.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/GaiaUtilities.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -14,11 +14,11 @@
       ]
     },
     {
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GTPPrompts",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/GTPPrompts",
       "id": "GPTPrompts",
       "name": "Prompts",
       "description": "Prompts made for Gaia AI. Inspired by the prompts extension found in Snail-IDE.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/prompts.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/prompts.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -27,11 +27,11 @@
       ]
     },
     {
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/PenguinAttack",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/PenguinAttack",
       "id": "penguinAttack",
       "name": "Penguin Attack!",
       "description": "Edited version of the Fire in the Hole extension. Original extension by JeremyGamer13.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/PenguinAttack.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/PenguinAttack.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -40,11 +40,11 @@
       ]
     },
     {
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/GaiaGPT",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/GaiaGPT",
       "id": "gaiaGPT",
       "name": "GaiaGPT",
       "description": "A GaiaMod modification of logise1123's Pang AI with more prompts.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/GaiaGPT.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/GaiaGPT.png",
 	  "by": [
         {
           "name": "GaiaWindWave90",
@@ -53,11 +53,11 @@
       ]
     },
 	{
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/Webcamrecorder",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/Webcamrecorder",
       "id": "Webcamrecorder",
       "name": "Webcam Recorder",
       "description": "Records videos straight out of webcam.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/WebCamThumb.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/WebCamThumb.png",
       "by": [
         {
           "name": "-SIPC-, with modifications by GaiaWindWave90",
@@ -66,11 +66,11 @@
       ]
     },
     {
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/SpinachFacts",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/SpinachFacts",
       "id": "ahoySpinach",
       "name": "Spinach Facts",
       "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/spinach.png",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/spinach.png",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -79,11 +79,11 @@
       ]
     },
 	{
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/DingDongDitch",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/DingDongDitch",
       "id": "dingDongDitch",
       "name": "Ding Dong Ditch",
       "description": "Something I did for fun.",
-      "image": "https://potentiamod.github.io/extensions/img/gaiamod/GaiaWindWave90/DingDongDitch.svg",
+      "image": "https://gaiawindwave90.github.io/gm-extensions/images/GaiaWindWave90/DingDongDitch.svg",
       "by": [
         {
           "name": "GaiaWindWave90",
@@ -92,7 +92,7 @@
       ]
     },
 	{
-      "slug": "https://gaiamod-main.github.io/extensions/GaiaWindWave90/PonySpawner",
+      "slug": "https://gaiawindwave90.github.io/gm-extensions/GaiaWindWave90/PonySpawner",
       "id": "ponyspawn",
       "name": "Pony Spawner",
       "description": "Spawn characters from MLP:FIM for fun!",
