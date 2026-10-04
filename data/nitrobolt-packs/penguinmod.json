@@ -979,6 +979,45 @@
           "link": null
         }
       ]
+    },
+	{
+        "slug": "extensions/NishiOwO/ode",
+        "id": "ODEE",
+        "name": "ODE",
+        "description": "3D physics using ODE.",
+        "image": "images/NishiOwO/ode.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "extensions/NishiOwO/turbosynth",
+        "id": "TurboSynth",
+        "name": "TurboSynth",
+        "description": "Synthesizer that uses TurboSynth.",
+        "image": "images/NishiOwO/turbosynth.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "extensions/NishiOwO/libxmp",
+      "id": "nishiowoLibxmpp",
+      "name": "Libxmp",
+      "description": "Play tracker modules using Libxmp.",
+      "image": "images/NishiOwO/libxmp.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
     }
   ]
 }
