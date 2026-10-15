@@ -2,7 +2,9 @@
   "information": {
     "name": "PenguinMod",
     "tag": "pm",
-    "source": "https://extensions.penguinmod.com/"
+    "source": "https://extensions.penguinmod.com/",
+    "color": "#00c3ff",
+    "icon": "https://penguinmod.com/favicon.ico"
   },
   "extensions": [
     {
