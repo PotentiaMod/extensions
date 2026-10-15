@@ -2,7 +2,9 @@
   "information": {
     "name": "Bilup",
     "tag": "bilup",
-    "source": "https://extensions.bilup.org/"
+    "source": "https://extensions.bilup.org/",
+    "color": "#75C1C4",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/bilup.svg"
   },
   "extensions": [
    {

@@ -2,7 +2,9 @@
   "information": {
     "name": "Astra Editor",
     "tag": "ae",
-    "source": "https://editors.astras.top/extensions/"
+    "source": "https://editors.astras.top/extensions/",
+    "color": "#0099FF",
+    "icon": "https://editors.astras.top/favicon.ico"
   },
   "extensions": [
     {

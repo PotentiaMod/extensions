@@ -2,7 +2,9 @@
   "information": {
     "name": "GaiaMod",
     "tag": "gm",
-    "source": "https://gaiawindwave90.github.io/gm-extensions/"
+    "source": "https://gaiawindwave90.github.io/gm-extensions/",
+    "color": "#2D2DD2",
+    "icon": "https://gaiamod-main.github.io/favicon.ico"
   },
   "extensions": [
     {

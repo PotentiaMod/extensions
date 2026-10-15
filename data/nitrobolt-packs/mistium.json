@@ -2,7 +2,9 @@
   "information": {
     "name": "Mistium",
     "tag": "mw",
-    "source": "https://extensions.mistium.com/"
+    "source": "https://extensions.mistium.com/",
+    "color": "#D399E5",
+    "icon": "https://raw.githubusercontent.com/ScratchBox-SE/scratch-gui/e81c5c16f3b812daa496aa196855d99effdebdc4/src/components/menu-bar/mistwarp-logo.svg"
   },
   "extensions": [
    {

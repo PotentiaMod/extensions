@@ -2,7 +2,9 @@
   "information": {
     "name": "BananaMod",
     "tag": "bm",
-    "source": "https://banana-mod.github.io/"
+    "source": "https://banana-mod.github.io/",
+    "color": "#F7DF4A",
+    "icon": "https://banana-mod.github.io/favicon.ico"
   },
   "extensions": [
    {
