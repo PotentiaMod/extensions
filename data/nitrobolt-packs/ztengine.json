@@ -2,7 +2,9 @@
   "information": {
     "name": "02Engine",
     "tag": "ztengine",
-    "source": "https://extensions.02engine.02studio.xyz/"
+    "source": "https://extensions.02engine.02studio.xyz/",
+    "color": "#00BAAD",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/02engine.svg"
   },
   "extensions": [
     {

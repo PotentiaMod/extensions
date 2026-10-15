@@ -2,7 +2,9 @@
   "information": {
     "name": "OpenWarp",
     "tag": "ow",
-    "source": "https://rw-extensions.pages.dev/yesshape/"
+    "source": "https://rw-extensions.pages.dev/yesshape/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

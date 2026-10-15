@@ -2,7 +2,9 @@
   "information": {
     "name": "CattyMod",
     "tag": "cattymod",
-    "source": "https://cattymod.app/extensions/"
+    "source": "https://cattymod.app/extensions/",
+    "color": "#4C97FF",
+    "icon": "https://cattymod.app/assets/cattymod.svg"
   },
   "extensions": [
    {

@@ -2,7 +2,9 @@
   "information": {
     "name": "Ruby Team",
     "tag": "ruby",
-    "source": "https://ruby-devs.vercel.app/cdn/"
+    "source": "https://ruby-devs.vercel.app/cdn/",
+    "color": "#000000",
+    "icon": "https://github.com/Snail-IDE/snail-ide.github.io/blob/develop/src/lib/libraries/extensions/snail-ide/ruby.png?raw=true"
   },
   "extensions": [
     {

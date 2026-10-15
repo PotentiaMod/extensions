@@ -2,7 +2,9 @@
   "information": {
     "name": "DinosaurMod",
     "tag": "dm",
-    "source": "https://raw.githubusercontent.com/Dinosaurmod/extensions/refs/heads/main/src/"
+    "source": "https://raw.githubusercontent.com/Dinosaurmod/extensions/refs/heads/main/src/",
+    "color": "#80f41a",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/dinosaurmod.svg"
   },
   "extensions": [
     {

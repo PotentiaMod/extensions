@@ -2,7 +2,9 @@
   "information": {
     "name": "Pooiod7",
     "tag": "pooiod7",
-    "source": "https://p7scratchextensions.pages.dev/ext/"
+    "source": "https://p7scratchextensions.pages.dev/ext/",
+	"color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

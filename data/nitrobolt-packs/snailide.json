@@ -2,7 +2,9 @@
   "information": {
     "name": "Snail IDE",
     "tag": "snailide",
-    "source": "https://snail-ide.js.org/"
+    "source": "https://snail-ide.js.org/",
+    "color": "#cc00ff",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/snailide.svg"
   },
   "extensions": [
     {

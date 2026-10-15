@@ -2,7 +2,9 @@
   "information": {
     "name": "ElectraMod",
     "tag": "em",
-    "source": "https://electramod-extensions-gallery.vercel.app/"
+    "source": "https://electramod-extensions-gallery.vercel.app/",
+    "color": "#625e97",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/electramod.svg"
   },
   "extensions": [
     {

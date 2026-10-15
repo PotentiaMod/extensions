@@ -2,7 +2,9 @@
   "information": {
     "name": "Cocrea World",
     "tag": "ccw",
-    "source": "https://m.ccw.site/"
+    "source": "https://m.ccw.site/",
+    "color": "#1C1B25",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/ccw.png"
   },
   "extensions": [
     {
