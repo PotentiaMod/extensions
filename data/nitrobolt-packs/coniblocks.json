@@ -2,7 +2,9 @@
   "information": {
     "name": "ConiBlocks",
     "tag": "cb",
-    "source": "https://coniblocks.github.io/extensions/"
+    "source": "https://coniblocks.github.io/extensions/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

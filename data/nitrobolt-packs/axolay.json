@@ -2,7 +2,9 @@
   "information": {
     "name": "Axolay",
     "tag": "axolay",
-    "source": "https://greedyallay.github.io/extensions/resources/"
+    "source": "https://greedyallay.github.io/extensions/resources/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

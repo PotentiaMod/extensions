@@ -2,7 +2,9 @@
   "information": {
     "name": "CY ScrExt Hub",
     "tag": "cyscrexthub",
-    "source": "https://rw-extensions.pages.dev/cy-scr-ext-hub/"
+    "source": "https://rw-extensions.pages.dev/cy-scr-ext-hub/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

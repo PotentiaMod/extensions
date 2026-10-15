@@ -1,7 +1,9 @@
 {
   "information": {
     "name": "CST1229",
-    "tag": "cst1229"
+    "tag": "cst1229",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
     {

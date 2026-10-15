@@ -2,7 +2,9 @@
   "information": {
     "name": "AppleleMod",
     "tag": "applele",
-    "source": "https://dimixixixiixix.github.io/Applele-extensions-idk-/"
+    "source": "https://dimixixixiixix.github.io/Applele-extensions-idk-/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
   },
   "extensions": [
    {

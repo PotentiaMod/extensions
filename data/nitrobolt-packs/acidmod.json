@@ -2,7 +2,9 @@
   "information": {
     "name": "AcidMod",
     "tag": "acid",
-    "source": "https://acidmod.js.org/extensions/"
+    "source": "https://acidmod.js.org/extensions/",
+    "color": "#56DA78",
+    "icon": "https://avatars.githubusercontent.com/u/171373608?s=200&v=4"
   },
   "extensions": [
     {
