@@ -2,7 +2,9 @@
   "information": {
     "name": "Ark IDE",
     "tag": "arkide",
-    "source": "https://extensions.arkide.site/"
+    "source": "https://extensions.arkide.site/",
+    "color": "#253cfd",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/arkide.png"
   },
   "extensions": [
     {
