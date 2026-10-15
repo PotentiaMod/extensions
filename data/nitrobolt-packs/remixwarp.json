@@ -2,7 +2,9 @@
   "information": {
     "name": "RemixWarp",
     "tag": "rw",
-    "source": "https://rw-extensions.pages.dev/remixwarp/"
+    "source": "https://rw-extensions.pages.dev/remixwarp/",
+    "color": "#000000",
+    "icon": "https://remixwarp.pages.dev/favicon.ico"
   },
   "extensions": [
    {

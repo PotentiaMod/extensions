@@ -2,7 +2,9 @@
   "information": {
     "name": "PotentiaMod",
     "tag": "pot",
-    "source": "https://potentiamod.github.io/pot-extensions/"
+    "source": "https://potentiamod.github.io/pot-extensions/",
+    "color": "#4800CC",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/potentiamod.svg"
   },
   "extensions": [
     {
