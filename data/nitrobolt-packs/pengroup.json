@@ -49,7 +49,7 @@
       "id": "RenderControl",
       "name": "Render Control",
       "description": "Modify the pen layer through various blocks. By SharkPool-SP",
-      "image": "extensions/ShadedStamps/thumbnail.png",
+      "image": "extensions/RenderControl/thumbnail.svg",
       "by": [
         {
           "name": "SharkPool",
