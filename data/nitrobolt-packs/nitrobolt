@@ -1,0 +1,334 @@
+{
+  "information": {
+    "name": "NitroBolt",
+    "tag": "nb",
+	"source": "https://extensions.nitrobolt.org/",
+    "color": "#ff5726",
+    "icon": "https://potentiamod.github.io/extensions/img/icons/nitrobolt.svg"
+  },
+  "extensions": [
+    {
+      "slug": "Comments",
+      "id": "comments",
+      "name": "Comments",
+      "description": "Organize and label your code.",
+      "nameTranslations": {
+        "es-419": "Comentarios",
+        "fil-ph": "Mga Komento",
+        "fr": "Commentaires ",
+        "ja": "コメント",
+        "lt": "Komentarai"
+      },
+      "descriptionTranslations": {
+        "es-419": "Organiza y describe tu codigo.",
+        "fil-ph": "Ayusin at labelan ang iyong code.",
+        "fr": "Organisez ett marquez votre code.",
+        "ja": "整理して、コードにラベルをつけます。",
+        "lt": "Sistemink ir pažymėk tavo kodą."
+      },
+      "image": "images/Comments.svg",
+      "samples": [
+        "ODE"
+      ]
+    },
+    {
+      "slug": "ddededodediamante/Vectors",
+      "id": "ddeVectors",
+      "name": "Vectors",
+      "description": "Manipulate vectors with common math operations.",
+      "nameTranslations": {
+        "es-419": "Vectores",
+        "fr": "Vecteurs",
+        "ja": "ベクター"
+      },
+      "descriptionTranslations": {
+        "es-419": "Manipula vectores con operaciones matemáticas comunes.",
+        "fil-ph": "Kontrolin ang mga vectors gamit ang mga karaniwang operators sa math.",
+        "fr": "Manipulez des vecteurs à l'aide d'opérations mathématiques courantes.",
+        "ja": "ベクターを一般的な数学で操作します。"
+      },
+      "image": "images/ddededodediamante/Vectors.svg",
+      "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ],
+      "samples": [
+        "ODE"
+      ]
+    },
+    {
+      "slug": "CubesterYT/Lambda",
+      "id": "cubesterLambda",
+      "name": "Lambda",
+      "description": "Make and use anonymous scripts.",
+      "nameTranslations": {
+        "ja": "ラムダ"
+      },
+      "descriptionTranslations": {
+        "es-419": "Haz y usa scripts anónimos.",
+        "fil-ph": "Gumawa at gumamit ng mga anonymous na scripts.",
+        "fr": "Créez et utilisez des scripts anonymes.",
+        "ja": "匿名なスクリプトを作って使います。"
+      },
+      "image": "images/CubesterYT/Lambda.svg",
+      "by": [
+        {
+          "name": "CubesterYT",
+          "link": "https://scratch.mit.edu/users/CubesterYT/"
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "ddededodediamante/Sprites",
+      "id": "ddeSprites",
+      "name": "Sprites",
+      "description": "Control and modify the project's sprites.",
+      "nameTranslations": {
+        "es-419": "Objetos",
+        "ja": "スプライト",
+        "lt": "Veikėjai"
+      },
+      "descriptionTranslations": {
+        "es-419": "Controla y modifica los objetos del proyecto.",
+        "fil-ph": "Kontrolin at baguhin ang sprites ng proyekto.",
+        "fr": "Contrôlez et modifiez les sprites du projet.",
+        "ja": "プロジェクトのスプライトをコントロールしたり、変更したりします。"
+      },
+      "image": "images/ddededodediamante/Sprites.svg",
+      "by": [
+        {
+          "name": "ddededodediamante",
+          "link": "https://github.com/ddededodediamante/"
+        }
+      ]
+    },
+    {
+      "slug": "Comments",
+      "id": "comments",
+      "name": "Comments",
+      "description": "Organize and label your code.",
+      "nameTranslations": {
+        "es-419": "Comentarios",
+        "fil-ph": "Mga Komento",
+        "fr": "Commentaires ",
+        "ja": "コメント",
+        "lt": "Komentarai"
+      },
+      "descriptionTranslations": {
+        "es-419": "Organiza y describe tu codigo.",
+        "fil-ph": "Ayusin at labelan ang iyong code.",
+        "fr": "Organisez ett marquez votre code.",
+        "ja": "整理して、コードにラベルをつけます。",
+        "lt": "Sistemink ir pažymėk tavo kodą."
+      },
+      "image": "images/Comments.svg",
+      "samples": [
+        "ODE"
+      ]
+    },
+    {
+      "slug": "Xeltalliv/clippingblending",
+      "id": "xeltallivclipblend",
+      "name": "Clipping & Blending",
+      "description": "Clipping outside of a specified rectangular area and different color blending modes.",
+      "nameTranslations": {
+        "es-419": "Máscaras y fusión",
+        "fil-ph": "Pagpuputol & Paghahalo",
+        "fr": "Découpage et Fusion",
+        "ja": "クリッピング & ブレンディング"
+      },
+      "descriptionTranslations": {
+        "es-419": "Usa máscaras de recorte afuera de un área rectangular y diferentes maneras de fusión de colores.",
+        "fil-ph": "Pagpuputol lampas sa tinutukoy na rectangular area at mga iba't ibang uri ng modes ng paghahalo ng kulay.",
+        "fr": "Découpage en dehors d'une zone rectangulaire spécifiée et différents modes de fusion des couleurs.",
+        "ja": "四角形の外をクリッピングしたり、違う色をブレンドしたりします。"
+      },
+      "image": "images/Xeltalliv/clippingblending.svg",
+      "original": [
+        {
+          "name": "Vadik1",
+          "link": "https://scratch.mit.edu/users/Vadik1/"
+        }
+      ],
+      "samples": [
+        "Clipping Sprites and Pen"
+      ]
+    },
+    {
+      "slug": "obviousAlexC/penPlus",
+      "id": "penP",
+      "name": "Pen Plus V7",
+      "description": "Advanced rendering capabilities.",
+      "nameTranslations": {
+        "fil-ph": "Panulat Plus V7",
+        "lt": "Pieštukas Plius V7"
+      },
+      "descriptionTranslations": {
+        "es-419": "Funciones avanzadas para renderizar.",
+        "fil-ph": "Mas advanced na kakayahan ng pag-rerender.",
+        "fr": "Fonctionnalités de rendu avancées.",
+        "ja": "高度なレンダリング機能。"
+      },
+      "image": "images/obviousAlexC/penPlus.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ],
+      "samples": [
+        "Pen Plus"
+      ]
+    },
+    {
+      "slug": "JeremyGamer13/tween",
+      "id": "jeremygamerTweening",
+      "name": "Tween",
+      "description": "Easing methods for smooth animations.",
+      "nameTranslations": {
+        "es-419": "Interpolación",
+        "fr": "Interpolation",
+        "ja": "ツイーン"
+      },
+      "descriptionTranslations": {
+        "es-419": "Metodos de desaceleración para animaciones fluidas.",
+        "fil-ph": "Mga Easing methods para sa smooth na mga animations.",
+        "fr": "Méthodes d'interpolation pour des animations fluides.",
+        "ja": "スムーズなアニメーションを作るための変化のさせかた。"
+      },
+      "image": "images/JeremyGamer13/tween.svg",
+      "by": [
+        {
+          "name": "JeremyGamer13",
+          "link": "https://scratch.mit.edu/users/JeremyGamer13/"
+        },
+        {
+          "name": "Fath11",
+          "link": "https://scratch.mit.edu/users/Fath11/"
+        }
+      ]
+    },
+    {
+      "slug": "CubesterYT/RichPresence",
+      "id": "cubesterRichPresence",
+      "name": "Rich Presence",
+      "description": "Adds rich presence support to your project.",
+      "nameTranslations": {
+        "es-419": "Rich Prescence",
+        "fr": "Présence enrichie",
+        "ja": "リッチプレゼンス"
+      },
+      "descriptionTranslations": {
+        "es-419": "Añade rich prescence a tu proyecto.",
+        "fil-ph": "Nagdadagdag ng suporta para sa rich presence para sa iyong proyekto.",
+        "fr": "Ajoute la présence enrichie à votre projet.",
+        "ja": "リッチプレゼンスのサポートをプロジェクトにつける。"
+      },
+      "image": "images/CubesterYT/RichPresence.svg",
+      "by": [
+        {
+          "name": "CubesterYT",
+          "link": "https://scratch.mit.edu/users/CubesterYT/"
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "Aness6040/Translation",
+      "id": "anessi18n",
+      "name": "Translation (i18n)",
+      "description": "Translate texts with i18n.",
+      "nameTranslations": {
+        "es-419": "Traducción (i18n)",
+        "fr": "Traduction (i18n)",
+        "ja": "翻訳 (i18n)",
+        "lt": "Vertimas (i18n)"
+      },
+      "descriptionTranslations": {
+        "es-419": "Traduce texto con i18n.",
+        "fil-ph": "I-translate ang mga teksto gamit ang i18n.",
+        "fr": "Traduisez du texte avec l'i18n.",
+        "ja": "i18nを使って翻訳します。",
+        "lt": "Išversti tekstą su i18n."
+      },
+      "image": "images/Aness6040/Translation.svg",
+      "by": [
+        {
+          "name": "Aness6040",
+          "link": "https://scratch.mit.edu/users/AnessScratched/"
+        }
+      ]
+    },
+    {
+      "slug": "NishiOwO/libxmp",
+      "id": "nishiowoLibxmp",
+      "name": "Libxmp",
+      "description": "Play tracker modules using Libxmp.",
+      "descriptionTranslations": {
+        "es-419": "Reproduce módulos de tracker usando Libxmp.",
+        "fil-ph": "I-tugtog ang mga tracker modules gamit ang Libxmp.",
+        "fr": "Lire des modules de tracker à l'aide de Libxmp.",
+        "ja": "トラッカーモジュールをLibxmpを使用して再生します。"
+      },
+      "image": "images/NishiOwO/libxmp.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "NishiOwO/ode",
+      "id": "nishiowoOde",
+      "name": "ODE",
+      "description": "3D physics using ODE.",
+      "descriptionTranslations": {
+        "es-419": "Física 3D usando ODE.",
+        "fil-ph": "3D physics gamit ang ODE.",
+        "fr": "Physique 3D avec ODE.",
+        "ja": "ODEを使用した3D物理エンジン。"
+      },
+      "image": "images/NishiOwO/ode.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ],
+      "samples": [
+        "ODE"
+      ]
+    },
+    {
+      "slug": "NishiOwO/turbosynth",
+      "id": "nishiowoTurboSynth",
+      "name": "TurboSynth",
+      "description": "Synthesizer that uses TurboSynth.",
+      "descriptionTranslations": {
+        "es-419": "Sintetizador que usa TurboSynth.",
+        "fil-ph": "Synthesizer na gumagamit ng TurboSynth.",
+        "fr": "Synthétiseur utilisant TurboSynth.",
+        "ja": "TurboSynthを使用したシンセサイザー。"
+      },
+      "image": "images/NishiOwO/turbosynth.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ],
+      "docs": true,
+      "samples": [
+        "TurboSynth"
+      ]
+    }
+  ]
+}

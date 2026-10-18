@@ -1,0 +1,95 @@
+{
+  "information": {
+    "name": "Pen Group",
+    "tag": "usb",
+	"source": "https://pen-group.github.io/extensions/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+    {
+      "slug": "extensions/PenP/v7",
+      "id": "penP1",
+      "name": "Pen Plus V7 (1)",
+      "description": "More pen related functions that allow for advanced rendering. By ObviousAlexC",
+      "image": "extensions/PenP/thumbnail.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ],
+      "samples": [
+        "Pen Plus"
+      ]
+    },
+	{
+      "slug": "extensions/ShadedStamps/extension",
+      "id": "ShadedStamps",
+      "name": "Shaded",
+      "description": "Custom shaders for the scratch stage. By ObviousAlexC (Incompatible with Effective)",
+      "image": "extensions/ShadedStamps/thumbnail.png",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "extensions/RenderControl/main",
+      "id": "RenderControl",
+      "name": "Render Control",
+      "description": "Modify the pen layer through various blocks. By SharkPool-SP",
+      "image": "extensions/ShadedStamps/thumbnail.png",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "extensions/PenAA/extension",
+      "id": "PenAA",
+      "name": "Customizable\nAnti-Aliasing",
+      "description": "Configure how scratch uses Anti-Aliasing on the pen. By ObviousAlexC",
+      "image": "extensions/PenAA/thumbnail.png",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "extensions/effective/extension",
+      "id": "effective",
+      "name": "Effective",
+      "description": "More effects for your sprites. By ObviousAlexC (Incompatible with Shaded)",
+      "image": "extensions/effective/thumbnail.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
