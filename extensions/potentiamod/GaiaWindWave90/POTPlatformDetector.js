@@ -3,6 +3,10 @@
 // Description: Detects whenever the platform was a Scratch mod or not.
 // By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // License: MPL-2.0
+/**
+ * Based on ElectraMod Detector extension
+ *
+ */
 (function (Scratch) {
     "use strict";
 class platformDetector {

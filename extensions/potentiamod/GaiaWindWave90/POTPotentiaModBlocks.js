@@ -33,7 +33,7 @@ class PotentiaModBlocks {
     getInfo () {
         return {
             id: 'pot',
-            name: 'PotentiaMod',
+            name: 'Original PotentiaMod Blocks',
             color1: '#4800cc',
             color2: '#37009d',
             color3: '#5600f5',
