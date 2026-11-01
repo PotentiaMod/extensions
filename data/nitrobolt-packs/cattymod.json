@@ -56,6 +56,15 @@
     "by": [
       {"name": "Noahscratch493", "link": null}
     ]
+    },
+	{
+      "slug": "dangoaudio",
+      "id": "dangoaudio",
+      "name": "Audio Recorder",
+      "description": "Record your voice!",
+    "by": [
+      {"name": "Noahscratch493", "link": null}
+    ]
     }
   ]
 }
