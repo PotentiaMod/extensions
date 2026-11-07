@@ -69,8 +69,8 @@
 	{
       "slug": "captcha",
       "id": "imnotarobot",
-      "name": "I'm not a robot",
-      "description": "Use Captcha tests in CattyMod, powered by hCaptcha!",
+      "name": "I'm Not a Robot",
+      "description": "Use Captcha tests, powered by hCaptcha!",
       "image": "captcha.svg",
     "by": [
       {"name": "Noahscratch493", "link": null}
