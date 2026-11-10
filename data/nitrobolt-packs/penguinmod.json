@@ -112,6 +112,19 @@
       ]
     },
 	{
+        "slug": "extensions/MubiLop/icastrays",
+        "id": "icastrays",
+        "name": "iCastRays",
+        "description": "Cast rays into other sprites in your project.",
+        "image": "images/MubiLop/icastrays.svg",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+	{
         "slug": "extensions/derpygamer2142/gpusb3",
         "id": "gpusb3",
         "name": "GPU.sb3",
