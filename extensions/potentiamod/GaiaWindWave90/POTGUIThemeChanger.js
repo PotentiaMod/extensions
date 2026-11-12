@@ -79,7 +79,7 @@
                         opcode: 'setAmoledTheme',
                         blockType: Scratch.BlockType.COMMAND,
 						hideFromPalette: !isPM,
-                        text: 'set GUI theme to amoled' //This only works on the version of PenguinMod built from the newer TuroWarp that has accents and GUI colors.
+                        text: 'set GUI theme to amoled' //This only works on the version of PenguinMod built from the newer TurboWarp that has accents and GUI colors.
                     }
                 ]
             };
@@ -147,7 +147,6 @@
 		setAmoledTheme() {
             this._dispatchTheme('amoled');
         }
-
 
         setLightTheme() {
             this._dispatchTheme('light'); // default
