@@ -4,7 +4,7 @@
 // By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // License: MPL-2.0
 /**
- * Based on ElectraMod Detector extension
+ * Based on the ElectraMod Detector extension
  *
  */
 (function (Scratch) {

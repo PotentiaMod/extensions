@@ -1,0 +1,68 @@
+/**
+ * Based on Project Page by jwklong
+ *
+ */
+class ProjectPageTW {
+  getInfo() {
+    return {
+      id: 'projectPageTW',
+      name: 'Project Page',
+      color1: '#666666',
+      color2: '#333333',
+      blocks: [
+        {
+          opcode: 'changeProjectName',
+          blockType: Scratch.BlockType.COMMAND,
+          text: 'change project name to [STR]',
+          disableMonitor: true,
+          arguments: {
+            STR: {
+              type: Scratch.ArgumentType.STRING,
+              defaultValue: "Trololo"
+            },
+          }
+        },
+        {
+          opcode: 'changeProjectAuthor',
+          blockType: Scratch.BlockType.COMMAND,
+          text: 'change project author to [STR]',
+          disableMonitor: true,
+          arguments: {
+            STR: {
+              type: Scratch.ArgumentType.STRING,
+              defaultValue: "Trololo"
+            },
+          }
+        },
+		{
+          opcode: 'changeDescription',
+          blockType: Scratch.BlockType.COMMAND,
+          text: 'change description to [STR]',
+          disableMonitor: true,
+          arguments: {
+            STR: {
+              type: Scratch.ArgumentType.STRING,
+              defaultValue: "Hi Dummy"
+            },
+          }
+        },
+      ],
+    }
+  }
+  changeProjectName(args) {
+    const name = document.querySelector(".author-info_project-title_3abqH")
+    if (name) name.innerText = args.STR
+  }
+
+  changeProjectAuthor(args) {
+    const name = document.querySelector(".author-info_username_3V5C-")
+    if (name) name.innerText = args.STR
+  }
+  
+  changeDescription(args) {
+    const name = document.querySelector(".description_description_TJxeu")
+    if (name) name.innerText = args.STR
+  }
+}
+
+Scratch.extensions.register(new ProjectPageTW())

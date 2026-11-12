@@ -11,6 +11,9 @@
     if (!Scratch.extensions.unsandboxed) {
         throw new Error('This extension must be run unsandboxed!');
     }
+	
+	const urlParams = new URLSearchParams(location.search);
+    const isPotExclusive = (urlParams.has('allpowerscombined') && Scratch.extensions.isPotentiaMod);
 
     class POTBlockThemeChanger {
         getInfo() {
