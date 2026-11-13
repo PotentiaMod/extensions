@@ -1,3 +1,10 @@
+// Name: Project Page Edit
+// ID: POTProjectPageTW
+// Description: Project Page, but modified to fit with TurboWarp's UI rather than PenguinMod.
+// By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
+// Original: jwklong
+// License: MPL-2.0
+
 /**
  * Based on Project Page by jwklong
  *

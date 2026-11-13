@@ -80,6 +80,19 @@
       "image": "images/GaiaWindWave90/POTPlatformDetector.svg",
       "by": [
         {
+          "name": "GaiaWindWave90 (Editor)",
+          "link": "https://scratch.mit.edu/users/kinetaV/"
+        }
+      ]
+    },
+    {
+      "slug": "GaiaWindWave90/SpinachFacts",
+      "id": "ahoySpinach",
+      "name": "Spinach Facts",
+      "description": "An extension about spinach! Based on Gen1x's CATS, MrIncredibleMaker's DOGS and pooiod7's Raccoon Facts extensions.",
+      "image": "GaiaWindWave90/spinach.png",
+      "by": [
+        {
           "name": "GaiaWindWave90",
           "link": "https://scratch.mit.edu/users/kinetaV/"
         }
@@ -93,6 +106,18 @@
       "image": "images/GaiaWindWave90/POTImageBlocks.png",
       "by": [
         {
+          "name": "GaiaWindWave90 (Editor)",
+          "link": "https://scratch.mit.edu/users/kinetaV/"
+        }
+      ]
+    },
+	{
+      "slug": "GaiaWindWave90/POTProjectPageTW",
+      "id": "POTProjectPageTW",
+      "name": "Project Page Edit",
+      "description": "Project Page, but modified to fit with TurboWarp's UI rather than PenguinMod.",
+      "by": [
+        {
           "name": "GaiaWindWave90",
           "link": "https://scratch.mit.edu/users/kinetaV/"
         }
@@ -104,6 +129,19 @@
       "name": "Block Theme Changer",
       "description": "Allow you to change block themes!",
       "image": "images/GaiaWindWave90/POTBlockThemeChanger.svg",
+      "by": [
+        {
+          "name": "GaiaWindWave90",
+          "link": "https://scratch.mit.edu/users/kinetaV/"
+        }
+      ]
+    },
+    {
+      "slug": "GaiaWindWave90/POTGUIThemeChanger",
+      "id": "POTGUIThemeChanger",
+      "name": "GUI Theme Changer",
+      "description": "Allow you to change colo themes of the GUI.",
+      "image": "GaiaWindWave90/POTGUIThemeChanger.svg",
       "by": [
         {
           "name": "GaiaWindWave90",

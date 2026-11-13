@@ -1,6 +1,6 @@
 // Name: GUI Theme Changer
 // ID: POTGUIThemeChanger
-// Description: Allow you to change GUI Themes!
+// Description: Allow you to change color themes of the GUI.
 // By: GaiaWindWave90 <https://scratch.mit.edu/users/kinetaV/>
 // License: MPL-2.0
 
@@ -70,6 +70,12 @@
                         text: 'set GUI theme to PotentiaMod Dark'
                     },
 					{
+                        opcode: 'setCattyMidnightTheme',
+                        blockType: Scratch.BlockType.COMMAND,
+						hideFromPalette: !isPot,
+                        text: 'set GUI theme to CattyMod\'s midnight'
+                    },
+					{
                         opcode: 'setHighContrastTheme',
                         blockType: Scratch.BlockType.COMMAND,
 						hideFromPalette: !isPot,
@@ -122,6 +128,10 @@
 		
 		setMWMidnightTheme() {
             this._dispatchTheme('midnight');
+        }
+		
+		setCattyMidnightTheme() {
+            this._dispatchTheme('catty-midnight');
         }
 		
 		setGenesisLightTheme() {
