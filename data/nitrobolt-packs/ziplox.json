@@ -1,0 +1,76 @@
+{
+  "information": {
+    "name": "Ziplox",
+    "tag": "ziplox",
+    "source": "https://ziplox.neocities.org/extensions/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+    {
+        "name": "Music Plus",
+        "description": "Music Plus blocks.",
+        "slug": "scripts/musicplus",
+        "id": "musicplus",
+        "image": "banners/musicplus.svg",
+        "by": [
+        {
+          "name": "Ziplox",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "Block Dates",
+        "description": "Block Dates blocks.",
+        "slug": "scripts/blockdates",
+        "id": "blockdates",
+        "image": "banners/blockdates.svg",
+        "by": [
+        {
+          "name": "Ziplox",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "Temporary Variables",
+        "description": "Temporary Variables blocks.",
+        "slug": "scripts/tempvar",
+        "id": "tempvar",
+        "image": "banners/tempvar.svg",
+        "by": [
+        {
+          "name": "Ziplox",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "Nodes and Links",
+        "description": "Nodes and Links blocks.",
+        "slug": "scripts/nodes",
+        "id": "nodes",
+        "image": "banners/nodes.svg",
+        "by": [
+        {
+          "name": "Ziplox",
+          "link": null
+        }
+      ]
+    },
+	{
+        "name": "Ciphers",
+        "description": "Ciphers blocks.",
+        "slug": "scripts/ciphers",
+        "id": "ciphers",
+        "image": "banners/ciphers.svg",
+        "by": [
+        {
+          "name": "Ziplox",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
