@@ -1,6 +1,90 @@
 {
   "extensions": [
   {
+      "specialurl": "https://pen-group.github.io/extensions/extensions/PenP/v7",
+      "id": "penP1",
+      "name": "Pen Plus V7 (1)",
+      "description": "More pen related functions that allow for advanced rendering. By ObviousAlexC",
+      "specialimage": "https://pen-group.github.io/extensions/extensions/PenP/thumbnail.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ],
+      "samples": [
+        "Pen Plus"
+      ]
+    },
+	{
+      "specialurl": "https://pen-group.github.io/extensions/extensions/ShadedStamps/extension",
+      "id": "ShadedStamps",
+      "name": "Shaded",
+      "description": "Custom shaders for the scratch stage. By ObviousAlexC (Incompatible with Effective)",
+      "specialimage": "https://pen-group.github.io/extensions/extensions/ShadedStamps/thumbnail.png",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    },
+	{
+      "specialurl": "https://pen-group.github.io/extensions/extensions/RenderControl/main",
+      "id": "RenderControl",
+      "name": "Render Control",
+      "description": "Modify the pen layer through various blocks. By SharkPool-SP",
+      "specialimage": "https://pen-group.github.io/extensions/extensions/RenderControl/thumbnail.svg",
+      "by": [
+        {
+          "name": "SharkPool",
+          "link": null
+        }
+      ]
+    },
+	{
+      "specialurl": "https://pen-group.github.io/extensions/extensions/PenAA/extension",
+      "id": "PenAA",
+      "name": "Customizable\nAnti-Aliasing",
+      "description": "Configure how scratch uses Anti-Aliasing on the pen. By ObviousAlexC",
+      "specialimage": "https://pen-group.github.io/extensions/extensions/PenAA/thumbnail.png",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    },
+	{
+      "specialurl": "https://pen-group.github.io/extensions/extensions/effective/extension",
+      "id": "effective",
+      "name": "Effective",
+      "description": "More effects for your sprites. By ObviousAlexC (Incompatible with Shaded)",
+      "specialimage": "https://pen-group.github.io/extensions/extensions/effective/thumbnail.svg",
+      "original": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        },
+        {
+          "name": "Pen-Group",
+          "link": null
+        }
+      ]
+    },
+  {
       "specialurl": "https://extensions.mistium.com/featured/Async%20Skins",
       "id": "Async Skins",
       "name": "Async Skins",
