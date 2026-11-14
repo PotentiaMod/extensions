@@ -1,0 +1,548 @@
+{
+  "information": {
+    "name": "CrispStrobe",
+    "tag": "crispstrobe",
+    "source": "https://crispstrobe.github.io/extensions/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+  {
+      "slug": "CrispStrobe/ev3dev_py_transpile",
+      "id": "CrispStrobe/ev3dev_py_transpile",
+      "name": "LEGO EV3Dev Python",
+      "description": "Control EV3Dev via Live Streaming or generate/run Python code on the brick.",
+      "nameTranslations": {
+        "de": "LEGO EV3Dev Python"
+      },
+      "descriptionTranslations": {
+        "de": "Steuere EV3Dev live oder generiere/starte Python-Code direkt auf dem Stein."
+      },
+      "image": "images/CrispStrobe/ev3dev_py_transpile.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/ev3_lms_transpile",
+      "id": "ev3lms",
+      "name": "LEGO EV3 LMS Transpiler",
+      "description": "Supports both Live Streaming and transpiling to LMS bytecode for original EV3 firmware.",
+      "nameTranslations": {
+        "de": "LEGO EV3 LMS Transpiler"
+      },
+      "descriptionTranslations": {
+        "de": "Unterstützt sowohl Live-Steuerung als auch das Kompilieren zu LMS-Bytecode für die Original-Firmware."
+      },
+      "image": "images/CrispStrobe/ev3_lms_transpile.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legoboost_universal",
+      "id": "legoboostunified",
+      "name": "LEGO Boost Universal",
+      "description": "Universal control for LEGO Boost (BLE/Scratch Link/Bridge).",
+      "nameTranslations": {
+        "de": "LEGO Boost Universal"
+      },
+      "descriptionTranslations": {
+        "de": "Universelle Steuerung für LEGO Boost (BLE/Scratch Link/Bridge)."
+      },
+      "image": "images/CrispStrobe/legoboost_universal.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legonxt_transpile_universal",
+      "id": "legonxt",
+      "name": "LEGO NXT Universal",
+      "description": "Universal connection (BTC, Scratch Link, Bridge). Supports both Live Streaming and NXC Compilation.",
+      "nameTranslations": {
+        "de": "LEGO NXT Universal"
+      },
+      "descriptionTranslations": {
+        "de": "Universelle Verbindung (BTC, Scratch Link, Bridge). Unterstützt Live-Steuerung und NXC-Kompilierung."
+      },
+      "image": "images/CrispStrobe/legonxt_transpile_universal.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legospike_turbowarp_transpile",
+      "id": "spikeprime",
+      "name": "LEGO SPIKE Prime / Robot Inventor",
+      "description": "Control a SPIKE Prime or Robot Inventor hub over Scratch Link, Web Bluetooth or a local bridge, on either firmware generation, and transpile blocks to SPIKE Python.",
+      "nameTranslations": {
+        "de": "LEGO Spike Transpiler"
+      },
+      "descriptionTranslations": {
+        "de": "Steuere Spike Prime live oder übersetze Blöcke zu Python für die Ausführung auf dem Hub."
+      },
+      "image": "images/CrispStrobe/legospike_turbowarp_transpile.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/lego_poweredup",
+      "id": "legopoweredup",
+      "name": "LEGO Powered Up",
+      "description": "Control LEGO Powered Up hubs and motors.",
+      "nameTranslations": {
+        "de": "LEGO Powered Up"
+      },
+      "descriptionTranslations": {
+        "de": "Steuere LEGO Powered Up Hubs und Motoren."
+      },
+      "image": "images/CrispStrobe/lego_poweredup.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/lego_wedo2_universal",
+      "id": "wedo2unified",
+      "name": "LEGO WeDo 2.0 Universal",
+      "description": "Universal control for LEGO WeDo 2.0 sets (BLE/Scratch Link).",
+      "nameTranslations": {
+        "de": "LEGO WeDo 2.0 Universal"
+      },
+      "descriptionTranslations": {
+        "de": "Universelle Steuerung für LEGO WeDo 2.0 Sets (BLE/Scratch Link)."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legospikeprime_btc_scratchlink",
+      "id": "spikeprimeBTC",
+      "name": "LEGO Spike Prime (Legacy)",
+      "description": "Control Spike Prime via Scratch Link (Old Firmware/BTC).",
+      "nameTranslations": {
+        "de": "LEGO Spike Prime (Legacy)"
+      },
+      "descriptionTranslations": {
+        "de": "Steuere Spike Prime via Scratch Link (Alte Firmware/BTC)."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legospike_ble",
+      "id": "spikeprimeble",
+      "name": "LEGO Spike Prime (BLE)",
+      "description": "Control Spike Prime via Bluetooth Low Energy (New Firmware).",
+      "nameTranslations": {
+        "de": "LEGO Spike Prime (BLE)"
+      },
+      "descriptionTranslations": {
+        "de": "Steuere Spike Prime über Bluetooth Low Energy (Neue Firmware)."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legospike_bridge",
+      "id": "spikeprimeBridge",
+      "name": "LEGO Spike Bridge",
+      "description": "Bridge connection utility for LEGO Spike.",
+      "nameTranslations": {
+        "de": "LEGO Spike Bridge"
+      },
+      "descriptionTranslations": {
+        "de": "Bridge-Verbindungsdienstprogramm für LEGO Spike."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/legospikeprime_ble",
+      "id": "legospikeprimeBLE",
+      "name": "LEGO Spike Prime (BLE Alt)",
+      "description": "Alternative BLE control for Spike Prime.",
+      "nameTranslations": {
+        "de": "LEGO Spike Prime (BLE Alt)"
+      },
+      "descriptionTranslations": {
+        "de": "Alternative BLE Steuerung für Spike Prime."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/ev3_universal",
+      "id": "ev3comprehensive",
+      "name": "LEGO EV3 Universal",
+      "description": "Universal control for LEGO EV3 Mindstorms (Direct/LMS).",
+      "nameTranslations": {
+        "de": "LEGO EV3 Universal"
+      },
+      "descriptionTranslations": {
+        "de": "Universelle Steuerung für LEGO EV3 Mindstorms (Direkt/LMS)."
+      },
+      "image": "images/CrispStrobe/ev3_universal.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/ev3_direct",
+      "id": "legoev3direct",
+      "name": "LEGO EV3 Direct",
+      "description": "Direct control connection for LEGO EV3 (Streaming only).",
+      "nameTranslations": {
+        "de": "LEGO EV3 Direkt"
+      },
+      "descriptionTranslations": {
+        "de": "Direkte Steuerungsverbindung für LEGO EV3 (Nur Streaming)."
+      },
+      "image": "images/CrispStrobe/ev3_direct.svg",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/circuitcubes",
+      "id": "circuitcubes",
+      "name": "Circuit Cubes",
+      "description": "Drive the three channels of a Circuit Cubes Bluetooth Cube over Web Bluetooth.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/arrays",
+      "id": "arrays",
+      "name": "Arrays & Vectors",
+      "description": "Advanced manipulation of arrays, vectors, and tensors.",
+      "nameTranslations": {
+        "de": "Arrays & Vektoren"
+      },
+      "descriptionTranslations": {
+        "de": "Erweiterte Bearbeitung von Arrays, Vektoren und Tensoren."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/circuit",
+      "id": "circuit",
+      "name": "Circuit",
+      "description": "Board instruments and controls for the circuit simulator.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/csp",
+      "id": "csp",
+      "name": "CSP Solver",
+      "description": "Simple Constraint-Satisfaction-Problem solver.",
+      "nameTranslations": {
+        "de": "CSP Löser"
+      },
+      "descriptionTranslations": {
+        "de": "Einfacher Problemlöser für Randwertprobleme (Constraint Satisfaction)."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/ledcube",
+      "id": "ledcube",
+      "name": "LED Cube",
+      "description": "Animate a 4x4x4 LED cube: set voxels, fill layers, shift patterns.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/gamepad",
+      "id": "universalgamepad",
+      "name": "Gamepad",
+      "description": "Use game controllers to control your project.",
+      "nameTranslations": {
+        "de": "Gamepad"
+      },
+      "descriptionTranslations": {
+        "de": "Nutze Gamepads zur Steuerung deines Projekts."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/planetemaths",
+      "id": "planetemaths",
+      "name": "Planète Maths",
+      "description": "Additional advanced math operations.",
+      "nameTranslations": {
+        "de": "Planète Maths"
+      },
+      "descriptionTranslations": {
+        "de": "Zusätzliche fortgeschrittene mathematische Operationen."
+      },
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/stc12live",
+      "id": "stc12live",
+      "name": "STC12 Live",
+      "description": "Connect to a real STC12 / 8051 chip over USB serial.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/bitops",
+      "id": "bitops",
+      "name": "Bit operations",
+      "description": "Bitwise AND, OR, XOR, NOT and shifts for hardware code.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/devices",
+      "id": "devices",
+      "name": "Devices",
+      "description": "Servo, motor, relay, sensor, display and NeoPixel blocks for circuit projects.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/microbitplus",
+      "id": "microbitplus",
+      "name": "micro:bit+",
+      "description": "A fuller micro:bit block set — display, sensors, pins, radio — for the MicroPython simulator.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/circuitplayground",
+      "id": "circuitplayground",
+      "name": "Circuit Playground",
+      "description": "Adafruit Circuit Playground Express on-board devices — the NeoPixel ring, buttons, slide switch, motion, light, temperature, sound, touch and speaker — as VM state a device pane draws and drives.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/brickwright_tts",
+      "id": "brickwrightTTS",
+      "name": "Text to Speech",
+      "description": "On-device speech with no cloud round trip — the Web Speech API, or a local recogniser worker. A drop-in for the stock AWS text2speech extension.",
+      "by": [
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ]
+    },
+    {
+      "slug": "CrispStrobe/spriteutils",
+      "id": "spriteutils",
+      "name": "Sprite Utils",
+      "description": "Distance, angle and velocity helpers between sprites, ported from the MakeCode Arcade Sprite Utils extension.",
+      "by": [
+        {
+          "name": "Joey Wunderlich",
+          "link": "https://github.com/jwunderl"
+        },
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ],
+      "original": [
+        {
+          "name": "Joey Wunderlich (arcade-sprite-util)",
+          "link": null
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "CrispStrobe/statusbars",
+      "id": "statusbars",
+      "name": "Status Bars",
+      "description": "Health, energy and other bars that follow sprites, ported from the MakeCode Arcade Status Bars extension.",
+      "by": [
+        {
+          "name": "Joey Wunderlich",
+          "link": "https://github.com/jwunderl"
+        },
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ],
+      "original": [
+        {
+          "name": "Joey Wunderlich (pxt-status-bar)",
+          "link": null
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "CrispStrobe/carnival",
+      "id": "carnival",
+      "name": "Carnival Games",
+      "description": "Countdown and timer games with saved best scores, plus throwable balls with aim and power, ported from the MakeCode Arcade Carnival extension.",
+      "by": [
+        {
+          "name": "Microsoft Corporation",
+          "link": null
+        },
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ],
+      "original": [
+        {
+          "name": "Microsoft (arcade-carnival)",
+          "link": null
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "CrispStrobe/settingsblocks",
+      "id": "settingsblocks",
+      "name": "Saved Settings",
+      "description": "Save and read named numbers, text and number lists that persist between runs, ported from the MakeCode settings blocks.",
+      "by": [
+        {
+          "name": "Microsoft Corporation",
+          "link": null
+        },
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ],
+      "original": [
+        {
+          "name": "Microsoft (pxt-settings-blocks)",
+          "link": null
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "CrispStrobe/neopixel",
+      "id": "neopixelstrips",
+      "name": "NeoPixel Strips",
+      "description": "Virtual NeoPixel LED strips drawn on the stage: colours, rainbow, brightness, shift, rotate and ranges, ported from the MakeCode NeoPixel driver.",
+      "by": [
+        {
+          "name": "Microsoft Corporation",
+          "link": null
+        },
+        {
+          "name": "CrispStrobe",
+          "link": "https://github.com/CrispStrobe"
+        }
+      ],
+      "original": [
+        {
+          "name": "Microsoft (pxt-neopixel)",
+          "link": null
+        }
+      ],
+      "docs": true
+    }
+  ]
+}
