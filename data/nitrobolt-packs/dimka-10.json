@@ -1,0 +1,190 @@
+{
+  "information": {
+    "name": "Dimka-10",
+    "tag": "dimka",
+    "source": "https://dimka-10.github.io/Scratch-Extensions-Gallery.github.io/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+  {
+      "slug": "DataCode/PDF view",
+      "id": "PDF view",
+      "name": "PDF viewer",
+      "description": "Shows PDF files from URLs",
+      "image": "DataImage/PDFviewer.png",
+      "by": [
+        {
+          "name": "Dimka10",
+          "link": "https://scratch.mit.edu/users/Dimka10/"
+        }
+      ]
+    },
+	{
+      "slug": "DataCode/ComplexNumbers",
+      "id": "ComplexNumbers",
+      "name": "Complex numbers",
+      "description": "Adds support for complex numbers. It performs such operations as addition, multiplication, exponentiation and trigonometric functions.",
+      "image": "DataImage/ComplexNumbers.svg",
+      "by": [
+        {
+          "name": "Dimka10",
+          "link": "https://scratch.mit.edu/users/Dimka10/"
+        }
+      ]
+    },
+	{
+      "slug": "DataCode/Quaternions",
+      "id": "Quaternions",
+      "name": "Quaternions",
+      "description": "An extension to work with complex numbers and quaternions. Adds math operations, 3D rotations, and transformations for complex calculations.",
+      "image": "DataImage/Quaternions.svg",
+      "by": [
+        {
+          "name": "Dimka10",
+          "link": "https://scratch.mit.edu/users/Dimka10/"
+        }
+      ]
+    },
+	{
+      "slug": "DataCode/AniListAPI",
+      "id": "AniListAPI",
+      "name": "AniList API",
+      "description": "Search for anime, manga, and characters using the AniList API",
+      "image": "DataImage/AniList.png",
+      "by": [
+        {
+          "name": "Dimka10",
+          "link": "https://scratch.mit.edu/users/Dimka10/"
+        }
+      ]
+    },
+	{
+      "slug": "DataCode/Obfuscator",
+      "id": "Obfuscator",
+      "name": "Obfuscator",
+      "description": "Turns variable and list names into a meaningless set of characters. At the same time, the program continues to work in the same way.",
+      "image": "DataImage/Obfuscator.png",
+      "by": [
+        {
+          "name": "Dimka10",
+          "link": "https://scratch.mit.edu/users/Dimka10/"
+        }
+      ]
+    },
+    {
+    "name": "AdaBrowser",
+    "description": "Provides features for interacting with a web page and browser. (Basically a Javacript extenstion counterpart of AdaBrowser).",
+    "slug": "DataCode/adacraft_browser",
+    "id": "adacraft_browser",
+    "image": "DataImage/adacraft_browser.png",
+    "by": [
+        {
+          "name": "Adacraft",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Admire Blocks",
+    "description": "Provides a variety of tools for working with text.",
+    "slug": "DataCode/AdmireBlocks",
+    "id": "AdmireBlocks",
+    "image": "DataImage/AdmireBlocks.png",
+    "by": [
+        {
+          "name": "drannamongtime",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Hugging Face Chat",
+    "description": "Allows users to submit questions and receive answers from the GPT-2 model.",
+    "slug": "DataCode/AI",
+    "id": "AI",
+    "image": "DataImage/AI.png",
+    "by": [
+        {
+          "name": "YourName",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Discord API",
+    "description": "Discord API Interaction Blocks",
+    "slug": "DataCode/Discord%20API",
+    "id": "Discord",
+    "image": "DataImage/Discord.png",
+    "by": [
+        {
+          "name": "LukeManiaStudios",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Export Sprite Data",
+    "description": "Exports sprite data to URLs",
+    "slug": "DataCode/ExportSpriteDataURI",
+    "id": "ExportSpriteDataURI",
+    "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Lorem Ipsum Generator",
+    "description": "No description available.",
+    "slug": "DataCode/Lorem%20Ipsum%20Generator",
+    "id": "Lorem",
+    "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "modio",
+    "description": "Mod.IO APIs.",
+    "slug": "DataCode/modio",
+    "id": "modio",
+    "by": [
+        {
+          "name": "Kubi's extensions",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "Rhythm Helper",
+    "description": "An extension to simplify the process of creating rhythm games",
+    "slug": "DataCode/RhythmHelper",
+    "id": "RhythmHelper",
+    "image": "DataImage/Rhythm Helper.png",
+    "by": [
+        {
+          "name": "Kubi's extensions",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "MountainAI",
+    "description": "It allows you to train and run your little AIs directly in the project without the Internet.",
+    "slug": "DataCode/Mountain-AI",
+    "id": "Mountain-AI",
+    "image": "DataImage/Banner.svg",
+    "by": [
+        {
+          "name": "RadereDev",
+          "link": null
+        }
+	]
+  }
+  ]
+}
