@@ -1,0 +1,1685 @@
+{
+  "extensions": [
+  {
+      "slug": "https://extensions.mistium.com/featured/Async%20Skins",
+      "id": "Async Skins",
+      "name": "Async Skins",
+      "description": "Have your sprites render as other images or costumes.",
+      "image": "https://extensions.mistium.com/images/Async%20Skins.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Async Skins.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Canvas",
+      "id": "Canvas",
+      "name": "Canvas",
+      "description": "Create and manipulate canvases with this extension",
+      "image": "https://extensions.mistium.com/images/Canvas.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Canvas.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Databases",
+      "id": "Databases",
+      "name": "Databases",
+      "description": "Databases of tables with SQL queries, saved with your project",
+      "image": "https://extensions.mistium.com/images/Databases.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Databases.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/DiscordBot",
+      "id": "DiscordBot",
+      "name": "DiscordBot",
+      "description": "Make discord bots in turbowarp",
+      "image": "https://extensions.mistium.com/images/DiscordBot.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "DiscordBot.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/EvalPlus",
+      "id": "EvalPlus",
+      "name": "EvalPlus",
+      "description": "Evaluate JS better (plus some dom stuff)",
+      "image": "https://extensions.mistium.com/images/EvalPlus.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "EvalPlus.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Github",
+      "id": "Github",
+      "name": "Github",
+      "description": "Access github from scratch",
+      "image": "https://extensions.mistium.com/images/Github.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Github.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/HTMLInputs",
+      "id": "HTMLInputs",
+      "name": "HTMLInputs",
+      "description": "Manage html inut elements on the stage",
+      "image": "https://extensions.mistium.com/images/HTMLInputs.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "HTMLInputs.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Iframe+",
+      "id": "Iframe+",
+      "name": "Iframe+",
+      "description": "Have many iframes at once",
+      "image": "https://extensions.mistium.com/images/Iframe+.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Iframe+.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/IndexedDB",
+      "id": "IndexedDB",
+      "name": "IndexedDB",
+      "description": "Access and write to IndexedDB.",
+      "image": "https://extensions.mistium.com/images/IndexedDB.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "IndexedDB.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/KeyHistory",
+      "id": "KeyHistory",
+      "name": "KeyHistory",
+      "description": "Manage previous keys simply",
+      "image": "https://extensions.mistium.com/images/KeyHistory.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "KeyHistory.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/MediaUtils",
+      "id": "MediaUtils",
+      "name": "MediaUtils",
+      "description": "Just some uilities for media devices",
+      "image": "https://extensions.mistium.com/images/MediaUtils.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "MediaUtils.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Mist's%20Utils",
+      "id": "Mist's Utils",
+      "name": "Mist's Utils",
+      "description": "A bunch of compiled stuff",
+      "image": "https://extensions.mistium.com/images/Mist's%20Utils.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Mist's Utils.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/MistFetch",
+      "id": "MistFetch",
+      "name": "MistFetch",
+      "description": "my fetch extension for http and stuff cos i needed a better one for originOS",
+      "image": "https://extensions.mistium.com/images/MistFetch.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "MistFetch.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/OASM",
+      "id": "OASM",
+      "name": "OASM",
+      "description": "Run the full oasm interpreter except very fast.",
+      "image": "https://extensions.mistium.com/images/OASM.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "OASM.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/OriginChats",
+      "id": "OriginChats",
+      "name": "OriginChats",
+      "description": "Make bots and clients for OriginChats servers, no JSON needed",
+      "image": "https://extensions.mistium.com/images/OriginChats.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "OriginChats.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Persistent%20File%20System",
+      "id": "Persistent File System",
+      "name": "Persistent File System",
+      "description": "Persistent file system using IndexedDB",
+      "image": "https://extensions.mistium.com/images/Persistent%20File%20System.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Persistent File System.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Python",
+      "id": "Python",
+      "name": "Python",
+      "description": "Run python in turbowarp with piodide",
+      "image": "https://extensions.mistium.com/images/Python.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Python.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/RDF",
+      "id": "RDF",
+      "name": "RDF",
+      "description": "Type restricted data formatting",
+      "image": "https://extensions.mistium.com/images/RDF.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "RDF.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/roturVoice",
+      "id": "roturVoice",
+      "name": "roturVoice",
+      "description": "Voice and video calling for turbowarp",
+      "image": "https://extensions.mistium.com/images/roturVoice.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "roturVoice.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Shaders",
+      "id": "Shaders",
+      "name": "Shaders",
+      "description": "Run GLSL shaders on your sprites",
+      "image": "https://extensions.mistium.com/images/Shaders.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Shaders.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Timing",
+      "id": "Timing",
+      "name": "Timing",
+      "description": "Waits with timeouts, named timers and cooldowns",
+      "image": "https://extensions.mistium.com/images/Timing.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Timing.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/Virtual%20File%20System",
+      "id": "Virtual File System",
+      "name": "Virtual File System",
+      "description": "in memory file system as an ext goes pretty crazy :sunglasses:",
+      "image": "https://extensions.mistium.com/images/Virtual%20File%20System.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "Virtual File System.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/featured/WebsocketPlus",
+      "id": "WebsocketPlus",
+      "name": "WebsocketPlus",
+      "description": "Connect and manage multiple websocket connections",
+      "image": "https://extensions.mistium.com/images/WebsocketPlus.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": true,
+      "filename": "WebsocketPlus.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Camera",
+      "id": "Camera",
+      "name": "Camera",
+      "description": "Use the camera :P",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Camera.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Cloudlink4%20Improved",
+      "id": "Cloudlink4_Improved",
+      "name": "Cloudlink4_Improved",
+      "description": "A powerful WebSocket extension for Scratch.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Cloudlink4_Improved.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Compiled%20Comments",
+      "id": "Compiled Comments",
+      "name": "Compiled Comments",
+      "description": "Add compiler-compatible comments to projects.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Compiled Comments.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/ExportSpriteDataURI",
+      "id": "ExportSpriteDataURI",
+      "name": "ExportSpriteDataURI",
+      "description": "Export sprites as data URI strings.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "ExportSpriteDataURI.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Fast%20List%20Set",
+      "id": "Fast_List_Set",
+      "name": "Fast_List_Set",
+      "description": "Set Scratch list contents from JSON arrays.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Fast_List_Set.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Faster%20Blur%20Uri",
+      "id": "Faster Blur Uri",
+      "name": "Faster Blur Uri",
+      "description": "High-performance WebGL-based stack blur with adaptive downscaling for optimal performance",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Faster Blur Uri.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Faster%20Blur%20Uri%20Legacy",
+      "id": "Faster Blur Uri Legacy",
+      "name": "Faster Blur Uri Legacy",
+      "description": "Legacy canvas-based image blur from URLs and data URIs.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Faster Blur Uri Legacy.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Faster%20Blur%20Uri%20Legacy%202",
+      "id": "Faster Blur Uri Legacy 2",
+      "name": "Faster Blur Uri Legacy 2",
+      "description": "A simple extension that just blurs images from urls and data uris as fast as i could make it blur them!!!!",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Faster Blur Uri Legacy 2.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/FastObject",
+      "id": "FastObject",
+      "name": "FastObject",
+      "description": "Store and retrieve object key/value data quickly.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "FastObject.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/InputManager",
+      "id": "InputManager",
+      "name": "InputManager",
+      "description": "Store a list of previously pressed keys. Made primarily for use in originOS (https://github.com/Mistium/Origin-OS).",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "InputManager.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/KeyHistory%20Legacy",
+      "id": "KeyHistory Legacy",
+      "name": "KeyHistory Legacy",
+      "description": "Manage previous keys simply",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "KeyHistory Legacy.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/LowLevelSkins",
+      "id": "LowLevelSkins",
+      "name": "LowLevelSkins",
+      "description": "Low-level skin cloning and blur utilities.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "LowLevelSkins.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Microphone%20Stream",
+      "id": "Microphone Stream",
+      "name": "Microphone Stream",
+      "description": "Stream microphone analysis and keep a configurable rolling recording buffer.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Microphone Stream.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/originOSL",
+      "id": "originOSL",
+      "name": "originOSL",
+      "description": "Run OSL code in the originOSL environment through the live embed system",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "originOSL.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Random",
+      "id": "Random",
+      "name": "Random",
+      "description": "Extra random value generator blocks.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Random.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/roturVoice%20Advanced",
+      "id": "roturVoice Advanced",
+      "name": "roturVoice Advanced",
+      "description": "Advanced voice and video calling for TurboWarp.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "roturVoice Advanced.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/SoundUtils",
+      "id": "SoundUtils",
+      "name": "SoundUtils",
+      "description": "Create channels and generate simple tones.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "SoundUtils.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/Tables",
+      "id": "Tables",
+      "name": "Tables",
+      "description": "Legacy compiled 2d arrays. Use Databases for new projects.",
+      "image": "https://extensions.mistium.com/images/Tables.png",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "Tables.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/TabUtils",
+      "id": "TabUtils",
+      "name": "TabUtils",
+      "description": "Detect when the tab key is pressed and allow it to be disabled and enabled.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "TabUtils.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/URI%20Utilities",
+      "id": "URI Utilities",
+      "name": "URI Utilities",
+      "description": "Convert strings and downloaded files to data URIs.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "URI Utilities.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/USB",
+      "id": "USB",
+      "name": "USB",
+      "description": "Just some blocks for the web usb api",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "USB.js"
+    },
+    {
+      "slug": "https://extensions.mistium.com/files/xml",
+      "id": "xml",
+      "name": "xml",
+      "description": "Parse, query, and serialize XML strings.",
+      "by": [
+        {
+          "name": "Mistium",
+          "link": "https://github.com/Mistium"
+        }
+      ],
+      "featured": false,
+      "filename": "xml.js"
+    },
+    {
+      "slug": "https://extensions.penguinmod.com/extensions/TheShovel/shoveldebugger",
+      "id": "shoveldebugger",
+      "name": "Shovel Debugger",
+      "description": "Shovel's improved and feature rich debugger!",
+      "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-shoveldebugger.avif",
+      "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+	{
+     "slug": "https://extensions.penguinmod.com/extensions/Ikelene/serverStorageExtension",
+     "id": "serverStorageExtension",
+     "name": "Server Storage",
+     "description": "Similar to the server storage blocks in the 'Storage' extension, but with a better server uptime and non-global keys. Did you know the server is open source?",
+     "image": "https://extensions.penguinmod.com/images/Ikelene/serverStorageIMG.avif",
+	 "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+   {
+      "slug": "https://extensions.penguinmod.com/extensions/Gen1x/storage_plus",
+      "id": "storage_plus",
+      "name": "Storage Plus",
+      "description": "A storage extension with many more features. Featuring server storage (with a fast server), local storage and more!",
+      "image": "https://extensions.penguinmod.com/images/Gen1x/storage_plus.avif",
+      "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/qoan-renderer",
+        "id": "qoan-renderer",
+        "name": "MotionSprite",
+        "description": "An advanced math-based animation system",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-motionsprite.avif",
+		"by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/iris-text",
+        "id": "iristext",
+        "name": "Iris Text",
+        "description": "A heavily-expanded text engine loosely based on Animated Text! Adds support for rich text, per-character control, and more!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/iris-text.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Box2D",
+        "id": "Box2D",
+        "name": "Boxed Physics",
+        "description": "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        "image": "https://extensions.penguinmod.com/images/pooiod/B2Dimg.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/lighting",
+        "id": "lighting",
+        "name": "Lighting",
+        "description": "A fast, powerful and easy-to-use lighting engine powered by WebGL!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/lighting.avif",
+		"by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/ObviousAlexC/3DMath",
+        "id": "3DMath",
+        "name": "3D Math",
+        "description": "A handful of utilities for making your own sprite-based 3D engine.",
+        "image": "https://extensions.penguinmod.com/images/ObviousAlexC/3DMath.svg",
+		"by": [
+        {
+          "name": "pinksheep2917",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/icastrays",
+        "id": "icastrays",
+        "name": "iCastRays",
+        "description": "Cast rays into other sprites in your project.",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/icastrays.svg",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/derpygamer2142/gpusb3",
+        "id": "gpusb3",
+        "name": "GPU.sb3",
+        "description": "Use WebGPU compute shaders to accelerate your projects. Use Pen+ for rendering, not this.",
+        "image": "https://extensions.penguinmod.com/images/derpygamer2142/gpusb3.png",
+		"by": [
+        {
+          "name": "insanetaco2000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/beat_sync",
+        "id": "beat_sync",
+        "name": "Beat Sync",
+        "description": "An extension designed to let you sync anything in your project to a musical beat, with incredible precision.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/beat_sync.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/skyhigh173/object",
+        "id": "object",
+        "name": "Object",
+        "description": "Handle large JSON files at an extreme speed.",
+        "image": "https://extensions.penguinmod.com/images/skyhigh173/object.svg",
+		"by": [
+        {
+          "name": "skyhigh173",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/0znzw/ScopeVars",
+        "id": "ScopeVars",
+        "name": "Scope Variable",
+        "description": "Manage your variables in a block-like structure.",
+        "image": "https://extensions.penguinmod.com/images/0znzw/ScopeVars.avif",
+		"by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/steve0greatness/timers",
+        "id": "timers",
+        "name": "Extra Timers",
+        "description": "Allows for the creation and management of additional timer blocks.",
+        "image": "https://extensions.penguinmod.com/images/steve0greatness/timers.svg",
+		"by": [
+        {
+          "name": "Steve0Greatness",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Dictation",
+        "id": "Dictation",
+        "name": "Dictation",
+        "description": "Convert your voice into text. (not supported in all browsers)",
+        "image": "https://extensions.penguinmod.com/images/pooiod/Dictation.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/doodlerec",
+        "id": "doodlerec",
+        "name": "Doodle Recognition",
+        "description": "A implementation of Google's Quick Draw image vision model",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-doodlerec.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "https://extensions.penguinmod.com/extensions/sourdoggy/stylus extension",
+        "id": "stylus extension",
+        "name": "Stylus",
+        "description": "Get the pressure and tilt of a stylus or graphic tablet",
+        "image": "https://extensions.penguinmod.com/images/sourdoggy/stylus_ext.avif",
+		"by": [
+        {
+          "name": "sourdoggy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/PuzzlingGGG/ttsrV2",
+        "id": "ttsrV2",
+        "name": "Text To Speech: Redone",
+        "description": "A better alternitive to the base text to speech extension. Powered by the TTStool API",
+        "image": "https://extensions.penguinmod.com/images/PuzzlingGGG/tts.avif",
+		"by": [
+        {
+          "name": "PuzzlingGGG",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/cloudlink",
+        "id": "cloudlink",
+        "name": "CloudLink",
+        "description": "A powerful WebSocket extension for Scratch. Allows for online connectivity to servers for things like multiplayer.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/cloudlink.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/e2ee",
+        "id": "e2ee",
+        "name": "E2EE",
+        "description": "A general-purpose E2EE (End-to-End Encryption) extension for Scratch.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/e2ee.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MikeDev101/webrtc",
+        "id": "webrtc",
+        "name": "WebRTC",
+        "description": "A barebones WebRTC implementation.",
+        "image": "https://extensions.penguinmod.com/images/MikeDev101/webrtc.svg",
+		"by": [
+        {
+          "name": "MikeDev101",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/spritesheeter",
+        "id": "spritesheeter",
+        "name": "Spritesheeter",
+        "description": "Load and manipulate spritesheets with customizable frames and XML support",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/spritesheeter.avif",
+		"by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/dumzdev/removebg",
+        "id": "removebg",
+        "name": "Background Remover",
+        "description": "Removes background from images.",
+        "image": "https://extensions.penguinmod.com/images/dumzdev/removebgbanner.svg",
+		"by": [
+        {
+          "name": "dumzdev",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/penguinhook",
+        "id": "MubiLop/penguinhook",
+        "name": "PenguinHook",
+        "description": "Send Webhook requests, that can be Discord or any type of webhook.",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/penguinhook.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/numutils",
+        "id": "MubiLop/numutils",
+        "name": "Number Utilities",
+        "description": "Adds blocks for number formatting and manipulation.",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/numutils.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/jwklong/mathematics",
+        "id": "mathematics",
+        "name": "Mathematics",
+        "description": "Complicated maths extension for nerds.",
+        "image": "https://extensions.penguinmod.com/images/jwklong/mathematics.avif",
+		"by": [
+        {
+          "name": "jwklong",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/qxsck/big-decimal",
+        "id": "big-decimal",
+        "name": "Big Decimal",
+        "description": "High precision operations. (Support decimals)",
+        "image": "https://extensions.penguinmod.com/images/qxsck/big-decimal.svg",
+		"by": [
+        {
+          "name": "qxsck",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/ddededodediamante/dateFormatV2",
+        "id": "dateFormatV2",
+        "name": "Date Format",
+        "description": "Manage, format and compare dates.",
+        "image": "https://extensions.penguinmod.com/images/ddededodediamante/dateFormat.svg",
+		"by": [
+        {
+          "name": "ddededodediamante",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Embin/embintranslation",
+        "id": "Embin/embintranslation",
+        "name": "Translation Keys",
+        "description": "Use translation keys in your projects for multi-language support",
+        "image": "https://extensions.penguinmod.com/images/Embin/embintranslation.avif",
+		"by": [
+        {
+          "name": "embinmc",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/YetAnotherStringExtension",
+        "id": "YetAnotherStringExtension",
+        "name": "Yet Another String Extension",
+        "description": "A small collection of utilty blocks intended to make managing strings much, much easier.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/YetAnotherStringExtension.svg",
+		"by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutRegularExpressions",
+        "id": "dogeiscutRegularExpressions",
+        "name": "Regular Expressions",
+        "description": "Create, modify, filter, and more with the new regular expression type.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/dogeiscutRegularExpressions.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutSet",
+        "id": "dogeiscutSet",
+        "name": "Sets",
+        "description": "Store non-repeating, unordered data super efficiently in sets.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/dogeiscutSet.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/Div/divIterators",
+        "id": "divIterators",
+        "name": "Iterators",
+        "description": "Transform and iterate over different types of collections and more.",
+        "image": "https://extensions.penguinmod.com/images/Div/divIterators.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Div/divAlgEffects",
+        "id": "divAlgEffects",
+        "name": "Algebraic Effects",
+        "description": "Intercept custom actions in your scripts to pause, resume, or redirect their flow using modular handlers.",
+        "image": "https://extensions.penguinmod.com/images/Div/divAlgEffects.svg",
+		"by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "https://extensions.penguinmod.com/extensions/Div/divVecQuat",
+      "id": "divVecQuat",
+      "name": "3D Vectors & Quaternions",
+      "description": "Perform 3D Math and Rotations with Vectors and Quaternions",
+      "image": "https://extensions.penguinmod.com/images/Div/divVecQuat.svg",
+      "by": [
+        {
+          "name": "Dicuo",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Faunks/Blobs",
+        "id": "Blobs",
+        "name": "Blobs",
+        "description": "An extension made for handling blobs which can be used to store files. Allows to easily make blobs for the Js extension",
+        "image": "https://extensions.penguinmod.com/images/Faunks/Blobs.avif",
+		"by": [
+        {
+          "name": "Faunks",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/random_utils",
+        "id": "random_utils",
+        "name": "Random Utilities",
+        "description": "Many blocks related to generating random values, including seed-based number generation, true number generation, UUID's, random strings, etc.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/randomutils.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/toastnotifs",
+        "id": "toastnotifs",
+        "name": "Toast Notifications",
+        "description": "Did you want alerts? Notifications that are easily customizable? This is the only and best notification extension!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/toastnotifs.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/LordCat0/ProjectInterfaces",
+        "id": "ProjectInterfaces",
+        "name": "Project Interfaces",
+        "description": "Effortlessly create intuitive graphical user interfaces in your projects.",
+        "image": "https://extensions.penguinmod.com/images/LordCat0/ProjectInterfaces.avif",
+		"by": [
+        {
+          "name": "LordCat0",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/justablock/gitpenguin",
+        "id": "gitpenguin",
+        "name": "Git Penguin",
+        "description": "Make requests and control the files for your GitHub repository.",
+        "image": "https://extensions.penguinmod.com/images/justablock/gitpenguin.avif",
+		"by": [
+        {
+          "name": "justablock",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/SammerLOL/pangapi",
+        "id": "pangapi",
+        "name": "Pang API",
+        "description": "Fetch information from the PenguinMod API.",
+        "image": "https://extensions.penguinmod.com/images/SammerLOL/pangapi.avif",
+        "by": [
+        {
+          "name": "oc9x97",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/RubyDevs/turboweather",
+        "id": "turboweather",
+        "name": "TurboWeather",
+        "description": "Show weather and location data for any place in our world. Data that could be used for doxxing is deleted from results.",
+        "image": "https://extensions.penguinmod.com/images/RubyDevs/turboweather.avif",
+		"by": [
+        {
+          "name": "RubyDevs",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/bruhbeast-pixel/CockatielLocation",
+        "id": "CockatielLocation",
+        "name": "Cockatiel Location",
+        "description": "Fetch Users' IP Addresses and Location.",
+        "image": "https://extensions.penguinmod.com/images/bruhbeast-pixel/CockatielLocation.svg",
+		"by": [
+        {
+          "name": "bruhbeast-pixel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NamelessCat/corsproxy",
+        "id": "corsproxy",
+        "name": "CORS Proxy",
+        "description": "Accessible CORS Proxies for fetching information with PenguinMod.",
+        "image": "https://extensions.penguinmod.com/images/NamelessCat/corsproxy.avif",
+		"by": [
+        {
+          "name": "NamelessCat",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/extexp",
+        "id": "extexp",
+        "name": "Extension Exposer",
+        "description": "Access the raw functions from other extensions.",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/placeholder-extexp.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Ashime/MoreFields",
+        "id": "MoreFields",
+        "name": "More Fields",
+        "description": "Custom Field Types",
+        "image": "https://extensions.penguinmod.com/images/0znzw/MoreFields.avif",
+        "by": [
+        {
+          "name": "yuri-kiss",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/BeepBoxPlayer",
+        "id": "DogeisCut/BeepBoxPlayer",
+        "name": "Beepbox Player",
+        "description": "Play, edit, and read songs from any BeepBox mod directly from the URL or JSON!",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/BeepBoxPlayer.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+{
+        "slug": "https://extensions.penguinmod.com/extensions/Anonymous_cat1/updateFile",
+        "id": "updateFile",
+        "name": "Update File (Direct Access)",
+        "description": "A simple extension that uses the File System Access API to update files dynamically.",
+        "image": "https://extensions.penguinmod.com/images/Anonymous_cat1/updateFile.svg",
+		"by": [
+        {
+          "name": "Anonymous-cat1",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/yeetyourfiles",
+        "id": "yeetyourfiles",
+        "name": "YeetYourFiles",
+        "description": "Upload files to the cloud by throwing it to outer space!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/yeetyourfiles.png",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Codefoxy/cfupload",
+        "id": "cfupload.svg",
+        "name": "File Upload",
+        "description": "Upload files to the Network, can also used with Files extension.",
+        "image": "https://extensions.penguinmod.com/images/Codefoxy/cfupload.svg",
+		"by": [
+        {
+          "name": "Codefoxy",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/VideoSharing",
+        "id": "VideoSharing",
+        "name": "Video Sharing",
+        "description": "Share your screen or camera to your projects!",
+        "image": "https://extensions.penguinmod.com/images/pooiod/VideoSharing.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/WindowHasher",
+        "id": "WindowHasher",
+        "name": "WindowHasher",
+        "description": "Interact with URL hash: the part of the URL after a hashtag",
+        "image": "https://extensions.penguinmod.com/images/pooiod/WindowHasher.avif",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/pooiod/Scratchblocks",
+        "id": "Scratchblocks",
+        "name": "Scratchblocks",
+        "description": "Generate blocks in the Scratch3, or Scratch2 format.",
+        "image": "https://extensions.penguinmod.com/images/pooiod/Scratchblocks.svg",
+		"by": [
+        {
+          "name": "pooiod7",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MubiLop/authpenguin",
+        "id": "authpenguin",
+        "name": "AuthPenguin",
+        "description": "Authenticate with anything and everything!",
+        "image": "https://extensions.penguinmod.com/images/MubiLop/authpenguin.avif",
+        "by": [
+        {
+          "name": "cicerorph",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Ikelene/googleAuthExtension",
+        "id": "googleAuthExtension",
+        "name": "Google Auth",
+        "description": "Login with Google to your projects. Allows getting a name, profile picture and email from the google account.",
+        "image": "https://extensions.penguinmod.com/images/Ikelene/ExtensionBanner.avif",
+        "by": [
+        {
+          "name": "Ikelene",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NotHouse/DiscordAuth",
+        "id": "DiscordAuth",
+        "name": "Discord Auth",
+        "description": "Login with discord to your projects. Identify users by ID and username in a secure and easy way!",
+        "image": "https://extensions.penguinmod.com/images/NotHouse/DiscordAuth-banner.avif",
+		"by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/bop_tw/Twitch",
+        "id": "Twitch",
+        "name": "Twitch",
+        "description": "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
+        "image": "https://extensions.penguinmod.com/images/bop_tw/Twitch.avif",
+		"by": [
+        {
+          "name": "bop_tw",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/chess-ext",
+        "id": "chess-ext",
+        "name": "Chess",
+        "description": "A powerful extension that lets you manage a chessboard, customize it, use Stockfish 17 (via API), a local chess engine (Lozza) and much, MUCH more!",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/chess-ext.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/CATS",
+        "id": "CATS",
+        "name": "CATS",
+        "description": "Blocks related to cats.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/cats.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+   {
+        "slug": "https://extensions.penguinmod.com/extensions/WAYLIVES/FreeServers",
+        "id": "FreeServers",
+        "name": "Free Servers",
+        "description": "Here you can find a free server for your projects. And also check whether it is working now or not.",
+        "image": "https://extensions.penguinmod.com/images/WAYLIVES/FreeServersIMG.svg",
+		"by": [
+        {
+          "name": "WAYLIVES",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/VeryGoodScratcher42/More-Types",
+        "id": "More-Types",
+        "name": "More Types",
+        "description": "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
+        "image": "https://extensions.penguinmod.com/images/VeryGoodScratcher42/More-Types.avif",
+		"by": [
+        {
+          "name": "VeryGoodScratcher42",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/TheShovel/oneko",
+        "id": "oneko",
+        "name": "oneko",
+        "description": "Cute cat that follows you on the block area.",
+        "image": "https://extensions.penguinmod.com/images/TheShovel/thumbnail-oneko.avif",
+        "by": [
+        {
+          "name": "TheShovel",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/MrRedstonia/counterplusplus",
+        "id": "counterplusplus",
+        "name": "Counter++",
+        "description": "Count anything, at any time, in PenguinMod!",
+        "image": "https://extensions.penguinmod.com/images/MrRedstonia/counterplusplus.avif",
+		"by": [
+        {
+          "name": "MrRedstonia",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Monochromasity/howmanylines",
+        "id": "howmanylines",
+        "name": "How many lines?",
+        "description": "Blocks to determine the amount of new lines in a piece of text.",
+        "image": "https://extensions.penguinmod.com/images/Monochromasity/placeholder-howmanylines.avif",
+        "by": [
+        {
+          "name": "Monochromasity",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Fruits555000/PaintUtils",
+        "id": "PaintUtils",
+        "name": "Paint Utils",
+        "description": "A colour extension that lets you mix colours.",
+        "image": "https://extensions.penguinmod.com/images/Fruits555000/PaintUtils.svg",
+		"by": [
+        {
+          "name": "Fruits555000",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/DogeisCut/Resolution",
+        "id": "Resolution",
+        "name": "Resolution",
+        "description": "Provides utility blocks that simplify the creation of projects with dynamic resolution support.",
+        "image": "https://extensions.penguinmod.com/images/DogeisCut/Resolution.svg",
+        "by": [
+        {
+          "name": "DogeisCut",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/gaimerI17/DeviceMotion",
+        "id": "deviceMotion",
+        "name": "Device Motion",
+        "description": "Use Device Motion API to get rotation or movement of the device. Works best on mobile devices. Thumbnail by Dillon.",
+        "image": "https://extensions.penguinmod.com/images/gaimerI17/DeviceMotion.avif",
+		"by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/gaimerI17/crypto",
+        "id": "crypto",
+        "name": "Cryptography",
+        "description": "Hash, encrypt and verify values using various algorithms. Actual security not guaranteed",
+        "image": "https://extensions.penguinmod.com/images/gaimerI17/crypto.avif",
+        "by": [
+        {
+          "name": "gaimerI",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/NotHouse/OnlineCaptcha",
+        "id": "OnlineCaptcha",
+        "name": "Online Captcha",
+        "description": "Protect your project with simple, easy to use captcha implementation. Fully client-side, bypass-proof captcha solution!",
+        "image": "https://extensions.penguinmod.com/images/NotHouse/OnlineCaptcha-banner.avif",
+        "by": [
+        {
+          "name": "enderhacker",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/better_storage",
+        "id": "better_storage",
+        "name": "Better Storage",
+        "description": "Like PenguinMod's Storage Extension, but with a couple more features, and faster servers.",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/betterstorage.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+    {
+        "slug": "https://extensions.penguinmod.com/extensions/Gen1x/mouth_washer",
+        "id": "mouth_washer",
+        "name": "Mouth Washer",
+        "description": "Includes many utilities related to cleaning bad words, swearing and profanity. Thought of as an extra layer of security for filtering messages.\n\n(ft. violet and jwklong)",
+        "image": "https://extensions.penguinmod.com/images/Gen1x/mw-placeholder.avif",
+        "by": [
+        {
+          "name": "G1nX",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/firealarm",
+        "id": "firealarm",
+        "name": "Smoke Detector",
+        "description": "Plays a beep every 30 seconds.",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/firealarm.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/StageBrah",
+        "id": "StageBrah",
+        "name": "Stage Brah",
+        "description": "Spawn Brah cats in your codespace!",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/StageBrah.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/MIDI",
+        "id": "MIDI",
+        "name": "MIDI Controller",
+        "description": "Use a MIDI keyboard to interact with projects!",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/MIDI.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+      {
+        "slug": "https://extensions.penguinmod.com/extensions/AndrewGaming587/agBuffer",
+        "id": "agBuffer",
+        "name": "Array Buffers",
+        "description": "Read, parse, and write raw data efficiently using Array Buffers",
+        "image": "https://extensions.penguinmod.com/images/AndrewGaming587/agBuffer.svg",
+		"by": [
+        {
+          "name": "AndrewGaming587",
+          "link": null
+        }
+      ]
+    },
+        {
+        "slug": "https://extensions.penguinmod.com/extensions/electricfuzzball_pm/blackMold",
+        "id": "blackMold",
+        "name": "Black Mold",
+        "description": "mmmmm black mold",
+        "image": "https://extensions.penguinmod.com/images/electricfuzzball_pm/blackMold.svg",
+        "by": [
+        {
+          "name": "ElectricFuzzball_PM",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/ode",
+        "id": "ODEE",
+        "name": "ODE",
+        "description": "3D physics using ODE.",
+        "image": "https://extensions.penguinmod.com/images/NishiOwO/ode.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+        "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/turbosynth",
+        "id": "TurboSynth",
+        "name": "TurboSynth",
+        "description": "Synthesizer that uses TurboSynth.",
+        "image": "https://extensions.penguinmod.com/images/NishiOwO/turbosynth.svg",
+        "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    },
+	{
+      "slug": "https://extensions.penguinmod.com/extensions/NishiOwO/libxmp",
+      "id": "nishiowoLibxmpp",
+      "name": "Libxmp",
+      "description": "Play tracker modules using Libxmp.",
+      "image": "https://extensions.penguinmod.com/images/NishiOwO/libxmp.svg",
+      "by": [
+        {
+          "name": "NishiOwO",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
