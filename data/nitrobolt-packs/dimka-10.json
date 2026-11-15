@@ -149,6 +149,42 @@
 	]
   },
   {
+    "name": "CloudLink TURBO",
+    "description": "No description available.",
+    "slug": "DataCode/Turbo%20Networking",
+    "id": "networking",
+    "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "TurboCharged",
+    "description": "No description available.",
+    "slug": "DataCode/TurboCharged",
+    "id": "TurboCharged",
+    "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+	]
+  },
+  {
+    "name": "TurboFoolishness",
+    "description": "No description available.",
+    "slug": "DataCode/TurboFoolishness",
+    "id": "turbofoolishness",
+    "by": [
+        {
+          "name": "Unknown",
+          "link": null
+        }
+	]
+  },
+  {
     "name": "modio",
     "description": "Mod.IO APIs.",
     "slug": "DataCode/modio",
