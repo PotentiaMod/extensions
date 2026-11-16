@@ -60,7 +60,7 @@
       ]
     },
 	{
-      "slug": "DataCode/Obfuscator",
+      "slug": "DataCode/obfuscation",
       "id": "Obfuscator",
       "name": "Obfuscator",
       "description": "Turns variable and list names into a meaningless set of characters. At the same time, the program continues to work in the same way.",
