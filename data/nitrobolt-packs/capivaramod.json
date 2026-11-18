@@ -1,0 +1,219 @@
+{
+  "information": {
+    "name": "CapivaraMod",
+    "tag": "capivara",
+    "source": "https://capivaramod.github.io/extensions/",
+    "color": "#6B8E23",
+    "icon": "https://capivaramod.github.io/favicon.ico"
+  },
+  "extensions": [
+{
+      "slug": "capivaramod/matrix",
+      "id": "matrix",
+      "name": "Matrix",
+      "description": "A Matrix-style text effect for Scratch.",
+      "image": "images/capivaramod/matrix.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/minecraftskin",
+      "id": "minecraftskin",
+      "name": "Minecraft skin",
+      "description": "An easier way to get Minecraft skins.",
+      "image": "images/capivaramod/minecraftskin.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/abreviadornumerico",
+      "id": "numberAbbreviator",
+      "name": "Number Abbreviator",
+      "description": "Adds a reporter block that converts large numbers into an abbreviated format (e.g., 10928 -\u003E 10.9k)",
+      "image": "images/capivaramod/abreviadornumerico.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/colors",
+      "id": "cores",
+      "name": "Colors",
+      "description": "adds color manipulation blocks.",
+      "image": "images/capivaramod/colors.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/vector",
+      "id": "vector",
+      "name": "Vector",
+      "description": "adds vector blocks.",
+      "image": "images/capivaramod/vector.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/movimentacaoextra",
+      "id": "movimentacaoextra",
+      "name": "Extra Motion",
+      "description": "adds extra movement blocks.",
+      "image": "images/capivaramod/movimentacaoextra.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/poligonos",
+      "id": "Polygons",
+      "name": "Polygons",
+      "description": "adds new polygon blocks designed to calculate area and perimeter.",
+      "image": "images/capivaramod/poligonos.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/tempo",
+      "id": "capivaramodtime",
+      "name": "Capivara Mod Time",
+      "description": "adds new blocks for calculating time and viewing the time.",
+      "image": "images/capivaramod/tempo.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/starwarsapi",
+      "id": "starwarsapi",
+      "name": "Star Wars API (unofficial)",
+      "description": "offers integration with the Star Wars API (https://swapi.dev/) to fetch information about characters and planets.",
+      "image": "images/capivaramod/starwarsapi.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/capturadetela",
+      "id": "screenshot",
+      "name": "Screenshot",
+      "description": "adds new blocks to take screenshots of the stage.",
+      "image": "images/capivaramod/capturadetela.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/navegador",
+      "id": "browser",
+      "name": "Browser",
+      "description": "Adds blocks for interacting with the browser.",
+      "image": "images/capivaramod/navegador.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/aparenciaextra",
+      "id": "extraappearance",
+      "name": "Extra Appearance",
+      "description": "adds new appearance blocks.",
+      "image": "images/capivaramod/aparenciaextra.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/morsecode",
+      "id": "morsecode",
+      "name": "Morse Code Translator (modified version)",
+      "description": "Original created by https://github.com/Flappy25.",
+      "image": "images/capivaramod/morsecode.png",
+      "by": [
+        {
+          "name": "Flappy25 (original version), Modified by CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/textcomparison",
+      "id": "textcomparison",
+      "name": "Text Comparison Extension (modified version)",
+      "description": "Original created by https://github.com/Flappy25.",
+      "image": "images/capivaramod/textcomparison.png",
+      "by": [
+        {
+          "name": "Flappy25 (original version), Modified by CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/morsecodesong",
+      "id": "morsecodesound",
+      "name": "Morse Code Sound",
+      "description": "play Morse code sounds.",
+      "image": "images/capivaramod/morsecodesong.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "capivaramod/capivaramodutilities",
+      "id": "capivaramodutilities",
+      "name": "CapivaraMod Utilities",
+      "description": "utility block for CapivaraMod.",
+      "image": "images/capivaramod/capivaramodutilities.png",
+      "by": [
+        {
+          "name": "CapivaraMod",
+          "link": null
+        }
+      ]
+    }
+  ]
+}
