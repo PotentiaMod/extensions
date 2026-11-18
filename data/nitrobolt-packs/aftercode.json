@@ -1,0 +1,196 @@
+{
+  "information": {
+    "name": "AfterCode",
+    "tag": "ac",
+    "source": "https://aftercode-official.github.io/Aftercode-extensions/",
+    "color": "#000000",
+    "icon": "https://avatars.githubusercontent.com/u/319112398?s=200&v=4"
+  },
+  "extensions": [
+    {
+      "slug": "katboizz/Vector-pen",
+      "id": "VPen",
+      "name": "Vector Pen",
+      "description": "Draws a Vector Pen on the stage, thank Koji Yokokawa for the code Vector pen and original code Xcratch.",
+      "image": "images/katboizz/Vector-pen.png",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "cunken/complex-math",
+      "id": "hyperspacemath",
+      "name": "Complex number v3",
+      "description": "Extension for complex numbers and quaternions",
+      "image": "images/cunken/complex-math.png",
+      "by": [
+        {
+          "name": "Cunken",
+          "link": "https://scratch.mit.edu/users/cunken/"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/Bytebeat-player",
+      "id": "advancedAudioWorklet",
+      "name": "Bytebeat player",
+      "description": "Play, edit, and read songs from any Bytebeat composer song",
+      "image": "images/katboizz/Bytebeat-player.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/Extension-builder",
+      "id": "extensioneditorjs",
+      "name": "ExtAxle",
+      "description": "Build and dynamically load JavaScript extensions into Scratch/TurboWarp visually.",
+      "image": "images/katboizz/Extension-builder.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/javascript",
+      "id": "javascript",
+      "name": "javascript v2",
+      "description": "javascript code editor and runner for scratch",
+      "image": "images/katboizz/javascript.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/Visualizer",
+      "id": "Visualizer",
+      "name": "Visualizer plus",
+      "description": "A real, optimized audio visualizer showing on your project + WebGL Shader Editor.",
+      "image": "images/katboizz/Visualizer.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        },
+        {
+          "name": "StudioDANV",
+          "link": "https://turbows.pages.dev/users/StudioDANV"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/Extra-effects",
+      "id": "ExtraEffects",
+      "name": "Extra Effects",
+      "description": "Advanced shader effects extension for scratch, big thanks to ObviousAlexC for system shaders for this extension",
+      "image": "images/katboizz/Extra-effects.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "katboizz/DOM-tools",
+      "id": "DOMplugin",
+      "name": "DOM plugin v4",
+      "description": "Customize DOM element in your project",
+      "image": "images/katboizz/DOM-tools.svg",
+      "by": [
+        {
+          "name": "katboizz",
+          "link": "https://scratch.mit.edu/users/katboizz/"
+        }
+      ]
+    },
+    {
+      "slug": "obviousAlexC/shader",
+      "id": "OACShaded",
+      "name": "Shader",
+      "description": "Custom shaders for the scratch stage (Incompatible with Extra effects)",
+      "image": "images/obviousAlexC/shader.png",
+      "by": [
+        {
+          "name": "ObviousAlexC",
+          "link": "https://scratch.mit.edu/users/pinksheep2917/"
+        }
+      ]
+    },
+    {
+      "slug": "_kitty-the-cat_/Web-Screen",
+      "id": "webscreen",
+      "name": "Web Screen",
+      "description": "Extension Web Screen allows an Aftercode project to display text and characters over the entire web page.",
+      "by": [
+        {
+          "name": "_kitty-the-cat_",
+          "link": "https://scratch.mit.edu/users/_kitty-the-cat_/"
+        }
+      ]
+    },
+    {
+      "slug": "DANV/wow-ext",
+      "id": "danvWowEconomy",
+      "name": "DANV WOW token",
+      "description": "Tích hợp hệ thống tiền tệ năng lượng WOW của DANVworkshop vào game",
+      "image": "images/DANV/wow-ext.png",
+      "by": [
+        {
+          "name": "StudioDANV",
+          "link": "https://turboshare.org.uk/users/StudioDANV"
+        }
+      ]
+    },
+    {
+      "slug": "DANV/collab-ext",
+      "id": "liveblockscollab",
+      "name": "DANV Collaborative Workspace",
+      "description": "Nền tảng làm việc nhóm và cộng tác theo thời gian thực dành cho dự án.",
+      "image": "images/DANV/collab-ext.png",
+      "by": [
+        {
+          "name": "StudioDANV",
+          "link": "https://turboshare.org.uk/users/StudioDANV"
+        }
+      ]
+    },
+    {
+      "slug": "cunken/cunken-ext",
+      "id": "assetDownloaderTempVars",
+      "name": "Asset Downloader & Temp Vars",
+      "description": "some stuff from cunken idk",
+      "image": "images/cunken/cunken-ext.png",
+      "by": [
+        {
+          "name": "Cunken",
+          "link": "https://scratch.mit.edu/users/cunken/"
+        }
+      ]
+    },
+    {
+      "slug": "DANV/CloudDB",
+      "id": "danvCloudDB",
+      "name": "DANV Realtime Cloud Variables",
+      "description": "Cung cấp chức năng biến lưu trữ đám mây cho dự án. Tạo ra các chức năng điểm số, kết nối mọi người với một biến số nhưng mọi người có thể sử dụng.",
+      "image": "images/DANV/CloudDB.png",
+      "by": [
+        {
+          "name": "StudioDANV",
+          "link": "https://turbows.pages.dev/users/StudioDANV"
+        }
+      ]
+    }
+  ]
+}
