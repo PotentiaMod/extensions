@@ -1,0 +1,76 @@
+{
+  "information": {
+    "name": "TurboShare",
+    "tag": "turbows",
+    "source": "https://raw.githubusercontent.com/Turbo-IDE/scratch-gui/2a03d4b3f3835bb03c3876d5a4bf6fb4e014f69e/TurboWS/Extensions/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+    {
+      "slug": "CloudDB",
+      "id": "danvCloudDB",
+      "name": "DANV Cloud DB",
+      "description": "Cloud variables and data storage for multi-player games.",
+      "image": "Banner/CloudDB.png?raw=true",
+      "by": [
+        {
+          "name": "TurboWS Team",
+          "link": "https://turboshare.org.uk"
+        }
+      ]
+    },
+	{
+      "slug": "WOWEconomy",
+      "id": "danvWowEconomy",
+      "name": "WOW Economy",
+      "description": "WOW energy currency system integration",
+      "image": "Banner/WOWEconomy.png?raw=true",
+      "by": [
+        {
+          "name": "TurboWS Team",
+          "link": "https://turboshare.org.uk"
+        }
+      ]
+    },
+	{
+      "slug": "EmbedWindows",
+      "id": "EmbedWindowsv2",
+      "name": "Embed Windows v2",
+      "description": "Create fake windows in your project page",
+      "image": "Banner/EmbedWindows.png?raw=true",
+      "by": [
+        {
+          "name": "TurboWS Team",
+          "link": "https://turboshare.org.uk"
+        }
+      ]
+    },
+	{
+      "slug": "TurboForge",
+      "id": "turboforge",
+      "name": "TurboForge Studio",
+      "description": "Build custom extensions with AI BeaBea",
+      "image": "Banner/TurboForge.png?raw=true",
+      "by": [
+        {
+          "name": "TurboWS Team",
+          "link": "https://turboshare.org.uk"
+        }
+      ]
+    },
+	{
+      "slug": "BeaBea Coding Agent",
+      "id": "beabeaCodingAgent",
+      "name": "WOW Economy",
+      "description": "AI-powered coding agent studio with BeaBea",
+      "image": "Banner/BeaBeaCodingAgent.png?raw=true",
+      "by": [
+        {
+          "name": "TurboWS Team",
+          "link": "https://turboshare.org.uk"
+        }
+      ]
+    }
+  ]
+}
