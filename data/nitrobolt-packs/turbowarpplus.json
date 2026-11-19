@@ -223,6 +223,54 @@
         }
       ]
     },
+	{
+      "slug": "turbowarp-extended-notification/refs/heads/main/dist/extended-notification",
+      "id": "kubohiroyaextendednotification",
+      "name": "Extended Notification",
+      "description": "Wait for custom notifications or key presses with optional timeouts."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-named-data/refs/heads/main/dist/named-data",
+      "id": "kubohiroyanameddata",
+      "name": "Named Data",
+      "description": "Shared named-data references and provider registry for TurboWarp extensions."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-structured-data/refs/heads/main/dist/structured-data",
+      "id": "kubohiroyastructureddata",
+      "name": "Structured Data",
+      "description": "Named structured data with JSON/YAML codecs for TurboWarp and server compilation."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-named-functions/refs/heads/main/dist/turbowarp-named-functions",
+      "id": "kubohiroyanamedfunctions",
+      "name": "TurboWarp Named Functions",
+      "description": "Named JSON functions that scripts can call by name, synchronously or asynchronously."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
   {
       "slug": "turbowarp-voice-chat/refs/heads/main/dist/turbowarp-voice-chat",
       "id": "kubohiroyavoicechat",
