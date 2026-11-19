@@ -128,6 +128,42 @@
       ]
     },
 	{
+      "slug": "turbowarp-text-lines/refs/heads/main/dist/text-lines",
+      "id": "kubohiroyatextlines",
+      "name": "Text Lines",
+      "description": "Count, read, and split text by lines in TurboWarp."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-yaml-json/refs/heads/main/dist/turbowarp-yaml-json",
+      "id": "kubohiroyayamljson",
+      "name": "TurboWarp YAML/JSON",
+      "description": "Safely parse or build YAML and JSON data with immutable reporter blocks."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-webusb-pasori/refs/heads/main/dist/webusb-pasori",
+      "id": "kubohiroyawebusbpasori",
+      "name": "WebUSB PaSoRi",
+      "description": "Read NFC card IDm and PMm values with Sony PaSoRi over WebUSB."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
       "slug": "turbowarp-camera-source/refs/heads/main/dist/camera-source",
       "id": "kubohiroyacamerasource",
       "name": "Camera Source",
