@@ -8,6 +8,18 @@
   },
   "extensions": [
   {
+      "slug": "turbowarp-title-menu/refs/heads/main/dist/turbowarp-title-menu",
+      "id": "kubohiroyaturbowarptitlemenu",
+      "name": "TurboWarp Title Menu",
+      "description": "Reusable title, application menu, and DSL source storage controls for TurboWarp."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
       "slug": "turbowarp-runtime-expression/refs/heads/main/dist/runtime-expression",
       "id": "kubohiroyaruntimeexpression",
       "name": "Runtime Expression",
@@ -36,6 +48,42 @@
       "id": "kubohiroyadiagnosticoverlay",
       "name": "Diagnostic Overlay",
       "description": "Render structured diagnostics as safe SVG overlays on the TurboWarp stage",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-html/refs/heads/main/dist/turbowarp-html",
+      "id": "kubohiroyahtml",
+      "name": "TurboWarp HTML",
+      "description": "Build escaped HTML fragments with immutable reporter blocks.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-camera-calibration/refs/heads/main/dist/camera-calibration",
+      "id": "kubohiroyacameracalibration",
+      "name": "TurboWarp Camera Calibration",
+      "description": "Calibrate a shared Camera Source camera and publish its intrinsic calibration profile."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-camera-source/refs/heads/main/dist/camera-source",
+      "id": "kubohiroyacamerasource",
+      "name": "Camera Source",
+      "description": "Share one MediaDevices camera stream between TurboWarp extensions."
       "by": [
         {
           "name": "Hiroya Kubo",
