@@ -1,0 +1,263 @@
+{
+  "information": {
+    "name": "TurboWarp Plus",
+    "tag": "twplus",
+    "source": "https://github.com/kubohiroya/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+  {
+      "slug": "turbowarp-runtime-expression/refs/heads/main/dist/runtime-expression",
+      "id": "kubohiroyaruntimeexpression",
+      "name": "Runtime Expression",
+      "description": "Safely evaluate JavaScript-like conditions over Temporary Variables runtime variables.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-time-space-sync/refs/heads/main/dist/time-space-sync",
+      "id": "kubohiroyatimespacesync",
+      "name": "TurboWarp Time Space Sync",
+      "description": "Optical time correspondence and camera placement calibration.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-diagnostic-overlay/refs/heads/main/dist/diagnostic-overlay",
+      "id": "kubohiroyadiagnosticoverlay",
+      "name": "Diagnostic Overlay",
+      "description": "Render structured diagnostics as safe SVG overlays on the TurboWarp stage",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-document-data/refs/heads/main/dist/document-data",
+      "id": "kubohiroyadocumentdata",
+      "name": "Document Data",
+      "description": "Named HTML and Markdown document trees for TurboWarp and HTTP bodies.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-qr-display/refs/heads/main/dist/qr-display",
+      "id": "kubohiroyaqrdisplay",
+      "name": "QR Display",
+      "description": "Show any text as a QR code on a TurboWarp sprite.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-jsqr/refs/heads/main/dist/jsqr",
+      "id": "kubohiroyajsqr",
+      "name": "jsQR",
+      "description": "Read QR codes, including Structured Append sequences, from a shared TurboWarp camera source. Decodes with zxing-cpp.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-http-server/refs/heads/main/dist/turbowarp-http-server",
+      "id": "kubohiroyaturbowarphttpserver",
+      "name": "TurboWarp HTTP Server",
+      "description": "Connect TurboWarp blocks to an HTTP bridge server over WebSocket.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-voice-chat/refs/heads/main/dist/turbowarp-voice-chat",
+      "id": "kubohiroyavoicechat",
+      "name": "TurboWarp Voice Chat",
+      "description": "Voice chat with an AI: OpenAI Realtime or browser speech, tools from blocks, and forced coffee breaks.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-teachable-machine/refs/heads/main/dist/teachable-machine",
+      "id": "kubohiroyatm",
+      "name": "Teachable Machine",
+      "description": "Use Teachable Machine pose, image, or audio models for recognition in TurboWarp.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-webrtc/refs/heads/main/dist/turbowarp-webrtc",
+      "id": "kubohiroyawebrtc",
+      "name": "WebRTC Manual Pairing",
+      "description": "Peer-to-peer DataChannel messaging for TurboWarp with manual pairing codes.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-webrtc-qrcode-pairing/refs/heads/main/dist/webrtc-qrcode-pairing",
+      "id": "kubohiroyawebrtcqrcodepairing",
+      "name": "TurboWarp WebRTC QRCode Pairing",
+      "description": "Exchanges WebRTC offers and answers by carrying them optically as QR codes.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-web-speech/refs/heads/main/dist/turbowarp-web-speech",
+      "id": "kubohiroyawebspeech",
+      "name": "TurboWarp Web Speech",
+      "description": "Speech recognition and speech synthesis in the browser with the Web Speech API.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-ar/refs/heads/main/dist/ar",
+      "id": "kubohiroyaar",
+      "name": "TurboWarp AR",
+      "description": "A TurboWarp extension for camera-source based AR target state.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-aframe/refs/heads/main/dist/turbowarp-aframe",
+      "id": "turbowarpaframe",
+      "name": "TurboWarp A Frame",
+      "description": "A TurboWarp extension for declarative A-Frame scene graphs.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-asset-cache/refs/heads/main/dist/asset-cache",
+      "id": "kubohiroyaassetcache",
+      "name": "Asset Cache",
+      "description": "Register, cache, display, and play image, audio, and runtime text assets in TurboWarp.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-asset-manager/refs/heads/main/dist/asset-manager",
+      "id": "kubohiroyaassetmanager",
+      "name": "Asset Manager",
+      "description": "Register, cache, display, and play image, audio, and runtime text assets in TurboWarp.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-kvs/refs/heads/main/dist/kvs",
+      "id": "kubohiroyakvs",
+      "name": "KVS",
+      "description": "A portable namespace and key value store for TurboWarp.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-async-input/refs/heads/main/dist/async-input",
+      "id": "kubohiroyaasyncinput",
+      "name": "Async Input",
+      "description": "Bind keyboard and current-sprite pointer input to Temporary Variables runtime variables.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+  {
+      "slug": "turbowarp-openai-realtime-api/refs/heads/main/dist/turbowarp-openai-realtime-api",
+      "id": "kubohiroyaopenairealtime",
+      "name": "TurboWarp OpenAI Realtime API",
+      "description": "Talk with the OpenAI Realtime API from TurboWarp through a localhost relay.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+    {
+      "slug": "turbowarp-jotai-adapter/refs/heads/main/dist/turbowarp-jotai-adapter",
+      "id": "kubohiroyajotaiadapter",
+      "name": "TurboWarp Jotai Adapter",
+      "description": "TurboWarp blocks for producing Jotai bridge JSON.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-extension-template/refs/heads/main/dist/example-extension",
+      "id": "kubohiroyaexampleextension",
+      "name": "TurboWarp Example Extension",
+      "description": "A TypeScript-based TurboWarp extension.",
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    }
+  ]
+}
