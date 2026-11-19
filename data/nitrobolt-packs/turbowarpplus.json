@@ -43,6 +43,54 @@
         }
       ]
     },
+	{
+      "slug": "turbowarp-uuid/refs/heads/main/dist/turbowarp-uuid",
+      "id": "kubohiroyauuid",
+      "name": "TurboWarp UUID",
+      "description": "Generate UUID v4/v7 and validate UUID strings in TurboWarp."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-photogrammetry/refs/heads/main/dist/photogrammetry",
+      "id": "kubohiroyaphotogrammetry",
+      "name": "TurboWarp Photogrammetry",
+      "description": "Initial scaffold for photogrammetry."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-react-islands/refs/heads/main/dist/turbowarp-react-islands",
+      "id": "kubohiroyareactislands",
+      "name": "TurboWarp React Islands",
+      "description": "Describe React islands from TurboWarp blocks for turbowarp-http-server HTML responses."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
+	{
+      "slug": "turbowarp-3d-scene-runtime/refs/heads/main/dist/3d-scene-runtime",
+      "id": "kubohiroya3dsceneruntime",
+      "name": "TurboWarp 3D Scene Runtime",
+      "description": "Applies a 3D/AR scene description by dispatching its call plan to turbowarp-aframe and turbowarp-ar."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
   {
       "slug": "turbowarp-diagnostic-overlay/refs/heads/main/dist/diagnostic-overlay",
       "id": "kubohiroyadiagnosticoverlay",
