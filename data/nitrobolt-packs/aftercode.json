@@ -7,6 +7,31 @@
     "icon": "https://avatars.githubusercontent.com/u/319112398?s=200&v=4"
   },
   "extensions": [
+  {
+      "slug": "ezx6t/sibuext",
+      "id": "asyncawait",
+      "name": "Async Await",
+      "description": "Async Await Extension for Scratch",
+      "by": [
+        {
+          "name": "ezx6t",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "_kitty-the-cat_/motion-sensor",
+      "id": "motionsensor",
+      "name": "Motion Sensor",
+      "description": "Motion Sensor Extension for Scratch",
+      "image": "images/_kitty-the-cat_/motion-sensor.png",
+      "by": [
+        {
+          "name": "_Kitty-the-cat_",
+          "link": "https://scratch.mit.edu/users/_kitty-the-cat_/"
+        }
+      ]
+    },
     {
       "slug": "katboizz/Vector-pen",
       "id": "VPen",
