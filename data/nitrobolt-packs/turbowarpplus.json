@@ -19,6 +19,18 @@
         }
       ]
     },
+	{
+      "slug": "turbowarp-visual-tracking/refs/heads/main/dist/visual-tracking",
+      "id": "kubohiroyavisualtracking",
+      "name": "TurboWarp Visual Tracking",
+      "description": "Initial scaffold for visual-tracking."
+      "by": [
+        {
+          "name": "Hiroya Kubo",
+          "link": "https://github.com/kubohiroya"
+        }
+      ]
+    },
   {
       "slug": "turbowarp-runtime-expression/refs/heads/main/dist/runtime-expression",
       "id": "kubohiroyaruntimeexpression",
