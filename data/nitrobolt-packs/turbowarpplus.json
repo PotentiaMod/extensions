@@ -11,7 +11,7 @@
       "slug": "turbowarp-title-menu/refs/heads/main/dist/turbowarp-title-menu",
       "id": "kubohiroyaturbowarptitlemenu",
       "name": "TurboWarp Title Menu",
-      "description": "Reusable title, application menu, and DSL source storage controls for TurboWarp."
+      "description": "Reusable title, application menu, and DSL source storage controls for TurboWarp.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -23,7 +23,7 @@
       "slug": "turbowarp-visual-tracking/refs/heads/main/dist/visual-tracking",
       "id": "kubohiroyavisualtracking",
       "name": "TurboWarp Visual Tracking",
-      "description": "Initial scaffold for visual-tracking."
+      "description": "Initial scaffold for visual-tracking.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -59,7 +59,7 @@
       "slug": "turbowarp-uuid/refs/heads/main/dist/turbowarp-uuid",
       "id": "kubohiroyauuid",
       "name": "TurboWarp UUID",
-      "description": "Generate UUID v4/v7 and validate UUID strings in TurboWarp."
+      "description": "Generate UUID v4/v7 and validate UUID strings in TurboWarp.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -71,7 +71,7 @@
       "slug": "turbowarp-photogrammetry/refs/heads/main/dist/photogrammetry",
       "id": "kubohiroyaphotogrammetry",
       "name": "TurboWarp Photogrammetry",
-      "description": "Initial scaffold for photogrammetry."
+      "description": "Initial scaffold for photogrammetry.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -83,7 +83,7 @@
       "slug": "turbowarp-react-islands/refs/heads/main/dist/turbowarp-react-islands",
       "id": "kubohiroyareactislands",
       "name": "TurboWarp React Islands",
-      "description": "Describe React islands from TurboWarp blocks for turbowarp-http-server HTML responses."
+      "description": "Describe React islands from TurboWarp blocks for turbowarp-http-server HTML responses.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -95,7 +95,7 @@
       "slug": "turbowarp-3d-scene-runtime/refs/heads/main/dist/3d-scene-runtime",
       "id": "kubohiroya3dsceneruntime",
       "name": "TurboWarp 3D Scene Runtime",
-      "description": "Applies a 3D/AR scene description by dispatching its call plan to turbowarp-aframe and turbowarp-ar."
+      "description": "Applies a 3D/AR scene description by dispatching its call plan to turbowarp-aframe and turbowarp-ar.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -131,7 +131,7 @@
       "slug": "turbowarp-camera-calibration/refs/heads/main/dist/camera-calibration",
       "id": "kubohiroyacameracalibration",
       "name": "TurboWarp Camera Calibration",
-      "description": "Calibrate a shared Camera Source camera and publish its intrinsic calibration profile."
+      "description": "Calibrate a shared Camera Source camera and publish its intrinsic calibration profile.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -143,7 +143,7 @@
       "slug": "turbowarp-text-lines/refs/heads/main/dist/text-lines",
       "id": "kubohiroyatextlines",
       "name": "Text Lines",
-      "description": "Count, read, and split text by lines in TurboWarp."
+      "description": "Count, read, and split text by lines in TurboWarp.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -155,7 +155,7 @@
       "slug": "turbowarp-yaml-json/refs/heads/main/dist/turbowarp-yaml-json",
       "id": "kubohiroyayamljson",
       "name": "TurboWarp YAML/JSON",
-      "description": "Safely parse or build YAML and JSON data with immutable reporter blocks."
+      "description": "Safely parse or build YAML and JSON data with immutable reporter blocks.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -167,7 +167,7 @@
       "slug": "turbowarp-webusb-pasori/refs/heads/main/dist/webusb-pasori",
       "id": "kubohiroyawebusbpasori",
       "name": "WebUSB PaSoRi",
-      "description": "Read NFC card IDm and PMm values with Sony PaSoRi over WebUSB."
+      "description": "Read NFC card IDm and PMm values with Sony PaSoRi over WebUSB.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -179,7 +179,7 @@
       "slug": "turbowarp-camera-source/refs/heads/main/dist/camera-source",
       "id": "kubohiroyacamerasource",
       "name": "Camera Source",
-      "description": "Share one MediaDevices camera stream between TurboWarp extensions."
+      "description": "Share one MediaDevices camera stream between TurboWarp extensions.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -239,7 +239,7 @@
       "slug": "turbowarp-extended-notification/refs/heads/main/dist/extended-notification",
       "id": "kubohiroyaextendednotification",
       "name": "Extended Notification",
-      "description": "Wait for custom notifications or key presses with optional timeouts."
+      "description": "Wait for custom notifications or key presses with optional timeouts.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -251,7 +251,7 @@
       "slug": "turbowarp-binary-data/refs/heads/main/dist/binary-data",
       "id": "kubohiroyabinarydata",
       "name": "Binary Data",
-      "description": "Store named binary data and expose immutable raw body snapshots."
+      "description": "Store named binary data and expose immutable raw body snapshots.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -263,7 +263,7 @@
       "slug": "turbowarp-markdown/refs/heads/main/dist/turbowarp-markdown",
       "id": "kubohiroyamarkdown",
       "name": "TurboWarp Markdown",
-      "description": "Build Markdown documents with immutable reporter blocks."
+      "description": "Build Markdown documents with immutable reporter blocks.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -275,7 +275,7 @@
       "slug": "turbowarp-cloudflare-worker/refs/heads/main/dist/turbowarp-cloudflare-worker",
       "id": "kubohiroyacloudflareworker",
       "name": "TurboWarp Cloudflare Worker",
-      "description": "Cloudflare Workers generation blocks for turbowarp-http-server."
+      "description": "Cloudflare Workers generation blocks for turbowarp-http-server.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -287,7 +287,7 @@
       "slug": "turbowarp-named-data/refs/heads/main/dist/named-data",
       "id": "kubohiroyanameddata",
       "name": "Named Data",
-      "description": "Shared named-data references and provider registry for TurboWarp extensions."
+      "description": "Shared named-data references and provider registry for TurboWarp extensions.",
       "by": [
         {
           "name": "Hiroya Kubo",
@@ -299,7 +299,7 @@
       "slug": "turbowarp-structured-data/refs/heads/main/dist/structured-data",
       "id": "kubohiroyastructureddata",
       "name": "Structured Data",
-      "description": "Named structured data with JSON/YAML codecs for TurboWarp and server compilation."
+      "description": "Named structured data with JSON/YAML codecs for TurboWarp and server compilation.",
       "by": [
         {
           "name": "Hiroya Kubo",
