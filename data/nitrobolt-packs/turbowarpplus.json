@@ -311,7 +311,7 @@
       "slug": "turbowarp-named-functions/refs/heads/main/dist/turbowarp-named-functions",
       "id": "kubohiroyanamedfunctions",
       "name": "TurboWarp Named Functions",
-      "description": "Named JSON functions that scripts can call by name, synchronously or asynchronously."
+      "description": "Named JSON functions that scripts can call by name, synchronously or asynchronously.",
       "by": [
         {
           "name": "Hiroya Kubo",
