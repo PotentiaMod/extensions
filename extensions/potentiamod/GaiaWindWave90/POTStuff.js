@@ -53,6 +53,31 @@
     'to the power of'
   ];
     
+	document.addEventListener("resize", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenResized");
+  });
+
+  document.addEventListener("wheel", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenScrolled");
+  });
+  
+  document.addEventListener("contextmenu", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenContextMenuShows");
+  });
+  
+    document.addEventListener("load", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenLoading");
+  });
+  
+  document.addEventListener("unload", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenUnloading");
+  });
+  
+    document.addEventListener("canplay", (event) => {
+    Scratch.vm.runtime.startHats("POTStuff_whenAnyMediaPlays");
+  });
+
+    // Public JS
 	class POTStuff {
 		constructor() {
 			//Taken from 'Lily's More Events'
@@ -95,134 +120,189 @@
 		  color3: "#7241CC",
 		  blocks: [
 		  
-			{
+          {
           opcode: 'daysSincePokemonScarletViolet',
           blockType: Scratch.BlockType.REPORTER,
           text: 'Days since Pokémon Scarlet and Violet',
 		  disableMonitor: true,
 		  extensions: ["colours_sensing"],
            },
-		   
-		    {
-            opcode: "always",
-            blockType: Scratch.BlockType.EVENT,
-            text: 'Always',
-            isEdgeActivated: false,
-			extensions: ["colours_event"],
+		   {
+          opcode: 'projectURL',
+          blockType: Scratch.BlockType.REPORTER,
+          text: 'Project URL',
+          disableMonitor: true,
+          extensions: ["colours_sensing"],
+		   },
+		   {
+          opcode: 'openUrl',
+          blockType: BlockType.COMMAND,
+          text: 'Open URL: [URL]',
+          arguments: {
+          URL: {
+          type: Scratch.ArgumentType.STRING,
+           defaultValue: 'https://potentiamod.github.io/'
+          }
+          },
+          extensions: ['colours_sensing']
+          },
+          {
+          opcode: 'executeJavascript',
+          blockType: BlockType.COMMAND,
+          text: 'Execute Javascript: [SCRIPT]',
+          arguments: {
+           SCRIPT: {
+          type: Scratch.ArgumentType.STRING,
+          defaultValue: 'alert("It\'s not what you think!");'
+          }
+          },
+          extensions: ['colours_sensing']
+          },
+		   "---",
+          {
+          opcode: "always",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'Always',
+          isEdgeActivated: false,
+          extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenScrolled",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When scrolled',
+          isEdgeActivated: false,
+		  extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenAnyMediaPlays",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When any media plays',
+          isEdgeActivated: false,
+		  extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenContextMenuShows",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When the context menu shows',
+          isEdgeActivated: false,
+		  extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenLoading",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When loading',
+          isEdgeActivated: false,
+		  extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenUnloading",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When unloading',
+          isEdgeActivated: false,
+		  extensions: ["colours_event"],
+          },
+		  {
+          opcode: "whenstopclicked",
+          blockType: Scratch.BlockType.EVENT,
+          text: 'When [STOP] clicked',
+          isEdgeActivated: false,
+		  arguments: {
+            STOP: {
+              type: Scratch.ArgumentType.IMAGE,
+              dataURI: stopIcon,
             },
-   //Copied from DinosaurMod			
-			{
+          },
+          extensions: ["colours_event"],
+          },
+		   "---",
+       //Copied from DinosaurMod			
+	      {
           opcode: 'showAllsprites',
           text: 'show all sprites',
           blockType: Scratch.BlockType.COMMAND,
 		  extensions: ["colours_looks"],
           arguments: {}
-        },
-        {
+          },
+          {
           opcode: 'hideAllsprites',
           text: 'hide all sprites',
           blockType: Scratch.BlockType.COMMAND,
 		  extensions: ["colours_looks"],
           arguments: {}
-        },
-			
-			{
-                    opcode: 'projectURL',
-                    blockType: Scratch.BlockType.REPORTER,
-                    text: 'Project URL',
-                    disableMonitor: true,
-					extensions: ["colours_sensing"],
-                },
-			
-			{
-                    opcode: 'openUrl',
-                    blockType: BlockType.COMMAND,
-                    text: 'Open URL: [URL]',
-                    arguments: {
-                        URL: {
-                            type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'https://potentiamod.github.io/'
-                        }
-                    },
-					extensions: ['colours_sensing']
-                },
-			
-			{
-                    opcode: 'executeJavascript',
-                    blockType: BlockType.COMMAND,
-                    text: 'Execute Javascript: [SCRIPT]',
-                    arguments: {
-                        SCRIPT: {
-                            type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'alert("It\'s not what you think!");'
-                        }
-                    },
-					extensions: ['colours_sensing']
-                },
-				
-				 {
-                    opcode: 'middle',
-                    text: 'Go to the middle',
-					extensions: ['colours_motion'],
-                    blockType: BlockType.COMMAND,
-                    disableMonitor: false,
-                },
-				
-			    {
-                  opcode: 'waitMinutes',
-                  text: 'Wait [MINS] minutes',
-                  blockType: Scratch.BlockType.COMMAND,
-                  arguments: {
-                    MINS: {
-                      type: Scratch.ArgumentType.NUMBER,
-                      defaultValue: '1'
-                    }
-                  },
-				  extensions: ["colours_control"],
-                },
-				
-				{
-                  opcode: 'waitHours',
-                  text: 'Wait [HR] hours',
-                  blockType: Scratch.BlockType.COMMAND,
-                  arguments: {
-                    HR: {
-                      type: Scratch.ArgumentType.NUMBER,
-                      defaultValue: '1'
-                    }
-                  },
-				  extensions: ["colours_control"],
-                },
-				
-			{
-            opcode: "whenstopclicked",
-            blockType: Scratch.BlockType.EVENT,
-            text: 'When [STOP] clicked',
-            isEdgeActivated: false,
-			arguments: {
-              STOP: {
-                type: Scratch.ArgumentType.IMAGE,
-                dataURI: stopIcon,
+          },
+		   "---",
+          {
+          opcode: 'middle',
+          text: 'Go to the middle',
+          extensions: ['colours_motion'],
+          blockType: BlockType.COMMAND,
+          disableMonitor: false,
+          },
+		   "---",
+          {
+          opcode: 'waitMinutes',
+          text: 'Wait [MINS] minutes',
+          blockType: Scratch.BlockType.COMMAND,
+          arguments: {
+           MINS: {
+          type: Scratch.ArgumentType.NUMBER,
+          defaultValue: '1'
+                 }
               },
-            },
-			extensions: ["colours_event"],
-            },
+          extensions: ["colours_control"],
+          },
+          {
+          opcode: 'waitHours',
+          text: 'Wait [HR] hours',
+          blockType: Scratch.BlockType.COMMAND,
+          arguments: {
+              HR: {
+              type: Scratch.ArgumentType.NUMBER,
+              defaultValue: '1'
+                  }
+                },
+          extensions: ["colours_control"],
+          },
+		  {
+          opcode: 'waitDays',
+          text: 'Wait [DAY] days',
+          blockType: Scratch.BlockType.COMMAND,
+          arguments: {
+              DAY: {
+              type: Scratch.ArgumentType.NUMBER,
+              defaultValue: '1'
+                  }
+                },
+          extensions: ["colours_control"],
+          },
+		  {
+            blockType: Scratch.BlockType.XML,
+            xml: '<block type="control_get_counter"/>',
+          },
+          {
+            blockType: Scratch.BlockType.XML,
+            xml: '<block type="control_incr_counter"/>',
+          },
+          {
+            blockType: Scratch.BlockType.XML,
+            xml: '<block type="control_clear_counter"/>',
+          },
 		/////
 			
 		  ],
 		  menus: {
-                DAYMENU: {
-                  acceptReporters: false,
-                  items: DAYMENU
-                },
-                MATHMENU: {
-                  acceptReporters: false,
-                  items: MATHMENU
-                },
+              DAYMENU: {
+                acceptReporters: false,
+                items: DAYMENU
+              },
+              MATHMENU: {
+                acceptReporters: false,
+                items: MATHMENU
+              },
 		      DirectMenu: {
-                  acceptReporters: false,
-                  items: ['left','right']
-                },
+                acceptReporters: false,
+                items: ['left','right']
+              },
            }
 		};
 	  }
@@ -239,7 +319,7 @@ const msPerDay = 24 * 60 * 60 * 1000;
 	  
 	  
 	    waitMinutes (args, util) {
-            return new Promise((resolve, reject) => {
+          return new Promise((resolve, reject) => {
       const timeInMilliseconds = args.MINS * 60000;
       setTimeout(() => {
         resolve();
@@ -250,6 +330,15 @@ const msPerDay = 24 * 60 * 60 * 1000;
 	waitHours (args, util) {
         return new Promise((resolve, reject) => {
       const timeInMilliseconds = args.HR * 3600000;
+      setTimeout(() => {
+        resolve();
+      }, timeInMilliseconds);
+    });
+    }
+	
+	waitDays (args, util) {
+        return new Promise((resolve, reject) => {
+      const timeInMilliseconds = args.DAY * 86400000;
       setTimeout(() => {
         resolve();
       }, timeInMilliseconds);
