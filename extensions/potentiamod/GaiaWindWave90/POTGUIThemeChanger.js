@@ -135,19 +135,19 @@
         }
 		
 		setGenesisLightTheme() {
-            this._dispatchTheme('genesislight');
+            this._dispatchTheme('genesis-white');
         }
 		
 		setGenesisDarkTheme() {
-            this._dispatchTheme('genesisdark'); //This may cause the sprite to move to a random location. Just ignore it.
+            this._dispatchTheme('genesis-black'); //This may cause the sprite to move to a random location. Just ignore it.
         }
 		
 		setModernLightTheme() {
-            this._dispatchTheme('modern-light');
+            this._dispatchTheme('pot-white');
         }
 		
 		setModernDarkTheme() {
-            this._dispatchTheme('modern-dark');
+            this._dispatchTheme('pot-black');
         }
 		
 		setHighContrastTheme() {
