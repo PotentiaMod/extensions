@@ -1,0 +1,110 @@
+{
+  "information": {
+    "name": "WWHWarp",
+    "tag": "wwhwarp",
+    "source": "https://turbowarp-extensions.pages.dev/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+    {
+      "slug": "a-star-pathfinding",
+      "id": "astarpath",
+      "name": "A* 寻路",
+      "description": "高性能 A* 网格寻路、视线检测与随机坐标生成",
+      "image": "images/a-star-pathfinding.svg",
+      "by": [
+        {
+          "name": "wangwenhao20211",
+          "link": null
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "face-capture",
+      "id": "faceCapture",
+      "name": "面部捕捉",
+      "description": "用摄像头实时捕捉面部动作，输出头部姿态、眼睛开合、嘴型等数据。",
+      "image": "images/face-capture.svg",
+      "by": [
+        {
+          "name": "wangwenhao20211",
+          "link": "https://github.com/wangwenhao20211"
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "layer-manager",
+      "id": "layerManager",
+      "name": "图层管理器",
+      "description": "打开一个浮动面板，通过拖拽列表实时调整角色图层顺序。",
+      "image": "images/layer-manager.svg",
+      "by": [
+        {
+          "name": "wangwenhao20211",
+          "link": "https://github.com/wangwenhao20211"
+        }
+      ],
+      "docs": true
+    },
+    {
+      "slug": "more-useful-blocks",
+      "id": "moreusefulblocks",
+      "name": "更多实用积木",
+      "description": "提供更多实用的积木，包括克隆，移动等",
+      "by": [
+        {
+          "name": "yizhiMC",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "direction-rendering",
+      "id": "directionRendering",
+      "name": "方向渲染",
+      "description": "提供第二个方向和xy的渲染，让角色在左右和不可翻转的情况下也可以旋转",
+      "by": [
+        {
+          "name": "yizhiMC",
+          "link": null
+        }
+      ],
+      "samples": [
+        "direction-rendering"
+      ]
+    },
+    {
+      "slug": "layer-manager-2",
+      "id": "layerManager2",
+      "name": "图层管理器2",
+      "description": "打开一个浮动面板，通过拖拽列表实时调整角色图层顺序",
+      "by": [
+        {
+          "name": "wangwenhao20211",
+          "link": "https://github.com/wangwenhao20211"
+        },
+        {
+          "name": "yizhiMC",
+          "link": null
+        }
+      ]
+    },
+    {
+      "slug": "frame-tools",
+      "id": "frameTools",
+      "name": "帧工具",
+      "description": "提供每 N 帧触发、等待指定帧数、当帧更新等与帧相关的事件积木，以及帧率和帧计数报告。",
+      "image": "images/frame-tools.svg",
+      "by": [
+        {
+          "name": "wangwenhao20211",
+          "link": "https://github.com/wangwenhao20211"
+        }
+      ],
+      "docs": true
+    }
+  ]
+}
