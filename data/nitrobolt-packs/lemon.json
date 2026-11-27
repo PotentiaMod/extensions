@@ -1,0 +1,112 @@
+{
+  "information": {
+    "name": "Lemon's Gallery",
+    "tag": "lemon",
+    "source": "https://bludisanlemon.github.io/lemons-gallery/",
+    "color": "#000000",
+    "icon": "https://potentiamod.github.io/extensions/img/placeholder-icon.svg"
+  },
+  "extensions": [
+    {
+    "name": "SQLSnap! Fileshare",
+    "image": "images/Bitter_130/SQLSnapFileshare.png",
+    "description": "Port of the SQLSnap! Fileshare extension for cloud file share utilization.",
+    "slug": "extensions/Bitter_130/SQLSnapFileshare",
+    "id": "SQLSnapFileshare",
+    "by": [
+      {"name": "Bitter_160", "link": "https://scratch.mit.edu/users/Bitter_160/"}
+    ]
+  },
+  {
+    "name": "Weather API",
+    "image": "images/Lemon/WeatherAPI.png",
+    "description": "Get weather information of a place using the Weather API.",
+    "slug": "extensions/Lemon/WeatherAPI",
+    "id": "WeatherAPI",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"},
+      {"name": "0znzw", "link": "https://scratch.mit.edu/users/0znzw/"}
+    ]
+  },
+  {
+    "name": "Screenshot (Slow)",
+    "image": "images/Lemon/screenshot.png",
+    "description": "Screenshot the entire page in one click.",
+    "slug": "extensions/Lemon/screenshot",
+    "id": "screenshot",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"}
+    ]
+  },
+  {
+    "name": "Auto Clicker Detection",
+    "image": "images/Lemon/autoclick_detect.png",
+    "description": "Easily detect auto clickers.",
+    "slug": "extensions/Lemon/autoclick_detect",
+    "id": "autoclick_detect",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"}
+    ]
+  },
+  {
+    "name": "Bluetooth Request",
+    "image": "images/Lemon/bluetooth.png",
+    "description": "Allows you to send out bluetooth requests to nearby bluetooth devices.",
+    "slug": "extensions/Lemon/bluetooth",
+    "id": "bluetooth",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"}
+    ]
+  },
+  {
+  "name": "Live Keyboard Input",
+  "description": "Get keyboard input from the user, as if they were typing in a textbox!",
+  "slug": "extensions/silly software/LiveKeyboard",
+  "id": "LiveKeyboard",
+  "by": [
+    {"name": "silly software", "link": "https://sillysoftware.lol"}
+    ]
+  },
+  {
+    "name": "URL Music extension",
+    "description": "Play, pause, seek, set the volume and get data about songs from URL-s!",
+    "slug": "extensions/silly software/URL_music",
+    "id": "URL_music",
+    "by": [
+      {"name": "silly software", "link": "https://sillysoftware.lol"}
+    ]
+  },
+  {
+    "name": "IndexedDB",
+    "image": "images/silly software/indexedDB.png",
+    "description": "Save more than 5mb of data locally!",
+    "slug": "extensions/silly software/IndexedDB",
+    "id": "IndexedDB",
+    "by": [
+      {"name": "silly software", "link": "https://sillysoftware.lol"}
+    ]
+  },
+  {
+    "name": "TurboAST",
+    "image": "images/Lemon/TurboAST.png",
+    "description": "AST creation made easier.",
+    "slug": "extensions/Lemon/TurboAST",
+    "id": "TurboAST",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"}
+    ]
+  },
+  {
+    "name": "Waveforms",
+    "image": "images/Lemon/Waveforms.png",
+    "description": "Use real time waveform calculations in your project.",
+    "slug": "extensions/Lemon/Waveforms",
+    "id": "Waveforms",
+    "by": [
+      {"name": "BludIsAnLemon", "link": "https://scratch.mit.edu/users/BludIsAnLemon/"},
+      {"name": "Mistium", "link": "https://scratch.mit.edu/users/M1stium/"},
+      {"name": "0znzw", "link": "https://scratch.mit.edu/users/0znzw/"}
+    ]
+  }
+  ]
+}
